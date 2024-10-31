@@ -14,9 +14,10 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 - **Soft Skills:** Analystical Thinking, Attention to Details, & Fast Learner
 - **Languages:** Arabic (Native), English (Fluent)
 
-### **Services Offered:***
+### ***Services Offered:***
 - Data Analysis & Reporting
 - Data Cleaning & Preparation
 - Data Visualization
 - Problem Solving & Strategic Insights
 - Time Management & Project Coordination
+  
