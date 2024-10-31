@@ -1,4 +1,4 @@
-# <span style="color:blue"> Data Analyst </span>.
+# <span style="color:#1d76db"> Data Analyst </span>
 
 
 
