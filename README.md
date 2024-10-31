@@ -8,27 +8,32 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 
 ## ***<span style="color:#727272"> Skills: </span>***
 #### _<center><span style="color:#6bc2ff"> Tools </span></center>_
-Python <div align="right">MS SQL </div>
-
-Tableau <div align="right">Excel </div>
+Python 
+<div align="right">MS SQL </div>
+Tableau 
+<div align="right">Excel </div>
 
 #### _<center><span style="color:#6bc2ff"> Data Management </span></center>_
-Data Cleaning <div align="right"> Data Assessing </div>
-
-Data Visualization <div align="right"> Data Modeling </div>
+Data Cleaning 
+<div align="right"> Data Assessing </div>
+Data Visualization 
+<div align="right"> Data Modeling </div>
 
 #### _<center><span style="color:#6bc2ff"> Technical Skills </span></center>_
-SQL Queries <div align="right"> Python Coding </div>
-
-Excel Functions <div align="right"> Dashboards </div>
+SQL Queries 
+<div align="right"> Python Coding </div>
+Excel Functions 
+<div align="right"> Dashboards </div>
 
 #### *<center><span style="color:#6bc2ff"> Soft Skills </span></center>*
-Analystical Thinking <div align="right"> Attention to Details </div>
-
-Fast Learner <div align="right"> Problem Solving & Communication </div>
+Analystical Thinking 
+<div align="right"> Attention to Details </div>
+Fast Learner 
+<div align="right"> Problem Solving & Communication </div>
 
 #### *<center><span style="color:#6bc2ff"> Languages </span></center>*
-Arabic (Native) <div align="right"> English (Fluent) </div>
+Arabic (Native) 
+<div align="right"> English (Fluent) </div>
 
 
 ## ***<span style="color:#727272"> Services Offered: </span>***
