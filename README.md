@@ -8,28 +8,37 @@ My experience has not only strengthened my technical proficiency but also fueled
 I am eager to bring my analytical expertise and dedication to continuous improvement to a dynamic team where I can contribute meaningfully to achieving organizational success.
 
 ### ***Skills:***
-#### **Tools:** 
-- Python                       - MS SQL
-- Tableau                      - Excel
+**Tools** 
 
+- Python
+- MS SQL
+- Tableau
+- Excel
 
-#### **Data Management:** 
-- Data Cleaning                - Data Assessing
-- Data Visualization           -Data Modeling
+**Data Management:** 
 
+- Data Cleaning
+- Data Assessing
+- Data Visualization
+- Data Modeling
 
-#### **Technical Skills:** 
-- SQL Queries                  - Statistical Analysis
+**Technical Skills:** 
+
+- SQL Queries
+- Statistical Analysis
 - Dashboards
 
-  
-#### **Soft Skills:** 
-- Analystical Thinking         - Attention to Details 
-- Fast Learner                 - Problem-Solving & Communication
+**Soft Skills:** 
 
+- Analystical Thinking
+- Attention to Details 
+- Fast Learner
+- Problem-Solving & Communication
 
-#### **Languages:** 
- - Arabic (Native)             - English (Fluent)
+**Languages:** 
+
+ - Arabic (Native)
+ - English (Fluent)
 
 ### **Services Offered:***
 - Data Analysis & Reporting
