@@ -5,27 +5,27 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 
 
 ## ***<span style="color:#727272"> Skills: </span>***
-#### ***<center><span style="color:#6bc2ff> Tools </span></center>***
+#### _<center><span style="color:#6bc2ff"> Tools </span></center>_
 - Python
 - MS SQL
 - Tableau
 - Excel.
-#### ***<center><span style="color:#6bc2ff> Data Management </span></center>***
+#### _<center><span style="color:#6bc2ff"> Data Management </span></center>_
 - Data Cleaning
 - Data Assessing
 - Data Visualization
 - Data Modeling.
-#### ***<center><span style="color:#6bc2ff> Technical Skills </span></center>***
+#### _<center><span style="color:#6bc2ff"> Technical Skills </span></center>_
 - SQL Queries,
 - Python Coding
 - Excel Functions
 - Dashboards.
-#### ***<center><span style="color:#6bc2ff> Soft Skills </span></center>***
+#### *<center><span style="color:#6bc2ff"> Soft Skills </span></center>*
 - Analystical Thinking
 - Attention to Details
 - Fast Learner
 - Problem Solving & Communication
-#### ***<center><span style="color:#6bc2ff> Languages </span></center>***
+#### *<center><span style="color:#6bc2ff"> Languages </span></center>*
 - Arabic (Native)
 - English (Fluent)
 
