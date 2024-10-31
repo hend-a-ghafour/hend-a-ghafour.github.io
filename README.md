@@ -1,25 +1,39 @@
-## ***<center><span style="color:#267CB9">Turning Data into cheerful, understandable, & Actionable Insights </span></center>***
-
-
-
-## ***About Me:***
-Working as an accountant & dealing with numbers made me realize how passionate I am about manipulating data and extract efficient outcomes that align with the target objectives.
+# ***<center><span style="color:#267CB9"> About Me </span></center>***
+<center> Working as an accountant & dealing with numbers made me realize how passionate I am about manipulating data and extract efficient outcomes that align with the target objectives.
 My experience has not only strengthened my technical proficiency but also fueled my drive to extract understandable and actionable insights tailored to your quality standards using Python, T-SQL, and Excel. With a detail-oriented, perfection-driven, and analytical mindset, I have the ability to identify trends and optimize processes that support business growth and informed decision-making.
-I am eager to bring my analytical expertise and dedication to continuous improvement to a dynamic team where I can contribute meaningfully to achieving organizational success.
+I am eager to bring my analytical expertise and dedication to continuous improvement to a dynamic team where I can contribute meaningfully to achieving organizational success.</center>
 
 
-## ***Skills:***
-- **Tools:** Python,MS SQL, Tableau, & Excel.
-- **Data Management:** Data Cleaning, Assessing, Visualization, & Modeling.
-- **Technical Skills:** SQL Queries, Statistical Analysis, & Dashboards.
-- **Soft Skills:** Analystical Thinking, Attention to Details, & Fast Learner
-- **Languages:** Arabic (Native), English (Fluent)
+## ***<span style="color:#727272"> Skills: </span>***
+#### _<center><span style="color:#6bc2ff> Tools: </span></center>_
+- Python
+- MS SQL
+- Tableau
+- Excel.
+#### _<center><span style="color:#6bc2ff> Data Management: </span></center>_
+- Data Cleaning
+- Data Assessing
+- Data Visualization
+- Data Modeling.
+#### _<center><span style="color:#6bc2ff> Technical Skills: </span></center>_
+- SQL Queries,
+- Python Coding
+- Excel Functions
+- Dashboards.
+#### _<center><span style="color:#6bc2ff> Soft Skills: </span></center>_
+- Analystical Thinking
+- Attention to Details
+- Fast Learner
+- Problem Solving & Communication
+#### _<center><span style="color:#6bc2ff> Languages: </span></center>_
+- Arabic (Native)
+- English (Fluent)
 
-## ***Services Offered:***
+## ***<span style="color:#727272"> Services Offered: </span>***
 - Data Analysis & Reporting
 - Data Cleaning & Preparation
 - Data Visualization
 - Problem Solving & Strategic Insights
 - Time Management & Project Coordination
   
-<a href="https://hend-a-ghafour.github.io/new"> new </a>
+
