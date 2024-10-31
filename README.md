@@ -9,13 +9,9 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 
 ### ***Skills:***
 **Tools**
-
 Python
-
 MS SQL
-
 Tableau
-
 Excel
 
 **Data Management:** 
