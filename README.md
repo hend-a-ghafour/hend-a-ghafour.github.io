@@ -22,3 +22,4 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 - Problem Solving & Strategic Insights
 - Time Management & Project Coordination
   
+<a href="https://hend-a-ghafour.github.io/new"> new </a>
