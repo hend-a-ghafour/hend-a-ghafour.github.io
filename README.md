@@ -7,33 +7,35 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 
 
 ## ***<span style="color:#727272"> Skills: </span>***
-#### <span style="color:#6bc2ff"> Tools </span>
-<div align="left"> - Python </div> 
-<div align="left"> - MS SQL </div>
-<div align="left"> - Tableau </div> 
-<div align="left"> - Excel </div>
+<h4><em><span style="color:#6bc2ff"> Tools </span></em></h4>
+<li> Python </li>
+<li> MS SQL </li>
+<li> Tableau </li>
+<li> Excel </li>
 
-#### <center><span style="color:#6bc2ff"> Data Management </span></center>
-<center> - Data Cleaning </center>
-<center> - Data Assessing </center>
-<center> - Data Visualization </center>
-<center> - Data Modeling </center>
+<h4><em><center><span style="color:#6bc2ff"> Data Management </span></center></em></h4>
+<li><center>Data Cleaning </center></li>
+<li><center>Data Assessing </center></li>
+<li><center>Data Visualization </center></li>
+<li><center>Data Modeling </center></li>
+
 <div align="right">
-<h4></h4> <span style="color:#6bc2ff">  Technical Skills </span></h4>
+<h4><em><span style="color:#6bc2ff">  Technical Skills </span></em></h4>
 <li>SQL Queries </li>
 <li> Python Coding </li>
 <li> Excel Functions </li>
 <li> Dashboards </li>
 </div>
-#### <center><span style="color:#6bc2ff"> Soft Skills </span></center>
-<center> - Analystical Thinking </center>
-<center> - Attention to Details </center>
-<center> - Fast Learner </center>
-<center> - Problem Solving & Communication </center>
 
-#### <span style="color:#6bc2ff"> Languages </span>
-<div align="left"> - Arabic (Native) </div>
-<div align="left"> - English (Fluent) </div>
+<h4><em><center><span style="color:#6bc2ff"> Soft Skills </span></center></em></h4>
+<li><center> - Analystical Thinking </center></li>
+<li><center> - Attention to Details </center></li>
+<li><center> - Fast Learner </center></li>
+<li><center> - Problem Solving & Communication </center></li>
+
+<h4><em><span style="color:#6bc2ff"> Languages </span></em></h4>
+<li><div align="left"> Arabic (Native) </div></li>
+<li><div align="left"> English (Fluent) </div></li>
 
 
 ## ***<span style="color:#727272"> Services Offered: </span>***
