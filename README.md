@@ -1,3 +1,4 @@
+# ***<center><span style="color:#267CB9">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
 # ***<center><span style="color:#267CB9"> About Me </span></center>***
 
 <p><center> Working as an accountant & dealing with numbers made me realize how passionate I am about manipulating data and extract efficient outcomes that align with the target objectives.
