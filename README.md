@@ -28,14 +28,14 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 </div>
 
 <h4><em><center><span style="color:#6bc2ff"> Soft Skills </span></center></em></h4>
-<li><center> - Analystical Thinking </center></li>
-<li><center> - Attention to Details </center></li>
-<li><center> - Fast Learner </center></li>
-<li><center> - Problem Solving & Communication </center></li>
+<li><center> Analystical Thinking </center></li>
+<li><center> Attention to Details </center></li>
+<li><center> Fast Learner </center></li>
+<li><center> Problem Solving & Communication </center></li>
 
 <h4><em><span style="color:#6bc2ff"> Languages </span></em></h4>
-<li><div align="left"> Arabic (Native) </div></li>
-<li><div align="left"> English (Fluent) </div></li>
+<li>Arabic (Native) </li>
+<li>English (Fluent) </li>
 
 
 ## ***<span style="color:#727272"> Services Offered: </span>***
