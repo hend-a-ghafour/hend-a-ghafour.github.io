@@ -8,32 +8,32 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 
 ## ***<span style="color:#727272"> Skills: </span>***
 #### <span style="color:#6bc2ff"> Tools </span>
-- <div align="left"> Python </div> 
-- <div align="left"> MS SQL </div>
-- <div align="left"> Tableau </div> 
-- <div align="left">Excel </div>
+<div align="left"> - Python </div> 
+<div align="left"> - MS SQL </div>
+<div align="left"> - Tableau </div> 
+<div align="left"> - Excel </div>
 
 #### <center><span style="color:#6bc2ff"> Data Management </span></center>
-- <center> Data Cleaning </center>
-- <center> Data Assessing </center>
-- <center> Data Visualization </center>
-- <center> Data Modeling </center>
-
-#### <div align="right"><span style="color:#6bc2ff">  Technical Skills </span></div>
-- <div align="right"> SQL Queries </div>
-- <div align="right"> Python Coding </div>
-- <div align="right"> Excel Functions </div>
-- <div align="right"> Dashboards </div>
-
+<center> - Data Cleaning </center>
+<center> - Data Assessing </center>
+<center> - Data Visualization </center>
+<center> - Data Modeling </center>
+<div align="right">
+#### <span style="color:#6bc2ff">  Technical Skills </span>
+- SQL Queries 
+- Python Coding 
+- Excel Functions 
+- Dashboards 
+</div>
 #### <center><span style="color:#6bc2ff"> Soft Skills </span></center>
-- <center> Analystical Thinking </center>
-- <center> Attention to Details </center>
-- <center> Fast Learner </center>
-- <center> Problem Solving & Communication </center>
+<center> - Analystical Thinking </center>
+<center> - Attention to Details </center>
+<center> - Fast Learner </center>
+<center> - Problem Solving & Communication </center>
 
 #### <span style="color:#6bc2ff"> Languages </span>
-- <div align="left"> Arabic (Native) </div>
-- <div align="left"> English (Fluent) </div>
+<div align="left"> - Arabic (Native) </div>
+<div align="left"> - English (Fluent) </div>
 
 
 ## ***<span style="color:#727272"> Services Offered: </span>***
