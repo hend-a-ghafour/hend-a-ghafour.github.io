@@ -3,6 +3,7 @@
 <p><center> Working as an accountant & dealing with numbers made me realize how passionate I am about manipulating data and extract efficient outcomes that align with the target objectives.
 My experience has not only strengthened my technical proficiency but also fueled my drive to extract understandable and actionable insights tailored to your quality standards using Python, T-SQL, and Excel. With a detail-oriented, perfection-driven, and analytical mindset, I have the ability to identify trends and optimize processes that support business growth and informed decision-making.
 I am eager to bring my analytical expertise and dedication to continuous improvement to a dynamic team where I can contribute meaningfully to achieving organizational success.</center></p>
+
 <p>
 ## ***<span style="color:#727272"> Skills: </span>***
 ***<span style="color:#6bc2ff"> Tools: </span>***<br>   Python - MS SQL - Tableau - Excel 
@@ -15,6 +16,7 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 
 ***<span style="color:#6bc2ff"> Languages: </span>***<br>   Arabic (Native) - English (Fluent) 
 </p>
+
 <p>
 ## ***<span style="color:#727272"> Services Offered: </span>***
 - Data Analysis & Reporting
@@ -22,5 +24,5 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 - Data Visualization
 - Problem Solving & Strategic Insights
 - Time Management & Project Coordination
- </p> 
+</p> 
 
