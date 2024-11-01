@@ -6,9 +6,7 @@
 
 
 
-<p><center> Working as an accountant & dealing with numbers made me realize how passionate I am about manipulating data and extract efficient outcomes that align with the target objectives.<br>
-My experience has not only strengthened my technical proficiency but also fueled my drive to extract understandable and actionable insights tailored to your quality standards using Python, T-SQL, and Excel. With a detail-oriented, perfection-driven, and analytical mindset, I have the ability to identify trends and optimize processes that support business growth and informed decision-making.<br>
-I am eager to bring my analytical expertise and dedication to continuous improvement to a dynamic team where I can contribute meaningfully to achieving organizational success.</center></p><br> <br> <br> 
+<p><center>Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br> Over the past three years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, T-SQL, and Excel. <br> With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.</center></p><br> <br> <br> 
 
 ### ***<span style="color:#727272"> Skills: </span>***
 ***<span style="color:#6bc2ff"> Tools: </span>***<br>   Python - MS SQL - Tableau - Excel <br> <br> 
