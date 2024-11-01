@@ -1,7 +1,7 @@
 ## ***<center><span style="color:#267CB9">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
 
 
-<span style="color:#267CB9"><strong><em> About Me </em></strong></span> <button name="button" onclick="http://hend-a-ghafour.github.io/Projects"><strong><em> Projects </em></strong></button>
+<span style="color:#267CB9"><strong><em> About Me </em></strong></span> <button name="button" onclick="http://hend-a-ghafour.github.io/Projects"> Projects </button>
 
 
 <p><center> Working as an accountant & dealing with numbers made me realize how passionate I am about manipulating data and extract efficient outcomes that align with the target objectives.<br>
