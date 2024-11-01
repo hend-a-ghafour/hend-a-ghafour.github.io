@@ -24,3 +24,4 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 - Time Management & Project Coordination
 
 <button name="button" onclick="http://hend-a-ghafour.github.io/Projects"> Projects </button>
+<button name="button" onclick="http://hend-a-ghafour.github.io/Projects">Click me</button>
