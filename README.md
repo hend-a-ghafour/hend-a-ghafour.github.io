@@ -8,10 +8,8 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 
 ## ***<span style="color:#727272"> Skills: </span>***
 #### _<center><span style="color:#6bc2ff"> Tools </span></center>_
-Python 
-<div align="right">MS SQL </div>
-Tableau 
-<div align="right">Excel </div>
+<div align="left"> Python </div> <div align="right"> MS SQL </div>
+<div align="left"> Tableau </div> <div align="right">Excel </div>
 
 #### _<center><span style="color:#6bc2ff"> Data Management </span></center>_
 Data Cleaning 
