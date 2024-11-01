@@ -5,20 +5,15 @@ My experience has not only strengthened my technical proficiency but also fueled
 I am eager to bring my analytical expertise and dedication to continuous improvement to a dynamic team where I can contribute meaningfully to achieving organizational success.</center></p>
 
 ## ***<span style="color:#727272"> Skills: </span>***
-***<span style="color:#6bc2ff"> Tools: </span>***
-  Python - MS SQL - Tableau - Excel 
+***<span style="color:#6bc2ff"> Tools: </span>***<br> Python - MS SQL - Tableau - Excel 
 
-***<span style="color:#6bc2ff"> Data Management: </span>***
-  Data Cleaning - Data Assessing - Data Visualization - Data Modeling 
+***<span style="color:#6bc2ff"> Data Management: </span>***<br> Data Cleaning - Data Assessing - Data Visualization - Data Modeling 
 
-***<span style="color:#6bc2ff">  Technical Skills: </span>***
-  SQL Queries - Python Coding - Excel Functions - Dashboards 
+***<span style="color:#6bc2ff">  Technical Skills: </span>***<br> SQL Queries - Python Coding - Excel Functions - Dashboards 
 
-***<span style="color:#6bc2ff"> Soft Skills: </span>***
-  Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication 
+***<span style="color:#6bc2ff"> Soft Skills: </span>***<br> Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication 
 
-***<span style="color:#6bc2ff"> Languages: </span>***
-  Arabic (Native) - English (Fluent) 
+***<span style="color:#6bc2ff"> Languages: </span>***<br> Arabic (Native) - English (Fluent) 
 
 
 ## ***<span style="color:#727272"> Services Offered: </span>***
