@@ -19,11 +19,11 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 <center> - Data Visualization </center>
 <center> - Data Modeling </center>
 <div align="right">
-#### <span style="color:#6bc2ff">  Technical Skills </span>
-- SQL Queries 
-- Python Coding 
-- Excel Functions 
-- Dashboards 
+<h4></h4> <span style="color:#6bc2ff">  Technical Skills </span></h4>
+<li>SQL Queries </li>
+<li> Python Coding </li>
+<li> Excel Functions </li>
+<li> Dashboards </li>
 </div>
 #### <center><span style="color:#6bc2ff"> Soft Skills </span></center>
 <center> - Analystical Thinking </center>
