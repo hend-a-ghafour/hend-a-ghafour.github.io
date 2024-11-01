@@ -25,3 +25,4 @@ I am eager to bring my analytical expertise and dedication to continuous improve
 
 <button name="button" onclick="http://hend-a-ghafour.github.io/Projects"> Projects </button>
 <button name="button" onclick="http://hend-a-ghafour.github.io/Projects">Click me</button>
+<a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:10px 20px; color:white; background-color:#4CAF50; text-align:center; text-decoration:none; border-radius:5px;">Click Here</a>
