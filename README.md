@@ -1,18 +1,20 @@
 ## ***<center><span style="color:#ac9055">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
-<br><br>
-<strong><em><center>
+<br>
+<strong><em>
 <span style="color:#ac9055"> About Me </span>
 <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
 <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
 <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
 <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
 <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
-</center></em></strong>
-<br><br><br>
+</em></strong>
+<br><br>
 <p>
-<strong><em><center>Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br><br> Over the past three years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, T-SQL, and Excel. <br><br> With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.</center></em></strong>
+<strong><em><center>Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br> 
+Over the past three years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, T-SQL, and Excel. <br> 
+With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.</center></em></strong>
 </p>
-<br> <br> <br> 
+<br><br>
 
 ### ***<span style="color:#ac9055"> Skills: </span>***
 ***<span style="color:#284574"> Tools: </span>***<br>   Python - MS SQL - Tableau - Excel <br> <br> 
@@ -28,8 +30,7 @@
 - Problem Solving & Strategic Insights
 - Time Management & Project Coordination
   
-<br><br><br><br>
-
+<br><br>
 <strong><em><span style="color:#ac9055"> About Me </span>
 <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
 <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
