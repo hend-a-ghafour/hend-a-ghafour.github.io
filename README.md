@@ -1,5 +1,5 @@
 ## ***<center><span style="color:#ac9055">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
-<br><br><br>
+<br><br>
 <strong><em><center>
 <span style="color:#ac9055"> About Me </span>
 <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
@@ -13,13 +13,12 @@
 <strong><em><center>Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br><br> Over the past three years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, T-SQL, and Excel. <br><br> With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.</center></em></strong>
 </p>
 <br> <br> <br> 
-
 ### ***<span style="color:#ac9055"> Skills: </span>***
-***<span style="color:#1c2e5d"> Tools: </span>***<br>   Python - MS SQL - Tableau - Excel <br> <br> 
-***<span style="color:#1c2e5d"> Data Management: </span>***<br>   Data Cleaning - Data Assessing - Data Visualization - Data Modeling <br> <br> 
-***<span style="color:#1c2e5d">  Technical Skills: </span>***<br>   SQL Queries - Python Coding - Excel Functions - Dashboards <br> <br> 
-***<span style="color:#1c2e5d"> Soft Skills: </span>***<br>   Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication <br> <br> 
-***<span style="color:#1c2e5d"> Languages: </span>***<br>   Arabic (Native) - English (Fluent) <br> <br> <br> 
+***<span style="color:#284574"> Tools: </span>***<br>   Python - MS SQL - Tableau - Excel <br> <br> 
+***<span style="color:#284574"> Data Management: </span>***<br>   Data Cleaning - Data Assessing - Data Visualization - Data Modeling <br> <br> 
+***<span style="color:#284574">  Technical Skills: </span>***<br>   SQL Queries - Python Coding - Excel Functions - Dashboards <br> <br> 
+***<span style="color:#284574"> Soft Skills: </span>***<br>   Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication <br> <br> 
+***<span style="color:#284574"> Languages: </span>***<br>   Arabic (Native) - English (Fluent) <br> <br> <br> 
 
 ### ***<span style="color:#ac9055"> Services Offered: </span>***
 - Data Analysis & Reporting
@@ -29,10 +28,10 @@
 - Time Management & Project Coordination
 <br><br><br><br>
 <strong><em><center>
-<span style="color:#284574"> About Me </span>
-<a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:#d2a047; background-color:#284574; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
-<a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:#d2a047; background-color:#284574; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
-<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:#d2a047; background-color:#284574; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
-<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:#d2a047; background-color:#284574; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
-<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:#d2a047; background-color:#284574; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
+<span style="color:#ac9055"> About Me </span>
+<a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
+<a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
+<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
+<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
+<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
 </center></em></strong>
