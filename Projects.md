@@ -20,7 +20,7 @@
 #### _<span style="color:#ac9055"> Roles & Responsibilities </span>_
   - ***Data Cleaning:*** <br> Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.
   - ***Visualization:*** <br> Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.
-![HR Tableau](https://hend-a-ghafour.github.io/Media/HR-EDetails.jpg)
+![HR Employee Details](https://hend-a-ghafour.github.io/Media/HR-EDetails.jpg)
   - ***Analysis:*** <br> Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
 #### _<span style="color:#ac9055"> Challenges Faced </span>_
   - ***Data Gaps:*** <br> Identified missing values in critical fields, requiring strategies for accurate interpretation.
