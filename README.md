@@ -9,6 +9,7 @@
 <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#ac9055; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
 </em></strong>
 <br><br>
+![Data Analyst](https://Media/data_analysis.jpg)
 <p>
 <strong><em><center>Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br> 
 Over the past three years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, T-SQL, and Excel. <br> 
