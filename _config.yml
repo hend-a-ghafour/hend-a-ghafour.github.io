@@ -1,7 +1,7 @@
-title: <center> Hend <br> Abd El-Ghafour </center>
+title: <center><span style="color:#ac9055"> Hend <br> Abd El-Ghafour</span></center>
 logo: /Media/Profile Pic.jpg
 description: <h1><center><strong> <em><span style="color:#808080"> Data Analyst </span></em></Strong> </center></h1>
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
 
 
