@@ -19,25 +19,25 @@
 <center> Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</center> <br><br><br>
 
 <h4> <em><span style="color:#ac9055"> Tools & Techniques </span></em></h4>
-<em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.
-<br><br><br>
+<center><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.
+<br><br><br></center>center>
 
 <h4> <em><span style="color:#ac9055"> Roles & Responsibilities </span></em></h4>
-  <li> <strong><em><span style="color:#808080">Data Cleaning:</span></em></strong></li> 
+  <center><strong><em><span style="color:#808080">Data Cleaning:</span></em></strong></center>
     Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br><br>
-  <li><strong><em><span style="color:#808080">Visualization:</span></em></strong></li>  
+  <center><strong><em><span style="color:#808080">Visualization:</span></em></strong></li> </center>
     Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.
 <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"><br><br>
-  <li><strong><em><span style="color:#808080">Analysis:</span></em></strong></li>  
+  <center><strong><em><span style="color:#808080">Analysis:</span></em></strong></li>  </center>
     Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.<br><br><br>
   
 <h4> <em><span style="color:#ac9055"> Challenges Faced </span></em></h4>
   <li><strong><em><span style="color:#808080">Data Gaps:</span></em></strong></li> 
-    Identified missing values in critical fields, requiring strategies for accurate interpretation.<br><br>
+   <center> Identified missing values in critical fields, requiring strategies for accurate interpretation.</center><br><br>
   <li><strong><em><span style="color:#808080">Complex Relationships:</span></em></strong></li> 
-    Analyzed complex relationships between hiring, terminations, and department-level trends.<br><br>
+    <center>Analyzed complex relationships between hiring, terminations, and department-level trends.</center><br><br>
   <li><strong><em><span style="color:#808080">Data Standardization:</span></em></strong></li> 
-    Needed to verify data consistency across branches and departments for accurate insights.<br><br><br>
+    <center>Needed to verify data consistency across branches and departments for accurate insights.</center><br><br><br>
   
 <h4> <em><span style="color:#ac9055"> Achievements </span></em></h4>
   <li><strong><em><span style="color:#808080">Employee Analysis:</span></em></strong></li> 
