@@ -10,19 +10,19 @@
 </em></strong>
 <br><br>
 
-### ***<span style="color:#284574"> Human Resources Tableau Dashboard</span>***
-_Sep 2024_ <br>
-<a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:#808080; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"><strong><em> View Project </em></strong></a> <br>
+<h3><em><strong><span style="color:#284574"> Human Resources Tableau Dashboard</span></strong></em></h3> <p style='text-align: right;'><a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:#808080; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"><strong><em> View Project </em></strong></a></p>
+<em>Sep 2024</em> <br>
+ <br>
+ 
 ![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
+
 <details>
   <summary><em><strong><span style="color:#ac9055">See More</span></strong></em></summary>
  <br> 
 <center><strong><em><span style="color:#284574"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</p>
-  <br>
 <center><strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong></center>
 <p style='text-align: justify;'><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p>
-  <br>
 <center><strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
   <strong><em><span style="color:#808080">Data Cleaning:</span></em></strong><br>
@@ -32,9 +32,8 @@ Verified data types, identified null values, and inspected unique entries, such 
 <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"> <br><br>
   <strong><em><span style="color:#808080">Analysis:</span></em></strong><br>
    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
-</p><br><br>
-  <br>
-<strong><em><span style="color:#284574"> Challenges Faced </span></em></strong>
+</p>
+  <strong><em><span style="color:#284574"> Challenges Faced </span></em></strong>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#808080">Data Gaps:</span></em></strong><br>
   Identified missing values in critical fields, requiring strategies for accurate interpretation.<br><br>
@@ -43,7 +42,6 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#808080">Data Standardization:</span></em></strong><br>
     Needed to verify data consistency across branches and departments for accurate insights.<br><br>
 </p>
-    <br>
 <strong><em><span style="color:#284574"> Achievements </span></em></strong>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#808080">Employee Analysis:</span></em></strong><br>
@@ -61,7 +59,6 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#808080">Educational Trends:</span></em></strong><br>
     Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.
   </p>
-  <br> 
 <strong><em><span style="color:#284574"> Insights </span></em></strong>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#808080">Hiring & Termination Trends:</span></em></strong><br> 
@@ -73,7 +70,6 @@ Verified data types, identified null values, and inspected unique entries, such 
  <strong><em><span style="color:#808080">Salary Disparities:</span></em></strong><br> 
    Significant gender-based salary disparities were observed, particularly among bachelor’s and PhD holders.
   </p>
-  <br>
 <strong><em><span style="color:#284574"> Future Application </span></em></strong>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#808080">Workforce Planning:</span></em></strong><br> 
