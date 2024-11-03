@@ -12,26 +12,27 @@
 
 ### ***<span style="color:#284574"> Human Resources Tableau Dashboard</span>***
 _Sep 2024_
-<a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:#808080; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"><strong><em> View Project </strong></em></a>
+<a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:#808080; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"><strong><em> View Project </em></strong></a> <br>
 ![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
 <details>
   <summary><em><strong><span style="color:#ac9055">See More</span></strong></em></summary>
  <br> 
-<center><strong><em><span style="color:#284574"> Overview: </span></em></strong></center>
+<center><strong><em><span style="color:#284574"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</p>
   <br>
 <center><strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong></center>
 <p style='text-align: justify;'><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p>
   <br>
 <center><strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong></center>
-<strong><em><span style="color:#808080">Data Cleaning</span></em></strong>
-<p style='text-align: justify;'>Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.</p>
+<p style='text-align: justify;'>
+  <strong><em><span style="color:#808080">Data Cleaning</span></em></strong>
+Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.
   <strong><em><span style="color:#808080">Visualization</span></em></strong>
-   <p style='text-align: justify;'>Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.
-<img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"></p>
+   Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.<br>
+<img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;">
   <strong><em><span style="color:#808080">Analysis</span></em></strong>
-   <p style='text-align: justify;'>Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.</p>
- <br>   
+   Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
+</p><br>   
 <strong><em><span style="color:#284574"> Challenges Faced </span></em></strong>
   <strong><em><span style="color:#808080">Data Gaps</span></em></strong>
   <p style='text-align: justify;'>Identified missing values in critical fields, requiring strategies for accurate interpretation.</p>
