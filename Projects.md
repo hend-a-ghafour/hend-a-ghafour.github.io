@@ -82,9 +82,8 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#808080">Compensation Strategy:</span></em></strong><br> 
     Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.
   </p>
-
 </details>
-
+<br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
 <h3><em><strong><span style="color:#284574"> No Show Apointments Project </span></strong></em></h3> 
 <em>Sep 2024 </em><center><strong><em><a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:#284574; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
 
@@ -96,7 +95,8 @@ Verified data types, identified null values, and inspected unique entries, such 
 <center><strong><em><span style="color:#284574"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>This project analyzes a dataset of 100,000 medical appointments in Brazil, focusing on the factors that impact patient attendance, such as demographics, health conditions, appointment scheduling gaps, and reminders. Key questions address the effects of gender, age, neighborhood, health conditions, and communication on attendance rates.</p>
 <center><strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong></center>
-<p style='text-align: justify;'><em><strong><span style="color:#808080"> Python </span></strong></em> for Data Assessment and Cleaning using <em><strong>Pandas</strong></em> & <em><strong>Numpay</strong></em>, and for Data Visualization using <em><strong> Matplotlib</strong></em> & <em><strong>Seaborn</strong></em>.<br>
+  <strong><em><span style="color:#808080">Tools:</span></em></strong><br>
+<p style='text-align: justify;'><em><span style="color:#808080"> Python </span></em> for Data Assessment and Cleaning using <em><span style="color:#808080">Pandas</span></em> & <em><span style="color:#808080">Numpay</span></em>, and for Data Visualization using <em><span style="color:#808080"> Matplotlib</span></em> & <em><span style="color:#808080">Seaborn</span></em>.<br>
 <strong><em><span style="color:#808080">Data Cleaning:</span></em></strong><br>
 Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.<br>
  <strong><em><span style="color:#808080">Data Analysis: </span></em></strong><br>
