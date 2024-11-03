@@ -17,7 +17,7 @@
  <br><br> 
 <strong><em><span style="color:#284574"> Overview: </span></em></strong><br> 
 <center> Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</center> <br><br>
-<h4> <em><span style="color:#284574"> Tools & Techniques </span></em></h4><br> 
+<strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong><br> 
 <center><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</center><br><br>
 <strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong><br> 
   <center><strong><em><span style="color:#808080">Data Cleaning</span></em></strong></center>
