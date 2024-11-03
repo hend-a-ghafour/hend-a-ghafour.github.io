@@ -11,7 +11,7 @@
 <br><br>
 
 <h3><em><strong><span style="color:#284574"> Human Resources Tableau Dashboard</span></strong></em></h3> 
-<em>Sep 2024 </em> <center><a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:#808080; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"><strong><em> View Project </em></strong></a></center> <br>
+<em>Sep 2024 </em><center><a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:#808080; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"><strong><em> View Project </em></strong></a></center> 
 
 ![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
 
