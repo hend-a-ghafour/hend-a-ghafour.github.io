@@ -85,6 +85,86 @@ Verified data types, identified null values, and inspected unique entries, such 
 
 </details>
 
+<h3><em><strong><span style="color:#284574"> No Show Apointments Project </span></strong></em></h3> 
+<em>Sep 2024 </em><center><strong><em><a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:#284574; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
+
+![HR Tableau](https://hend-a-ghafour.github.io/Media/No-Show-Appointment.jpg)
+
+<details>
+  <summary><em><strong><span style="color:#ac9055">See More</span></strong></em></summary>
+ <br> 
+<center><strong><em><span style="color:#284574"> Overview </span></em></strong></center>
+<p style='text-align: justify;'>This project analyzes a dataset of 100,000 medical appointments in Brazil, focusing on the factors that impact patient attendance, such as demographics, health conditions, appointment scheduling gaps, and reminders. Key questions address the effects of gender, age, neighborhood, health conditions, and communication on attendance rates.</p>
+<center><strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong></center>
+<p style='text-align: justify;'><em><strong><span style="color:#808080"> Python </span></strong></em> for Data Assessment and Cleaning using <em><strong>Pandas</strong></em> & <em><strong>Numpay</strong></em>, and for Data Visualization using <em><strong> Matplotlib</strong></em> & <em><strong>Seaborn</strong></em>.<br>
+<strong><em><span style="color:#808080">Data Cleaning:</span></em></strong><br>
+Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.<br>
+ <strong><em><span style="color:#808080">Data Analysis: </span></em></strong><br>
+Applied statistical methods, including descriptive statistics, to understand patterns in attendance across demographic and health-related variables.<br>
+  <strong><em><span style="color:#808080">Visualization: </span></em></strong><br>
+Created charts and graphs to present findings on attendance patterns across different patient groups and appointment characteristics.<br>
+</p> 
+<center><strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong></center>
+<p style='text-align: justify;'>
+  <strong><em><span style="color:#808080">Data Preparation: </span></em></strong><br>
+Cleaned data and standardized labels to facilitate analysis.<br>
+  <strong><em><span style="color:#808080">Data Exploration: </span></em></strong><br>
+   Generated insights through descriptive statistics and visualizations.<br>
+  <strong><em><span style="color:#808080">Analysis of Factors Influencing Attendance:</span></em></strong><br>
+   Assessed relationships between patient demographics, health conditions, appointment scheduling, and attendance.<br>
+  <strong><em><span style="color:#808080">Recommendation Development: </span></em></strong><br>
+   Suggested approaches to improve appointment attendance, particularly through reminder systems and optimized scheduling.
+</p>
+  <center><strong><em><span style="color:#284574"> Challenges Faced </span></em></strong></center>
+  <p style='text-align: justify;'>
+  <strong><em><span style="color:#808080">Data Complexity:</span></em></strong><br>
+  A large number of variables, including demographic, health, and scheduling information, required careful analysis and categorization to maintain data integrity.<br>
+  <strong><em><span style="color:#808080">Categorization:</span></em></strong><br>
+   Defining and assigning appropriate categories for age groups and scheduling gaps posed challenges in achieving balanced, meaningful groupings.<br>
+  <strong><em><span style="color:#808080">Data Completeness: </span></em></strong><br>
+    Sparse neighborhood data limited definitive conclusions regarding neighborhood influence on attendance rates. Additionally, some appointment dates were recorded prior to their scheduled dates, leading to negative appointment gaps.<br>
+</p>
+<center><strong><em><span style="color:#284574"> Achievements </span></em></strong></center>
+  <p style='text-align: justify;'>
+  <strong><em><span style="color:#808080">Insights into Attendance Patterns:</span></em></strong><br>
+    Identified key factors, such as age, neighborhood, and reminder messages, that impact attendance rates.<br>
+  <strong><em><span style="color:#808080">Practical Recommendations:</span></em></strong><br>
+   Developed actionable suggestions for healthcare providers to improve attendance, including adjusting scheduling practices and implementing reminder systems.<br>
+  <strong><em><span style="color:#808080">Categorization Model:</span></em></strong><br>
+    Created a structured model for age and appointment gap categories to facilitate further analysis and comparisons.
+  </p>
+<center><strong><em><span style="color:#284574"> Insights </span></em></strong></center>
+  <p style='text-align: justify;'> 
+  <strong><em><span style="color:#808080">Gender: </span></em></strong><br> 
+   Women make up the majority of patients, with a high attendance rate across both genders, indicating no significant difference in attendance based on gender.<br>
+ <strong><em><span style="color:#808080">Age Groups:</span></em></strong><br> 
+   Middle-aged, elderly, and child groups showed the highest commitment to appointments, suggesting a link between age and regular healthcare engagement.<br>
+  <strong><em><span style="color:#808080">Appointment Scheduling Gap:</span></em></strong><br> 
+    Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.<br>
+ <strong><em><span style="color:#808080">Neighborhood Influence: </span></em></strong><br> 
+   Certain neighborhoods showed significantly higher attendance rates, although the data suggests this may also correlate with lower appointment counts in these areas.<br>
+    <strong><em><span style="color:#808080">Scholarship Status:</span></em></strong><br> 
+  Attendance rates were marginally lower for patients with a government scholarship, indicating a potential but small effect.<br>
+    <strong><em><span style="color:#808080">Health Conditions: </span></em></strong><br> 
+    Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.<br>
+    <strong><em><span style="color:#808080">Reminders: </span></em></strong><br> 
+   Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.
+  </p>
+<center><strong><em><span style="color:#284574"> Future Application </span></em></strong></center>
+  <p style='text-align: justify;'> 
+  <strong><em><span style="color:#808080">Enhanced Patient Reminder Systems:</span></em></strong><br> 
+    Implement automated SMS or phone reminders to improve attendance rates, especially for moderate to long-gap appointments.<br>
+  <strong><em><span style="color:#808080">Optimized Scheduling Strategies: </span></em></strong><br> 
+    Focus on offering same-day or short-gap appointment slots to increase attendance.<br>
+  <strong><em><span style="color:#808080">Neighborhood Targeting: </span></em></strong><br> 
+    Conduct further studies to understand neighborhood-based attendance patterns, potentially incorporating geographic proximity or access factors.<br>
+  <strong><em><span style="color:#808080">Scholarship & Attendance Correlation: </span></em></strong><br> 
+   Further statistical testing is recommended to understand the impact of government support on attendance consistency.<br>
+  <strong><em><span style="color:#808080">Personalized Engagement:</span></em></strong><br> 
+    Apply insights on health conditions and age-related attendance patterns to create targeted communication strategies, potentially increasing engagement with chronic disease patients and elderly individuals.
+  </p>
+
+</details>
 
 
 
