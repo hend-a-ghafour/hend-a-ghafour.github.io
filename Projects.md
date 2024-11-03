@@ -251,10 +251,8 @@ Ensured data types and missing values were handled, particularly in shipping and
   <strong><em><span style="color:#808080">Enhance Customer Targeting:</span></em></strong><br> 
     Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.
   </p>
-
-
-<em>><strong><span style="color:#284574">Note</span></strong><br>
-The values presented (in USD) are rounded to the nearest thousand or million.</em>
+<em><span style="color:#284574"><strong>Note</span></strong><br>
+The values presented (in USD) are rounded to the nearest thousand or million.</span></em>
   
 </details>
 
