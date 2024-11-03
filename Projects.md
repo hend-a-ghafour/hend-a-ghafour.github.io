@@ -84,7 +84,7 @@ Verified data types, identified null values, and inspected unique entries, such 
   </p>
 </details>
 <br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
-<h3><em><strong><span style="color:#284574"> No Show Apointments Project </span></strong></em></h3> 
+<h3><em><strong><span style="color:#284574"> No Show Apointments </span></strong></em></h3> 
 <em>Sep 2024 </em><center><strong><em><a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:#284574; background-color:#DCDCDC; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
 
 ![HR Tableau](https://hend-a-ghafour.github.io/Media/No-Show-Appointment.jpg)
@@ -166,7 +166,93 @@ Cleaned data and standardized labels to facilitate analysis.<br>
 
 </details>
 
+<br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
+<h3><em><strong><span style="color:#284574"> Northwind </span></strong></em></h3> 
+<em>Aug 2024:Sep 2024 </em>
 
+![HR Tableau](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg)
+
+<details>
+  <summary><em><strong><span style="color:#ac9055">See More</span></strong></em></summary>
+ <br> 
+<center><strong><em><span style="color:#284574"> Overview </span></em></strong></center>
+<p style='text-align: justify;'>The Northwind database is a sample database created by Microsoft, containing the sales data of "Northwind Traders," a fictitious company that imports and exports specialty foods worldwide. It includes details on customers, orders, inventory, purchasing, suppliers, shipping, employees, and single-entry accounting.</p>
+<center><strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong></center>
+  <p style='text-align: justify;'>
+  <strong><em><span style="color:#808080">SQL: </span></em></strong><br>
+Created views and tables; adjusted database diagrams.<br>
+<strong><em><span style="color:#808080">Python (Pandas): </span></em></strong><br>
+Calculated growth rates.<br>
+ <strong><em><span style="color:#808080">Excel:  </span></em></strong><br>
+Employed Power Query, Power Pivot, and pivot tables to analyze data, create relationships, and develop interactive dashboards.
+</p> 
+<center><strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong></center>
+<p style='text-align: justify;'>
+  <strong><em><span style="color:#808080">Data Cleaning and Standardization: </span></em></strong><br>
+Ensured data types and missing values were handled, particularly in shipping and ordering dates.<br>
+  <strong><em><span style="color:#808080">Data Analysis: </span></em></strong><br>
+   Analyzed sales trends, customer demographics, shipping efficiency, and product performance.<br>
+  <strong><em><span style="color:#808080">Dashboard Creation: </span></em></strong><br>
+   Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.
+</p>
+  <center><strong><em><span style="color:#284574"> Challenges Faced </span></em></strong></center>
+  <p style='text-align: justify;'>
+  <strong><em><span style="color:#808080">Incomplete Data: </span></em></strong><br>
+  Sales records spanned only from July 1996 to May 1998, requiring careful adjustments in year-over-year comparisons.<br>
+  <strong><em><span style="color:#808080">Data Consistency: </span></em></strong><br>
+   Managed inconsistencies in order quantities and stock levels, and standardized date data types.<br>
+  <strong><em><span style="color:#808080">Complex Growth Calculations: </span></em></strong><br>
+    Analyzed growth across inconsistent time periods to derive accurate trends.
+</p>
+<center><strong><em><span style="color:#284574"> Achievements </span></em></strong></center>
+  <p style='text-align: justify;'>
+  <strong><em><span style="color:#808080">Growth Analysis Adjustments:</span></em></strong><br>
+    Created an "Actual Country Growth Table," yielding more accurate comparisons by aligning half-year periods for better insights.<br>
+  <strong><em><span style="color:#808080">Order and Customer Insights: </span></em></strong><br>
+   Classified 89 customers into new or repeat based on order activity, facilitating customer tracking and targeted insights.<br>
+  <strong><em><span style="color:#808080">Comprehensive Inventory Status:</span></em></strong><br>
+    Developed a robust stock status system, classifying products into Safe Stock, Restock Needed, No Restock, and Stopped.<br>
+  <strong><em><span style="color:#808080">Dashboard:</span></em></strong><br>
+    Completed a comprehensive, interactive dashboard with critical sales insights and key metrics.
+  </p>
+<center><strong><em><span style="color:#284574"> Insights </span></em></strong></center>
+  <p style='text-align: justify;'> 
+  <strong><em><span style="color:#808080">Sales and Orders:</span></em></strong><br> 
+   - <em>Orders Summary:</em> 830 orders processed for 89 customers, with 51,317 total quantities sold.<br>
+   - <em>Shipping Efficiency:</em> Average shipping time was 8.48 days.<br> 
+ <strong><em><span style="color:#808080">Product Analysis:</span></em></strong><br> 
+  - <em>Product Categories:</em> 8 categories with 77 products.<br>
+  - <em>Net Sales:</em> $1,265,793.18; Net Revenue: $89K.<br>
+  - <em>Discounts:</em> Totaled $89K across all products
+  - <em>Shipping Cost:</em> $65K.
+  - <em>Highest Net Sales by Month:</em> Achieved in April 1998, totaling $124K.<br>
+  <strong><em><span style="color:#808080">Geographical Insights:</span></em></strong><br> 
+   - <em>Top Countries by Sales:</em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.<br>
+    - <em>Country with Most Customers: </em>  USA, with 13 recorded customers.<br>
+    - <em>Discount Performance by Country: </em> USA had the highest discounts and net sales across all three years.<br>
+ <strong><em><span style="color:#808080">Customer Insights:</span></em></strong><br> 
+    - <em>Total Amount Paid by Customers (Including Shipping):</em> $1.3M.<br>
+    - <em>New Customers in 1998: </em> 1 new customer.<br>
+    - <em>Highest Monthly Sales:  </em> April 1998, driven by 51 customers placing orders.<br>
+    <strong><em><span style="color:#808080">Product Stock and Reorder Analysis:</span></em></strong><br> 
+ - <em>Continued & Discontinued Products:</em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.<br>
+ - <em>Top Category by Performance:</em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.<br>
+    <strong><em><span style="color:#808080">Shipping Companies:</span></em></strong><br> 
+- <em>Top Freight Costs by Year:</em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.<br>
+ - <em>Delivery Performance:</em> 809 orders were shipped to their destination, with 772 delivered on time.<br>
+    - <em>Highest On-Time Deliveries:</em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.
+    </p>
+<center><strong><em><span style="color:#284574"> Future Application </span></em></strong></center>
+  <p style='text-align: justify;'> 
+  <strong><em><span style="color:#808080">Improve Inventory Management: </span></em></strong><br> 
+    Use reorder level and stock status data to streamline restocking processes.<br>
+  <strong><em><span style="color:#808080">Optimize Shipping Processes:  </span></em></strong><br> 
+    Increase on-time deliveries by selecting shipping companies based on past performance.<br>
+  <strong><em><span style="color:#808080">Enhance Customer Targeting:</span></em></strong><br> 
+    Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.
+  </p>
+
+</details>
 
 <br>
     
