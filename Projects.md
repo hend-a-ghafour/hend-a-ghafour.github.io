@@ -15,20 +15,20 @@
 <details>
   <summary><em><strong><span style="color:#ac9055">See More</span></strong></em></summary>
  <br><br> 
-<center><strong><em><span style="color:#284574"> Overview: </span></em></strong></center><br> 
-<p style='text-align: justify;'>Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</p> <br>
+<center><strong><em><span style="color:#284574"> Overview: </span></em></strong></center>
+<p style='text-align: justify;'>Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</p> 
 
-<strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong><br> 
-<p style='text-align: justify;'><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p><br>
+<center><strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong></center>
+<p style='text-align: justify;'><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p>
 
-<strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong><br> 
-  <strong><em><span style="color:#808080">Data Cleaning</span></em></strong>
-    <center>Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.</center><br>
+<center><strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong></center><br> 
+<strong><em><span style="color:#808080">Data Cleaning</span></em></strong>
+<p style='text-align: justify;'>Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.</p>
   <strong><em><span style="color:#808080">Visualization</span></em></strong>
-   <center> Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.
-<img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"></center><br>
+   <p style='text-align: justify;'>Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.
+<img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"></p><br>
   <strong><em><span style="color:#808080">Analysis</span></em></strong>
-    <center>Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.</center><br>
+   <p style='text-align: justify;'>Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.</p>
     
 <strong><em><span style="color:#284574"> Challenges Faced </span></em></strong><br> 
   <strong><em><span style="color:#808080">Data Gaps</span></em></strong>
