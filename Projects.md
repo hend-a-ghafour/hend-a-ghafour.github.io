@@ -255,11 +255,12 @@ Ensured data types and missing values were handled, particularly in shipping and
 <div class="warning" style='padding:0.1em; background-color:#DCDCDC; color:#284574'>
 <span>
 <p style='margin-top:1em; text-align:justify'>
-<b><em><strong>Note</strong></em></b></p>
-<p style='margin-left:1em;'>
+<b><em><strong>Note</strong></em></b><br>
 The values presented (in USD) are rounded to the nearest thousand or million.
 </p>
+</span>
 </div>
+  
 </details>
 
 <br>
