@@ -27,7 +27,7 @@
     Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br><br>
   <li><strong><em><span style="color:#808080">Visualization:</span></em></strong></li>  
     Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.
-![HR Employee Details](https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg)<br><br>
+<img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"><br><br>
   <li><strong><em><span style="color:#808080">Analysis:</span></em></strong></li>  
     Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.<br><br><br>
   
