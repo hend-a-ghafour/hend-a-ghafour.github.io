@@ -25,12 +25,12 @@ _Sep 2024_
   <br>
 <center><strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
-  <strong><em><span style="color:#808080">Data Cleaning</span></em></strong>
-Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.
-  <strong><em><span style="color:#808080">Visualization</span></em></strong>
+  <strong><em><span style="color:#808080">Data Cleaning</span></em></strong><br>
+Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br>
+  <strong><em><span style="color:#808080">Visualization</span></em></strong><br>
    Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.<br>
 <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;">
-  <strong><em><span style="color:#808080">Analysis</span></em></strong>
+  <strong><em><span style="color:#808080">Analysis</span></em></strong><br>
    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
 </p><br>   
 <strong><em><span style="color:#284574"> Challenges Faced </span></em></strong>
