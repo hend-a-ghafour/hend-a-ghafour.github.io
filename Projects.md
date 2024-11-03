@@ -252,11 +252,11 @@ Ensured data types and missing values were handled, particularly in shipping and
     Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.
   </p>
 
-<div class="warning" style='padding:0.1em; background-color:#DCDCDC; color:#284574'>
+<div class="warning" style='padding:0.05em; background-color:#DCDCDC; color:#284574'>
 <span>
 <p style='margin-top:1em; text-align:justify'>
-<b><em><strong>Note</strong></em></b><br>
-The values presented (in USD) are rounded to the nearest thousand or million.
+<em><b><strong>Note</strong></b><br>
+The values presented (in USD) are rounded to the nearest thousand or million.</em>
 </p>
 </span>
 </div>
