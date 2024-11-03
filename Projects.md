@@ -32,7 +32,7 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#808080">Analysis:</span></em></strong><br>
    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
 </p>
-  <strong><em><span style="color:#284574"> Challenges Faced </span></em></strong>
+  <center><strong><em><span style="color:#284574"> Challenges Faced </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#808080">Data Gaps:</span></em></strong><br>
   Identified missing values in critical fields, requiring strategies for accurate interpretation.<br>
@@ -41,7 +41,7 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#808080">Data Standardization:</span></em></strong><br>
     Needed to verify data consistency across branches and departments for accurate insights.<br>
 </p>
-<strong><em><span style="color:#284574"> Achievements </span></em></strong>
+<center><strong><em><span style="color:#284574"> Achievements </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#808080">Employee Analysis:</span></em></strong><br>
     Total employee count reached 8,950 (7,984 active, 966 terminated).<br>
@@ -58,7 +58,7 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#808080">Educational Trends:</span></em></strong><br>
     Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.
   </p>
-<strong><em><span style="color:#284574"> Insights </span></em></strong>
+<center><strong><em><span style="color:#284574"> Insights </span></em></strong></center>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#808080">Hiring & Termination Trends:</span></em></strong><br> 
    The Operations department’s turnover was high, and New York HQ showed the highest activity, with a considerable termination rate.<br>
@@ -69,7 +69,7 @@ Verified data types, identified null values, and inspected unique entries, such 
  <strong><em><span style="color:#808080">Salary Disparities:</span></em></strong><br> 
    Significant gender-based salary disparities were observed, particularly among bachelor’s and PhD holders.
   </p>
-<strong><em><span style="color:#284574"> Future Application </span></em></strong>
+<center><strong><em><span style="color:#284574"> Future Application </span></em></strong></center>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#808080">Workforce Planning:</span></em></strong><br> 
     Explore hiring and termination trends to optimize staffing and reduce turnover in high-activity departments like Operations.<br>
