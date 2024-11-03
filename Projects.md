@@ -15,11 +15,11 @@
 <details>
   <summary><em><strong><span style="color:#ac9055">See More</span></strong></em></summary>
  <br><br> 
-<strong><em><span style="color:#284574"> Overview: </span></em></strong><br> 
-<center> Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</center> <br>
-  
+<center><strong><em><span style="color:#284574"> Overview: </span></em></strong></center><br> 
+<p style='text-align: justify;'>Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</p> <br>
+
 <strong><em><span style="color:#284574"> Tools & Techniques </span></em></strong><br> 
-<center><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</center><br>
+<p style='text-align: justify;'><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p><br>
 
 <strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong><br> 
   <strong><em><span style="color:#808080">Data Cleaning</span></em></strong>
