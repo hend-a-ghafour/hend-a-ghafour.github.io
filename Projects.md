@@ -12,6 +12,9 @@
 
 ### ***<center><span style="color:#284574"> Human Resources Tableau Dashboard</span></center>***
 ![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
+<details>
+  <summary>See More</summary>
+  
 #### _<span style="color:#ac9055"> Overview: </span>_
 <center> Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</center> <br><br>
 
@@ -52,7 +55,7 @@
   - ***<span style="color:#808080">Performance-Based Retention:</span>*** <br> Reevaluate performance rating criteria and termination practices to ensure fair and consistent employee assessments.<br>
   - ***<span style="color:#808080">Compensation Strategy:</span>*** <br> Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.
 
-
+</details>
 
 
 
