@@ -218,29 +218,29 @@ Ensured data types and missing values were handled, particularly in shipping and
 <center><strong><em><span style="color:#284574"> Insights </span></em></strong></center>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#808080">Sales and Orders:</span></em></strong><br> 
-   - <em>Orders Summary:</em> 830 orders processed for 89 customers, with 51,317 total quantities sold.<br>
-   - <em>Shipping Efficiency:</em> Average shipping time was 8.48 days.<br> 
+   - <em><span style="color:#ac9055">Orders Summary:</span></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.<br>
+   - <em><span style="color:#ac9055">Shipping Efficiency:</span></em> Average shipping time was 8.48 days.<br> 
  <strong><em><span style="color:#808080">Product Analysis:</span></em></strong><br> 
-  - <em>Product Categories:</em> 8 categories with 77 products.<br>
-  - <em>Net Sales:</em> $1,265,793.18; Net Revenue: $89K.<br>
-  - <em>Discounts:</em> Totaled $89K across all products
-  - <em>Shipping Cost:</em> $65K.
-  - <em>Highest Net Sales by Month:</em> Achieved in April 1998, totaling $124K.<br>
+  - <em><span style="color:#ac9055">Product Categories:</span></em> 8 categories with 77 products.<br>
+  - <em><span style="color:#ac9055">Net Sales:</span></em> $1,265,793.18; Net Revenue: $89K.<br>
+  - <em><span style="color:#ac9055">Discounts:</span></em> Totaled $89K across all products<br>
+  - <em><span style="color:#ac9055">Shipping Cost:</span></em> $65K.<br>
+  - <em><span style="color:#ac9055">Highest Net Sales by Month:</span></em> Achieved in April 1998, totaling $124K.<br>
   <strong><em><span style="color:#808080">Geographical Insights:</span></em></strong><br> 
-   - <em>Top Countries by Sales:</em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.<br>
-    - <em>Country with Most Customers: </em>  USA, with 13 recorded customers.<br>
-    - <em>Discount Performance by Country: </em> USA had the highest discounts and net sales across all three years.<br>
+   - <em><span style="color:#ac9055">Top Countries by Sales:</span></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.<br>
+    - <em><span style="color:#ac9055">Country with Most Customers: </span></em>  USA, with 13 recorded customers.<br>
+    - <em><span style="color:#ac9055">Discount Performance by Country: </span></em> USA had the highest discounts and net sales across all three years.<br>
  <strong><em><span style="color:#808080">Customer Insights:</span></em></strong><br> 
-    - <em>Total Amount Paid by Customers (Including Shipping):</em> $1.3M.<br>
-    - <em>New Customers in 1998: </em> 1 new customer.<br>
-    - <em>Highest Monthly Sales:  </em> April 1998, driven by 51 customers placing orders.<br>
+    - <em><span style="color:#ac9055">Total Amount Paid by Customers (Including Shipping):</span></em> $1.3M.<br>
+    - <em><span style="color:#ac9055">New Customers in 1998:</span> </em> 1 new customer.<br>
+    - <em><span style="color:#ac9055">Highest Monthly Sales: </span> </em> April 1998, driven by 51 customers placing orders.<br>
     <strong><em><span style="color:#808080">Product Stock and Reorder Analysis:</span></em></strong><br> 
- - <em>Continued & Discontinued Products:</em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.<br>
- - <em>Top Category by Performance:</em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.<br>
+ - <em><span style="color:#ac9055">Continued & Discontinued Products:</span></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.<br>
+ - <em><span style="color:#ac9055">Top Category by Performance:</span></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.<br>
     <strong><em><span style="color:#808080">Shipping Companies:</span></em></strong><br> 
-- <em>Top Freight Costs by Year:</em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.<br>
- - <em>Delivery Performance:</em> 809 orders were shipped to their destination, with 772 delivered on time.<br>
-    - <em>Highest On-Time Deliveries:</em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.
+- <em><span style="color:#ac9055">Top Freight Costs by Year:</span></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.<br>
+ - <em><span style="color:#ac9055">Delivery Performance:</span></em> 809 orders were shipped to their destination, with 772 delivered on time.<br>
+    - <em><span style="color:#ac9055">Highest On-Time Deliveries:</span></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.
     </p>
 <center><strong><em><span style="color:#284574"> Future Application </span></em></strong></center>
   <p style='text-align: justify;'> 
