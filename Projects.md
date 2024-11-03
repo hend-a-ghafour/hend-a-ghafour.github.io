@@ -14,26 +14,26 @@
 ![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
 <details>
   <summary>See More</summary>
-  
+ <br><br> 
 <h4> <em><span style="color:#ac9055"> Overview: </span></em></h4>
-<center> Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</center> <br>
+<center> Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</center> <br><br>
 <h4> <em><span style="color:#ac9055"> Tools & Techniques </span></em></h4>
-<center><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</center><br>
+<center><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</center><br><br><br>
 <h4> <em><span style="color:#ac9055"> Roles & Responsibilities </span></em></h4>
   <center><strong><em><span style="color:#808080">Data Cleaning</span></em></strong></center>
-    Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br>
+    Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br><br><br>
   <center><strong><em><span style="color:#808080">Visualization</span></em></strong></center>
     Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.
 <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"><br>
   <center><strong><em><span style="color:#808080">Analysis</span></em></strong>  </center>
-    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.<br>  
+    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.<br><br><br>  
 <h4> <em><span style="color:#ac9055"> Challenges Faced </span></em></h4>
   <center><strong><em><span style="color:#808080">Data Gaps</span></em></strong></center> 
   Identified missing values in critical fields, requiring strategies for accurate interpretation.<br>
   <center><strong><em><span style="color:#808080">Complex Relationships</span></em></strong></center> 
    Analyzed complex relationships between hiring, terminations, and department-level trends.<br>
   <center><strong><em><span style="color:#808080">Data Standardization</span></em></strong></center> 
-    Needed to verify data consistency across branches and departments for accurate insights.<br>  
+    Needed to verify data consistency across branches and departments for accurate insights.<br> <br><br> 
 <h4> <em><span style="color:#ac9055"> Achievements </span></em></h4>
   <center><strong><em><span style="color:#808080">Employee Analysis:</span></em></strong></center> 
     Total employee count reached 8,950 (7,984 active, 966 terminated).<br>
@@ -48,7 +48,7 @@
   <center><strong><em><span style="color:#808080">Gender Analysis:</span></em></strong></center>
     Gender distribution was slightly male-dominated (54%), with a balanced termination rate (11% each for males and females).<br>
   <center><strong><em><span style="color:#808080">Educational Trends</span></em></strong></center>
-    Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.<br>
+    Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.<br><br><br>
 <h4> <em><span style="color:#ac9055"> Insights </span></em></h4>
   <center><strong><em><span style="color:#808080">Hiring & Termination Trends:</span></em></strong></center> 
     The Operations department’s turnover was high, and New York HQ showed the highest activity, with a considerable termination rate.<br>
@@ -57,7 +57,7 @@
   <center><strong><em><span style="color:#808080">Performance Ratings:</span></em></strong></center> 
     Educational level affected performance ratings, with high school graduates more often rated "Needs Improvement," while PhD holders frequently achieved "Excellent" ratings.<br>
  <center><strong><em><span style="color:#808080">Salary Disparities:</span></em></strong></center>
-    Significant gender-based salary disparities were observed, particularly among bachelor’s and PhD holders.<br>  
+    Significant gender-based salary disparities were observed, particularly among bachelor’s and PhD holders.<br><br><br>  
 <h4> <em><span style="color:#ac9055"> Future Application </span></em></h4>
   <center><strong><em><span style="color:#808080">Workforce Planning:</span></em></strong></center> 
     Explore hiring and termination trends to optimize staffing and reduce turnover in high-activity departments like Operations.<br>
