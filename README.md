@@ -30,22 +30,22 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
   <ul>
      <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
      <li>Handling missing values, duplicates, and data restructuring.</li>
-  </ul>
+  </ul><br>
   <strong><em><span style="color:#ac9055"> Data Analysis & Reporting: </span></em></strong>
   <ul>
     <li>In-depth analysis using Python, SQL, & Excel.</li>
     <li>Detailed statistical and financial reports with Excel modeling.</li>
-  </ul>
+  </ul><br>
   <strong><em><span style="color:#ac9055"> Data Visualization: </span></em></strong>
   <ul>
     <li> Creating clear and impactful data visualizations.</li>
     <li>Creating Dashboards using Tableau & Excel to easily understand data & make informed decisions.</li>
-  </ul>
+  </ul><br>
   <strong><em><span style="color:#ac9055"> Problem Solving & Strategic Insights: </span></em></strong>
   <ul>
     <li>Identifying and resolving business challenges.</li>
     <li>Analyzing data trends to drive growth and efficiency.</li>
-  </ul>
+  </ul><br>
   <strong><em><span style="color:#ac9055"> Time Management & Project Coordination: </span></em></strong>
   <ul>
     <li>Ensuring timely delivery of high-quality projects.</li>
