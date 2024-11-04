@@ -26,10 +26,7 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
 <br><br>
 
 <h3><strong><em><span style="color:#00303e"> Services Offered: </span></em></strong></h3>
-<p style='text-align: justify;'>
-  
-
-  <strong><em><span style="color:#ac9055"> Data Cleaning & Preparation: </span></em></strong>
+<strong><em><span style="color:#ac9055"> Data Cleaning & Preparation: </span></em></strong>
   <ul>
      <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
      <li>Handling missing values, duplicates, and data restructuring.</li>
@@ -54,7 +51,7 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
     <li>Ensuring timely delivery of high-quality projects.</li>
     <li>Coordinating tasks and meeting all milestones.</li>
   </ul>
-</p>
+
 <br>
 
 ### ***<span style="color:#00303e"> Why Hire Me? </span>***
