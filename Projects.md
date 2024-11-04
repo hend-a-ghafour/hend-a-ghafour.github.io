@@ -21,65 +21,65 @@
 <center><strong><em><span style="color:#0e5e5d"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</p>
 <center><strong><em><span style="color:#0e5e5d"> Tools & Techniques </span></em></strong></center>
-<p style='text-align: justify;'><em><strong><span style="color:#29281d"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p> 
+<p style='text-align: justify;'><em><strong><span style="color:#7c7959"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p> 
 <center><strong><em><span style="color:#0e5e5d"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
-  <strong><em><span style="color:#29281d">Data Cleaning:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Data Cleaning:</span></em></strong><br>
 Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br>
-  <strong><em><span style="color:#29281d">Visualization:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Visualization:</span></em></strong><br>
    Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.<br>
 <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"> <br>
-  <strong><em><span style="color:#29281d">Analysis:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Analysis:</span></em></strong><br>
    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
   </p>
   <center><strong><em><span style="color:#0e5e5d"> Challenges Faced </span></em></strong></center>
   <p style='text-align: justify;'>
-  <strong><em><span style="color:#29281d">Data Gaps:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Data Gaps:</span></em></strong><br>
   Identified missing values in critical fields, requiring strategies for accurate interpretation.<br>
-  <strong><em><span style="color:#29281d">Complex Relationships:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Complex Relationships:</span></em></strong><br>
    Analyzed complex relationships between hiring, terminations, and department-level trends.<br>
-  <strong><em><span style="color:#29281d">Data Standardization:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Data Standardization:</span></em></strong><br>
     Needed to verify data consistency across branches and departments for accurate insights.<br>
 </p>
 <center><strong><em><span style="color:#0e5e5d"> Achievements </span></em></strong></center>
   <p style='text-align: justify;'>
-  <strong><em><span style="color:#29281d">Employee Analysis:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Employee Analysis:</span></em></strong><br>
     Total employee count reached 8,950 (7,984 active, 966 terminated).<br>
-  <strong><em><span style="color:#29281d">Hiring Trends:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Hiring Trends:</span></em></strong><br>
    Noted peak hiring in 2017 with 1,560 new employees, while 2021 experienced the lowest hiring rate with 382 hires.<br>
-  <strong><em><span style="color:#29281d">Termination Analysis:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Termination Analysis:</span></em></strong><br>
     Found that 2023 had the highest terminations, with 174 employees (18% of total terminations), predominantly in the Operations department.<br>
- <strong><em><span style="color:#29281d">Departmental Insights:</span></em></strong><br>
+ <strong><em><span style="color:#7c7959">Departmental Insights:</span></em></strong><br>
     Operations had the highest activity, with 30% of both active and terminated employees, suggesting high turnover.<br>
-  <strong><em><span style="color:#29281d">Geographical Distribution:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Geographical Distribution:</span></em></strong><br>
     70% of employees were based at HQ in New York, which also had a higher termination rate.<br>
- <strong><em><span style="color:#29281d">Gender Analysis:</span></em></strong><br>
+ <strong><em><span style="color:#7c7959">Gender Analysis:</span></em></strong><br>
    Gender distribution was slightly male-dominated (54%), with a balanced termination rate (11% each for males and females).<br>
-  <strong><em><span style="color:#29281d">Educational Trends:</span></em></strong><br>
+  <strong><em><span style="color:#7c7959">Educational Trends:</span></em></strong><br>
     Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.
   </p>
 <center><strong><em><span style="color:#0e5e5d"> Insights </span></em></strong></center>
   <p style='text-align: justify;'> 
-  <strong><em><span style="color:#29281d">Hiring & Termination Trends:</span></em></strong><br> 
+  <strong><em><span style="color:#7c7959">Hiring & Termination Trends:</span></em></strong><br> 
    The Operations department’s turnover was high, and New York HQ showed the highest activity, with a considerable termination rate.<br>
- <strong><em><span style="color:#29281d">Gender & Education Dynamics:</span></em></strong><br> 
+ <strong><em><span style="color:#7c7959">Gender & Education Dynamics:</span></em></strong><br> 
    Gender imbalances were observed in specific educational categories, with a higher termination rate among female high school graduates and male PhD holders.<br>
-  <strong><em><span style="color:#29281d">Performance Ratings:</span></em></strong><br> 
+  <strong><em><span style="color:#7c7959">Performance Ratings:</span></em></strong><br> 
     Educational level affected performance ratings, with high school graduates more often rated "Needs Improvement," while PhD holders frequently achieved "Excellent" ratings.<br>
- <strong><em><span style="color:#29281d">Salary Disparities:</span></em></strong><br> 
+ <strong><em><span style="color:#7c7959">Salary Disparities:</span></em></strong><br> 
    Significant gender-based salary disparities were observed, particularly among bachelor’s and PhD holders.
   </p>
 <center><strong><em><span style="color:#0e5e5d"> Future Application </span></em></strong></center>
   <p style='text-align: justify;'> 
-  <strong><em><span style="color:#29281d">Workforce Planning:</span></em></strong><br> 
+  <strong><em><span style="color:#7c7959">Workforce Planning:</span></em></strong><br> 
     Explore hiring and termination trends to optimize staffing and reduce turnover in high-activity departments like Operations.<br>
-  <strong><em><span style="color:#29281d">Turnover Analysis:</span></em></strong><br> 
+  <strong><em><span style="color:#7c7959">Turnover Analysis:</span></em></strong><br> 
     Conduct a deeper analysis of the reasons behind turnover patterns, especially in specific positions and departments.<br>
-  <strong><em><span style="color:#29281d">Gender & Education Balance:</span></em></strong><br> 
+  <strong><em><span style="color:#7c7959">Gender & Education Balance:</span></em></strong><br> 
     Investigate gender disparities in salary and termination rates to promote equity.<br>
-  <strong><em><span style="color:#29281d">Performance-Based Retention:</span></em></strong><br> 
+  <strong><em><span style="color:#7c7959">Performance-Based Retention:</span></em></strong><br> 
    Reevaluate performance rating criteria and termination practices to ensure fair and consistent employee assessments.<br>
-  <strong><em><span style="color:#29281d">Compensation Strategy:</span></em></strong><br> 
+  <strong><em><span style="color:#7c7959">Compensation Strategy:</span></em></strong><br> 
     Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.
   </p>
 </details>
