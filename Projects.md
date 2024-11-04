@@ -228,7 +228,7 @@ Ensured data types and missing values were handled, particularly in shipping and
     <li><em><span style="color:#3e3c2c">Net Sales:</span></em> $1,265,793.18; Net Revenue: $89K.</li>
     <li><em><span style="color:#3e3c2c">Discounts:</span></em> Totaled $89K across all products</li>
     <li><em><span style="color:#3e3c2c">Shipping Cost:</span></em> $65K.</li>
-    <li><em><span style="color:#3e3c2c">Highest Net Sales by Month:</span></em> Achieved in April 1998, totaling $124K.
+    <li><em><span style="color:#3e3c2c">Highest Net Sales by Month:</span></em> Achieved in April 1998, totaling $124K.</li>
   </ul>
   <strong><em><span style="color:#ac9055">Geographical Insights:</span></em></strong>
   <ul>
@@ -241,15 +241,17 @@ Ensured data types and missing values were handled, particularly in shipping and
     <li><em><span style="color:#3e3c2c">Total Amount Paid by Customers (Including Shipping):</span></em> $1.3M.</li>
     <li><em><span style="color:#3e3c2c">New Customers in 1998:</span> </em> 1 new customer.</li>
     <li><em><span style="color:#3e3c2c">Highest Monthly Sales: </span> </em> April 1998, driven by 51 customers placing orders.</li>
-    <strong><em><span style="color:#ac9055">Product Stock and Reorder Analysis:</span></em></strong>
+  </ul>
+  <strong><em><span style="color:#ac9055">Product Stock and Reorder Analysis:</span></em></strong>
+  <ul>
      <li><em><span style="color:#3e3c2c">Continued & Discontinued Products:</span></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
      <li><em><span style="color:#3e3c2c">Top Category by Performance:</span></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
   </ul>
 <strong><em><span style="color:#ac9055">Shipping Companies:</span></em></strong>
   <ul>
-    <li><em><span style="color:#3e3c2c">Top Freight Costs by Year:</span></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.<br>
-     <li><em><span style="color:#3e3c2c">Delivery Performance:</span></em> 809 orders were shipped to their destination, with 772 delivered on time.<br>
-      <li><em><span style="color:#3e3c2c">Highest On-Time Deliveries:</span></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.
+    <li><em><span style="color:#3e3c2c">Top Freight Costs by Year:</span></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li>
+     <li><em><span style="color:#3e3c2c">Delivery Performance:</span></em> 809 orders were shipped to their destination, with 772 delivered on time.</li>
+      <li><em><span style="color:#3e3c2c">Highest On-Time Deliveries:</span></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.</li>
   </ul>
     </p>
 <center><strong><em><span style="color:#0e5e5d"> Future Application </span></em></strong></center>
