@@ -17,7 +17,7 @@
 
 
 ***<span style="color:#ac9055">Get in touch with me:</span>***<br>
-_<span style="color:#3e3c2c">Email:</span>_ (hend m.abdelghafour@gmail.com)[hend m.abdelghafour@gmail.com]<br>
+_<span style="color:#3e3c2c">Email:</span>_ (hendm.abdelghafour@gmail.com)[hendm.abdelghafour@gmail.com]<br>
 _<span style="color:#3e3c2c">Linkedin:</span>_ (linkedin.com/in/hend-a-ghafour/)[linkedin.com/in/hend-a-ghafour/]<br>
 _<span style="color:#3e3c2c">Github:</span>_ (github.com/hend-a-ghafour)[github.com/hend-a-ghafour]<br>
 _<span style="color:#3e3c2c">Gallary:</span>_ (linkedin.com/in/hend-a-ghafour/details/featured/)[linkedin.com/in/hend-a-ghafour/details/featured/]
