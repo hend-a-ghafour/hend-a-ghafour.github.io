@@ -26,6 +26,7 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
 <br><br>
 
 <h3><strong><em><span style="color:#00303e"> Services Offered: </span></em></strong></h3>
+
 <p style='text-align: justify;'>
 <strong><em><span style="color:#ac9055"> Data Analysis & Reporting: </span></em></strong>
   <ul>
