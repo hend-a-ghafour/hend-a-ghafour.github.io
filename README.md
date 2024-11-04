@@ -27,7 +27,7 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
 
 <h3><strong><em><span style="color:#00303e"> Services Offered: </span></em></strong></h3>
 <p style='text-align: justify;'>
-<span style="color:white">....</span><br>
+Services are as follows:<br>
 <strong><em><span style="color:#ac9055"> Data Cleaning & Preparation: </span></em></strong>
   <ul>
      <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
