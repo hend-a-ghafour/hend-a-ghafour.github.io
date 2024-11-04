@@ -52,7 +52,7 @@
   Accounting, Economics, Statistics, Financial Management, Accounting Management, Financial Analysis, Commercial Law, Tax, &Audit
 </p>
 <p style='text-align: justify;'>
-  ><em><strong><span style="color:#7c7959">EduEgypt Training Program</span></strong></em><br> 
+  <em><strong><span style="color:#7c7959">EduEgypt Training Program</span></strong></em><br> 
   <em><span style="color:#ac9055">Information Technology Institute - ITI</span></em><br> 
   Nov 2008 – Aug 2009<br> 
   <em><span style="color:#3e3c2c">Relevant course work:</span></em><br> 
