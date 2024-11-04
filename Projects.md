@@ -24,13 +24,15 @@
 <p style='text-align: justify;'><em><strong><span style="color:#808080"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p> 
 <center><strong><em><span style="color:#284574"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
-  <strong><em><span style="color:#808080">Data Cleaning:</span></em></strong><br>
+  <ul>
+  <li style="color:#ac9055"><strong><em><span style="color:#808080">Data Cleaning:</span></em></strong><br>
 Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br>
-  <strong><em><span style="color:#808080">Visualization:</span></em></strong><br>
+  <li style="color:#ac9055"><strong><em><span style="color:#808080">Visualization:</span></em></strong><br>
    Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.<br>
 <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"> <br>
-  <strong><em><span style="color:#808080">Analysis:</span></em></strong><br>
+  <li style="color:#ac9055"><strong><em><span style="color:#808080">Analysis:</span></em></strong><br>
    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
+  </ul>
 </p>
   <center><strong><em><span style="color:#284574"> Challenges Faced </span></em></strong></center>
   <p style='text-align: justify;'>
