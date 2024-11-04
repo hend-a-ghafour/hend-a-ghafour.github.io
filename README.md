@@ -28,15 +28,16 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
 <h3><strong><em><span style="color:#00303e"> Services Offered: </span></em></strong></h3>
 <p style='text-align: justify;'>
   
-  <strong><em><span style="color:#ac9055"> Data Analysis & Reporting: </span></em></strong>
-  <ul>
-    <li>In-depth analysis using Python, SQL, & Excel.</li>
-    <li>Detailed statistical and financial reports with Excel modeling.</li>
-  </ul>
+
   <strong><em><span style="color:#ac9055"> Data Cleaning & Preparation: </span></em></strong>
   <ul>
      <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
      <li>Handling missing values, duplicates, and data restructuring.</li>
+  </ul>
+  <strong><em><span style="color:#ac9055"> Data Analysis & Reporting: </span></em></strong>
+  <ul>
+    <li>In-depth analysis using Python, SQL, & Excel.</li>
+    <li>Detailed statistical and financial reports with Excel modeling.</li>
   </ul>
   <strong><em><span style="color:#ac9055"> Data Visualization: </span></em></strong>
   <ul>
