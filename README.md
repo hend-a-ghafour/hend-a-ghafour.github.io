@@ -25,33 +25,33 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
 ***<span style="color:#ac9055"> Languages: </span>***<br>   Arabic (Native) - English (Fluent) 
 <br><br>
 
-### ***<span style="color:#00303e"> Services Offered: </span>***
+<h3><strong><em><span style="color:#00303e"> Services Offered: </span></em></strong></h3>
 <p style='text-align: justify;'>
 <strong><em><span style="color:#ac9055"> Data Analysis & Reporting: </span></em></strong>
   <ul>
-  <li>In-depth analysis using Python, SQL, & Excel.</li>
-  <li>Detailed statistical and financial reports with Excel modeling.</li>
+    <li>In-depth analysis using Python, SQL, & Excel.</li>
+    <li>Detailed statistical and financial reports with Excel modeling.</li>
   </ul>
 <strong><em><span style="color:#ac9055"> Data Cleaning & Preparation: </span></em></strong>
-<ul>
-   <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
-   <li>Handling missing values, duplicates, and data restructuring.</li>
+  <ul>
+     <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
+     <li>Handling missing values, duplicates, and data restructuring.</li>
   </ul>
 <strong><em><span style="color:#ac9055"> Data Visualization: </span></em></strong>
   <ul>
-  <li> Creating clear and impactful data visualizations.</li>
-  <li>Creating Dashboards using Tableau & Excel to easily understand data & make informed decisions.</li>
-    </ul>
+    <li> Creating clear and impactful data visualizations.</li>
+    <li>Creating Dashboards using Tableau & Excel to easily understand data & make informed decisions.</li>
+  </ul>
 <strong><em><span style="color:#ac9055"> Problem Solving & Strategic Insights: </span></em></strong>
-    <ul>
-  <li>Identifying and resolving business challenges.</li>
-  <li>Analyzing data trends to drive growth and efficiency.</li>
-    </ul>
+  <ul>
+    <li>Identifying and resolving business challenges.</li>
+    <li>Analyzing data trends to drive growth and efficiency.</li>
+  </ul>
 <strong><em><span style="color:#ac9055"> Time Management & Project Coordination: </span></em></strong>
-      <ul>
-  <li>Ensuring timely delivery of high-quality projects.</li>
-  <li>Coordinating tasks and meeting all milestones.</li>
-      </ul>
+  <ul>
+    <li>Ensuring timely delivery of high-quality projects.</li>
+    <li>Coordinating tasks and meeting all milestones.</li>
+  </ul>
 </p>
 <br>
 
