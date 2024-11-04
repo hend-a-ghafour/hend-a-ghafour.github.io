@@ -10,16 +10,16 @@
 </em></strong>
 <br><br>
 <p style='text-align: justify;'>
-  <h3><strong></strong><span style="color:#0e5e5d">Accountant:</span></p></h3>
+  <h3><strong></strong><center><span style="color:#0e5e5d">Accountant</span></center></h3>
   <em><span style="color:#ac9055">Megalectric for Import, Alexandria, Egypt</span></em><br>
   <em>May, 2015 –April, 2018</em>
   <ul>
     <li>Conducted data analysis on inventory prices using LIFO, examining data from 2007-2017, potentially impacting 40% of product prices.</li>
     <li>Analyzed financial data to identify deficiencies, duplications, & areas of extravagance.</li>
   </ul>
-<br><br>
+<br>
 <p style='text-align: justify;'>
-   <h3><strong></strong><span style="color:#0e5e5d">Purchasing Coordinator / Accountant:</span></p></h3>
+   <h3><strong></strong><center><span style="color:#0e5e5d">Purchasing Coordinator / Accountant:</span></center></h3>
    <em><span style="color:#ac9055">Volta Trading, Alexandria, Egypt</span></em><br>
     <em>April, 2014 –July, 2014</em>
   <ul>
@@ -27,9 +27,9 @@
     <li>Conducted detailed analysis of price proposals and financial reports to determine reasonable costs.</li>
     <li>Prepared purchase orders, achieving an 80% success rate in cost-effective procurement based on data analysis.</li>
   </ul>
-<br><br>
+<br>
 <p style='text-align: justify;'>
-  <h3><strong></strong><span style="color:#0e5e5d">Customer Service Administrator:</span></p></h3>
+  <h3><strong></strong><center><span style="color:#0e5e5d">Customer Service Administrator:</span></center></h3>
   <em><span style="color:#ac9055">Horus Training Center, Alexandria, Egypt</span></em><br>
   <em>Apr 2012 - Aug 2012</em>
   <ul>
@@ -37,9 +37,9 @@
   <li>Worked on marketing monthly courses & achieved the monthly target with a success percentage of 85%.</li>
   <li>Handled the center accounting transactions.</li>
   </ul>
-<br><br>
+<br>
 <p style='text-align: justify;'>
-  <h3><strong></strong><span style="color:#0e5e5d">Crew Coordinator Assistant: </span></p></h3>
+  <h3><strong></strong><center><span style="color:#0e5e5d">Crew Coordinator Assistant: </span></center></h3>
   <em><span style="color:#ac9055">Wilhelmsen Ships Service, Alexandria, Egypt</span></em><br>
   <em>Nov, 2010 – May, 2011</em>
   <ul>
