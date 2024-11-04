@@ -15,14 +15,16 @@ Over the past three years, I have developed strong skills in data analysis, stre
 With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.</span></center></em></strong>
 </p>
 ![Data Analyst](https://hend-a-ghafour.github.io/Media/data_analysis.jpg)
-<br><br>
+<br>
+
 ### ***<span style="color:#00303e"> Skills: </span>***
 ***<span style="color:#ac9055"> Tools: </span>***<br>   Python - MS SQL - Tableau - Excel <br> <br> 
 ***<span style="color:#ac9055"> Data Management: </span>***<br>   Data Cleaning - Data Assessing - Data Visualization - Data Modeling <br> <br> 
 ***<span style="color:#ac9055">  Technical Skills: </span>***<br>   SQL Queries - Python Coding - Excel Functions - Dashboards <br> <br> 
 ***<span style="color:#ac9055"> Soft Skills: </span>***<br>   Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication <br> <br> 
 ***<span style="color:#ac9055"> Languages: </span>***<br>   Arabic (Native) - English (Fluent) 
-<br> <br>
+<br> 
+
 ### ***<span style="color:#00303e"> Services Offered: </span>***
 ***<span style="color:#ac9055"> Data Analysis & Reporting: </span>***<br>
   - In-depth analysis using Python, SQL, & Excel.
@@ -39,7 +41,8 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
 ***<span style="color:#ac9055"> Time Management & Project Coordination: </span>***
   - Ensuring timely delivery of high-quality projects.
   - Coordinating tasks and meeting all milestones.
-<br><br>
+<br>
+
 ### ***<span style="color:#00303e"> Why Hire Me? </span>***
 ![Data Analyst](https://hend-a-ghafour.github.io/Media/HR.jpg)
 <strong><em><center><span style="color:#808080">By hiring me, you gain a dedicated professional with a strong analytical skill set, a keen eye for detail, and a commitment to delivering actionable insights and efficient solutions tailored to your business needs. </span></center></em></strong>
