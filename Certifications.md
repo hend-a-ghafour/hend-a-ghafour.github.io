@@ -18,6 +18,7 @@
   <em><span style="color:#3e3c2c">Relevant course work:</span></em><br> 
   Data Analysis, Statistics, Advanced Excel, T-SQL & Data Modeling, Python, Tableau, R Programming Language, & Soft Skills
 </p>
+<br><br>
 <p style='text-align: justify;'>
   <center>
   <em><strong><span style="color:#0e5e5d"> Data Analysis Nanodegree</span></strong></em><br> 
@@ -27,6 +28,7 @@
   <em><span style="color:#3e3c2c">Relevant course work:</span></em><br> 
   Python, Data Cleaning, Data Manipulation, Data Visualization, Foundations of Agile, Managing Freelancing Projects.<br> 
 </p>
+<br><br>
 <p style='text-align: justify;'>
   <center>
   <em><strong><span style="color:#0e5e5d">Web Development Challenger</span></strong></em><br> 
@@ -36,6 +38,7 @@
   <em><span style="color:#3e3c2c">Relevant course work:</span></em><br> 
   HTML & CSS
 </p>
+<br><br>
 <p style='text-align: justify;'>
   <center>
   <em><strong><span style="color:#0e5e5d">Data Analysis Challenger</span></strong></em><br> 
@@ -45,6 +48,7 @@
   <em><span style="color:#3e3c2c">Relevant course work:</span></em><br> 
   Data Visualization, Excel Modeling, Statistics, Data Manipulation, & Data Analysis
 </p>
+<br><br>
 <p style='text-align: justify;'>
   <center>
   <em><strong><span style="color:#0e5e5d">Managerial Accounting & Cost Dipl.</span></strong></em><br> 
@@ -54,6 +58,7 @@
   <em><span style="color:#3e3c2c">Relevant course work:</span></em><br> 
   Financial Management, Managerial Accounting, Cost Accounting, Advanced accounting Information Systems, & Project Management
 </p>
+<br><br>
 <p style='text-align: justify;'>
   <center>
   <em><strong><span style="color:#0e5e5d">Bsc. Commerce (English)</span></strong></em><br> 
@@ -63,6 +68,7 @@
   <em><span style="color:#3e3c2c">Relevant course work:</span></em><br> 
   Accounting, Economics, Statistics, Financial Management, Accounting Management, Financial Analysis, Commercial Law, Tax, &Audit
 </p>
+<br><br>
 <p style='text-align: justify;'>
   <center>
   <em><strong><span style="color:#0e5e5d">EduEgypt Training Program</span></strong></em><br> 
@@ -72,6 +78,7 @@
   <em><span style="color:#3e3c2c">Relevant course work:</span></em><br> 
   Customer Service, Numerical Ability, Attention to Detail, Communication
 </p>
+<br><br>
 
 
 
