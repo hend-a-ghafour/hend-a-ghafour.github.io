@@ -14,7 +14,7 @@
 Over the past three years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, T-SQL, and Excel. <br> 
 With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.</span></center></em></strong>
 </p>
-![Data Analyst](https://hend-a-ghafour.github.io/Media/data_analysis.jpg)
+![Data Analyst](https://hend-a-ghafour.github.io/Media/HR.jpg)
 <br>
 
 ### ***<span style="color:#00303e"> Skills: </span>***
@@ -55,7 +55,6 @@ With a detail-oriented, perfection-driven, and analytical mindset—as well as a
 <br>
 
 ### ***<span style="color:#00303e"> Why Hire Me? </span>***
-![Data Analyst](https://hend-a-ghafour.github.io/Media/HR.jpg)
 <strong><em><center><span style="color:#808080">By hiring me, you gain a dedicated professional with a strong analytical skill set, a keen eye for detail, and a commitment to delivering actionable insights and efficient solutions tailored to your business needs. </span></center></em></strong>
 <br><br>
 
