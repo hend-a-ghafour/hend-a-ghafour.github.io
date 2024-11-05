@@ -11,7 +11,7 @@
 <br><br>
 
 
-### ***<center>Let's Work Together!</center>***
+### ***<center><span style="color:#0e5e5d">Let's Work Together!</span></center>***
 
 ***<center><span style="color:#808080">I'm excited to hear about your project. Whether you need data analysis, visualization, financial modeling, or any other related services, I'm here to help.</span></center>***
 
