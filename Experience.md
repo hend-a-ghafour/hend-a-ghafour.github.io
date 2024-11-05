@@ -10,7 +10,7 @@
 </em></strong>
 <br><br>
 <p style='text-align: justify;'>
-  <h3><strong></strong><center><span style="color:#0e5e5d">Accountant</span></center></h3>
+  <strong><em><span style="color:#0e5e5d">Accountant:</span></em></strong>
   <em><span style="color:#ac9055">Megalectric for Import, Alexandria, Egypt</span></em><br>
   <em>May, 2015 –April, 2018</em>
   <ul>
@@ -19,7 +19,7 @@
   </ul>
 <br>
 <p style='text-align: justify;'>
-   <h3><strong></strong><center><span style="color:#0e5e5d">Purchasing Coordinator / Accountant:</span></center></h3>
+   <strong><em><span style="color:#0e5e5d">Purchasing Coordinator / Accountant:</span></em></strong>
    <em><span style="color:#ac9055">Volta Trading, Alexandria, Egypt</span></em><br>
     <em>April, 2014 –July, 2014</em>
   <ul>
@@ -29,7 +29,7 @@
   </ul>
 <br>
 <p style='text-align: justify;'>
-  <h3><strong></strong><center><span style="color:#0e5e5d">Customer Service Administrator:</span></center></h3>
+  <strong><em><span style="color:#0e5e5d">Customer Service Administrator:</span></em></strong>
   <em><span style="color:#ac9055">Horus Training Center, Alexandria, Egypt</span></em><br>
   <em>Apr 2012 - Aug 2012</em>
   <ul>
@@ -39,7 +39,7 @@
   </ul>
 <br>
 <p style='text-align: justify;'>
-  <h3><strong></strong><center><span style="color:#0e5e5d">Crew Coordinator Assistant: </span></center></h3>
+  <strong><em><span style="color:#0e5e5d">Crew Coordinator Assistant: </span></em></strong>
   <em><span style="color:#ac9055">Wilhelmsen Ships Service, Alexandria, Egypt</span></em><br>
   <em>Nov, 2010 – May, 2011</em>
   <ul>
