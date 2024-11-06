@@ -174,7 +174,7 @@ Cleaned data and standardized labels to facilitate analysis.<br>
 
 <br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
 <h3><em><strong><span style="color:#7c7959"> Northwind </span></strong></em></h3> 
-<em>Aug 2024:Sep 2024 </em>
+<em>Aug 2024:Sep 2024 </em><center><strong><em><a href="https://github.com/hend-a-ghafour/Northwind/blob/main/Northwind.sql" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
 
 ![Northwind](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg)
 
