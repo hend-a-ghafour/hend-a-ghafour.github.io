@@ -266,8 +266,11 @@ Ensured data types and missing values were handled, particularly in shipping and
 <em><strong><span style="color:#7c7959">Note</span></strong><br>
 <span style="color:#7c7959">The values presented (in USD) are rounded to the nearest thousand or million.</span></em>
 
-  ![Northwind](https://github.com/hend-a-ghafour/Northwind/Northwind-Excel.mp4)
-  
+ 
+  <video controls>
+  <source src="https://github.com/hend-a-ghafour/Northwind/Northwind-Excel.mp4" type="video/mp4">
+    Northwind Overview
+  </video>
 
  </details>
 
