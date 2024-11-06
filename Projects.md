@@ -67,7 +67,7 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#ac9055">Performance Ratings:</span></em></strong><br> 
     Educational level affected performance ratings, with high school graduates more often rated "Needs Improvement," while PhD holders frequently achieved "Excellent" ratings.<br>
  <strong><em><span style="color:#ac9055">Salary Disparities:</span></em></strong><br> 
-   Significant gender-based salary disparities were observed, particularly among bachelor’s and PhD holders.
+    Significant disparities were observed, with males earning more at the bachelor’s level, while females earned more at the PhD level.
   </p>
 <center><strong><em><span style="color:#0e5e5d"> Future Application </span></em></strong></center>
   <p style='text-align: justify;'> 
@@ -87,7 +87,7 @@ Verified data types, identified null values, and inspected unique entries, such 
 <h3><em><strong><span style="color:#7c7959"> No Show Apointments </span></strong></em></h3> 
 <em>Sep 2024 </em><center><strong><em><a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
 
-![HR Tableau](https://hend-a-ghafour.github.io/Media/No-Show-Appointment.jpg)
+![No Show](https://hend-a-ghafour.github.io/Media/No-Show-Appointment.jpg)
 
 <details>
   <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
