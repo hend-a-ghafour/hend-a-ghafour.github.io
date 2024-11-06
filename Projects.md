@@ -170,7 +170,7 @@ Cleaned data and standardized labels to facilitate analysis.<br>
 <h3><em><strong><span style="color:#7c7959"> Northwind </span></strong></em></h3> 
 <em>Aug 2024:Sep 2024 </em>
 
-![HR Tableau](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg)
+![Northwind](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg)
 
 <details>
   <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
@@ -265,6 +265,10 @@ Ensured data types and missing values were handled, particularly in shipping and
   </p>
 <em><strong><span style="color:#7c7959">Note</span></strong><br>
 <span style="color:#7c7959">The values presented (in USD) are rounded to the nearest thousand or million.</span></em>
+
+  ![Northwind](https://github.com/hend-a-ghafour/Northwind/Northwind-Excel.mp4)
+  
+
  </details>
 
 
