@@ -267,21 +267,21 @@ Ensured data types and missing values were handled, particularly in shipping and
 <span style="color:#7c7959">The values presented (in USD) are rounded to the nearest thousand or million.</span></em>
 <br>
   
-<em><strong><span style="color:#0e5e5d">Northwind Dashboard Overview</span></strong></em>
-<iframe width="560" height="315" src="https://github.com/hend-a-ghafour/Northwind/blob/main/Northwind-Excel.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-
+<video controls>
+    <source src="https://drive.google.com/uc?export=download&id=1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe" type="video/mp4">
+    Northwind Dashboard Overview
+</video>
 
  </details>
 
 ## Videos:
-
+https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/view?usp=sharing
 [Northwind Dashboard Overview](https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/view?usp=sharing)
 [HR Overview](https://drive.google.com/file/d/1iekujxqpucrgXOIYE7RqnP98Nse5UL94/view?usp=sharing)
 
 
 
-    
+https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/view?usp=sharing
 <strong><em>
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
 <span style="color:#0e5e5d"> Projects </span>
