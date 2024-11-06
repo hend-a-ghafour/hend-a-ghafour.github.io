@@ -274,6 +274,9 @@ Ensured data types and missing values were handled, particularly in shipping and
 
  </details>
 
+[Watch the video](https://drive.google.com/uc?export=download&id=1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe) 
+
+
 
 <strong><em>
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
