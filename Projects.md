@@ -267,15 +267,17 @@ Ensured data types and missing values were handled, particularly in shipping and
 <span style="color:#7c7959">The values presented (in USD) are rounded to the nearest thousand or million.</span></em>
 <br>
   
-
+<iframe src="https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/preview" width="640" height="480" allow="autoplay">
+  NorthWind Dashboard Overview
+</iframe>
 
  </details>
 
 
 
-<iframe src="https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/preview" width="640" height="480" allow="autoplay"></iframe>
 
-[Watch the video on Google Drive](https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubFe/preview)
+
+
 
 <strong><em>
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
