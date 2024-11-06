@@ -80,9 +80,15 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#ac9055">Performance-Based Retention:</span></em></strong><br> 
    Reevaluate performance rating criteria and termination practices to ensure fair and consistent employee assessments.<br>
   <strong><em><span style="color:#ac9055">Compensation Strategy:</span></em></strong><br> 
-    Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.
+    Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.<br><br><br><br>  
+    
+  <iframe src="https://drive.google.com/file/d/1iekujxqpucrgXOIYE7RqnP98Nse5UL94/preview" width="640" height="480" allow="autoplay">
+  Human Resources Dashboard Overview
+  </iframe>
+    <br>
   </p>
 </details>
+https://drive.google.com/file/d//view?usp=sharing
 <br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
 <h3><em><strong><span style="color:#7c7959"> No Show Apointments </span></strong></em></h3> 
 <em>Sep 2024 </em><center><strong><em><a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
@@ -265,19 +271,14 @@ Ensured data types and missing values were handled, particularly in shipping and
   </p>
 <em><strong><span style="color:#7c7959">Note</span></strong><br>
 <span style="color:#7c7959">The values presented (in USD) are rounded to the nearest thousand or million.</span></em>
-<br>
-  
+<br><br><br><br>  
 <iframe src="https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/preview" width="640" height="480" allow="autoplay">
   NorthWind Dashboard Overview
 </iframe>
 
  </details>
 
-
-
-
-
-
+<br><br><br><br>  
 
 <strong><em>
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
