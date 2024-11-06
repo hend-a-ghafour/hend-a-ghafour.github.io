@@ -267,13 +267,16 @@ Ensured data types and missing values were handled, particularly in shipping and
 <span style="color:#7c7959">The values presented (in USD) are rounded to the nearest thousand or million.</span></em>
 <br>
 
-![Northwind Dashboard Overview](https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/view?usp=sharing)
+
 
 
  </details>
 
+## Videos:
 
-<br>
+[Northwind Dashboard Overview](https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/view?usp=sharing)
+[HR Overview](https://drive.google.com/file/d/1iekujxqpucrgXOIYE7RqnP98Nse5UL94/view?usp=sharing)
+
 
 
     
