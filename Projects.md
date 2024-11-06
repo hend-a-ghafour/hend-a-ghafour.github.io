@@ -88,7 +88,7 @@ Verified data types, identified null values, and inspected unique entries, such 
     <br>
   </p>
 </details>
-https://drive.google.com/file/d//view?usp=sharing
+
 <br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
 <h3><em><strong><span style="color:#7c7959"> No Show Apointments </span></strong></em></h3> 
 <em>Sep 2024 </em><center><strong><em><a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
