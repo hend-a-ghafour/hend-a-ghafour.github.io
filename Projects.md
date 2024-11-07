@@ -420,16 +420,6 @@ Evaluated health indicators for each region over the specified period.<br>
 <br><br><br><br>  
 
 
-<a href="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" target="_blank">
-  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" width="100px" />
-</a>
-<a href="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" target="_blank">
-  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" width="100px" />
-</a>
-<a href="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" target="_blank">
-  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" width="100px" />
-</a> 
-
 
 <strong><em>  
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
