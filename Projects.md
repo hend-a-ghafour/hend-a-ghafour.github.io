@@ -289,6 +289,11 @@ Ensured data types and missing values were handled, particularly in shipping and
   </div>
 </div>
 
+
+![Carousel](https://drive.google.com/drive/u/0/folders/1pvkHiVa_Ug4AEn7fGYxugbqS8aVQzvc0)
+
+
+
 <strong><em>
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
 <span style="color:#243444"> Projects </span>
