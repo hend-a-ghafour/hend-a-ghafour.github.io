@@ -20,7 +20,7 @@
  <br> 
 <center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</p>
-<center><strong><em><span style="color:#0e5e5d"> Tools & Techniques </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
 <p style='text-align: justify;'><em><strong><span style="color:#ac9055"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p> 
 <center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
@@ -100,7 +100,7 @@ Verified data types, identified null values, and inspected unique entries, such 
  <br> 
 <center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>This project analyzes a dataset of 100,000 medical appointments in Brazil, focusing on the factors that impact patient attendance, such as demographics, health conditions, appointment scheduling gaps, and reminders. Key questions address the effects of gender, age, neighborhood, health conditions, and communication on attendance rates.</p>
-<center><strong><em><span style="color:#0e5e5d"> Tools & Techniques </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
   <strong><em><span style="color:#243444">Tools:</span></em></strong><br>
 <p style='text-align: justify;'><em><span style="color:#ac9055"> Python </span></em> for Data Assessment and Cleaning using <em><span style="color:#ac9055">Pandas</span></em> & <em><span style="color:#ac9055">Numpy</span></em>, and for Data Visualization using <em><span style="color:#ac9055"> Matplotlib</span></em> & <em><span style="color:#ac9055">Seaborn</span></em>.<br>
 <strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
