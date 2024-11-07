@@ -1,12 +1,12 @@
-## ***<center><span style="color:#0e5e5d">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
+## ***<center><span style="color:#ac9055">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
 <br>
 <strong><em>
-<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
-<a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
-<span style="color:#0e5e5d"> Testimonials </span>
-<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
-<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
-<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
+<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
+<a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
+<span style="color:#243444"> Testimonials </span>
+<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
+<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
+<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
 </em></strong>
 <br><br>
 <p >
@@ -28,10 +28,10 @@ Hend has demonstrated commendable dedication and enthusiasm for the course. Her 
 <br><br><br><br>
 
 <strong><em>
-<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
-<a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
-<span style="color:#0e5e5d"> Testimonials </span>
-<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
-<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
-<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
+<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
+<a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;">Projects</a>
+<span style="color:#243444"> Testimonials </span>
+<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
+<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
+<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
 </em></strong>
