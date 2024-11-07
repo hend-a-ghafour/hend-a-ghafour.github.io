@@ -281,11 +281,7 @@ Ensured data types and missing values were handled, particularly in shipping and
 
 
 
-<div style="display: flex; transition: transform 0.5s;">
-    <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Image 1" style="width: 100%; max-width: 600px;">
-    <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Image 2" style="width: 100%; max-width: 600px;">
-    <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Image 3" style="width: 100%; max-width: 600px;">
-  </div>
+
 
 ![1](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg) | ![1](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg) | ![1](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg)
 
