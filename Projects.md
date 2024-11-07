@@ -1,12 +1,12 @@
-## ***<center><span style="color:#0e5e5d">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
+## ***<center><span style="color:#ac9055">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
 <br>
 <strong><em>
-<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
-<span style="color:#0e5e5d"> Projects </span>
-<a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
-<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
-<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
-<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
+<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
+<span style="color:#243444"> Projects </span>
+<a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
+<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
+<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
+<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
 </em></strong>
 <br><br>
 
@@ -18,11 +18,11 @@
 <details>
   <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
  <br> 
-<center><strong><em><span style="color:#0e5e5d"> Overview </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.</p>
 <center><strong><em><span style="color:#0e5e5d"> Tools & Techniques </span></em></strong></center>
 <p style='text-align: justify;'><em><strong><span style="color:#ac9055"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.</p> 
-<center><strong><em><span style="color:#0e5e5d"> Roles & Responsibilities </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
 Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br>
@@ -32,7 +32,7 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
   </p>
-  <center><strong><em><span style="color:#0e5e5d"> Challenges Faced </span></em></strong></center>
+  <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Data Gaps:</span></em></strong><br>
   Identified missing values in critical fields, requiring strategies for accurate interpretation.<br>
@@ -41,7 +41,7 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#ac9055">Data Standardization:</span></em></strong><br>
     Needed to verify data consistency across branches and departments for accurate insights.<br>
 </p>
-<center><strong><em><span style="color:#0e5e5d"> Achievements </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Employee Analysis:</span></em></strong><br>
     Total employee count reached 8,950 (7,984 active, 966 terminated).<br>
@@ -58,7 +58,7 @@ Verified data types, identified null values, and inspected unique entries, such 
   <strong><em><span style="color:#ac9055">Educational Trends:</span></em></strong><br>
     Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.
   </p>
-<center><strong><em><span style="color:#0e5e5d"> Insights </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#ac9055">Hiring & Termination Trends:</span></em></strong><br> 
    The Operations department’s turnover was high, and New York HQ showed the highest activity, with a considerable termination rate.<br>
@@ -69,7 +69,7 @@ Verified data types, identified null values, and inspected unique entries, such 
  <strong><em><span style="color:#ac9055">Salary Disparities:</span></em></strong><br> 
     Significant disparities were observed, with males earning more at the bachelor’s level, while females earned more at the PhD level.
   </p>
-<center><strong><em><span style="color:#0e5e5d"> Future Application </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Future Application </span></em></strong></center>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#ac9055">Workforce Planning:</span></em></strong><br> 
     Explore hiring and termination trends to optimize staffing and reduce turnover in high-activity departments like Operations.<br>
@@ -98,10 +98,10 @@ Verified data types, identified null values, and inspected unique entries, such 
 <details>
   <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
  <br> 
-<center><strong><em><span style="color:#0e5e5d"> Overview </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>This project analyzes a dataset of 100,000 medical appointments in Brazil, focusing on the factors that impact patient attendance, such as demographics, health conditions, appointment scheduling gaps, and reminders. Key questions address the effects of gender, age, neighborhood, health conditions, and communication on attendance rates.</p>
 <center><strong><em><span style="color:#0e5e5d"> Tools & Techniques </span></em></strong></center>
-  <strong><em><span style="color:#ac9055">Tools:</span></em></strong><br>
+  <strong><em><span style="color:#243444">Tools:</span></em></strong><br>
 <p style='text-align: justify;'><em><span style="color:#ac9055"> Python </span></em> for Data Assessment and Cleaning using <em><span style="color:#ac9055">Pandas</span></em> & <em><span style="color:#ac9055">Numpy</span></em>, and for Data Visualization using <em><span style="color:#ac9055"> Matplotlib</span></em> & <em><span style="color:#ac9055">Seaborn</span></em>.<br>
 <strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
 Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.<br>
@@ -110,7 +110,7 @@ Applied statistical methods, including descriptive statistics, to understand pat
   <strong><em><span style="color:#ac9055">Visualization: </span></em></strong><br>
 Created charts and graphs to present findings on attendance patterns across different patient groups and appointment characteristics.<br>
 </p> 
-<center><strong><em><span style="color:#0e5e5d"> Roles & Responsibilities </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Data Preparation: </span></em></strong><br>
 Cleaned data and standardized labels to facilitate analysis.<br>
@@ -121,7 +121,7 @@ Cleaned data and standardized labels to facilitate analysis.<br>
   <strong><em><span style="color:#ac9055">Recommendation Development: </span></em></strong><br>
    Suggested approaches to improve appointment attendance, particularly through reminder systems and optimized scheduling.
 </p>
-  <center><strong><em><span style="color:#0e5e5d"> Challenges Faced </span></em></strong></center>
+  <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Data Complexity:</span></em></strong><br>
   A large number of variables, including demographic, health, and scheduling information, required careful analysis and categorization to maintain data integrity.<br>
@@ -130,7 +130,7 @@ Cleaned data and standardized labels to facilitate analysis.<br>
   <strong><em><span style="color:#ac9055">Data Completeness: </span></em></strong><br>
     Sparse neighborhood data limited definitive conclusions regarding neighborhood influence on attendance rates. Additionally, some appointment dates were recorded prior to their scheduled dates, leading to negative appointment gaps.<br>
 </p>
-<center><strong><em><span style="color:#0e5e5d"> Achievements </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Insights into Attendance Patterns:</span></em></strong><br>
     Identified key factors, such as age, neighborhood, and reminder messages, that impact attendance rates.<br>
@@ -139,7 +139,7 @@ Cleaned data and standardized labels to facilitate analysis.<br>
   <strong><em><span style="color:#ac9055">Categorization Model:</span></em></strong><br>
     Created a structured model for age and appointment gap categories to facilitate further analysis and comparisons.
   </p>
-<center><strong><em><span style="color:#0e5e5d"> Insights </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#ac9055">Gender: </span></em></strong><br> 
    Women make up the majority of patients, with a high attendance rate across both genders, indicating no significant difference in attendance based on gender.<br>
@@ -156,7 +156,7 @@ Cleaned data and standardized labels to facilitate analysis.<br>
     <strong><em><span style="color:#ac9055">Reminders: </span></em></strong><br> 
    Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.
   </p>
-<center><strong><em><span style="color:#0e5e5d"> Future Application </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Future Application </span></em></strong></center>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#ac9055">Enhanced Patient Reminder Systems:</span></em></strong><br> 
     Implement automated SMS or phone reminders to improve attendance rates, especially for moderate to long-gap appointments.<br>
@@ -181,9 +181,9 @@ Cleaned data and standardized labels to facilitate analysis.<br>
 <details>
   <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
  <br> 
-<center><strong><em><span style="color:#0e5e5d"> Overview </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>The Northwind database is a sample database created by Microsoft, containing the sales data of "Northwind Traders," a fictitious company that imports and exports specialty foods worldwide. It includes details on customers, orders, inventory, purchasing, suppliers, shipping, employees, and single-entry accounting.</p>
-<center><strong><em><span style="color:#0e5e5d"> Tools & Techniques </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">SQL: </span></em></strong><br>
 Created views and tables; adjusted database diagrams.<br>
@@ -192,7 +192,7 @@ Calculated growth rates.<br>
  <strong><em><span style="color:#ac9055">Excel:  </span></em></strong><br>
 Employed Power Query, Power Pivot, and pivot tables to analyze data, create relationships, and develop interactive dashboards.
 </p> 
-<center><strong><em><span style="color:#0e5e5d"> Roles & Responsibilities </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Data Cleaning and Standardization: </span></em></strong><br>
 Ensured data types and missing values were handled, particularly in shipping and ordering dates.<br>
@@ -201,7 +201,7 @@ Ensured data types and missing values were handled, particularly in shipping and
   <strong><em><span style="color:#ac9055">Dashboard Creation: </span></em></strong><br>
    Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.
 </p>
-  <center><strong><em><span style="color:#0e5e5d"> Challenges Faced </span></em></strong></center>
+  <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Incomplete Data: </span></em></strong><br>
   Sales records spanned only from July 1996 to May 1998, requiring careful adjustments in year-over-year comparisons.<br>
@@ -210,7 +210,7 @@ Ensured data types and missing values were handled, particularly in shipping and
   <strong><em><span style="color:#ac9055">Complex Growth Calculations: </span></em></strong><br>
     Analyzed growth across inconsistent time periods to derive accurate trends.
 </p>
-<center><strong><em><span style="color:#0e5e5d"> Achievements </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
   <p style='text-align: justify;'>
   <strong><em><span style="color:#ac9055">Growth Analysis Adjustments:</span></em></strong><br>
     Created an "Actual Country Growth Table," yielding more accurate comparisons by aligning half-year periods for better insights.<br>
@@ -222,7 +222,7 @@ Ensured data types and missing values were handled, particularly in shipping and
     Completed a comprehensive, interactive dashboard with critical sales insights and key metrics.
   </p>
   <p style='text-align: justify;'> 
-  <center><strong><em><span style="color:#0e5e5d"> Insights </span></em></strong></center>
+  <center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
     <strong><em><span style="color:#ac9055">Sales and Orders:</span></em></strong>
     <ul>
      <li><em><span style="color:#3e3c2c">Orders Summary:</span></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li>
@@ -260,7 +260,7 @@ Ensured data types and missing values were handled, particularly in shipping and
       <li><em><span style="color:#3e3c2c">Highest On-Time Deliveries:</span></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.</li>
   </ul>
     </p>
-<center><strong><em><span style="color:#0e5e5d"> Future Application </span></em></strong></center>
+<center><strong><em><span style="color:#243444"> Future Application </span></em></strong></center>
   <p style='text-align: justify;'> 
   <strong><em><span style="color:#ac9055">Improve Inventory Management: </span></em></strong><br> 
     Use reorder level and stock status data to streamline restocking processes.<br>
@@ -281,10 +281,10 @@ Ensured data types and missing values were handled, particularly in shipping and
 <br><br><br><br>  
 
 <strong><em>
-<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
-<span style="color:#0e5e5d"> Projects </span>
-<a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
-<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
-<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
-<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#0e5e5d; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
+<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
+<span style="color:#243444"> Projects </span>
+<a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
+<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
+<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
+<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
 </em></strong>
