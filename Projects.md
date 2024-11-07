@@ -281,7 +281,7 @@ Ensured data types and missing values were handled, particularly in shipping and
 <br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
 <h3><em><strong><span style="color:#7c7959"> Death & Life Expectancy for Mothers & Children </span></strong></em></h3> 
 <center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
-
+<br><br>
 
 ![Death & Life](https://hend-a-ghafour.github.io/Media/DeathLifeExpectancyforMothersChildren.jpg)
 
@@ -362,6 +362,7 @@ Evaluated health indicators for each region over the specified period.<br>
 <br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
 <h3><em><strong><span style="color:#7c7959"> US Bikeshare </span></strong></em></h3> 
 <center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/bikeshare.py" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
+<br><br>
 
 ![US Bikeshare](https://hend-a-ghafour.github.io/Media/USBikeshare.jpg)
 
