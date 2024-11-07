@@ -301,12 +301,14 @@ Ensured data types and missing values were handled, particularly in shipping and
 </p> 
 <center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
-  <strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
+  <ul>
+ <li> <strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
 Evaluated health indicators for each region over the specified period.<br>
-  <strong><em><span style="color:#ac9055">Comparative Analysis:  </span></em></strong><br>
+ <li> <strong><em><span style="color:#ac9055">Comparative Analysis:  </span></em></strong><br>
    Compared indicators across regions and years to identify trends and patterns.<br>
-  <strong><em><span style="color:#ac9055">Additional Research:</span></em></strong><br>
+  <li><strong><em><span style="color:#ac9055">Additional Research:</span></em></strong><br>
    Investigated improvements, inconsistencies, and relationships between indicators.<br>
+  </ul>
 </p>
   <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
   <p style='text-align: justify;'>
@@ -317,29 +319,33 @@ Evaluated health indicators for each region over the specified period.<br>
 </p>
 <center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
   <p style='text-align: justify;'>
-  <strong><em><span style="color:#ac9055">Trend Identification:</span></em></strong><br>
+    <ul>
+ <li> <strong><em><span style="color:#ac9055">Trend Identification:</span></em></strong><br>
     Noted trends such as decreasing Total Fertility Rates, Child Mortality Rates, and Maternal Mortality Rates across all regions.<br>
-  <strong><em><span style="color:#ac9055">Regional Insights:</span></em></strong><br>
+  <li><strong><em><span style="color:#ac9055">Regional Insights:</span></em></strong><br>
    Identified which regions had the highest and lowest values for each indicator.<br>
-  <strong><em><span style="color:#ac9055">Correlation Analysis:</span></em></strong><br>
+  <li><strong><em><span style="color:#ac9055">Correlation Analysis:</span></em></strong><br>
     Found relationships between health expenditure indicators and various health outcomes.
+    </ul>
   </p>
 <center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
   <p style='text-align: justify;'> 
-  <strong><em><span style="color:#ac9055">Total Fertility Rate:</span></em></strong><br> 
+    <ul>
+  <li><strong><em><span style="color:#ac9055">Total Fertility Rate:</span></em></strong><br> 
    Decreased overall, with AFR showing the highest rates and EUR the lowest.<br>
- <strong><em><span style="color:#ac9055">Births Attended by Skilled Health Staff: </span></em></strong><br> 
+ <li><strong><em><span style="color:#ac9055">Births Attended by Skilled Health Staff: </span></em></strong><br> 
    Highest in EUR and lowest in AFR. Inconsistencies in data affected the ability to determine relationships with other indicators.<br>
-  <strong><em><span style="color:#ac9055">Child Mortality Rate:</span></em></strong><br> 
+  <li><strong><em><span style="color:#ac9055">Child Mortality Rate:</span></em></strong><br> 
     Decreased globally, with AFR having the highest and EUR the lowest rates.<br>
- <strong><em><span style="color:#ac9055">Maternal Mortality Rate:</span></em></strong><br> 
+ <li><strong><em><span style="color:#ac9055">Maternal Mortality Rate:</span></em></strong><br> 
    Showed a global decrease, with AFR experiencing the highest rates and EUR the lowest.<br>
-    <strong><em><span style="color:#ac9055">Average Life Expectancy: </span></em></strong><br> 
+    <li><strong><em><span style="color:#ac9055">Average Life Expectancy: </span></em></strong><br> 
   Increased across regions, with EUR having the highest and AFR the lowest.<br>
-    <strong><em><span style="color:#ac9055">Total Health Spending per Person:  </span></em></strong><br> 
+   <li> <strong><em><span style="color:#ac9055">Total Health Spending per Person:  </span></em></strong><br> 
     Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.<br>
-    <strong><em><span style="color:#ac9055">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
+   <li> <strong><em><span style="color:#ac9055">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
    Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.
+    </ul>
   </p>
 <center><strong><em><span style="color:#243444"> Future Application </span></em></strong></center>
   <p style='text-align: justify;'> 
@@ -375,9 +381,7 @@ Evaluated health indicators for each region over the specified period.<br>
 </p> 
 <center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
 <p style='text-align: justify;'>
-  <center>
   I independently conducted all aspects of the project, including coding the analysis scripts, and preparing and presenting findings.
-  </center>
 </p>
   <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
   <p style='text-align: justify;'>
@@ -388,14 +392,16 @@ Evaluated health indicators for each region over the specified period.<br>
 </p>
 <center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
   <p style='text-align: justify;'>
-  <strong><em><span style="color:#ac9055">Popular Times of Travel:</span></em></strong><br>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Popular Times of Travel:</span></em></strong><br>
    Identified the most common month, day of the week, and hour of the day for bike rentals.
-  <strong><em><span style="color:#ac9055">Popular Stations and Trips: </span></em></strong><br>
+      <li>><strong><em><span style="color:#ac9055">Popular Stations and Trips: </span></em></strong><br>
    Determined the most common start and end stations, as well as the most frequent trips.<br>
-  <strong><em><span style="color:#ac9055">Trip Duration:</span></em></strong><br>
+      <li><strong><em><span style="color:#ac9055">Trip Duration:</span></em></strong><br>
     Calculated total and average travel times.
-  <strong><em><span style="color:#ac9055">User Info:</span></em></strong><br>
+      <li><strong><em><span style="color:#ac9055">User Info:</span></em></strong><br>
     Counted each user type (e.g., subscriber, customer), & Analyzed gender-specific data and birth years for NYC and Chicago.
+    </ul>
   </p>
 <center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
   <p style='text-align: justify;'> 
