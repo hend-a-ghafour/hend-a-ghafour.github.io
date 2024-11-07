@@ -287,8 +287,21 @@ Ensured data types and missing values were handled, particularly in shipping and
     <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Image 3" style="width: 100%; max-width: 600px;">
   </div>
 
+![1](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg) | ![1](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg) | ![1](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg)
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Photo 1" style="width: 30%;">
+  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Photo 2" style="width: 30%;">
+  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Photo 3" style="width: 30%;">
+  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Photo 4" style="width: 30%;">
+  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Photo 5" style="width: 30%;">
+  <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Photo 6" style="width: 30%;">
+</div>
 <strong><em>
+
+
+  
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
 <span style="color:#243444"> Projects </span>
 <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
