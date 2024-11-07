@@ -1,4 +1,4 @@
-## ***<center><span style="color:#0e5e5d">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
+## ***<center><span style="color:#ac9055">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
 <br>
 <strong><em>
 <span style="color:#243444"> About Me </span>
