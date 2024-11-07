@@ -303,11 +303,11 @@ Ensured data types and missing values were handled, particularly in shipping and
 <p style='text-align: justify;'>
   <ul>
  <li> <strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
-Evaluated health indicators for each region over the specified period.<br>
+Evaluated health indicators for each region over the specified period.</li>
  <li> <strong><em><span style="color:#ac9055">Comparative Analysis:  </span></em></strong><br>
-   Compared indicators across regions and years to identify trends and patterns.<br>
+   Compared indicators across regions and years to identify trends and patterns.</li>
   <li><strong><em><span style="color:#ac9055">Additional Research:</span></em></strong><br>
-   Investigated improvements, inconsistencies, and relationships between indicators.<br>
+   Investigated improvements, inconsistencies, and relationships between indicators.</li>
   </ul>
 </p>
   <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
