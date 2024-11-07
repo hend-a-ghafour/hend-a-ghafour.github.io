@@ -291,7 +291,8 @@ Ensured data types and missing values were handled, particularly in shipping and
  <br> 
 <center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
 <p style='text-align: justify;'>The dataset analyzes seven indicators impacting maternal and child health from 1995 to 2010 across six WHO regions. These indicators include Total Fertility Rate, Percentage of Births Attended by Skilled Health Staff, Child Mortality Rate, Maternal Mortality Rate, Average Life Expectancy, Total Health Spending per Person in USD, and Percentage of Total Health Expenditure in GDP.</p>
-<center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
+<p style='text-align: justify;'>
+  <center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
   <ul>
     <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
     <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> Pandas - Numpy</li>
@@ -358,11 +359,14 @@ Evaluated health indicators for each region over the specified period.<br>
 
 ![US Bikeshare](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/USBikeshare.jpg)
 
+
 <details>
   <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
  <br> 
 <center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
-<p style='text-align: justify;'>This project analyzed bikeshare data from Chicago, New York City, and Washington to uncover usage patterns and user demographics.</p>
+<p style='text-align: justify;'>This project analyzed bikeshare data from Chicago, New York City, and Washington to uncover usage patterns and user demographics.
+</p>
+ <p style='text-align: justify;'> 
 <center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
   <ul>
     <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
