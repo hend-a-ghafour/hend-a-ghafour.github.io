@@ -279,6 +279,16 @@ Ensured data types and missing values were handled, particularly in shipping and
 
 <br><br><br><br>  
 
+# Gallary:
+
+<div id="carousel" style="width: 100%; max-width: 600px; overflow: hidden;">
+  <div style="display: flex; transition: transform 0.5s;">
+    <img src="hend-a-ghafour.github.io/Media/Titanic-Dashboard.jpg" alt="Image 1" style="width: 100%; max-width: 600px;">
+    <img src="hend-a-ghafour.github.io/Media/Superstore-Dashboard.jpg" alt="Image 2" style="width: 100%; max-width: 600px;">
+    <img src="hend-a-ghafour.github.io/Media/Titanic-Dashboard.jpg" alt="Image 3" style="width: 100%; max-width: 600px;">
+  </div>
+</div>
+
 <strong><em>
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
 <span style="color:#243444"> Projects </span>
