@@ -360,11 +360,9 @@ Evaluated health indicators for each region over the specified period.</li>
 
 <br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
 <h3><em><strong><span style="color:#7c7959"> US Bikeshare </span></strong></em></h3> 
-<center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/bikeshare.py" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
-<br><br>
+<center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/bikeshare.py" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> <br><br>
 
 ![US Bikeshare](https://hend-a-ghafour.github.io/Media/USBikeshare.jpg)
-
 
 <details>
   <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
@@ -422,11 +420,7 @@ Evaluated health indicators for each region over the specified period.</li>
   </p>
 
 </details>
-
-
 <br><br><br><br>  
-
-
 
 <strong><em>  
 <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
