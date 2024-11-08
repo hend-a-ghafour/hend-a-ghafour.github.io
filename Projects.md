@@ -358,6 +358,70 @@ Evaluated health indicators for each region over the specified period.</li>
 
 </details>
 
+<br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
+<h3><em><strong><span style="color:#7c7959"> US Bikeshare </span></strong></em></h3> 
+<center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/bikeshare.py" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
+<br><br>
+
+![US Bikeshare](https://hend-a-ghafour.github.io/Media/USBikeshare.jpg)
+
+
+<details>
+  <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
+ <br> 
+<center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
+<p style='text-align: justify;'>This project analyzed bikeshare data from Chicago, New York City, and Washington to uncover usage patterns and user demographics.
+</p>
+ <p style='text-align: justify;'> 
+<center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
+  <ul>
+    <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
+    <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> Pandas - Numpy</li>
+  </ul>
+</p> 
+<center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
+<p style='text-align: justify;'>
+  I independently conducted all aspects of the project, including coding the analysis scripts, and preparing and presenting findings.
+</p>
+  <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li>Developed an interactive terminal script for real-time statistics based on user input.</li>
+      <li>Managed data discrepancies across cities and datasets.</li>
+    </ul>
+</p>
+<center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Popular Times of Travel:</span></em></strong><br>
+   Identified the most common month, day of the week, and hour of the day for bike rentals.
+      <li>><strong><em><span style="color:#ac9055">Popular Stations and Trips: </span></em></strong><br>
+   Determined the most common start and end stations, as well as the most frequent trips.<br>
+      <li><strong><em><span style="color:#ac9055">Trip Duration:</span></em></strong><br>
+    Calculated total and average travel times.
+      <li><strong><em><span style="color:#ac9055">User Info:</span></em></strong><br>
+    Counted each user type (e.g., subscriber, customer), & Analyzed gender-specific data and birth years for NYC and Chicago.
+    </ul>
+  </p>
+<center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
+  <p style='text-align: justify;'> 
+  <ul>
+      <li>Peak rental times align with commuting hours, suggesting daily transportation use.</li>
+      <li>Popular stations are near landmarks or transportation hubs, indicating high-demand areas.</li>
+      <li>Average ride lengths and travel time variability provided insights into trip duration.</li>
+      <li>User demographics analysis revealed the composition by user type and gender.</li>
+  </ul>
+  </p>
+<center><strong><em><span style="color:#243444"> Future Application </span></em></strong></center>
+  <p style='text-align: justify;'> 
+    <ul>
+      <li> Expand analysis to additional cities or more recent data for evolving usage patterns.</li>
+      <li> Enhance the terminal script's interactivity for detailed queries and customized outputs.</li>
+      <li> Explore correlations between bikeshare usage and external factors such as weather or events.</li>
+    </ul>
+  </p>
+
+</details>
 
 
 <br><br><br><br>  
