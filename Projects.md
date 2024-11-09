@@ -471,96 +471,161 @@
       <li><strong><em><span style="color:#ac9055">Excel:  </span></em></strong><br>
         Employed Power Query, Power Pivot, and pivot tables to analyze data, create relationships, and develop interactive dashboards.</li>
     </ul>
-  </p>  
- 
-<center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
-<p style='text-align: justify;'>
-  <strong><em><span style="color:#ac9055">Data Cleaning and Standardization: </span></em></strong><br>
-Ensured data types and missing values were handled, particularly in shipping and ordering dates.<br>
-  <strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
-   Analyzed sales trends, customer demographics, shipping efficiency, and product performance.<br>
-  <strong><em><span style="color:#ac9055">Dashboard Creation: </span></em></strong><br>
-   Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.
-</p>
-  <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
+  </p> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Roles & Responsibilities 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'>
-  <strong><em><span style="color:#ac9055">Incomplete Data: </span></em></strong><br>
-  Sales records spanned only from July 1996 to May 1998, requiring careful adjustments in year-over-year comparisons.<br>
-  <strong><em><span style="color:#ac9055">Data Consistency: </span></em></strong><br>
-   Managed inconsistencies in order quantities and stock levels, and standardized date data types.<br>
-  <strong><em><span style="color:#ac9055">Complex Growth Calculations: </span></em></strong><br>
-    Analyzed growth across inconsistent time periods to derive accurate trends.
-</p>
-<center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
-  <p style='text-align: justify;'>
-  <strong><em><span style="color:#ac9055">Growth Analysis Adjustments:</span></em></strong><br>
-    Created an "Actual Country Growth Table," yielding more accurate comparisons by aligning half-year periods for better insights.<br>
-  <strong><em><span style="color:#ac9055">Order and Customer Insights: </span></em></strong><br>
-   Classified 89 customers into new or repeat based on order activity, facilitating customer tracking and targeted insights.<br>
-  <strong><em><span style="color:#ac9055">Comprehensive Inventory Status:</span></em></strong><br>
-    Developed a robust stock status system, classifying products into Safe Stock, Restock Needed, No Restock, and Stopped.<br>
-  <strong><em><span style="color:#ac9055">Dashboard:</span></em></strong><br>
-    Completed a comprehensive, interactive dashboard with critical sales insights and key metrics.
-  </p>
-  <p style='text-align: justify;'> 
-  <center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
-    <strong><em><span style="color:#ac9055">Sales and Orders:</span></em></strong>
     <ul>
-     <li><em><span style="color:#3e3c2c">Orders Summary:</span></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li>
-     <li><em><span style="color:#3e3c2c">Shipping Efficiency:</span></em> Average shipping time was 8.48 days.</li>
+      <li><strong><em><span style="color:#ac9055">Data Cleaning and Standardization: </span></em></strong><br>
+      Ensured data types and missing values were handled, particularly in shipping and ordering dates.</li>
+      <li><strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
+      Analyzed sales trends, customer demographics, shipping efficiency, and product performance.</li>
+      <li><strong><em><span style="color:#ac9055">Dashboard Creation: </span></em></strong><br>
+      Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.</li>
     </ul>
- <strong><em><span style="color:#ac9055">Product Analysis:</span></em></strong>
-  <ul>
-    <li><em><span style="color:#3e3c2c">Product Categories:</span></em> 8 categories with 77 products.</li>
-    <li><em><span style="color:#3e3c2c">Net Sales:</span></em> $1,265,793.18; Net Revenue: $89K.</li>
-    <li><em><span style="color:#3e3c2c">Discounts:</span></em> Totaled $89K across all products</li>
-    <li><em><span style="color:#3e3c2c">Shipping Cost:</span></em> $65K.</li>
-    <li><em><span style="color:#3e3c2c">Highest Net Sales by Month:</span></em> Achieved in April 1998, totaling $124K.</li>
-  </ul>
-  <strong><em><span style="color:#ac9055">Geographical Insights:</span></em></strong>
-  <ul>
-    <li><em><span style="color:#3e3c2c">Top Countries by Sales:</span></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li>
-    <li><em><span style="color:#3e3c2c">Country with Most Customers: </span></em>  USA, with 13 recorded customers.</li>
-    <li><em><span style="color:#3e3c2c">Discount Performance by Country: </span></em> USA had the highest discounts and net sales across all three years.</li>
-  </ul>
- <strong><em><span style="color:#ac9055">Customer Insights:</span></em></strong>
-  <ul>
-    <li><em><span style="color:#3e3c2c">Total Amount Paid by Customers (Including Shipping):</span></em> $1.3M.</li>
-    <li><em><span style="color:#3e3c2c">New Customers in 1998:</span> </em> 1 new customer.</li>
-    <li><em><span style="color:#3e3c2c">Highest Monthly Sales: </span> </em> April 1998, driven by 51 customers placing orders.</li>
-  </ul>
-  <strong><em><span style="color:#ac9055">Product Stock and Reorder Analysis:</span></em></strong>
-  <ul>
-     <li><em><span style="color:#3e3c2c">Continued & Discontinued Products:</span></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
-     <li><em><span style="color:#3e3c2c">Top Category by Performance:</span></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
-  </ul>
-<strong><em><span style="color:#ac9055">Shipping Companies:</span></em></strong>
-  <ul>
-    <li><em><span style="color:#3e3c2c">Top Freight Costs by Year:</span></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li>
-     <li><em><span style="color:#3e3c2c">Delivery Performance:</span></em> 809 orders were shipped to their destination, with 772 delivered on time.</li>
-      <li><em><span style="color:#3e3c2c">Highest On-Time Deliveries:</span></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.</li>
-  </ul>
-    </p>
-<center><strong><em><span style="color:#243444"> Future Application </span></em></strong></center>
-  <p style='text-align: justify;'> 
-  <strong><em><span style="color:#ac9055">Improve Inventory Management: </span></em></strong><br> 
-    Use reorder level and stock status data to streamline restocking processes.<br>
-  <strong><em><span style="color:#ac9055">Optimize Shipping Processes:  </span></em></strong><br> 
-    Increase on-time deliveries by selecting shipping companies based on past performance.<br>
-  <strong><em><span style="color:#ac9055">Enhance Customer Targeting:</span></em></strong><br> 
-    Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.
   </p>
-<em><strong><span style="color:#7c7959">Note</span></strong><br>
-<span style="color:#7c7959">The values presented (in USD) are rounded to the nearest thousand or million.</span></em>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Challenges Faced 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Incomplete Data: </span></em></strong><br>
+      Sales records spanned only from July 1996 to May 1998, requiring careful adjustments in year-over-year comparisons.</li>
+      <li><strong><em><span style="color:#ac9055">Data Consistency: </span></em></strong><br>
+      Managed inconsistencies in order quantities and stock levels, and standardized date data types.</li>
+      <li><strong><em><span style="color:#ac9055">Complex Growth Calculations: </span></em></strong><br>
+      Analyzed growth across inconsistent time periods to derive accurate trends.</li>
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Achievements 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Growth Analysis Adjustments:</span></em></strong><br>
+        Created an "Actual Country Growth Table," yielding more accurate comparisons by aligning half-year periods for better insights.</li>
+      <li><strong><em><span style="color:#ac9055">Order and Customer Insights: </span></em></strong><br>
+        Classified 89 customers into new or repeat based on order activity, facilitating customer tracking and targeted insights.</li>
+      <li><strong><em><span style="color:#ac9055">Comprehensive Inventory Status:</span></em></strong><br>
+        Developed a robust stock status system, classifying products into Safe Stock, Restock Needed, No Restock, and Stopped.</li>
+      <li><strong><em><span style="color:#ac9055">Dashboard:</span></em></strong><br>
+        Completed a comprehensive, interactive dashboard with critical sales insights and key metrics.</li>
+    </ul>
+  </p>
+  <p style='text-align: justify;'>
+    <center>
+      <strong>
+        <em>
+          <span style="color:#243444"> 
+            Insights 
+          </span>
+        </em>
+      </strong>
+    </center>
+    <ul>
+    <li><strong><em><span style="color:#ac9055">Sales and Orders:</span></em></strong></li>
+      <ul>
+        <li><em><span style="color:#3e3c2c">Orders Summary:</span></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li>
+        <li><em><span style="color:#3e3c2c">Shipping Efficiency:</span></em> Average shipping time was 8.48 days.</li>
+      </ul>
+      <li><strong><em><span style="color:#ac9055">Product Analysis:</span></em></strong></li>
+      <ul>
+        <li><em><span style="color:#3e3c2c">Product Categories:</span></em> 8 categories with 77 products.</li>
+        <li><em><span style="color:#3e3c2c">Net Sales:</span></em> $1,265,793.18; Net Revenue: $89K.</li>
+        <li><em><span style="color:#3e3c2c">Discounts:</span></em> Totaled $89K across all products</li>
+        <li><em><span style="color:#3e3c2c">Shipping Cost:</span></em> $65K.</li>
+        <li><em><span style="color:#3e3c2c">Highest Net Sales by Month:</span></em> Achieved in April 1998, totaling $124K.</li>
+      </ul>
+      <li><strong><em><span style="color:#ac9055">Geographical Insights:</span></em></strong></li>
+      <ul>
+        <li><em><span style="color:#3e3c2c">Top Countries by Sales:</span></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li>
+        <li><em><span style="color:#3e3c2c">Country with Most Customers: </span></em>  USA, with 13 recorded customers.</li>
+        <li><em><span style="color:#3e3c2c">Discount Performance by Country: </span></em> USA had the highest discounts and net sales across all three years.</li>
+      </ul>
+      <li><strong><em><span style="color:#ac9055">Customer Insights:</span></em></strong></li>
+      <ul>
+        <li><em><span style="color:#3e3c2c">Total Amount Paid by Customers (Including Shipping):</span></em> $1.3M.</li>
+        <li><em><span style="color:#3e3c2c">New Customers in 1998:</span> </em> 1 new customer.</li>
+        <li><em><span style="color:#3e3c2c">Highest Monthly Sales: </span> </em> April 1998, driven by 51 customers placing orders.</li>
+      </ul>
+      <li><strong><em><span style="color:#ac9055">Product Stock and Reorder Analysis:</span></em></strong></li>
+      <ul>
+        <li><em><span style="color:#3e3c2c">Continued & Discontinued Products:</span></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
+        <li><em><span style="color:#3e3c2c">Top Category by Performance:</span></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
+      </ul>
+      <li><strong><em><span style="color:#ac9055">Shipping Companies:</span></em></strong></li>
+      <ul>
+        <li><em><span style="color:#3e3c2c">Top Freight Costs by Year:</span></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li>
+        <li><em><span style="color:#3e3c2c">Delivery Performance:</span></em> 809 orders were shipped to their destination, with 772 delivered on time.</li>
+        <li><em><span style="color:#3e3c2c">Highest On-Time Deliveries:</span></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.</li>
+      </ul>
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Future Application 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'> 
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Improve Inventory Management: </span></em></strong><br> 
+        Use reorder level and stock status data to streamline restocking processes.</li>
+      <li><strong><em><span style="color:#ac9055">Optimize Shipping Processes:  </span></em></strong><br> 
+        Increase on-time deliveries by selecting shipping companies based on past performance.</li>
+      <li><strong><em><span style="color:#ac9055">Enhance Customer Targeting:</span></em></strong><br> 
+        Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.</li>
+    </ul>
+  </p>
+  <em>
+    <strong>
+      <span style="color:#7c7959">
+        Note
+      </span>
+    </strong>
+    <br>
+    <span style="color:#7c7959">
+      The values presented (in USD) are rounded to the nearest thousand or million.
+    </span>
+  </em>
 <br><br>  
-<iframe src="https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/preview" width="640" height="480" allow="autoplay">
-  NorthWind Dashboard Overview
-</iframe>
-
- </details>
+  <iframe src="https://drive.google.com/file/d/1Jm3ymP9wak4yjIfGOBeUfZDp13yubvFe/preview" width="640" height="480" allow="autoplay">
+    NorthWind Dashboard Overview
+  </iframe>
+</details>
 
  
-<br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
+<br><br>
+<center>
+  <strong>
+    <span style="color:#DCDCDC">
+      ______________________________________________________
+    </span>
+  </strong>
+</center>
+<br><br>
 <h3><em><strong><span style="color:#7c7959"> Death & Life Expectancy for Mothers & Children </span></strong></em></h3> 
 <center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
 <br><br>
