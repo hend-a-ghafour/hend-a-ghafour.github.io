@@ -733,11 +733,11 @@
   <p style='text-align: justify;'>
     <ul>
       <li> <strong><em><span style="color:#ac9055">Trend Identification:</span></em></strong><br>
-        Noted trends such as decreasing Total Fertility Rates, Child Mortality Rates, and Maternal Mortality Rates across all regions.<br>
+        Noted trends such as decreasing Total Fertility Rates, Child Mortality Rates, and Maternal Mortality Rates across all regions.</li>
       <li><strong><em><span style="color:#ac9055">Regional Insights:</span></em></strong><br>
-        Identified which regions had the highest and lowest values for each indicator.<br>
+        Identified which regions had the highest and lowest values for each indicator.</li>
       <li><strong><em><span style="color:#ac9055">Correlation Analysis:</span></em></strong><br>
-        Found relationships between health expenditure indicators and various health outcomes.
+        Found relationships between health expenditure indicators and various health outcomes.</li>
     </ul>
   </p>
   <center>
@@ -752,19 +752,19 @@
   <p style='text-align: justify;'> 
     <ul>
       <li><strong><em><span style="color:#ac9055">Total Fertility Rate:</span></em></strong><br> 
-        Decreased overall, with AFR showing the highest rates and EUR the lowest.<br>
+        Decreased overall, with AFR showing the highest rates and EUR the lowest.</li>
       <li><strong><em><span style="color:#ac9055">Births Attended by Skilled Health Staff: </span></em></strong><br> 
-        Highest in EUR and lowest in AFR. Inconsistencies in data affected the ability to determine relationships with other indicators.<br>
+        Highest in EUR and lowest in AFR. Inconsistencies in data affected the ability to determine relationships with other indicators.</li>
       <li><strong><em><span style="color:#ac9055">Child Mortality Rate:</span></em></strong><br> 
-        Decreased globally, with AFR having the highest and EUR the lowest rates.<br>
+        Decreased globally, with AFR having the highest and EUR the lowest rates.</li>
       <li><strong><em><span style="color:#ac9055">Maternal Mortality Rate:</span></em></strong><br> 
-        Showed a global decrease, with AFR experiencing the highest rates and EUR the lowest.<br>
+        Showed a global decrease, with AFR experiencing the highest rates and EUR the lowest.</li>
       <li><strong><em><span style="color:#ac9055">Average Life Expectancy: </span></em></strong><br> 
-        Increased across regions, with EUR having the highest and AFR the lowest.<br>
+        Increased across regions, with EUR having the highest and AFR the lowest.</li>
       <li> <strong><em><span style="color:#ac9055">Total Health Spending per Person:  </span></em></strong><br> 
-        Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.<br>
+        Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.</li>
       <li> <strong><em><span style="color:#ac9055">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
-        Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.
+        Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.</li>
     </ul>
   </p>
   <center>
@@ -803,57 +803,131 @@
     </strong>
   </em>
 </h3> 
-<center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/bikeshare.py" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> <br><br>
+<center>
+  <strong>
+    <em>
+      <a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/bikeshare.py" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
+        View Project 
+      </a>
+    </em>
+  </strong>
+</center> 
+<br><br>
 
 ![US Bikeshare](https://hend-a-ghafour.github.io/Media/USBikeshare.jpg)
 
 <details>
-  <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
- <br> 
-<center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
-<p style='text-align: justify;'>This project analyzed bikeshare data from Chicago, New York City, and Washington to uncover usage patterns and user demographics.
-</p>
- <p style='text-align: justify;'> 
-<center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
-  <ul>
-    <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
-    <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> Pandas - Numpy</li>
-  </ul>
-</p> 
-<center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
-<p style='text-align: justify;'>
-  I independently conducted all aspects of the project, including coding the analysis scripts, and preparing and presenting findings.
-</p>
-  <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
+  <summary>
+    <em>
+      <strong>
+        <span style="color:#7c7959">
+          See More
+        </span>
+      </strong>
+    </em>
+  </summary>
+  <br> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Overview 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: center;'>
+    This project analyzed bikeshare data from Chicago, New York City, and Washington to uncover usage patterns and user demographics.
+  </p>
+  <p style='text-align: justify;'>
+    <center>
+      <strong>
+        <em>
+          <span style="color:#243444">
+            Tools & Techniques 
+          </span>
+        </em>
+      </strong>
+    </center>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
+      <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> Pandas - Numpy</li>
+    </ul>
+  </p> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Roles & Responsibilities 
+        </span>
+      </em>
+  </strong>
+  </center>
+  <p style='text-align: center;'>
+    I independently conducted all aspects of the project, including coding the analysis scripts, and preparing and presenting findings.
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Challenges Faced 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'>
     <ul>
       <li>Developed an interactive terminal script for real-time statistics based on user input.</li>
       <li>Managed data discrepancies across cities and datasets.</li>
     </ul>
-</p>
-<center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Achievements 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'>
     <ul>
       <li><strong><em><span style="color:#ac9055">Popular Times of Travel:</span></em></strong><br>
-   Identified the most common month, day of the week, and hour of the day for bike rentals.
+        Identified the most common month, day of the week, and hour of the day for bike rentals.</li>
       <li>><strong><em><span style="color:#ac9055">Popular Stations and Trips: </span></em></strong><br>
-   Determined the most common start and end stations, as well as the most frequent trips.<br>
+        Determined the most common start and end stations, as well as the most frequent trips.</li>
       <li><strong><em><span style="color:#ac9055">Trip Duration:</span></em></strong><br>
-    Calculated total and average travel times.
+        Calculated total and average travel times.</li>
       <li><strong><em><span style="color:#ac9055">User Info:</span></em></strong><br>
-    Counted each user type (e.g., subscriber, customer), & Analyzed gender-specific data and birth years for NYC and Chicago.
+        Counted each user type (e.g., subscriber, customer), & Analyzed gender-specific data and birth years for NYC and Chicago.</li>
     </ul>
   </p>
-<center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Insights 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'> 
-  <ul>
+    <ul>
       <li>Peak rental times align with commuting hours, suggesting daily transportation use.</li>
       <li>Popular stations are near landmarks or transportation hubs, indicating high-demand areas.</li>
       <li>Average ride lengths and travel time variability provided insights into trip duration.</li>
       <li>User demographics analysis revealed the composition by user type and gender.</li>
-  </ul>
+    </ul>
   </p>
-<center><strong><em><span style="color:#243444"> Future Application </span></em></strong></center>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Future Application 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'> 
     <ul>
       <li> Expand analysis to additional cities or more recent data for evolving usage patterns.</li>
@@ -861,15 +935,28 @@
       <li> Explore correlations between bikeshare usage and external factors such as weather or events.</li>
     </ul>
   </p>
-
 </details>
 <br><br><br><br>  
 
-<strong><em>  
-<a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> About Me </a>
-<span style="color:#243444"> Projects </span>
-<a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Testimonials </a>
-<a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Experience </a>
-<a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Education </a>
-<a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> Contact </a>
-</em></strong>
+<strong>
+  <em>
+    <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> 
+      About Me 
+    </a>
+    <span style="color:#243444"> 
+      Projects 
+    </span>
+    <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> 
+      Testimonials 
+    </a>
+    <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> 
+      Experience 
+    </a>
+    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> 
+      Education 
+    </a>
+    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:5px 8px; color:white; background-color:#243444; text-align:center; text-decoration:none; border-radius:2px;"> 
+      Contact 
+    </a>
+  </em>
+</strong>
