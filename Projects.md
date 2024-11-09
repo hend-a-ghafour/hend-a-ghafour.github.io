@@ -266,18 +266,10 @@
       </em>
     </strong>
   </center>
-  <strong>
-    <em>
-      <span style="color:#ac9055">
-        Tools:
-      </span>
-    </em>
-  </strong>
-  <br>
   <p style='text-align: justify;'>
-    <center><em><span style="color:#ac9055"> Python </span></em> for Data Assessment and Cleaning using <em><span style="color:#ac9055">Pandas</span></em> & <em><span style="color:#ac9055">Numpy</span></em>, and for Data Visualization using <em><span style="color:#ac9055"> Matplotlib</span></em> & <em><span style="color:#ac9055">Seaborn</span></em>.</center>
-    <br>
     <ul>
+      <li><strong><em><span style="color:#ac9055">Tools:</span></em></strong><br>
+        <center><em><span style="color:#ac9055"> Python </span></em> for Data Assessment and Cleaning using <em><span style="color:#ac9055">Pandas</span></em> & <em><span style="color:#ac9055">Numpy</span></em>, and for Data Visualization using <em><span style="color:#ac9055"> Matplotlib</span></em> & <em><span style="color:#ac9055">Seaborn</span></em>.</center></li>    
       <li><strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
       Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.</li>
       <li><strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
@@ -894,7 +886,7 @@
     <ul>
       <li><strong><em><span style="color:#ac9055">Popular Times of Travel:</span></em></strong><br>
         Identified the most common month, day of the week, and hour of the day for bike rentals.</li>
-      <li>><strong><em><span style="color:#ac9055">Popular Stations and Trips: </span></em></strong><br>
+      <li><strong><em><span style="color:#ac9055">Popular Stations and Trips: </span></em></strong><br>
         Determined the most common start and end stations, as well as the most frequent trips.</li>
       <li><strong><em><span style="color:#ac9055">Trip Duration:</span></em></strong><br>
         Calculated total and average travel times.</li>
