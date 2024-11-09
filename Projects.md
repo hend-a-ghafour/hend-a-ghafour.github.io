@@ -626,75 +626,156 @@
   </strong>
 </center>
 <br><br>
-<h3><em><strong><span style="color:#7c7959"> Death & Life Expectancy for Mothers & Children </span></strong></em></h3> 
-<center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> 
+<h3>
+  <em>
+    <strong>
+      <span style="color:#7c7959"> 
+        Death & Life Expectancy for Mothers & Children 
+      </span>
+    </strong>
+  </em>
+</h3> 
+<center>
+  <strong>
+    <em>
+      <a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
+        View Project 
+      </a>
+    </em>
+  </strong>
+</center> 
 <br><br>
 
 ![Death & Life](https://hend-a-ghafour.github.io/Media/DeathLifeExpectancyforMothersChildren.jpg)
 
 
 <details>
-  <summary><em><strong><span style="color:#7c7959">See More</span></strong></em></summary>
- <br> 
-<center><strong><em><span style="color:#243444"> Overview </span></em></strong></center>
-<p style='text-align: justify;'>The dataset analyzes seven indicators impacting maternal and child health from 1995 to 2010 across six WHO regions. These indicators include Total Fertility Rate, Percentage of Births Attended by Skilled Health Staff, Child Mortality Rate, Maternal Mortality Rate, Average Life Expectancy, Total Health Spending per Person in USD, and Percentage of Total Health Expenditure in GDP.</p>
-<p style='text-align: justify;'>
-  <center><strong><em><span style="color:#243444"> Tools & Techniques </span></em></strong></center>
-  <ul>
-    <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
-    <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> Pandas - Numpy</li>
-    <li><strong><em><span style="color:#ac9055">Visualization: </span></em></strong> Matplotlib - Seaborn </li>
-  </ul>
-</p> 
-<center><strong><em><span style="color:#243444"> Roles & Responsibilities </span></em></strong></center>
-<p style='text-align: justify;'>
-  <ul>
- <li> <strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
-Evaluated health indicators for each region over the specified period.</li>
- <li> <strong><em><span style="color:#ac9055">Comparative Analysis:  </span></em></strong><br>
-   Compared indicators across regions and years to identify trends and patterns.</li>
-  <li><strong><em><span style="color:#ac9055">Additional Research:</span></em></strong><br>
-   Investigated improvements, inconsistencies, and relationships between indicators.</li>
-  </ul>
-</p>
-  <center><strong><em><span style="color:#243444"> Challenges Faced </span></em></strong></center>
+  <summary>
+    <em>
+      <strong>
+        <span style="color:#7c7959">
+          See More
+        </span>
+      </strong>
+    </em>
+  </summary>
+  <br> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Overview </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: center;'>
+  The dataset analyzes seven indicators impacting maternal and child health from 1995 to 2010 across six WHO regions. These indicators include Total Fertility Rate, Percentage of Births Attended by Skilled Health Staff, Child Mortality Rate, Maternal Mortality Rate, Average Life Expectancy, Total Health Spending per Person in USD, and Percentage of Total Health Expenditure in GDP.
+  </p>
+  <p style='text-align: justify;'>
+    <center>
+      <strong>
+        <em>
+          <span style="color:#243444"> 
+            Tools & Techniques 
+          </span>
+        </em>
+      </strong>
+    </center>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
+      <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> Pandas - Numpy</li>
+      <li><strong><em><span style="color:#ac9055">Visualization: </span></em></strong> Matplotlib - Seaborn </li>
+    </ul>
+  </p> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Roles & Responsibilities 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li> <strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
+        Evaluated health indicators for each region over the specified period.</li>
+      <li> <strong><em><span style="color:#ac9055">Comparative Analysis:  </span></em></strong><br>
+        Compared indicators across regions and years to identify trends and patterns.</li>
+      <li><strong><em><span style="color:#ac9055">Additional Research:</span></em></strong><br>
+        Investigated improvements, inconsistencies, and relationships between indicators.</li>
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Challenges Faced 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'>
     <ul>
       <li>Addressed data quality issues such as null values and unpivoting columns.</li>
       <li>Managed large datasets by segmenting countries into regions for effective analysis.</li>
     </ul>
-</p>
-<center><strong><em><span style="color:#243444"> Achievements </span></em></strong></center>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Achievements 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'>
     <ul>
- <li> <strong><em><span style="color:#ac9055">Trend Identification:</span></em></strong><br>
-    Noted trends such as decreasing Total Fertility Rates, Child Mortality Rates, and Maternal Mortality Rates across all regions.<br>
-  <li><strong><em><span style="color:#ac9055">Regional Insights:</span></em></strong><br>
-   Identified which regions had the highest and lowest values for each indicator.<br>
-  <li><strong><em><span style="color:#ac9055">Correlation Analysis:</span></em></strong><br>
-    Found relationships between health expenditure indicators and various health outcomes.
+      <li> <strong><em><span style="color:#ac9055">Trend Identification:</span></em></strong><br>
+        Noted trends such as decreasing Total Fertility Rates, Child Mortality Rates, and Maternal Mortality Rates across all regions.<br>
+      <li><strong><em><span style="color:#ac9055">Regional Insights:</span></em></strong><br>
+        Identified which regions had the highest and lowest values for each indicator.<br>
+      <li><strong><em><span style="color:#ac9055">Correlation Analysis:</span></em></strong><br>
+        Found relationships between health expenditure indicators and various health outcomes.
     </ul>
   </p>
-<center><strong><em><span style="color:#243444"> Insights </span></em></strong></center>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Insights 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'> 
     <ul>
-  <li><strong><em><span style="color:#ac9055">Total Fertility Rate:</span></em></strong><br> 
-   Decreased overall, with AFR showing the highest rates and EUR the lowest.<br>
- <li><strong><em><span style="color:#ac9055">Births Attended by Skilled Health Staff: </span></em></strong><br> 
-   Highest in EUR and lowest in AFR. Inconsistencies in data affected the ability to determine relationships with other indicators.<br>
-  <li><strong><em><span style="color:#ac9055">Child Mortality Rate:</span></em></strong><br> 
-    Decreased globally, with AFR having the highest and EUR the lowest rates.<br>
- <li><strong><em><span style="color:#ac9055">Maternal Mortality Rate:</span></em></strong><br> 
-   Showed a global decrease, with AFR experiencing the highest rates and EUR the lowest.<br>
-    <li><strong><em><span style="color:#ac9055">Average Life Expectancy: </span></em></strong><br> 
-  Increased across regions, with EUR having the highest and AFR the lowest.<br>
-   <li> <strong><em><span style="color:#ac9055">Total Health Spending per Person:  </span></em></strong><br> 
-    Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.<br>
-   <li> <strong><em><span style="color:#ac9055">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
-   Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.
+      <li><strong><em><span style="color:#ac9055">Total Fertility Rate:</span></em></strong><br> 
+        Decreased overall, with AFR showing the highest rates and EUR the lowest.<br>
+      <li><strong><em><span style="color:#ac9055">Births Attended by Skilled Health Staff: </span></em></strong><br> 
+        Highest in EUR and lowest in AFR. Inconsistencies in data affected the ability to determine relationships with other indicators.<br>
+      <li><strong><em><span style="color:#ac9055">Child Mortality Rate:</span></em></strong><br> 
+        Decreased globally, with AFR having the highest and EUR the lowest rates.<br>
+      <li><strong><em><span style="color:#ac9055">Maternal Mortality Rate:</span></em></strong><br> 
+        Showed a global decrease, with AFR experiencing the highest rates and EUR the lowest.<br>
+      <li><strong><em><span style="color:#ac9055">Average Life Expectancy: </span></em></strong><br> 
+        Increased across regions, with EUR having the highest and AFR the lowest.<br>
+      <li> <strong><em><span style="color:#ac9055">Total Health Spending per Person:  </span></em></strong><br> 
+        Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.<br>
+      <li> <strong><em><span style="color:#ac9055">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
+        Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.
     </ul>
   </p>
-<center><strong><em><span style="color:#243444"> Future Application </span></em></strong></center>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Future Application 
+        </span>
+      </em>
+    </strong>
+  </center>
   <p style='text-align: justify;'> 
     <ul>
       <li> Compare findings with global health indicators from the same period.</li>
@@ -702,11 +783,26 @@ Evaluated health indicators for each region over the specified period.</li>
       <li> Explore reasons behind the decline in health expenditure and its impact on other indicators, especially in the SEAR region and in 2009.</li>
     </ul>
   </p>
-
 </details>
 
-<br><br><center><strong><span style="color:#DCDCDC">______________________________________________________</span></strong></center><br><br>
-<h3><em><strong><span style="color:#7c7959"> US Bikeshare </span></strong></em></h3> 
+<br><br>
+<center>
+  <strong>
+    <span style="color:#DCDCDC">
+      ______________________________________________________
+    </span>
+  </strong>
+</center>
+<br><br>
+<h3>
+  <em>
+    <strong>
+      <span style="color:#7c7959"> 
+        US Bikeshare 
+      </span>
+    </strong>
+  </em>
+</h3> 
 <center><strong><em><a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/bikeshare.py" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> View Project </a></em></strong></center> <br><br>
 
 ![US Bikeshare](https://hend-a-ghafour.github.io/Media/USBikeshare.jpg)
