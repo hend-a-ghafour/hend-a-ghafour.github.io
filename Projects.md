@@ -281,7 +281,7 @@
       <li><strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
       Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.</li>
       <li><strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
-      Applied statistical methods, including descriptive statistics, to understand patterns in attendance across demographic and health-related variables.<li>
+      Applied statistical methods, including descriptive statistics, to understand patterns in attendance across demographic and health-related variables.</li>
       <li><strong><em><span style="color:#ac9055">Visualization: </span></em></strong><br>
       Created charts and graphs to present findings on attendance patterns across different patient groups and appointment characteristics.</li>
     </ul>
