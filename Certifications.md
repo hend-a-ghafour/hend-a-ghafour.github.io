@@ -195,7 +195,7 @@
       </span>
     </em>
     <br> 
-    Nov 2008 – Aug 2009<br> 
+    Nov, 2008 – Aug, 2009<br> 
   </center>
   <em>
     <span style="color:#3e3c2c">
