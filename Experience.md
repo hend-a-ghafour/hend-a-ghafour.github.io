@@ -91,7 +91,7 @@
       </em>
       <br>
       <em>
-        Apr 2012 - Aug 2012
+        Apr, 2012 - Aug, 2012
       </em>
     </center>
     <ul>
