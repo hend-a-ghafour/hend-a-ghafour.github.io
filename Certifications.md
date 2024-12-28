@@ -28,6 +28,32 @@
     <em>
       <strong>
         <span style="color:#243444"> 
+          Data Fundamentals
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        IBM
+      </span>
+    </em>
+    <br> 
+    Nov, 2024 – Dec, 2024<br>
+  </center>
+  <em>
+    <span style="color:#3e3c2c">
+      Relevant course work:
+    </span>
+  </em>
+  <br> 
+  Introduction to data concepts, Data Science Methodologies, Data Tools & Languages, & Introduction to IBM Watson
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444"> 
           Data analysis Specialist
         </span>
       </strong>
@@ -48,24 +74,7 @@
   </em>
   <br> 
   Data Analysis, Statistics, Advanced Excel, T-SQL & Data Modeling, Python, Tableau, R Programming Language, & Soft Skills
-</p>
-    <em>
-      <span style="color:#ac9055">
-        Data Fundamentals  - IBM
-      </span>
-    </em>
-    <br> 
-    Nov, 2024 – Dec, 2024<br>
-  </center>
-  <em>
-    <span style="color:#3e3c2c">
-      Relevant course work:
-    </span>
-  </em>
-  <br> 
-  Introduction to data concepts, Data Science Methodologies, Data Tools & Languages, & Introduction to IBM Watson
-</p>
-    
+</p> 
 <p style='text-align: justify;'>
   <center>
     <em>
