@@ -33,7 +33,6 @@
       </strong>
     </em>
     <br> 
-    <br> 
     <em>
       <span style="color:#ac9055">
         Digital Egypt Pioneers Initiative - DEPI
