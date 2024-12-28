@@ -39,7 +39,7 @@
       </span>
     </em>
     <br> 
-    Apr, 2024 – The Present<br>
+    Apr, 2024 – Oct, 2024<br>
   </center>
   <em>
     <span style="color:#3e3c2c">
