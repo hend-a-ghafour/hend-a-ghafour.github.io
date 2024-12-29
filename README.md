@@ -42,7 +42,7 @@
 <br>
 
 ### ***<span style="color:#243444"> Skills: </span>***
-***<span style="color:#ac9055"> Tools: </span>***<br>   Python (Pandas, Numpy, Matplotlib,Seaborn) - MS SQL - Tableau - Excel (Power Pivot, Pivot table, Power Query, Function) <br> <br> 
+***<span style="color:#ac9055"> Tools: </span>***<br>   Python (Pandas, Numpy, Matplotlib,Seaborn) - MS SQL - Tableau - <br>Excel (Power Pivot, Pivot table, Power Query, Function) <br> <br> 
 ***<span style="color:#ac9055"> Data Management: </span>***<br>   Data Cleaning - Data Assessing - Data Visualization - Data Modeling <br> <br> 
 ***<span style="color:#ac9055">  Technical Skills: </span>***<br>   SQL Queries - Python Coding - Excel Functions - Interactive Dashboards <br> <br> 
 ***<span style="color:#ac9055"> Soft Skills: </span>***<br>   Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication <br> <br> 
