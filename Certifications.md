@@ -88,7 +88,7 @@
     <br> 
     <em>
       <span style="color:#ac9055">
-        Digital Egypt Pioneers Initiative - DEPI
+        Digital Egypt Pioneers Initiative - DEPI, ITI
       </span>
     </em>
     <br> 
@@ -107,14 +107,14 @@
     <em>
       <strong>
         <span style="color:#243444"> 
-          Data Analysis Nanodegree
+          FWD Initiative - Data Analysis Nanodegree
         </span>
       </strong>
     </em>
     <br> 
     <em>
       <span style="color:#ac9055">
-        Udacity
+        Udacity & ITI
       </span>
     </em>
     <br> 
@@ -133,14 +133,14 @@
     <em>
       <strong>
         <span style="color:#243444">
-          Web Development Challenger
+          FWD Initiative - Web Development Challenger
         </span>
       </strong>
     </em>
     <br> 
     <em>
       <span style="color:#ac9055">
-        Udacity
+        Udacity & ITI
       </span>
     </em>
     <br> 
@@ -159,14 +159,14 @@
     <em>
       <strong>
         <span style="color:#243444">
-          Data Analysis Challenger
+          FWD Initiative - Data Analysis Challenger
         </span>
       </strong>
     </em>
     <br> 
     <em>
       <span style="color:#ac9055">
-        Udacity
+        Udacity & ITI
       </span>
     </em>
     <br> 
