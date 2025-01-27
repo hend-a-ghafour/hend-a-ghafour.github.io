@@ -49,7 +49,6 @@
   <br> 
   Introduction to Artificial Intelligence, Natural Language Processing (NLP) and Computer Vision, Machine Learning and Deep Learning, Run AI Models with IBM Watson Studio, & AI Ethics
 </p>
-<br><br>
 <p style='text-align: justify;'>
   <center>
     <em>
