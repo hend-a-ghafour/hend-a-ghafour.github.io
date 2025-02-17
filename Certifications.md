@@ -80,14 +80,14 @@
     <em>
       <strong>
         <span style="color:#243444"> 
-          Data analysis Specialist
+          DEPI - Data analysis Specialist
         </span>
       </strong>
     </em>
     <br> 
     <em>
       <span style="color:#ac9055">
-        Digital Egypt Pioneers Initiative - DEPI, ITI
+        MCIT
       </span>
     </em>
     <br> 
@@ -113,7 +113,7 @@
     <br> 
     <em>
       <span style="color:#ac9055">
-        Udacity & ITI
+        Udacity & MCIT
       </span>
     </em>
     <br> 
@@ -139,7 +139,7 @@
     <br> 
     <em>
       <span style="color:#ac9055">
-        Udacity & ITI
+        Udacity & MCIT
       </span>
     </em>
     <br> 
@@ -165,7 +165,7 @@
     <br> 
     <em>
       <span style="color:#ac9055">
-        Udacity & ITI
+        Udacity & MCIT
       </span>
     </em>
     <br> 
