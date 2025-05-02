@@ -54,6 +54,32 @@
     <em>
       <strong>
         <span style="color:#243444"> 
+          Big Data 101
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        IBM
+      </span>
+    </em>
+    <br> 
+    Jan, 2025<br>
+  </center>
+  <em>
+    <span style="color:#3e3c2c">
+      Relevant course work:
+    </span>
+  </em>
+  <br> 
+  Big Data, The 5 Vs, Big Data Use Cases, Big Data Processing, Big Data Aspects, Data Warehouse, Hadoop Framework, & Hadoop Strategy
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444"> 
           Artificial Intelligence Fundamentals
         </span>
       </strong>
