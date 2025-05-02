@@ -28,7 +28,7 @@
     <em>
       <strong>
         <span style="color:#243444"> 
-          Big Data 101
+          Agile Explorer
         </span>
       </strong>
     </em>
@@ -39,7 +39,7 @@
       </span>
     </em>
     <br> 
-    Jan, 2025<br>
+    April, 2025<br>
   </center>
   <em>
     <span style="color:#3e3c2c">
@@ -47,7 +47,7 @@
     </span>
   </em>
   <br> 
-  Big Data, The 5 Vs, Big Data Use Cases, Big Data Processing, Big Data Aspects, Data Warehouse, Hadoop Framework, & Hadoop Strategy
+  Agile Fundamentals, Agile Manifesto, Agile Values, Agile Principles, Agile Practices, Agile Operation Fundamentals, & Agile Program Fundamentals
 </p>
 <p style='text-align: justify;'>
   <center>
