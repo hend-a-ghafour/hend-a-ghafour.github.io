@@ -28,7 +28,7 @@
     <em>
       <strong>
         <span style="color:#243444"> 
-          Associate Data Analyst, DataCamp
+          Associate Data Analyst
         </span>
       </strong>
     </em>
