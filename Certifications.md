@@ -28,6 +28,84 @@
     <em>
       <strong>
         <span style="color:#243444"> 
+          Associate Data Analyst, DataCamp
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        DataCamp
+      </span>
+    </em>
+    <br> 
+    May 2025<br>
+  </center>
+  <em>
+    <span style="color:#3e3c2c">
+      Relevant course work:
+    </span>
+  </em>
+  <br> 
+  PostgreSQL – Data Manipulation with SQL – Statistics – Exploratory Data Analysis – Data-Driven Decision Making in SQL – Understanding Data     Visualization – Data Communication Concepts.
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444"> 
+          SQL Associate, DataCamp
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        DataCamp
+      </span>
+    </em>
+    <br> 
+    May 2025<br>
+  </center>
+  <em>
+    <span style="color:#3e3c2c">
+      Relevant course work:
+    </span>
+  </em>
+  <br> 
+  SQL – PostgreSQL – Data Manipulation – PostgreSQL Summary stats & Window Functions – Database Design.
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444"> 
+          MCIT Certificate Programs – Data Analytics
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        IBM
+      </span>
+    </em>
+    <br> 
+    May 2025<br>
+  </center>
+  <em>
+    <span style="color:#3e3c2c">
+      Relevant course work:
+    </span>
+  </em>
+  <br> 
+  Data Classification – Data Usability for Organizations – Inferential & Descriptive Statistics – Data Collection & Analysis – Data Preparation for Analysis – Data Visualization & Presentation.
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444"> 
           Project Management Foundation
         </span>
       </strong>
@@ -48,32 +126,6 @@
   </em>
   <br> 
 Project Initiation – Agile & Waterfall Project Management – Project Planning – Build a Project Schedule – Team Collaboration – Communication Techniques – Monitoring & Controlling Processes & Performance – Customer Acceptance – Close-Out Reports – PMBOK® Guide</p>
-<p style='text-align: justify;'>
-  <center>
-    <em>
-      <strong>
-        <span style="color:#243444"> 
-          Associate Data Analyst in SQL, DataCamp
-        </span>
-      </strong>
-    </em>
-    <br> 
-    <em>
-      <span style="color:#ac9055">
-        DataCamp
-      </span>
-    </em>
-    <br> 
-    Jan 2025 - May 2025<br>
-  </center>
-  <em>
-    <span style="color:#3e3c2c">
-      Relevant course work:
-    </span>
-  </em>
-  <br> 
-  PostgreSQL – Data Manipulation with SQL – Statistics – Exploratory Data Analysis – Data-Driven Decision Making in SQL – Understanding Data     Visualization – Data Communication Concepts.
-</p>
 <p style='text-align: justify;'>
   <center>
     <em>
