@@ -28,6 +28,32 @@
     <em>
       <strong>
         <span style="color:#243444"> 
+          Database Fundamentals
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        Mahara-Tech, ITI
+      </span>
+    </em>
+    <br> 
+    May 2025<br>
+  </center>
+  <em>
+    <span style="color:#3e3c2c">
+      Relevant course work:
+    </span>
+  </em>
+  <br> 
+  Database Concepts – Database Components – Data Modeling – Mapping – SQL – DML – DCL – DDL – Database Objects – Normalization.
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444"> 
           Associate Data Analyst
         </span>
       </strong>
