@@ -35,7 +35,7 @@
     <br> 
     <em>
       <span style="color:#ac9055">
-        Atlassian University
+        Atlassian 
       </span>
     </em>
     <br> 
