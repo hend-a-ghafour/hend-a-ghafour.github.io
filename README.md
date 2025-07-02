@@ -46,7 +46,7 @@
 ***<span style="color:#ac9055"> Data Management: </span>***<br>   Data Cleaning - Data Assessing - Data Visualization - Data Modeling <br> <br> 
 ***<span style="color:#ac9055">  Technical Skills: </span>***<br>   SQL Queries - Python Coding - Excel Functions - Interactive Dashboards <br> <br> 
 ***<span style="color:#ac9055"> Soft Skills: </span>***<br>   Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication -Agility - Project Management<br> <br> 
-***<span style="color:#ac9055"> Languages: </span>***<br>   Arabic (Native) - English (Fluent) 
+***<span style="color:#ac9055"> Languages: </span>***<br>   Arabic (Native) - English (V.Good) 
 <br><br>
 <p style='text-align: justify;'>
   <h3>
