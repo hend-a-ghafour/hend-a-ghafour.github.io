@@ -23,6 +23,13 @@
   </em>
 </strong>
 <br><br>
+<h1>
+  <em>
+    <span style="color:#3e3c2c">
+      Education:
+    </span>
+  </em>
+</h1>
 <p style='text-align: justify;'>
   <center>
     <em>
