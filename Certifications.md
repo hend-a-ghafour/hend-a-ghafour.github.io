@@ -25,7 +25,7 @@
 <br><br>
 <h1>
   <em>
-    <span style="color:#3e3c2c">
+    <span style="color:#7c7959"">
       Education:
     </span>
   </em>
