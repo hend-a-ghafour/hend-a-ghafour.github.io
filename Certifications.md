@@ -73,8 +73,8 @@
     May 2025<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Focused on SQL Queries, Data Manipulation, and Window Functions.</li>
+    <li>Strengthened knowledge in PostgreSQL and Relational Database Design.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -96,8 +96,8 @@
     May 2025<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Gained practical experience in Statistics, Data Collection, Preparation, and Visualization.</li>
+    <li>Developed Data Interpretation Skills for Business Usability and Decision-Making.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -119,8 +119,8 @@
     June 2025<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Explored core Database Concepts, SQL Commands, and Normalization.</li>
+    <li>Learned to design and Structure Relational Databases effectively.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -142,8 +142,8 @@
     June 2025 <br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Mastered Agile and Scrum Methodologies using Jira Cloud.</li>
+    <li>Identified key challenges and mistakes in Agile Project Management.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -165,8 +165,8 @@
     May, 2025<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Applied Project Initiation, Planning, Scheduling, and Control Techniques.</li>
+    <li>Gained insight into Agile, Waterfall, PMBOK® Processes, and Communication Tools.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -188,8 +188,8 @@
     April, 2025<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Covered Agile Values, Principles, and Operational Frameworks.</li>
+    <li>Learned fundamentals of Agile Team Dynamics and Delivery Cycles.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -211,8 +211,8 @@
     Jan, 2025<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Introduced to Big Data Concepts, the 5 Vs, and Hadoop Ecosystem.</li>
+    <li>Analyzed Big Data use cases and processing strategies.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -234,8 +234,8 @@
     Dec, 2024 – Jan, 2025<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Studied AI, NLP, & Machine Learning Concepts, and Ethics in AI systems.</li>
+    <li>Applied Watson Studio to run and evaluate AI models.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -257,8 +257,8 @@
     Nov, 2024 – Dec, 2024<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Covered Data Science Lifecycle, Tools, and Methodologies.</li>
+    <li>Explored key IBM Technologies for Data Exploration.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -280,8 +280,8 @@
     Apr, 2024 – Oct, 2024<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Built skills in Advanced Excel, Python, SQL, R, Power BI, and Tableau.</li>
+    <li>Applied Statistical Methods to real-world datasets.</li>
   </ul>
 </p> 
 <p style='text-align: justify;'>
@@ -303,8 +303,8 @@
     Dec ,2022 – Jan, 2023<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Practiced Python for Data Wrangling, Visualization, and Storytelling.</li>
+    <li>Learned Agile Foundations and Project Freelancing Basics.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -326,8 +326,7 @@
     Jun, 2022 – Jul, 2022<br>
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Designed basic web pages using HTML and CSS.</li>
   </ul>
 </p>
 <p style='text-align: justify;'>
@@ -349,8 +348,8 @@
     Dec, 2021 – Feb, 2022<br> 
   </center>
   <ul>
-    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
-    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
+    <li>Applied Excel Modeling, Data Manipulation, and Visualization.</li>
+    <li>Strengthened Statistical Analysis and Reporting Skills.</li>
   </ul>
 </p>
 
