@@ -34,6 +34,53 @@
   <center>
     <em>
       <strong>
+        <span style="color:#243444">
+          Managerial Accounting & Cost Dipl.
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        Alexandria University
+      </span>
+    </em>
+    <br> 
+    Oct, 2012 – Jul, 2013<br> 
+  </center>
+  <ul>
+    <li>Covered Financial and Cost Accounting Principles, Project Management, and Advanced Accounting Systems.</li>
+    <li>Emphasized managerial reporting and strategic cost control.</li>
+  </ul>
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444">
+          Bsc. Commerce (English)
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        Alexandria University
+      </span>
+    </em>
+    <br> 
+    Sep, 2006 – Jul,2010<br> 
+  </center>
+  <ul>
+    <li>Studied core business disciplines: Accounting, Economics, Statistics, and Financial Analysis.</li>
+    <li>Gained a strong foundation in Tax, Auditing, Commercial Law, and Financial Management. </li>
+  </ul>
+</p>
+
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
         <span style="color:#243444"> 
           Atlassian Agile Project Management Professional Certificate
         </span>
@@ -393,58 +440,7 @@ Project Initiation – Agile & Waterfall Project Management – Project Planning
   <br> 
   Data Visualization, Excel Modeling, Statistics, Data Manipulation, & Data Analysis
 </p>
-<p style='text-align: justify;'>
-  <center>
-    <em>
-      <strong>
-        <span style="color:#243444">
-          Managerial Accounting & Cost Dipl.
-        </span>
-      </strong>
-    </em>
-    <br> 
-    <em>
-      <span style="color:#ac9055">
-        Alexandria University
-      </span>
-    </em>
-    <br> 
-    Oct, 2012 – Jul, 2013<br> 
-  </center>
-  <em>
-    <span style="color:#3e3c2c">
-      Relevant course work:
-    </span>
-  </em>
-  <br> 
-  Financial Management, Managerial Accounting, Cost Accounting, Advanced accounting Information Systems, & Project Management
-</p>
-<p style='text-align: justify;'>
-  <center>
-    <em>
-      <strong>
-        <span style="color:#243444">
-          Bsc. Commerce (English)
-        </span>
-      </strong>
-    </em>
-    <br> 
-    <em>
-      <span style="color:#ac9055">
-        Alexandria University
-      </span>
-    </em>
-    <br> 
-    Sep, 2006 – Jul,2010<br> 
-  </center>
-  <em>
-    <span style="color:#3e3c2c">
-      Relevant course work:
-    </span>
-  </em>
-  <br> 
-  Accounting, Economics, Statistics, Financial Management, Accounting Management, Financial Analysis, Commercial Law, Tax, &Audit
-</p>
+
 <p style='text-align: justify;'>
   <center>
     <em>
