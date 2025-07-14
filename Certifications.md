@@ -23,10 +23,11 @@
   </em>
 </strong>
 <br><br>
+
 <h1>
   <em>
     <span style="color:#7c7959">
-      Education:
+      Certificates:
     </span>
   </em>
 </h1>
@@ -34,49 +35,25 @@
   <center>
     <em>
       <strong>
-        <span style="color:#243444">
-          Managerial Accounting & Cost Dipl.
+        <span style="color:#243444"> 
+          Associate Data Analyst
         </span>
       </strong>
     </em>
     <br> 
     <em>
       <span style="color:#ac9055">
-        Alexandria University
+        DataCamp
       </span>
     </em>
     <br> 
-    Oct, 2012 – Jul, 2013<br> 
+    May 2025<br>
   </center>
   <ul>
-    <li>Covered Financial and Cost Accounting Principles, Project Management, and Advanced Accounting Systems.</li>
-    <li>Emphasized managerial reporting and strategic cost control.</li>
+    <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li>
+    <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li>
   </ul>
 </p>
-<p style='text-align: justify;'>
-  <center>
-    <em>
-      <strong>
-        <span style="color:#243444">
-          Bsc. Commerce (English)
-        </span>
-      </strong>
-    </em>
-    <br> 
-    <em>
-      <span style="color:#ac9055">
-        Alexandria University
-      </span>
-    </em>
-    <br> 
-    Sep, 2006 – Jul,2010<br> 
-  </center>
-  <ul>
-    <li>Studied core business disciplines: Accounting, Economics, Statistics, and Financial Analysis.</li>
-    <li>Gained a strong foundation in Tax, Auditing, Commercial Law, and Financial Management. </li>
-  </ul>
-</p>
-
 <p style='text-align: justify;'>
   <center>
     <em>
@@ -129,32 +106,7 @@
   <br> 
   Database Concepts – Database Components – Data Modeling – Mapping – SQL – DML – DCL – DDL – Database Objects – Normalization.
 </p>
-<p style='text-align: justify;'>
-  <center>
-    <em>
-      <strong>
-        <span style="color:#243444"> 
-          Associate Data Analyst
-        </span>
-      </strong>
-    </em>
-    <br> 
-    <em>
-      <span style="color:#ac9055">
-        DataCamp
-      </span>
-    </em>
-    <br> 
-    May 2025<br>
-  </center>
-  <em>
-    <span style="color:#3e3c2c">
-      Relevant course work:
-    </span>
-  </em>
-  <br> 
-  PostgreSQL – Data Manipulation with SQL – Statistics – Exploratory Data Analysis – Data-Driven Decision Making in SQL – Understanding Data     Visualization – Data Communication Concepts.
-</p>
+
 <p style='text-align: justify;'>
   <center>
     <em>
@@ -468,9 +420,69 @@ Project Initiation – Agile & Waterfall Project Management – Project Planning
   Customer Service, Numerical Ability, Attention to Detail, Communication
 </p>
 <br><br>
+<center>
+  <strong>
+    <span style="color:#DCDCDC">
+      ______________________________________________________
+    </span>
+  </strong>
+</center>
+<br><br>
+<h1>
+  <em>
+    <span style="color:#7c7959">
+      Education:
+    </span>
+  </em>
+</h1>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444">
+          Managerial Accounting & Cost Dipl.
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        Alexandria University
+      </span>
+    </em>
+    <br> 
+    Oct, 2012 – Jul, 2013<br> 
+  </center>
+  <ul>
+    <li>Covered Financial and Cost Accounting Principles, Project Management, and Advanced Accounting Systems.</li>
+    <li>Emphasized managerial reporting and strategic cost control.</li>
+  </ul>
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444">
+          Bsc. Commerce (English)
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        Alexandria University
+      </span>
+    </em>
+    <br> 
+    Sep, 2006 – Jul,2010<br> 
+  </center>
+  <ul>
+    <li>Studied core business disciplines: Accounting, Economics, Statistics, and Financial Analysis.</li>
+    <li>Gained a strong foundation in Tax, Auditing, Commercial Law, and Financial Management. </li>
+  </ul>
+</p>
 
-
-
+<br><br>
 
 
 <strong>
