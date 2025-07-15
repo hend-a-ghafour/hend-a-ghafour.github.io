@@ -36,6 +36,29 @@
     <em>
       <strong>
         <span style="color:#243444"> 
+          Python Programming Basics
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+      <span style="color:#ac9055">
+        ITI
+      </span>
+    </em>
+    <br> 
+    July 2025<br>
+  </center>
+  <ul>
+    <li>Gained hands-on experience with Python by installing the environment, writing basic programs, and exploring core concepts like syntax, variables, and data types.</li>
+    <li>Developed skills in control flow, loops, functions, and data structures (tuples, lists, dictionaries) to write efficient and reusable code.</li>
+  </ul>
+</p>
+<p style='text-align: justify;'>
+  <center>
+    <em>
+      <strong>
+        <span style="color:#243444"> 
           Associate Data Analyst
         </span>
       </strong>
