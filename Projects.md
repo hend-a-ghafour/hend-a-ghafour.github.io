@@ -24,6 +24,191 @@
 </strong>
 <br><br>
 
+
+<h3>
+  <em>
+    <strong>
+      <span style="color:#7c7959"> 
+        Analyzing Health Care Data
+      </span>
+    </strong>
+  </em>
+</h3> 
+<em>
+  Aug 2025 
+</em>
+
+![HR Tableau](https://hend-a-ghafour.github.io/Media/HealthStat_Home.jpg)
+
+<details>
+  <summary>
+    <em>
+      <strong>
+        <span style="color:#7c7959">
+          See More
+        </span>
+      </strong>
+    </em>
+  </summary>
+  <br> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Overview 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: center;'>
+    This project explores a real-world dataset to uncover hospital efficiency insights for HealthStat, a fictional consulting company. The analysis focused on the attributes impacting patient Length of Stay (LOS) and treatment cost, with the goal of identifying factors contributing to hospital performance differences. <br> <br>
+The study concentrated exclusively on Elective Hip Replacement Surgical Inpatient stays in New York State (NYS).
+
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Tools & Techniques 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: center;'>
+    <em><strong><span style="color:#ac9055"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
+  </p> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Roles & Responsibilities 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
+         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected.</li>
+      <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"> <br>
+      <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
+        Conducted in-depth reviews to identify key influencers affecting hospital efficiency.
+        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"> <br>
+        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HR Employee Details" width="500" height="300" style="border-radius: 10px;"> <br>
+    </li>
+  </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Challenges Faced 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Identifying key efficiency drivers: </span></em></strong><br>
+      A root cause analysis was conducted to uncover the main factors influencing both LOS and cost, ensuring robust and accurate insights.</li>
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Achievements 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Overview:</span></em></strong><br>
+        <ol>
+      	  <li>Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.
+      	  <li>Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.
+          <li>Female patients represented 53.67% of total surgeries.
+          <li>NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.
+          </ol>
+      </li>
+      <li><strong><em><span style="color:#ac9055">Hiring Trends:</span></em></strong><br>
+      Noted peak hiring in 2017 with 1,560 new employees, while 2021 experienced the lowest hiring rate with 382 hires.</li>
+      <li><strong><em><span style="color:#ac9055">Termination Analysis:</span></em></strong><br>
+      Found that 2023 had the highest terminations, with 174 employees (18% of total terminations), predominantly in the Operations department.</li>
+     <li><strong><em><span style="color:#ac9055">Departmental Insights:</span></em></strong><br>
+      Operations had the highest activity, with 30% of both active and terminated employees, suggesting high turnover.</li>
+      <li><strong><em><span style="color:#ac9055">Geographical Distribution:</span></em></strong><br>
+      70% of employees were based at HQ in New York, which also had a higher termination rate.</li>
+      <li><strong><em><span style="color:#ac9055">Gender Analysis:</span></em></strong><br>
+      Gender distribution was slightly male-dominated (54%), with a balanced termination rate (11% each for males and females).</li>
+      <li><strong><em><span style="color:#ac9055">Educational Trends:</span></em></strong><br>
+      Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.</li>
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Insights 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Hiring & Termination Trends:</span></em></strong><br> 
+     The Operations department’s turnover was high, and New York HQ showed the highest activity, with a considerable termination rate.</li>
+      <li><strong><em><span style="color:#ac9055">Gender & Education Dynamics:</span></em></strong><br> 
+      Gender imbalances were observed in specific educational categories, with a higher termination rate among female high school graduates and male PhD holders.</li>
+      <li><strong><em><span style="color:#ac9055">Performance Ratings:</span></em></strong><br> 
+      Educational level affected performance ratings, with high school graduates more often rated "Needs Improvement," while PhD holders frequently achieved "Excellent" ratings.</li>
+      <li><strong><em><span style="color:#ac9055">Salary Disparities:</span></em></strong><br> 
+      Significant disparities were observed, with males earning more at the bachelor’s level, while females earned more at the PhD level.</li>
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Future Application 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'> 
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Workforce Planning:</span></em></strong><br> 
+      Explore hiring and termination trends to optimize staffing and reduce turnover in high-activity departments like Operations.</li>
+      <li><strong><em><span style="color:#ac9055">Turnover Analysis:</span></em></strong><br> 
+      Conduct a deeper analysis of the reasons behind turnover patterns, especially in specific positions and departments.</li>
+      <li><strong><em><span style="color:#ac9055">Gender & Education Balance:</span></em></strong><br>
+      Investigate gender disparities in salary and termination rates to promote equity.</li>
+      <li><strong><em><span style="color:#ac9055">Performance-Based Retention:</span></em></strong><br> 
+      Reevaluate performance rating criteria and termination practices to ensure fair and consistent employee assessments.</li>
+      <li><strong><em><span style="color:#ac9055">Compensation Strategy:</span></em></strong><br> 
+      Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.</li>
+    </ul>
+  </p>
+  <br>
+  <p>
+    <iframe src="https://drive.google.com/file/d/1iekujxqpucrgXOIYE7RqnP98Nse5UL94/preview" width="640" height="480" allow="autoplay">
+      Human Resources Dashboard Overview
+    </iframe>
+  </p>
+</details>
+
+<br><br>
+<center>
+  <strong>
+    <span style="color:#DCDCDC">
+      ______________________________________________________
+    </span>
+  </strong>
+</center>
+<br><br>
+
+
 <h3>
   <em>
     <strong>
