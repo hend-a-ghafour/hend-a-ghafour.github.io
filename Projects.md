@@ -135,21 +135,18 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
           <li>NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.
         </ol>
       </li>
-    </ul>
-    <ul>
       <li><strong><em><span style="color:#ac9055">Hospital Profile Dashboard:</span></em></strong><br>
         <em>Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</em><br>
           <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;">
-
-       <ol>
-      	  <li> Total Discharges &	number of Surgeons.</li>
-      	  <li> Average LoS and Average Cost Per Discharge.</li>
-          <li> Discharges by Illness Severity & Mortality Risk.</li>
-          <li> Total Discharges by Patient Disposition & Dignosis.</li>
-        </ol>
+         <ol>
+      	    <li> Total Discharges &	number of Surgeons.</li>
+      	    <li> Average LoS and Average Cost Per Discharge.</li>
+            <li> Discharges by Illness Severity & Mortality Risk.</li>
+            <li> Total Discharges by Patient Disposition & Dignosis.</li>
+          </ol>
       </li>
-     </ul>   
-</p>
+    </ul>   
+  </p>
 
   <center>
     <strong>
@@ -223,6 +220,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
       Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.       </li>
      </ul>
   </p>
+
 </details>
 
 <br><br>
@@ -259,7 +257,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   </strong>
 </center> 
 
-  ![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
+![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
 
 <details>
   <summary>
