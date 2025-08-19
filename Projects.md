@@ -144,10 +144,8 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
           <li> Total Discharges by Patient Disposition & Dignosis.</li>
         </ol>
       </li>
-     </ul>
-     
+     </ul> <br>     
   <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;"> <br> 
-
 </p>
 
   <center>
@@ -259,7 +257,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   </strong>
 </center> 
 
-![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
+  ![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
 
 <details>
   <summary>
