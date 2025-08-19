@@ -218,9 +218,8 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
       <li><strong><em><span style="color:#ac9055">Integration with Financial Planning:</span></em></strong><br> 
       Use efficiency insights to guide hospital budgeting, workforce planning, and negotiations with insurance providers.</li>
       <li><strong><em><span style="color:#ac9055">Public Health Policy:</span></em></strong><br>
-      Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.</li>
-      
-    </ul>
+      Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.       </li>
+     </ul>
   </p>
   <br>
   
