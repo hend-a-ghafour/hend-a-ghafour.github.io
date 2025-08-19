@@ -128,20 +128,20 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   <p style='text-align: justify;'>
     <ul>
       <li><strong><em><span style="color:#ac9055">Overview:</span></em></strong><br>
-        
-      	  1- Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.<br>
+          1- Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.<br>
       	  2- Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.<br>
           3- Female patients represented 53.67% of total surgeries.<br>
           4- NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.
       </li>
+      <br>
       <li><strong><em><span style="color:#ac9055">Hospital Profile Dashboard:</span></em></strong><br>
         <em>Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</em><br>
+          1- Total Discharges &	number of Surgeons.<br>
+      	  2- Average LoS and Average Cost Per Discharge.<br>
+          3- Discharges by Illness Severity & Mortality Risk.<br>
+          4- Total Discharges by Patient Disposition & Dignosis.<br>
           <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;">
-<br>
-        1- Total Discharges &	number of Surgeons.<br>
-      	2- Average LoS and Average Cost Per Discharge.<br>
-        3- Discharges by Illness Severity & Mortality Risk.<br>
-        4- Total Discharges by Patient Disposition & Dignosis.<br>
+<br>       
       </li>
     </ul>   
   </p>
