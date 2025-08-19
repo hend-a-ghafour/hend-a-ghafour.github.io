@@ -141,13 +141,13 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
       	  <li> Total Discharges &	number of Surgeons.</li>
       	  <li> Average LoS and Average Cost Per Discharge.</li>
           <li> Discharges by Illness Severity & Mortality Risk.</li>
-          <li> Total Discharges by Patient Disposition & Dignosis.<br>
-                    <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;"> <br></li>
-
-       </ol>
+          <li> Total Discharges by Patient Disposition & Dignosis.</li>
+            </ol>
       </li>
-      
-    </ul>
+     </ul>
+        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;"> <br> 
+
+       
   </p>
   <center>
     <strong>
