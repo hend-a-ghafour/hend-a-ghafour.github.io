@@ -136,13 +136,13 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
           </ol>
       </li>
       <li><strong><em><span style="color:#ac9055">Hospital Profile Dashboard:</span></em></strong><br>
-        Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:
+        <em>Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</em><br>
        <ol>
-      	  <li> Total Discharges &	number of Surgeons.
-      	  <li> Average LoS and Average Cost Per Discharge.
-          <li> Discharges by Illness Severity & Mortality Risk.
+      	  <li> Total Discharges &	number of Surgeons.</li>
+      	  <li> Average LoS and Average Cost Per Discharge.</li>
+          <li> Discharges by Illness Severity & Mortality Risk.</li>
           <li> Total Discharges by Patient Disposition & Dignosis.<br>
-                    <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;"> <br>
+                    <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;"> <br></li>
 
        </ol>
       </li>
