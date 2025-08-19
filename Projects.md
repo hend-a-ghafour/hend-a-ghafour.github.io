@@ -163,25 +163,22 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
       <li><strong><em><span style="color:#ac9055">Length of Stay (LoS):</span></em></strong><br> 
      <em>Key factors influencing LOS:</em>
         <ol>
-          <li>  Extreme Illness Severity.
-          <li>	Major or Extreme Mortality Risk.
-          <li>	Fracture of Neck of Femur (Hip) Diagnosis.
-          <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.
+          <li>  Extreme Illness Severity.</li>
+          <li>	Major or Extreme Mortality Risk.</li>
+          <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li>
+          <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
         </ol>
-
       </li>
       <li><strong><em><span style="color:#ac9055">Costs:</span></em></strong><br> 
       <em>Key factors influencing Cost:</em>
         <ol>
-          <li>  Residency in NYC.
-          <li>	Patient Disposition to Inpatient Rehabilitation Facilities.
-          <li>	Extreme Mortality Risk.
-          <li>	Extreme Severity Level.
+          <li>  Residency in NYC.</li>
+          <li>	Patient Disposition to Inpatient Rehabilitation Facilities.</li>
+          <li>	Extreme Mortality Risk.</li>
+          <li>	Extreme Severity Level.</li>
         </ol>
-
       </li>
-      
-    </ul>
+     </ul>
   </p>
   <center>
     <strong>
