@@ -145,10 +145,9 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
             </ol>
       </li>
      </ul>
-        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;"> <br> 
-
-       
-  </p>
+     
+  <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;"> <br> 
+</p>
   <center>
     <strong>
       <em>
@@ -222,7 +221,6 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
      </ul>
   </p>
   <br>
-  
 </details>
 <br><br>
 <center>
