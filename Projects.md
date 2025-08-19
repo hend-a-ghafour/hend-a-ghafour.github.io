@@ -133,7 +133,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
       	  <li>Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.
           <li>Female patients represented 53.67% of total surgeries.
           <li>NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.
-          </ol>
+        </ol>
       </li>
       <li><strong><em><span style="color:#ac9055">Hospital Profile Dashboard:</span></em></strong><br>
         <em>Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</em><br>
@@ -142,12 +142,14 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
       	  <li> Average LoS and Average Cost Per Discharge.</li>
           <li> Discharges by Illness Severity & Mortality Risk.</li>
           <li> Total Discharges by Patient Disposition & Dignosis.</li>
-            </ol>
+        </ol>
       </li>
      </ul>
      
   <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;"> <br> 
+
 </p>
+
   <center>
     <strong>
       <em>
@@ -222,7 +224,9 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   </p>
   <br>
 </details>
+
 <br><br>
+
 <center>
   <strong>
     <span style="color:#DCDCDC">
