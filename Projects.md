@@ -92,7 +92,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   <p style='text-align: justify;'>
     <ul>
       <li><strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
-         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected.</li>
+         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.</li>
       <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
       <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
         Conducted in-depth reviews to identify key influencers affecting hospital efficiency.
