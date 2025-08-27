@@ -225,6 +225,9 @@
            - A = 70% revenue coverage.<br>
            - B = 20% coverage.<br>
            - <em>This indicates A items dominate revenue due to stock scale.</em> </li>
+    </ul>
+  </p>
+  <br>
   <center>
     <strong>
       <em>
