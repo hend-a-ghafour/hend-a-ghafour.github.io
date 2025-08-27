@@ -24,6 +24,214 @@
 </strong>
 <br><br>
 
+<h3>
+  <em>
+    <strong>
+      <span style="color:#7c7959"> 
+        Inventory Analysis
+      </span>
+    </strong>
+  </em>
+</h3> 
+<em>
+  Aug 2025 
+</em>
+<p>
+    <iframe src="https://drive.google.com/file/d/1iHbRhpVJ_M1EidjLsbzPEZfv1y8jIrVq/preview" width="640" height="480" allow="autoplay">
+      Inventory Analysis
+    </iframe>
+  </p>
+<details>
+  <summary>
+    <em>
+      <strong>
+        <span style="color:#7c7959">
+          See More
+        </span>
+      </strong>
+    </em>
+  </summary>
+  <br> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Overview 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: center;'>
+    A dataset from WarmeHands Inc. was analyzed to explore opportunities for improving inventory management and purchasing strategies. The dataset reflects real-world challenges where not everything is perfect. <br>
+    <em>The focus year was 2021, with comparisons against 2020.</em> <br>
+     <strong><em><span style="color:#ac9055">Objective:</span></em></strong><br>
+       <em> The analysis aimed to deliver actionable insights for the management team by:</em> <br>
+    <ul>
+      <li> Identifying purchase options that maximize gains.</li>
+      <li> Recommending control policies aligned with company goals.</li>
+      <li> Highlighting factors to improve stock management.</li>
+    </ul>
+     <strong><em><span style="color:#ac9055">Key Qustions:</span></em></strong><br>
+    <ol>
+      <li> Which items are best for renewing or increasing inventory?</li>
+      <li> How can this be analyzed by category?</li>
+      <li> What is the influence of countries?</li>
+    </ol>
+  </p>
+  ---------------------------------------------------------------------------------------------------------
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Tools & Techniques 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: center;'>
+    <em><strong><span style="color:#ac9055"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
+  </p> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Roles & Responsibilities 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
+         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.</li>
+      <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
+      <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
+        Conducted in-depth reviews to identify key influencers affecting hospital efficiency.
+        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" width="500" height="300" style="border-radius: 10px;"> <br>
+        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" width="500" height="300" style="border-radius: 10px;"> <br>
+    </li>
+  </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Challenges Faced 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Identifying key efficiency drivers: </span></em></strong><br>
+      A root cause analysis was conducted to uncover the main factors influencing both LOS and cost, ensuring robust and accurate insights.</li>
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Achievements 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Overview:</span></em></strong><br>
+          1- Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.<br>
+      	  2- Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.<br>
+          3- Female patients represented 53.67% of total surgeries.<br>
+          4- NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.
+      </li>
+      <br>
+      <li><strong><em><span style="color:#ac9055">Hospital Profile Dashboard:</span></em></strong><br>
+        <em>Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</em><br>
+          1- Total Discharges &	number of Surgeons.<br>
+      	  2- Average LoS and Average Cost Per Discharge.<br>
+          3- Discharges by Illness Severity & Mortality Risk.<br>
+          4- Total Discharges by Patient Disposition & Dignosis.<br>
+          <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;">
+<br>       
+      </li>
+    </ul>   
+  </p>
+
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Insights 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Length of Stay (LoS):</span></em></strong><br> 
+     <em>Key factors influencing LOS:</em>
+        <ol>
+          <li>  Extreme Illness Severity.</li>
+          <li>	Major or Extreme Mortality Risk.</li>
+          <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li>
+          <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
+        </ol>
+      </li>
+      <li><strong><em><span style="color:#ac9055">Costs:</span></em></strong><br> 
+      <em>Key factors influencing Cost:</em>
+        <ol>
+          <li>  Residency in NYC.</li>
+          <li>	Patient Disposition to Inpatient Rehabilitation Facilities.</li>
+          <li>	Extreme Mortality Risk.</li>
+          <li>	Extreme Severity Level.</li>
+        </ol>
+      </li>
+     </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Recommendations 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'> 
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Target Efficiency Improvements:</span></em></strong><br> 
+      Hospitals, particularly in NYC, should explore process optimization strategies for patients with extreme illness severity or mortality risk.</li>
+      <li><strong><em><span style="color:#ac9055">Regional Benchmarking:</span></em></strong><br> 
+      Establish regional benchmarks for cost and LOS, with Long Island requiring closer evaluation due to disproportionately high costs.</li>
+      <li><strong><em><span style="color:#ac9055">Care Pathway Redesign:</span></em></strong><br>
+      Investigate post-surgery rehabilitation pathways, as inpatient rehabilitation disposition was a significant cost driver.</li>
+      <li><strong><em><span style="color:#ac9055">Data-Driven Monitoring: </span></em></strong><br> 
+      Adopt dashboards for ongoing tracking of hospital efficiency metrics, enabling proactive decision-making.</li>
+    </ul>
+  </p>
+  <br>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Future Applications 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'> 
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Scalability Across Specialties:</span></em></strong><br> 
+      Expand analysis to other elective procedures (e.g., knee replacement, cardiac surgery) for broader healthcare efficiency insights.</li>
+      <li><strong><em><span style="color:#ac9055">Integration with Financial Planning:</span></em></strong><br> 
+      Use efficiency insights to guide hospital budgeting, workforce planning, and negotiations with insurance providers.</li>
+      <li><strong><em><span style="color:#ac9055">Public Health Policy:</span></em></strong><br>
+      Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.       </li>
+     </ul>
+  </p>
+
+</details>
+
+<br><br>
 
 <h3>
   <em>
