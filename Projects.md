@@ -64,8 +64,7 @@
   <p style='text-align: center;'>
     A dataset from WarmeHands Inc. was analyzed to explore opportunities for improving inventory management and purchasing strategies. The dataset reflects real-world challenges where not everything is perfect. <br>
     <em>The focus year was 2021, with comparisons against 2020.</em> <br>
-     <strong><em><span style="color:#ac9055">Objective:</span></em></strong><br>
-       <em> The analysis aimed to deliver actionable insights for the management team by:</em> <br>
+    <em><strong> The analysis aimed to deliver actionable insights for the management team by:</strong></em>
     <ul>
       <li> Identifying purchase options that maximize gains.</li>
       <li> Recommending control policies aligned with company goals.</li>
@@ -78,8 +77,28 @@
       <li> What is the influence of countries?</li>
     </ol>
   </p>
-  ---------------------------------------------------------------------------------------------------------
+  <center>
     <strong>
+      <em>
+        <span style="color:#243444"> 
+          Reporting Results 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Relation between COGS, Sales, and Profit:</span></em></strong><br>
+         Measured using COGS-to-Revenue ratios to guide purchasing and logistics decisions.</li>
+      <li><strong><em><span style="color:#ac9055">Second-chance items:</span></em></strong><br>
+        Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.
+        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" width="500" height="300" style="border-radius: 10px;"> </li>
+        <li><strong><em><span style="color:#ac9055">Impact of ABC Analysis:</span></em></strong><br>
+        Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.
+        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" width="500" height="300" style="border-radius: 10px;"> </li>
+  </ul>
+  </p>
+  <strong>
       <em>
         <span style="color:#243444"> 
           Tools & Techniques 
@@ -101,13 +120,16 @@
   </center>
   <p style='text-align: justify;'>
     <ul>
-      <li><strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
-         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.</li>
-      <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
+      <li><strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
+         Applied Power Query to ensure accuracy.</li>
+      <li><strong><em><span style="color:#ac9055">Data Manipulation:</span></em></strong><br>
+         Used Power Query & DAX for deriving insights.</li>
+      <li><strong><em><span style="color:#ac9055">Data Visualization:</span></em></strong><br>
+         Designed clear charts to reflect dataset insights.</li>  
+      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
       <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
-        Conducted in-depth reviews to identify key influencers affecting hospital efficiency.
-        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" width="500" height="300" style="border-radius: 10px;"> <br>
-        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" width="500" height="300" style="border-radius: 10px;"> <br>
+        Reviewed key influencers on inventory performance.
+        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" width="500" height="300" style="border-radius: 10px;"> <br>
     </li>
   </ul>
   </p>
@@ -122,35 +144,63 @@
   </center>
   <p style='text-align: justify;'>
     <ul>
-      <li><strong><em><span style="color:#ac9055">Identifying key efficiency drivers: </span></em></strong><br>
-      A root cause analysis was conducted to uncover the main factors influencing both LOS and cost, ensuring robust and accurate insights.</li>
+      <li>	Calculated <em><strong>Total Revenue, COGS, and Profit</strong></em> for 2020–2021.</li>
+      <li>	Derived <em><strong>Average Inventory Value</strong></em> and <em><strong>Inventory Turnover</strong></em> to measure stock usage.</li>
+      <li>	Applied <em><strong>ABC Analysis</strong></em> to prioritize products by revenue contribution.</li>
     </ul>
   </p>
   <center>
     <strong>
       <em>
         <span style="color:#243444"> 
-          Achievements 
+          Initial Investigation 
         </span>
       </em>
     </strong>
   </center>
   <p style='text-align: justify;'>
     <ul>
-      <li><strong><em><span style="color:#ac9055">Overview:</span></em></strong><br>
-          1- Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.<br>
-      	  2- Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.<br>
-          3- Female patients represented 53.67% of total surgeries.<br>
-          4- NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.
+      <li><strong><em><span style="color:#ac9055">Product Performance:</span></em></strong><br>
+          1- 3 products had no sales in 2021.<br>
+      	  2- Most items had higher revenue % in 2020 than in 2021, except Set of 6 Soldiers Skittles, which rose from 2% to 6%.<br>
+          3- ABC Analysis results: 18 products = A, 17 = B, 69 = C.<br>
+          4- Some low-value (C) items showed high inventory turnover, suggesting ABC alone may not fully explain performance.<br>
+          5- <strong> In 2021:</strong> <br>
+            <em>
+              - Grow a Fly Trap → highest sales revenue.<br>
+              -	Doughnut Lip Gloss → fastest-selling (highest turnover).<br>
+              -	Set of 6 Soldiers Skittles → biggest revenue increase.<br>
+              - All three ranked as A class.<br>
+            </em>
+          6- Woodland Charlotte Bag (A class) had the lowest COGS ratio (45%). <br>
+          7- Units sold in 2021: A = 78K, B = 22K, C = 26K.
       </li>
       <br>
-      <li><strong><em><span style="color:#ac9055">Hospital Profile Dashboard:</span></em></strong><br>
-        <em>Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</em><br>
-          1- Total Discharges &	number of Surgeons.<br>
-      	  2- Average LoS and Average Cost Per Discharge.<br>
-          3- Discharges by Illness Severity & Mortality Risk.<br>
-          4- Total Discharges by Patient Disposition & Dignosis.<br>
-          <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;">
+      <li><strong><em><span style="color:#ac9055">Inspecting Categories:</span></em></strong><br>
+        <strong> 1- Jewelry:</strong><br>
+        <em>
+          - Profit margin improved (37% → 47%) due to fewer high-COGS products sold.<br>
+      	  - Despite high average COGS ($5.1/unit), Jewelry delivered the lowest profit ($2K in 2021) and lowest revenue ratio (0.07%).<br>
+          -All Jewelry items were ranked C in 2021, with the highest average COGS ratio (61%).<br>
+        </em>
+        <strong> 2- Office & School:</strong><br>
+        <em>
+          - Highest inventory turnover (1.28).<br>
+      	  - Lowest average COGS (33%).<br>
+          - Mostly ranked as C, with only 3 items in B.<br>
+          - Ranked 4th by revenue contribution.<br>
+        </em>
+        <strong> 3- control Decisions Within "B" Items:</strong><br>
+        <em>
+          - Victorian Metal Post Card → top revenue ($8.5K), 2764 units sold, turnover = 1.74.<br>
+          - Mainly sold in Europe, especially Denmark (457 units).<br>
+        </em>
+        <strong> 4- Management Solutions:</strong><br>
+        <em>
+          - <strong>A Class:</strong> 18 items (17% of total) covered nearly 70% of revenue.<br>
+      	  - <strong>B Class:</strong> 17 items contributed about 20% of revenue.<br>
+          - <strong>C Class:</strong> 69 items contributed only 10% of revenue.<br>
+        </em>
 <br>       
       </li>
     </ul>   
@@ -167,26 +217,14 @@
   </center>
   <p style='text-align: justify;'>
     <ul>
-      <li><strong><em><span style="color:#ac9055">Length of Stay (LoS):</span></em></strong><br> 
-     <em>Key factors influencing LOS:</em>
-        <ol>
-          <li>  Extreme Illness Severity.</li>
-          <li>	Major or Extreme Mortality Risk.</li>
-          <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li>
-          <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
-        </ol>
-      </li>
-      <li><strong><em><span style="color:#ac9055">Costs:</span></em></strong><br> 
-      <em>Key factors influencing Cost:</em>
-        <ol>
-          <li>  Residency in NYC.</li>
-          <li>	Patient Disposition to Inpatient Rehabilitation Facilities.</li>
-          <li>	Extreme Mortality Risk.</li>
-          <li>	Extreme Severity Level.</li>
-        </ol>
-      </li>
-     </ul>
-  </p>
+      <li>	Set of 6 Soldiers Skittles generated $8.78K profit on just 2.3K units sold → highly profitable despite low volume.</li>
+      <li>	3 “A” items had similar turnover rates, showing consistent demand.</li>
+      <li> All Jewelry items ranked C, highlighting weak profitability → category needs reevaluation.</li>
+      <li> Victorian Metal Post Card (B class) had high turnover despite small revenue → demand exists but stock is limited.</li>
+      <li> A and B classes had a similar number of products, but revenue impact was highly skewed:<br>
+           - A = 70% revenue coverage.<br>
+           - B = 20% coverage.<br>
+           - <em>This indicates A items dominate revenue due to stock scale.</em> </li>
   <center>
     <strong>
       <em>
@@ -198,14 +236,10 @@
   </center>
   <p style='text-align: justify;'> 
     <ul>
-      <li><strong><em><span style="color:#ac9055">Target Efficiency Improvements:</span></em></strong><br> 
-      Hospitals, particularly in NYC, should explore process optimization strategies for patients with extreme illness severity or mortality risk.</li>
-      <li><strong><em><span style="color:#ac9055">Regional Benchmarking:</span></em></strong><br> 
-      Establish regional benchmarks for cost and LOS, with Long Island requiring closer evaluation due to disproportionately high costs.</li>
-      <li><strong><em><span style="color:#ac9055">Care Pathway Redesign:</span></em></strong><br>
-      Investigate post-surgery rehabilitation pathways, as inpatient rehabilitation disposition was a significant cost driver.</li>
-      <li><strong><em><span style="color:#ac9055">Data-Driven Monitoring: </span></em></strong><br> 
-      Adopt dashboards for ongoing tracking of hospital efficiency metrics, enabling proactive decision-making.</li>
+      <li> Prioritize A class products with low COGS ratios (e.g., Woodland Charlotte Bag) to maximize profitability.</li>
+      <li>	Increase inventory of promising B class items, such as Victorian Metal Post Card, to capture unmet demand.</li>
+      <li>	Reconsider or downscale the Jewelry category, as all products fall into C class with poor returns.</li>
+      <li>	Combine ABC Analysis with turnover insights, since high-demand items can exist outside A class.</li>
     </ul>
   </p>
   <br>
@@ -220,16 +254,24 @@
   </center>
   <p style='text-align: justify;'> 
     <ul>
-      <li><strong><em><span style="color:#ac9055">Scalability Across Specialties:</span></em></strong><br> 
-      Expand analysis to other elective procedures (e.g., knee replacement, cardiac surgery) for broader healthcare efficiency insights.</li>
-      <li><strong><em><span style="color:#ac9055">Integration with Financial Planning:</span></em></strong><br> 
-      Use efficiency insights to guide hospital budgeting, workforce planning, and negotiations with insurance providers.</li>
-      <li><strong><em><span style="color:#ac9055">Public Health Policy:</span></em></strong><br>
-      Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.       </li>
+      <li> Apply predictive modeling (e.g., demand forecasting) to better plan stock levels.</li>
+      <li>	Expand ABC analysis into multi-dimensional frameworks (e.g., considering turnover, profitability, and regional demand).</li>
+      <li>	Use Power BI to continuously monitor inventory KPIs like turnover, revenue-to-COGS ratio, and category-level profit margins.</li>
+      <li>	Implement “second-chance” trials for selected B class products in targeted regions (e.g., Denmark for Victorian Metal Post Card).</li>
      </ul>
   </p>
 
 </details>
+<br><br>
+
+<center>
+  <strong>
+    <span style="color:#DCDCDC">
+      ______________________________________________________
+    </span>
+  </strong>
+</center>
+<br><br>
 
 <br><br>
 
