@@ -126,7 +126,7 @@
          Used Power Query & DAX for deriving insights.</li>
       <li><strong><em><span style="color:#ac9055">Data Visualization:</span></em></strong><br>
          Designed clear charts to reflect dataset insights.</li>  
-      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
+      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" width="500" height="300" style="border-radius: 10px;"> <br><br>
       <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
         Reviewed key influencers on inventory performance.
         <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" width="500" height="300" style="border-radius: 10px;"> <br>
