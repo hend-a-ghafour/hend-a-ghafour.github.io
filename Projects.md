@@ -257,15 +257,17 @@
       </em>
     </strong>
   </center>
+  
   <p style='text-align: justify;'> 
     <ul>
       <li> Apply predictive modeling <em>(<strong>e.g.,</strong> demand forecasting)</em> to better plan stock levels.</li><br>
       <li>	Expand ABC analysis into multi-dimensional frameworks <em>(<strong>e.g.,</strong> considering turnover, profitability, and regional demand)</em>.</li><br>
       <li>	Use Power BI to continuously monitor inventory KPIs like turnover, revenue-to-COGS ratio, and category-level profit margins.</li><br>
       <li>	Implement “second-chance” trials for selected B class products in targeted regions <em>(<strong>e.g.,</strong> Denmark for Victorian Metal Post Card)</em>.</li>
-     </ul>
+    </ul>
   </p>
 </details>
+
 <br><br>
 
 <center>
