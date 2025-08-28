@@ -221,7 +221,7 @@
       <li>	Set of 6 Soldiers Skittles generated $8.78K profit on just 2.3K units sold → highly profitable despite low volume.</li><br>
       <li>	3 “A” items had similar turnover rates, showing consistent demand.</li><br>
       <li> All Jewelry items ranked C, highlighting weak profitability → category needs reevaluation.</li><br>
-      <li> Victorian Metal Post Card (B class) had high turnover despite small revenue → demand exists but stock is limited.</li>
+      <li> Victorian Metal Post Card (B class) had high turnover despite small revenue → demand exists but stock is limited.</li><br>
       <li> A and B classes had a similar number of products, but revenue impact was highly skewed:<br>
         <em>
            <span style="color:#ac9055">-</span> A = 70% revenue coverage.<br>
@@ -265,7 +265,6 @@
       <li>	Implement “second-chance” trials for selected B class products in targeted regions <em>(<strong>e.g.,</strong> Denmark for Victorian Metal Post Card)</em>.</li>
      </ul>
   </p>
-
 </details>
 <br><br>
 
