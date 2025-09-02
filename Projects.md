@@ -145,7 +145,7 @@
   </center>
   <p style='text-align: justify;'>
     <ul>
-      <li>	Calculated <em>Total Revenue, COGS, and Profit/em> for 2020–2021.</li>
+      <li>	Calculated <em>Total Revenue, COGS, and Profit</em> for 2020–2021.</li>
       <li>	Derived <em>Average Inventory Value</em> and <em>Inventory Turnover</em> to measure stock usage.</li>
       <li>	Applied <em>ABC Analysis</em> to prioritize products by revenue contribution.</li>
     </ul>
@@ -173,7 +173,7 @@
               <span style="color:#ac9055">-</span>	Set of 6 Soldiers Skittles → biggest revenue increase.<br>
               <span style="color:#ac9055">-</span> All three ranked as A class.<br><br>
             </em>
-          <span style="color:#ac9055">6-</span> Woodland Charlotte Bag (A class) had the lowest COGS ratio (45%). <br><br
+          <span style="color:#ac9055">6-</span> Woodland Charlotte Bag (A class) had the lowest COGS ratio (45%). <br><br>
           <span style="color:#ac9055">7-</span> Units sold in 2021: A = 78K, B = 22K, C = 26K.
       </li>
       <br>
