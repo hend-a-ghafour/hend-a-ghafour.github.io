@@ -24,6 +24,263 @@
 </strong>
 <br><br>
 
+<br><br>
+<h3>
+  <em>
+    <strong>
+      <span style="color:#7c7959"> 
+        Analyzing Marketing Campaigns
+      </span>
+    </strong>
+  </em>
+</h3> 
+<center>
+  <strong>
+    <em>
+      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
+        View Project 
+      </a>
+    </em>
+  </strong>
+</center> 
+<br><br>
+
+![lang_email](https://hend-a-ghafour.github.io/Media/Analyzing_marketing_Campaigns_lang_email.jpg)
+
+<details>
+  <summary>
+    <em>
+      <strong>
+        <span style="color:#7c7959">
+          See More
+        </span>
+      </strong>
+    </em>
+  </summary>
+  <br> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Overview 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: center;'>
+    This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
+  </p>
+  <p style='text-align: justify;'>
+    <center>
+      <strong>
+        <em>
+          <span style="color:#243444">
+            Tools & Techniques 
+          </span>
+        </em>
+      </strong>
+    </center>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python <em> (.ipynb file for analysis & .py file for automation)</em></li>
+      <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> A set of different liberaries</li>
+    </ul>
+  </p> 
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Roles & Responsibilities 
+        </span>
+      </em>
+  </strong>
+  </center>
+  <ul>
+    <li> Identify key drivers of user conversion and retention. </li>
+    <li> Measure the impact of repeated ad exposures on conversion outcomes. </li> 
+    <li> Examine how demographic elements (age, language) influence performance. </li>
+    <li> Evaluate channel effectiveness across distribution, conversion, and retention.</li>
+    <li> Detect temporal patterns in ad performance and subscription behavior. </li>
+    <li> Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.</li>
+    
+  </ul>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Challenges Faced 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li> <strong><em>Duplicate and near-duplicate records</em></strong> <br>
+        (37 exact duplicates, multiple near-duplicates) inflated conversions and created conflicting values in age groups and retention indicators.</li>
+      <li><strong><em>Missing values often appeared in logically connected fields, </em></strong> <br>
+        requiring standardized rules for handling subscription/cancellation inconsistencies.</li>
+      <li><strong><em>User-level inconsistencies, </em></strong> <br>
+        such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.</li>
+      <li><strong><em>Language mismatches,</em></strong> <br>
+        97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads.</li> <br> 
+      
+  ![lang](https://hend-a-ghafour.github.io/Media/Analyzing_marketing_Campaigns_language.jpg)
+  
+      <li><strong><em>Uneven distribution of exposures: </em></strong> <br>
+        77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.</li>
+      <li><strong><em>Technical bug in House Ads </em></strong> <br>
+        caused recurring language mismatches after January 10, heavily distorting conversion rates.</li>
+
+  ![bug](https://hend-a-ghafour.github.io/Media/Analyzing_marketing_Campaigns_Bug.jpg)
+        
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Achievements 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'>
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Peak daily exposure:</span></em></strong><br>
+        occurred on 15-01-2018 with 784 users.</li>
+      <li><strong><em><span style="color:#ac9055">Weekly engagement: </span></em></strong><br>
+        was highest on Mondays (1,977 users), followed by Wednesdays (1,610) and Tuesdays (1,588).</li>
+      <li><strong><em><span style="color:#ac9055">Supscription:</span></em></strong><br>
+        10.47% of all users converted after seeing an ad.</li>
+      <li><strong><em><span style="color:#ac9055">Variant:</span></em></strong><br>
+       Users were almost evenly assigned between the control and personalization groups.</li>
+      <li><strong><em><span style="color:#ac9055">Language: </span></em></strong><br>
+      97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).</li>
+      
+  ![mismatch](https://hend-a-ghafour.github.io/Media/Analyzing_marketing_Campaigns_Mismatch.jpg)
+  
+      <li><strong><em><span style="color:#ac9055">Age distribution:</span></em></strong><br>
+       heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).</li>
+      <li><strong><em><span style="color:#ac9055">Channel distribution::</span></em></strong><br>
+       House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).</li>
+      <li><strong><em><span style="color:#ac9055">Ad repetition:</span></em></strong><br>
+       77.07% one-time exposure, 22.93% multi-exposure.</li>
+      <li><strong><em><span style="color:#ac9055">Conversion Rates:</span></em></strong><br>
+          - Overall Conversion Rate ≈ 13.01% <br>
+          - Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).<br>
+          - Personalized ads: 16.80% vs Control: ≈10%<br>
+          - Language match: 13.25%, non-matched: ≈6.70%<br>
+          - German: 72.6%, Arabic: 50%, Spanish: 20%, English: 12.12%<br>
+          - Younger Users (under 30) ≈ 19.29%, Older Users (above 30) ≈ 7.29% <br>
+          - The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li>
+
+  ![daily_sub](https://hend-a-ghafour.github.io/Media/Analyzing_marketing_Campaigns_barh.jpg)
+      <li><strong><em><span style="color:#ac9055">Retention Rates:</span></em></strong><br>
+          - Overall Retention Rate ≈ 65.95%. <br>
+          - Email 76.47% (Highest), House Ads 58.05 (Lowest).<br>
+          - Control ads: 67.63% vs Personalized: ≈65.5%<br>
+          - German: 66.04%, Arabic: 58.33%, Spanish: 66.67%, English: 66.03%<br>
+          - Matched language (66.33%) is significantly higher than non-matched language (51.85%).<br>
+          - Ages 19-24 & 30-36 form the highest Retention Rates (68.65% & 64.53%, respectively).   <br>
+          - Ages 30-36 & 55+ tend to remain in a moderate Retention Rate despite their lower Conversion Rates.</li>
+      <li><strong><em><span style="color:#ac9055">Multi-exposure users:</span></em></strong><br>
+       Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.</li>
+      <li><strong><em><span style="color:#ac9055">Demographic Influence:</span></em></strong><br>
+          - Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. <br>
+          - Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li>
+
+![demo_influence](https://hend-a-ghafour.github.io/Media/Analyzing_marketing_Campaigns_Heatmap.jpg)
+
+      <li><strong><em><span style="color:#ac9055">Supscription Pattern: </span></em></strong><br>
+      Email is the strongest marketing channel across all age groups, especially for users younger than 30.</li>
+
+![email_pattern](https://hend-a-ghafour.github.io/Media/Analyzing_marketing_Campaigns_Email_Pattern.jpg)
+      <li><strong><em><span style="color:#ac9055">Variant Pattern:</span></em></strong><br>
+        Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).</li>
+      <li><strong><em><span style="color:#ac9055">Language Bug Impact::</span></em></strong><br>
+       The Overall Estimated Lost Subscribers via House Ads (with no bug) ≈ 26, Arabic ≈ 12, German ≈ 10, & Spanish ≈ 6.</li>
+      <li><strong><em><span style="color:#ac9055">A/B Testing:</span></em></strong><br>
+          - The Email Personalization Group outperformed Control Group by 38.85%. <br>
+          - Email Personalized Ads in English & Spanish performed well with an increase by 31.85% & 166.67 % respectively.<br>
+          - Ages below 30: Email Personalized Ads outperformed Control Ads, showing strong positive lift (121.40% for 0-18, 106.24% for 19-24, & 161.19% for 24-30).</li>
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Insights 
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'> 
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Marketing channels strongly influence performance: </span></em></strong><br>
+        Email and Instagram are the most efficient, with Email generating the highest conversion and retention rates despite low distribution.</li>
+      <li><strong><em><span style="color:#ac9055">Personalization increases conversions but not retention: </span></em></strong><br>
+        Personalized ads outperform control in conversions but underperform in long-term retention, especially for users aged 30+.</li>
+      <li><strong><em><span style="color:#ac9055">Demographic influences are significant: </span></em></strong><br>
+        Younger users (under 30) convert and retain better; German and Arabic-speaking users show exceptionally high conversion rates across age groups.</li>
+      <li><strong><em><span style="color:#ac9055">Multi-exposure campaigns are effective: </span></em></strong><br>
+        Users shown ads multiple times demonstrate significantly higher conversion and retention rates, confirming the positive reinforcement effect.</li>
+      <li><strong><em><span style="color:#ac9055">House Ads underperform severely: </span></em></strong><br>
+        High distribution but low conversion/retention due to technical language mismatches. After January 10, mismatches rose sharply while conversions dropped.</li>
+      <li><strong><em><span style="color:#ac9055">Temporal patterns matter: </span></em></strong><br>
+        Mid-month peaks, particularly January 15–17, strongly correlate with the impact of email campaigns.</li>
+      <li><strong><em><span style="color:#ac9055">A/B Testing confirms Email personalization success: </span></em></strong><br>
+        Statistically significant improvement in conversion suggests personalized email content is effective (p-value ≈ 0.65%).</li>
+      <li><strong><em><span style="color:#ac9055">Bias exists in conversion/retention comparisons: </span></em></strong><br>
+        uneven exposure, disproportionate language distribution, and small subgroup sizes limit generalizability.</li>
+      
+    </ul>
+  </p>
+  <center>
+    <strong>
+      <em>
+        <span style="color:#243444"> 
+          Recommendations
+        </span>
+      </em>
+    </strong>
+  </center>
+  <p style='text-align: justify;'> 
+    <ul>
+      <li><strong><em><span style="color:#ac9055">Fix the language-serving bug immediately: </span></em></strong><br>
+        language mismatches directly reduced conversions, especially for Arabic and German users.</li>
+      <li><strong><em><span style="color:#ac9055">To improve reliability and reduce bias in future analyses: </span></em></strong><br>
+       it is recommended to ensure balanced sample sizes across demographic segments and apply randomization techniques when assigning ad types and exposure levels.</li>
+      <li><strong><em><span style="color:#ac9055">Reallocate budget toward Email, Instagram, and Facebook: </span></em></strong><br>
+        where both conversion and retention outcomes are strongest. Reduce reliance on House Ads.</li>
+      <li><strong><em><span style="color:#ac9055">Adopt multi-touch exposure strategy: </span></em></strong><br>
+        A controlled frequency cap (2–5 exposures) increases conversions without overwhelming users.
+</li>
+      <li><strong><em><span style="color:#ac9055">Segment campaigns by language and age: </span></em></strong><br>
+          - Younger users → focus on personalized ads and social media channels.<br>
+          - Older users → use simpler control-style messaging through email.</li>
+      <li><strong><em><span style="color:#ac9055">Redesign personalization strategy: </span></em></strong><br>
+        Use personalized content for acquisition but incorporate standard messaging for retention.</li>
+      <li><strong><em><span style="color:#ac9055">Improve tracking infrastructure: </span></em></strong><br>
+        to prevent duplicate conversions and inconsistent logs.</li>
+      <li><strong><em><span style="color:#ac9055">Strengthen experiment design: </span></em></strong><br>
+        by balancing exposure across language groups and ensuring randomized distribution.</li>
+      <li><strong><em><span style="color:#ac9055">Conduct a second A/B test after system fixes: </span></em></strong><br>
+        to validate personalization impact without data bias.</li>
+    </ul>
+  </p>
+</details>
+
+<br><br>
+
+<center>
+  <strong>
+    <span style="color:#DCDCDC">
+      ______________________________________________________
+    </span>
+  </strong>
+</center>
+<br><br>
+
+
 <h3>
   <em>
     <strong>
@@ -1244,149 +1501,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
     </span>
   </strong>
 </center>
-<br><br>
-<h3>
-  <em>
-    <strong>
-      <span style="color:#7c7959"> 
-        US Bikeshare 
-      </span>
-    </strong>
-  </em>
-</h3> 
-<center>
-  <strong>
-    <em>
-      <a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/bikeshare.py" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
-        View Project 
-      </a>
-    </em>
-  </strong>
-</center> 
-<br><br>
 
-![US Bikeshare](https://hend-a-ghafour.github.io/Media/USBikeshare.jpg)
-
-<details>
-  <summary>
-    <em>
-      <strong>
-        <span style="color:#7c7959">
-          See More
-        </span>
-      </strong>
-    </em>
-  </summary>
-  <br> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Overview 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: center;'>
-    This project analyzed bikeshare data from Chicago, New York City, and Washington to uncover usage patterns and user demographics.
-  </p>
-  <p style='text-align: justify;'>
-    <center>
-      <strong>
-        <em>
-          <span style="color:#243444">
-            Tools & Techniques 
-          </span>
-        </em>
-      </strong>
-    </center>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
-      <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> Pandas - Numpy</li>
-    </ul>
-  </p> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Roles & Responsibilities 
-        </span>
-      </em>
-  </strong>
-  </center>
-  <p style='text-align: center;'>
-    I independently conducted all aspects of the project, including coding the analysis scripts, and preparing and presenting findings.
-  </p>
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Challenges Faced 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li>Developed an interactive terminal script for real-time statistics based on user input.</li>
-      <li>Managed data discrepancies across cities and datasets.</li>
-    </ul>
-  </p>
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Achievements 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Popular Times of Travel:</span></em></strong><br>
-        Identified the most common month, day of the week, and hour of the day for bike rentals.</li>
-      <li><strong><em><span style="color:#ac9055">Popular Stations and Trips: </span></em></strong><br>
-        Determined the most common start and end stations, as well as the most frequent trips.</li>
-      <li><strong><em><span style="color:#ac9055">Trip Duration:</span></em></strong><br>
-        Calculated total and average travel times.</li>
-      <li><strong><em><span style="color:#ac9055">User Info:</span></em></strong><br>
-        Counted each user type (e.g., subscriber, customer), & Analyzed gender-specific data and birth years for NYC and Chicago.</li>
-    </ul>
-  </p>
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Insights 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li>Peak rental times align with commuting hours, suggesting daily transportation use.</li>
-      <li>Popular stations are near landmarks or transportation hubs, indicating high-demand areas.</li>
-      <li>Average ride lengths and travel time variability provided insights into trip duration.</li>
-      <li>User demographics analysis revealed the composition by user type and gender.</li>
-    </ul>
-  </p>
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Future Application 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li> Expand analysis to additional cities or more recent data for evolving usage patterns.</li>
-      <li> Enhance the terminal script's interactivity for detailed queries and customized outputs.</li>
-      <li> Explore correlations between bikeshare usage and external factors such as weather or events.</li>
-    </ul>
-  </p>
-</details>
 <br><br><br><br>  
 
 <strong>
