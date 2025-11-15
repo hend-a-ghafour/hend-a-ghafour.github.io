@@ -235,7 +235,6 @@
         Statistically significant improvement in conversion suggests personalized email content is effective (p-value ≈ 0.65%).</li>
       <li><strong><em><span style="color:#ac9055">Bias exists in conversion/retention comparisons: </span></em></strong><br>
         uneven exposure, disproportionate language distribution, and small subgroup sizes limit generalizability.</li>
-      
     </ul>
   </p>
   <center>
