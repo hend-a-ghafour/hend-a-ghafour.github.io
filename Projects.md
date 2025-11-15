@@ -150,7 +150,7 @@
        Users were almost evenly assigned between the control and personalization groups.</li>
       <li><strong><em><span style="color:#ac9055">Language: </span></em></strong><br>
       97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_Mismatch.jpg" alt="mismatch" width="500" height="300" style="border-radius: 10px;"></li>   
+      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" width="500" height="300" style="border-radius: 10px;"></li>   
       <li><strong><em><span style="color:#ac9055">Age distribution:</span></em></strong><br>
        heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).</li>
       <li><strong><em><span style="color:#ac9055">Channel distribution::</span></em></strong><br>
