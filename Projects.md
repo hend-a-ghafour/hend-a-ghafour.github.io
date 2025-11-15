@@ -45,7 +45,7 @@
 </center> 
 <br><br>
 
-![lang_email](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_lang_email.jpg)
+![lang_email](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_lang_email.jpg)
 
 <details>
   <summary>
@@ -125,7 +125,7 @@
     </ul>
 
   
-   ![lang](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns%20_language.jpg)
+   ![lang](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg)
 
   
   <br>
@@ -137,7 +137,7 @@
      </ul>
 
   
-  ![bug](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_Bug.jpg)
+  ![bug](https://hend-a-ghafour.github.io/blob/Analyzing_Marketing_Campaigns_Bug.jpg)
 
     
   </p>
@@ -165,7 +165,7 @@
     </ul> 
 
           
-  ![mismatch](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg)
+  ![mismatch](https:hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg)
     
     
     <ul>
@@ -186,7 +186,7 @@
      </ul>
   
   
-  ![daily_sub](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg)
+  ![daily_sub](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg)
    
     
     <ul>
@@ -206,7 +206,7 @@
     </ul>
 
 
-![demo_influence](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg)
+![demo_influence](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg)
    
     
     <ul>
@@ -215,7 +215,7 @@
     </ul>
 
 
-![email_pattern](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg)
+![email_pattern](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg)
     
     
     <ul>
