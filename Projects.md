@@ -45,7 +45,7 @@
 </center> 
 <br><br>
 
-![lang_email](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_lang_email.jpg)
+![lang_email](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_lang_email.jpg)
 
 <details>
   <summary>
@@ -123,8 +123,11 @@
       <li><strong><em>Language mismatches,</em></strong> <br>
         97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads.</li>
     </ul>
+
   
-  ![lang](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg)
+   ![lang](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns%20_language.jpg)
+
+  
   <br>
      <ul>
       <li><strong><em>Uneven distribution of exposures: </em></strong> <br>
@@ -132,8 +135,10 @@
       <li><strong><em>Technical bug in House Ads </em></strong> <br>
         caused recurring language mismatches after January 10, heavily distorting conversion rates.</li>
      </ul>
+
   
   ![bug](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_Bug.jpg)
+
     
   </p>
   <center>
@@ -158,8 +163,11 @@
       <li><strong><em><span style="color:#ac9055">Language: </span></em></strong><br>
       97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).</li>
     </ul> 
+
           
   ![mismatch](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg)
+    
+    
     <ul>
       <li><strong><em><span style="color:#ac9055">Age distribution:</span></em></strong><br>
        heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).</li>
@@ -176,7 +184,11 @@
           - Younger Users (under 30) ≈ 19.29%, Older Users (above 30) ≈ 7.29% <br>
           - The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li>
      </ul>
+  
+  
   ![daily_sub](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg)
+   
+    
     <ul>
       <li><strong><em><span style="color:#ac9055">Retention Rates:</span></em></strong><br>
           - Overall Retention Rate ≈ 65.95%. <br>
@@ -192,12 +204,20 @@
           - Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. <br>
           - Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li>
     </ul>
+
+
 ![demo_influence](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg)
+   
+    
     <ul>
       <li><strong><em><span style="color:#ac9055">Supscription Pattern: </span></em></strong><br>
       Email is the strongest marketing channel across all age groups, especially for users younger than 30.</li>
     </ul>
+
+
 ![email_pattern](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg)
+    
+    
     <ul>
       <li><strong><em><span style="color:#ac9055">Variant Pattern:</span></em></strong><br>
         Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).</li>
