@@ -45,7 +45,7 @@
 </center> 
 <br><br>
 
-![lang_email](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_lang_email.jpg))
+![lang_email](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_lang_email.jpg)
 
 <details>
   <summary>
@@ -124,7 +124,8 @@
         97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads.</li>
     </ul>
   
-  ![lang](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns%20_language.jpg)
+  ![lang](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg)
+  <br>
      <ul>
       <li><strong><em>Uneven distribution of exposures: </em></strong> <br>
         77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.</li>
