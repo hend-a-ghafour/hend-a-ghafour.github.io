@@ -122,14 +122,9 @@
         such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.</li>
       <li><strong><em>Language mismatches,</em></strong> <br>
         97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads.</li>
-    </ul>
 
-  
-   ![lang](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg)
-
-  
-  <br>
-     <ul>
+  ![lang](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg)
+     
       <li><strong><em>Uneven distribution of exposures: </em></strong> <br>
         77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.</li>
       <li><strong><em>Technical bug in House Ads </em></strong> <br>
