@@ -112,7 +112,7 @@
     </strong>
   </center>
   <p style='text-align: justify;'>
-  <ul>
+    <ul>
       <li> <strong><em>Duplicate and near-duplicate records</em></strong> <br>
         (37 exact duplicates, multiple near-duplicates) inflated conversions and created conflicting values in age groups and retention indicators.</li>
       <li><strong><em>Missing values often appeared in logically connected fields, </em></strong> <br>
@@ -121,12 +121,14 @@
         such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.</li>
       <li><strong><em>Language mismatches,</em></strong> <br>
         97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads.        
-          <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="500" height="300" style="border-radius: 10px;">
+          <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="500" height="300" style="border-radius: 10px;"> </li>
       <li><strong><em>Uneven distribution of exposures: </em></strong> <br>
         77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.</li>
       <li><strong><em>Technical bug in House Ads </em></strong> <br>
       caused recurring language mismatches after January 10, heavily distorting conversion rates.
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" width="500" height="300" style="border-radius: 10px;"></li>
+    </ul> 
+  </p>
   <center>
     <strong>
       <em>
