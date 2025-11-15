@@ -45,7 +45,7 @@
 </center> 
 <br><br>
 
-![lang_email](https://hend-a-ghafour.github.io/Media/Analyzing_marketing_Campaigns_lang_email.jpg)
+![lang_email](https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Analyzing_Marketing_Campaigns_lang_email.jpg))
 
 <details>
   <summary>
