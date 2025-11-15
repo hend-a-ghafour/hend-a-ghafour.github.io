@@ -183,7 +183,6 @@
       <li><strong><em><span style="color:#ac9055">Supscription Pattern: </span></em></strong><br>
       Email is the strongest marketing channel across all age groups, especially for users younger than 30.
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" width="500" height="300" style="border-radius: 10px;"></li>    
-</li>
       <li><strong><em><span style="color:#ac9055">Variant Pattern:</span></em></strong><br>
         Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).</li>
       <li><strong><em><span style="color:#ac9055">Language Bug Impact::</span></em></strong><br>
