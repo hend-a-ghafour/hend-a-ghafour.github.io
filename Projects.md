@@ -127,7 +127,7 @@
       <li><strong><em>Technical bug in House Ads </em></strong> <br>
         caused recurring language mismatches after January 10, heavily distorting conversion rates.
         <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" width="500" height="300" style="border-radius: 10px;">
-     </ul>   
+    </ul>   
   </p>
   <center>
     <strong>
