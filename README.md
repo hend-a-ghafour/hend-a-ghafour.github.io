@@ -1,4 +1,10 @@
 ## ***<center><span style="color:#ac9055">Turning Data into cheerful, understandable, & Actionable Insights</span></center>***
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/Media/Hend%20Abd%20El-Ghafour-%20Resume.pdf" target="_blank">
+    📄 Download My CV
+  </a>
+</div>
+
 <br>
 <strong>
   <em>
