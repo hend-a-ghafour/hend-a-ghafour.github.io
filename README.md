@@ -79,7 +79,7 @@
   </strong>
   <ul>
     <li>In-depth analysis using Python, SQL, BI tools & Excel.</li>
-    <li>Detailed statistical and financial reports with Excel modeling.</li>
+    <li>Detailed statistical reports with Python.</li>
   </ul>
   <strong>
     <em>
@@ -90,7 +90,7 @@
   </strong>
   <ul>
     <li> Creating clear and impactful data visualizations.</li>
-    <li>Creating Dashboards using Tableau & Excel to easily understand data & make informed decisions.</li>
+    <li>Creating Dashboards using Power BI, Tableau & Excel to easily understand data & make informed decisions.</li>
   </ul>
   <strong>
     <em>
