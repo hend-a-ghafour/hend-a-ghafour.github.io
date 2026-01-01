@@ -35,7 +35,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:2px;"> 
+      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-image: linear-gradient(120deg, #155799, #159957);"> 
         View Project 
       </a>
     </em>
@@ -65,7 +65,7 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: center;font-size:0.9rem;'>
+  <p style='text-align: center;font-size:1rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
   <p style='text-align: justify;'>
@@ -79,8 +79,8 @@
       </strong>
     </center>
     <ul>
-      <li><strong><em><span style="color:#ac9055;font-size:0.9rem;">Programming Language:</span></em></strong> <span style="font-size:0.8rem;">Python <em> (.ipynb file for analysis & .py file for automation)</em></span></li>
-      <li><strong><em><span style="color:#ac9055;font-size:0.9rem;">Data Wrangling:</span></em></strong> <span style="font-size:0.8rem;">A set of different liberaries</span></li>
+      <li><strong><em><span style="color:#155799;font-size:1rem;">Programming Language:</span></em></strong> <span style="font-size:0.9rem;">Python <em> (.ipynb file for analysis & .py file for automation)</em></span></li>
+      <li><strong><em><span style="color:#155799;font-size:1rem;">Data Wrangling:</span></em></strong> <span style="font-size:0.9rem;">A set of different liberaries</span></li>
     </ul>
   </p> 
   <center>
@@ -92,6 +92,7 @@
       </em>
   </strong>
   </center>
+  <span style="font-size:1rem;">
   <ul>
     <li> Identify key drivers of user conversion and retention. </li>
     <li> Measure the impact of repeated ad exposures on conversion outcomes. </li> 
@@ -100,6 +101,7 @@
     <li> Detect temporal patterns in ad performance and subscription behavior. </li>
     <li> Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.</li>   
   </ul>
+  </span>
   <center>
     <strong>
       <em>
@@ -110,22 +112,24 @@
     </strong>
   </center>
   <p style='text-align: justify;'>
+    <span style="font-size:1rem;">
     <ul>
       <li> <strong><em>Duplicate and near-duplicate records</em></strong> <br>
-        (37 exact duplicates, multiple near-duplicates) inflated conversions and created conflicting values in age groups and retention indicators.</li>
+        <span style="font-size:.9rem;">(37 exact duplicates, multiple near-duplicates) inflated conversions and created conflicting values in age groups and retention indicators.</span></li>
       <li><strong><em>Missing values often appeared in logically connected fields, </em></strong> <br>
-        requiring standardized rules for handling subscription/cancellation inconsistencies.</li>
+        <span style="font-size:.9rem;">requiring standardized rules for handling subscription/cancellation inconsistencies.</span></li>
       <li><strong><em>User-level inconsistencies, </em></strong> <br>
-        such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.</li>
+        <span style="font-size:.9rem;">such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.</span></li>
       <li><strong><em>Language mismatches,</em></strong> <br>
-        97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads.        
-          <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="500" height="300" style="border-radius: 10px;"> </li>
+        <span style="font-size:.9rem;">97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads.        
+          <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="500" height="300" style="border-radius: 10px;"> </span></li>
       <li><strong><em>Uneven distribution of exposures: </em></strong> <br>
-        77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.</li>
+        <span style="font-size:.9rem;">77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.</span></li>
       <li><strong><em>Technical bug in House Ads </em></strong> <br>
-      caused recurring language mismatches after January 10, heavily distorting conversion rates.
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" width="500" height="300" style="border-radius: 10px;"></li>
+      <span style="font-size:.9rem;">caused recurring language mismatches after January 10, heavily distorting conversion rates.
+      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" width="500" height="300" style="border-radius: 10px;"></span></li>
     </ul> 
+    </span>
   </p>
   <center>
     <strong>
