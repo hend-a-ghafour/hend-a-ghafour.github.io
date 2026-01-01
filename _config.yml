@@ -1,7 +1,6 @@
-title: <p style="font-size:30px;font:Georgia;font-style:italic;">Turning Data into Actionable, Understadable, & Cheerful Insights</p>
-logo: /Media/Profile Pic.jpg 
-description: <p style="font-size:25px;">Hend Abd El-Ghafour - Data Analyst </p>
-show_downloads: true
+title: <p style="font-size:30px;font-style:italic;">Turning Data into Actionable, Understadable, & Cheerful Insights</p>
+description: <p style="font-size:25px;">Hend Abd El-Ghafour</p> <br> <p style="font-size:20px;font-style:italic;">Data Analyst 
+show_downloads: false
 theme: jekyll-theme-cayman
 
 
