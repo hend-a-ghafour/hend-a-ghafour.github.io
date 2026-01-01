@@ -3,19 +3,19 @@
     <span style="color:#ac9055;"> 
       About Me 
     </span>
-    <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 150px; height: 60px;">
+    <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;">
       Projects
     </a>
-    <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;background-image: linear-gradient(120deg, #155799,#155799, #159957);width: 150px; height: 60px;"> 
+    <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;background-image: linear-gradient(120deg, #155799,#155799, #159957);width: 140px; height: 60px;"> 
       Testimonials 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 150px; height: 60px;"> 
+    <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;"> 
       Experience 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 150px; height: 60px;"> 
+    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;"> 
       Education 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 150px; height: 60px;"> 
+    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;"> 
       Contact 
     </a>
   </em>
@@ -27,7 +27,7 @@
       <center>
         <span style="color:#808080">
           Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br>
-          Over the past three years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, SQL, Tableau, Power BI and Excel. <br> 
+          Over the past four years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, SQL, Tableau, Power BI and Excel. <br> 
           With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.
         </span>
       </center>
