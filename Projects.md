@@ -23,15 +23,13 @@
 <br><br>
 
 <br><br>
-<h3>
+<h2>
   <em>
     <strong>
-      <span style="color:#7c7959"> 
         Analyzing Marketing Campaigns
-      </span>
     </strong>
   </em>
-</h3> 
+</h2> 
 <center>
   <strong>
     <em>
@@ -59,7 +57,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Overview 
         </span>
       </em>
@@ -72,7 +70,7 @@
     <center>
       <strong>
         <em>
-          <span style="color:#243444">
+          <span style="color:#155799">
             Tools & Techniques 
           </span>
         </em>
@@ -86,7 +84,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Roles & Responsibilities 
         </span>
       </em>
@@ -103,7 +101,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Challenges Faced 
         </span>
       </em>
@@ -130,7 +128,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Achievements 
         </span>
       </em>
@@ -194,7 +192,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Insights 
         </span>
       </em>
@@ -223,7 +221,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Recommendations
         </span>
       </em>
