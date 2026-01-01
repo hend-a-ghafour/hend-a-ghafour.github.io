@@ -26,14 +26,16 @@
 <h2>
   <em>
     <strong>
+      <span style="color:#155799">
         Analyzing Marketing Campaigns
+      </span>
     </strong>
   </em>
 </h2> 
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
+      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:2px;"> 
         View Project 
       </a>
     </em>
@@ -47,7 +49,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#7c7959">
+        <span style="color:#ac9055">
           See More
         </span>
       </strong>
@@ -57,34 +59,34 @@
   <center>
     <strong>
       <em>
-        <span style="color:#155799"> 
+        <span style="color:#159957"> 
           Overview 
         </span>
       </em>
     </strong>
   </center>
-  <p style='text-align: center;'>
+  <p style='text-align: center;font-size:0.9rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
   <p style='text-align: justify;'>
     <center>
       <strong>
         <em>
-          <span style="color:#155799">
+          <span style="color:#159957">
             Tools & Techniques 
           </span>
         </em>
       </strong>
     </center>
     <ul>
-      <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python <em> (.ipynb file for analysis & .py file for automation)</em></li>
-      <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> A set of different liberaries</li>
+      <li><strong><em><span style="color:#ac9055;font-size:0.9rem;">Programming Language:</span></em></strong> <span style="font-size:0.8rem;">Python <em> (.ipynb file for analysis & .py file for automation)</em></span></li>
+      <li><strong><em><span style="color:#ac9055;font-size:0.9rem;">Data Wrangling:</span></em></strong> <span style="font-size:0.8rem;">A set of different liberaries</span></li>
     </ul>
   </p> 
   <center>
     <strong>
       <em>
-        <span style="color:#155799"> 
+        <span style="color:#159957"> 
           Roles & Responsibilities 
         </span>
       </em>
@@ -101,7 +103,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#155799"> 
+        <span style="color:#159957"> 
           Challenges Faced 
         </span>
       </em>
@@ -128,7 +130,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#155799"> 
+        <span style="color:#159957"> 
           Achievements 
         </span>
       </em>
@@ -192,7 +194,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#155799"> 
+        <span style="color:#159957"> 
           Insights 
         </span>
       </em>
@@ -221,7 +223,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#155799"> 
+        <span style="color:#159957"> 
           Recommendations
         </span>
       </em>
