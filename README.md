@@ -3,7 +3,7 @@
     <span style="color:#ac9055;"> 
       About Me 
     </span>
-    <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;">
+    <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:0.75rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;">
       Projects
     </a>
     <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;background-image: linear-gradient(120deg, #155799,#155799, #159957);width: 140px; height: 60px;"> 
