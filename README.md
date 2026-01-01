@@ -5,7 +5,7 @@
     <span style="color:#243444"> 
       About Me 
     </span>
-    <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:5px 8px; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:2px;">
+    <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:0.75rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;">
       Projects
     </a>
     <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:5px 8px; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:2px;"> 
