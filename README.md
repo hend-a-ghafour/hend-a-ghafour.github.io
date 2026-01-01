@@ -49,7 +49,7 @@
           Services Offered: 
       </em>
     </strong>
-  </h3>
+  </h2>
   <strong>
     <em>
       <span style="color:#ac9055"> 
