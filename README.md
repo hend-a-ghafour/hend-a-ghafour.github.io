@@ -25,11 +25,9 @@
   <strong>
     <em>
       <center>
-        
-          Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br>
+        Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br>
           Over the past four years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, SQL, Tableau, Power BI and Excel. <br> 
-          With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.
-        
+          With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.        
       </center>
     </em>
   </strong>
