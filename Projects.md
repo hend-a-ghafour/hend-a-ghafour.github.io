@@ -3,7 +3,7 @@
     <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
       About Me 
     </a>
-    <span style="color:#ac9055;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;"> 
+    <span style="color:#155799;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;"> 
       Projects 
     </span>
     <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;background-image: linear-gradient(120deg, #155799,#155799, #159957);width: 145px; height: 60px;font-size:1rem;"> 
@@ -22,16 +22,8 @@
 </strong>
 <br><br>
 
-<br><br>
-<h2>
-  <em>
-    <strong>
-      <span style="color:#155799">
-        Analyzing Marketing Campaigns
-      </span>
-    </strong>
-  </em>
-</h2> 
+## ***Analyzing Marketing Campaigns***
+      
 <center>
   <strong>
     <em>
@@ -49,58 +41,31 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#ac9055">
+        <span style="color:#5b2c6f">
           See More
         </span>
       </strong>
     </em>
   </summary>
-  <br> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#159957"> 
-          Overview 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: center;font-size:1rem;'>
+   
+ #### ***<span style="color:#155799"><center>Overview</center></span>***
+ <p style='text-align: center;font-size:1rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
-  <p style='text-align: justify;'>
-    <center>
-      <strong>
-        <em>
-          <span style="color:#159957">
-            Tools & Techniques 
-          </span>
-        </em>
-      </strong>
-    </center>
-    <ul>
-      <li><strong><em><span style="color:#155799;font-size:1rem;">Programming Language:</span></em></strong> <span style="font-size:0.9rem;">Python <em> (.ipynb file for analysis & .py file for automation)</em></span></li>
-      <li><strong><em><span style="color:#155799;font-size:1rem;">Data Wrangling:</span></em></strong> <span style="font-size:0.9rem;">A set of different liberaries</span></li>
-    </ul>
-  </p> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#159957"> 
-          Roles & Responsibilities 
-        </span>
-      </em>
-  </strong>
-  </center>
-  <span style="font-size:1rem;">
-  <ul>
-    <li> Identify key drivers of user conversion and retention. </li>
-    <li> Measure the impact of repeated ad exposures on conversion outcomes. </li> 
-    <li> Examine how demographic elements (age, language) influence performance. </li>
-    <li> Evaluate channel effectiveness across distribution, conversion, and retention.</li>
-    <li> Detect temporal patterns in ad performance and subscription behavior. </li>
-    <li> Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.</li>   
-  </ul>
+<p style='text-align: justify;'>
+  
+#### ***<span style="color:#2ecc71"><center>Tools & Techniques </span>***
+- ***<span style="color:#2ecc71;font-size:1rem;">Programming Language:</span>***<span style="font-size:0.9rem;">Python _(.ipynb file for analysis & .py file for automation)_
+- ***<span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span>*** <span style="font-size:0.9rem;">A set of different liberaries.</span>
+#### ***<span style="color:#2ecc71"><center> Roles & Responsibilities </span>***
+<span style="font-size:1rem;">
+
+  - Identify key drivers of user conversion and retention.
+  - Measure the impact of repeated ad exposures on conversion outcomes.
+  - Examine how demographic elements (age, language) influence performance.
+  - Evaluate channel effectiveness across distribution, conversion, and retention.
+  - Detect temporal patterns in ad performance and subscription behavior.
+  - Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.
   </span>
   <center>
     <strong>
