@@ -38,14 +38,11 @@
 <br>
 
 ## ***Skills:***
-***<span style="color:#2ecc71;font-size:1rem;"> Tools: </span>*** <br>   
-| | | |
-|-|-|-|
-|Python| SQL| Tableau| 
-| Power BI|Excel|
+***<span style="color:#155799;font-size:1rem;"> Tools: </span>*** <br>   
+<span style="font-size:.9rem;">Python - SQL - Tableau - Power BI - Excel </span> <br>
 
-***<span style="color:#2ecc71;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - SQL Queries - Python Coding - Excel Functions - Interactive Dashboards</span> <br>  <br>
-***<span style="color:#2ecc71;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> <br>
+***<span style="color:#155799;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - SQL Queries - Python Coding - Excel Functions - Interactive Dashboards</span> <br>  
+***<span style="color:#155799;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> 
 <br><br>
 <p style='text-align: justify;'>
   <h2>
@@ -57,77 +54,79 @@
   </h2>
   <strong>
     <em>
-      <span style="color:#2ecc71;font-size:1rem;"> 
+      <span style="color:#155799;font-size:1rem;"> 
         Data Cleaning & Preparation: 
       </span>
     </em>
   </strong>
-  <p style="font-size:.9rem;">
+  <span style="font-size:.9rem;">
   <ul>
     <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
     <li>Handling missing values, duplicates, and data restructuring.</li>
   </ul>
-  </p>
+  </span>
   <strong>
     <em>
-      <span style="color:#2ecc71;font-size:1rem;">
+      <span style="color:#155799;font-size:1rem;">
         Data Analysis & Reporting: 
       </span>
     </em>
   </strong>
-  <p style="font-size:.9rem;">
+  <span style="font-size:.9rem;">
   <ul>
     <li>In-depth analysis using Python, SQL, BI tools & Excel.</li>
     <li>Detailed statistical reports with Python.</li>
   </ul>
-  </p>
+  </span>
   <strong>
     <em>
-      <span style="color:#2ecc71;font-size:1rem;">
+      <span style="color:#155799;font-size:1rem;">
         Data Visualization: 
       </span>
     </em>
   </strong>
-  <p style="font-size:.9rem;">
+  <span style="font-size:.9rem;">
   <ul>
     <li> Creating clear and impactful data visualizations.</li>
     <li>Creating Dashboards using Power BI, Tableau & Excel to easily understand data & make informed decisions.</li>
   </ul>
-  </p>
+  </span>
   <strong>
     <em>
-      <span style="color:#2ecc71;font-size:1rem;">
+      <span style="color:#155799;font-size:1rem;">
         Problem Solving & Strategic Insights: 
       </span>
     </em>
   </strong>
-  <p style="font-size:.9rem;">
+  <span style="font-size:.9rem;">
   <ul>
     <li>Identifying and resolving business challenges.</li>
     <li>Analyzing data trends to drive growth and efficiency.</li>
   </ul>
-  </p>
+  </span>
   <strong>
     <em>
-      <span style="color:#2ecc71;font-size:1rem;">
+      <span style="color:#155799;font-size:1rem;">
         Time Management & Project Coordination: 
       </span>
     </em>
   </strong>
-  <p style="font-size:.9rem;">
+  <span style="font-size:.9rem;">
   <ul>
     <li>Ensuring timely delivery of high-quality projects.</li>
     <li>Coordinating tasks and meeting all milestones.</li>
   </ul>
-  </p>
+  </span>
  </p>
 <br>
 
-# ***Why Me?***
+# ***<center>Why Me?</center>***
 <strong>
   <em>
-    <center>  
+    <center> 
+      <span style="font-size:.9rem;">
         By hiring me, you gain a dedicated professional with a strong analytical skill set, a keen eye for detail, and a commitment to delivering actionable insights and efficient solutions tailored to your business needs. 
+      </span>
     </center>
   </em>
 </strong>
