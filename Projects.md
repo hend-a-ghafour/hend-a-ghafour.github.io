@@ -41,42 +41,38 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#5b2c6f">
+        <span style="color:#2980b9">
           See More
         </span>
       </strong>
     </em>
   </summary>
    
- 
- #### ***<span style="color:#155799"><center>Overview</center></span>***
- 
- <p style='text-align: center;font-size:1rem;'>
+  <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
+ <p style='text-align: center;font-size:.9rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
 <p style='text-align: justify;'>
-  
-#### ***<span style="color:#2ecc71"><center>Tools & Techniques </span>***
-
-- ***<span style="color:#2ecc71;font-size:1rem;">Programming Language:</span>***<span style="font-size:0.9rem;">Python _(.ipynb file for analysis & .py file for automation)_
-- ***<span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span>*** <span style="font-size:0.9rem;">A set of different liberaries.</span>
-
-#### ***<span style="color:#2ecc71"><center> Roles & Responsibilities </span>***
-
+<h3><strong><em><span style="color:#2ecc71"><center>Tools & Techniques </span></em></strong></h3> 
+  <ul>
+    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span><strong><em><span style="font-size:0.9rem;">Python _(.ipynb file for analysis & .py file for automation)_</li>
+    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span><strong><em> <span style="font-size:0.9rem;">A set of different liberaries.</span></li>
+</ul>
+<h3><strong><em><span style="color:#2ecc71"><center> Roles & Responsibilities </span></em></strong></h3> 
 <span style="font-size:1rem;">
-
-  - Identify key drivers of user conversion and retention.
-  - Measure the impact of repeated ad exposures on conversion outcomes.
-  - Examine how demographic elements (age, language) influence performance.
-  - Evaluate channel effectiveness across distribution, conversion, and retention.
-  - Detect temporal patterns in ad performance and subscription behavior.
-  - Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.
-  
+<ul>
+  <li>Identify key drivers of user conversion and retention.</li>
+  <li>Measure the impact of repeated ad exposures on conversion outcomes.</li>
+  <li>Examine how demographic elements (age, language) influence performance.</li>
+  <li>Evaluate channel effectiveness across distribution, conversion, and retention.</li>
+  <li>Detect temporal patterns in ad performance and subscription behavior.</li>
+  <li>Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.</li>
+  </ul>  
   </span>
   <center>
     <strong>
       <em>
-        <span style="color:#159957"> 
+        <span style="color:#2ecc71"> 
           Challenges Faced 
         </span>
       </em>
@@ -105,7 +101,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#159957"> 
+        <span style="color:#2ecc71"> 
           Achievements 
         </span>
       </em>
@@ -169,7 +165,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#159957"> 
+        <span style="color:#2ecc71"> 
           Insights 
         </span>
       </em>
@@ -198,7 +194,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#159957"> 
+        <span style="color:#2ecc71"> 
           Recommendations
         </span>
       </em>
