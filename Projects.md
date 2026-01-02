@@ -55,8 +55,8 @@
 <p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
   <ul>
-    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><em><span style="font-size:0.9rem;">Python _(.ipynb file for analysis & .py file for automation)_</span></em></li>
-    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><strong><em> <span style="font-size:0.9rem;">A set of different liberaries.</span></em></strong></li>
+    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;">Python <em>(.ipynb file for analysis & .py file for automation)</em></span></li>
+    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;">A set of different liberaries.</span></li>
 </ul>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
 <span style="font-size:1rem;">
