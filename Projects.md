@@ -48,16 +48,21 @@
     </em>
   </summary>
    
+ 
  #### ***<span style="color:#155799"><center>Overview</center></span>***
+ 
  <p style='text-align: center;font-size:1rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
 <p style='text-align: justify;'>
   
 #### ***<span style="color:#2ecc71"><center>Tools & Techniques </span>***
+
 - ***<span style="color:#2ecc71;font-size:1rem;">Programming Language:</span>***<span style="font-size:0.9rem;">Python _(.ipynb file for analysis & .py file for automation)_
 - ***<span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span>*** <span style="font-size:0.9rem;">A set of different liberaries.</span>
+
 #### ***<span style="color:#2ecc71"><center> Roles & Responsibilities </span>***
+
 <span style="font-size:1rem;">
 
   - Identify key drivers of user conversion and retention.
@@ -66,6 +71,7 @@
   - Evaluate channel effectiveness across distribution, conversion, and retention.
   - Detect temporal patterns in ad performance and subscription behavior.
   - Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.
+  
   </span>
   <center>
     <strong>
