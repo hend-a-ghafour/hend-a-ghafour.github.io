@@ -53,12 +53,12 @@
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
 <p style='text-align: justify;'>
-<h3><strong><em><span style="color:#2ecc71"><center>Tools & Techniques </center></span></em></strong></h3> 
+<h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
   <ul>
-    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span><strong><em><span style="font-size:0.9rem;">Python _(.ipynb file for analysis & .py file for automation)_</li>
-    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span><strong><em> <span style="font-size:0.9rem;">A set of different liberaries.</span></li>
+    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><em><span style="font-size:0.9rem;">Python _(.ipynb file for analysis & .py file for automation)_</span></em></li>
+    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><strong><em> <span style="font-size:0.9rem;">A set of different liberaries.</span></em></strong></li>
 </ul>
-<h3><strong><em><span style="color:#2ecc71"><center> Roles & Responsibilities </center></span></em></strong></h3> 
+<h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
 <span style="font-size:1rem;">
 <ul>
   <li>Identify key drivers of user conversion and retention.</li>
@@ -72,7 +72,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#2ecc71"> 
+        <span style="color:#155799"> 
           Challenges Faced 
         </span>
       </em>
@@ -101,7 +101,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#2ecc71"> 
+        <span style="color:#155799"> 
           Achievements 
         </span>
       </em>
@@ -165,7 +165,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#2ecc71"> 
+        <span style="color:#155799"> 
           Insights 
         </span>
       </em>
@@ -194,7 +194,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#2ecc71"> 
+        <span style="color:#155799"> 
           Recommendations
         </span>
       </em>
