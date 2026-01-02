@@ -38,9 +38,14 @@
 <br>
 
 ## ***Skills:***
-***<span style="color:#2ecc71;font-size:1rem;"> Tools: </span>*** <br>   <span style="font-size:.9rem;">Python - SQL - Tableau - Power BI - Excel</span>  <br> <br> 
-***<span style="color:#2ecc71;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - SQL Queries - Python Coding - Excel Functions - Interactive Dashboards</span> <br> <br> 
-***<span style="color:#2ecc71;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> <br> 
+***<span style="color:#2ecc71;font-size:1rem;"> Tools: </span>*** <br>   
+| | | |
+|-|-|-|
+|Python| SQL| Tableau| 
+| Power BI|Excel|
+
+***<span style="color:#2ecc71;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - SQL Queries - Python Coding - Excel Functions - Interactive Dashboards</span> <br>  <br>
+***<span style="color:#2ecc71;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> <br>
 <br><br>
 <p style='text-align: justify;'>
   <h2>
