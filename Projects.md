@@ -119,11 +119,11 @@
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" width="400" height="400" style="border-radius: 10px;"><br><br> 
       <strong><em><span style="color:#2ecc71">Age distribution:</span></em></strong><br>
        heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).<br><br>
-      <strong><em><span style="color:#2ecc71">Channel distribution::</span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Channel distribution:</span></em></strong><br>
        House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).<br><br>
       <strong><em><span style="color:#2ecc71">Ad repetition:</span></em></strong><br>
        77.07% one-time exposure, 22.93% multi-exposure.<br><br>
-      <strong><em><span style="color:#2ecc71">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;">
+      <strong><em><span style="color:#2ecc71">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;"">
           <li>Overall Conversion Rate ≈ 13.01% </li>
           <li> Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).</li>
           <li> Personalized ads: 16.80% vs Control: ≈10%</li>
@@ -133,7 +133,7 @@
           <li> The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li>
     </ul>
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" width="400" height="400" style="border-radius: 10px;"><br><br>     
-      <strong><em><span style="color:#2ecc71font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;">
+      <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;"">
         <li> Overall Retention Rate ≈ 65.95%. </li>
         <li> Email 76.47% (Highest), House Ads 58.05 (Lowest).</li>
         <li> Control ads: 67.63% vs Personalized: ≈65.5%</li>
@@ -147,7 +147,7 @@
       <p style="font-size:0.9rem;"><strong><em><span style="color:#2ecc71;font-size:0.9rem;">Multi-exposure users:</span></em></strong><br>
        Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.</p><br>
       <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Demographic Influence:</span></em></strong>
-      <ul style="font-size:0.9rem;">
+      <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;"">
           <li> Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. </li>
           <li> Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li>
       </ul>
@@ -160,7 +160,7 @@
       <p style="font-size:0.9rem;"><strong><em><span style="color:#2ecc71">Language Bug Impact:</span></em></strong><br>
        The Overall Estimated Lost Subscribers via House Ads (with no bug) ≈ 26, Arabic ≈ 12, German ≈ 10, & Spanish ≈ 6.</p><br>
       <strong><em><span style="color:#2ecc71;font-size:0.9rem;">A/B Testing:</span></em></strong>
-      <ul style="font-size:0.9rem;">
+      <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
           <li> The Email Personalization Group outperformed Control Group by 38.85%. </li>
           <li> Email Personalized Ads in English & Spanish performed well with an increase by 31.85% & 166.67 % respectively.</li>
           <li> Ages below 30: Email Personalized Ads outperformed Control Ads, showing strong positive lift (121.40% for 0-18, 106.24% for 19-24, & 161.19% for 24-30).</li>
@@ -176,21 +176,21 @@
     </strong>
   </center>
   <p style='text-align: justify;font-size:0.9rem;'> 
-    <strong><em><span style="color:#ac9055">Marketing channels strongly influence performance: </span></em></strong><br>
+    <strong><em><span style="color:#2ecc71">Marketing channels strongly influence performance: </span></em></strong><br>
         Email and Instagram are the most efficient, with Email generating the highest conversion and retention rates despite low distribution.<br><br>
-      <strong><em><span style="color:#ac9055">Personalization increases conversions but not retention: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Personalization increases conversions but not retention: </span></em></strong><br>
         Personalized ads outperform control in conversions but underperform in long-term retention, especially for users aged 30+.<br><br>
-      <strong><em><span style="color:#ac9055">Demographic influences are significant: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Demographic influences are significant: </span></em></strong><br>
         Younger users (under 30) convert and retain better; German and Arabic-speaking users show exceptionally high conversion rates across age groups.<br><br>
-      <strong><em><span style="color:#ac9055">Multi-exposure campaigns are effective: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Multi-exposure campaigns are effective: </span></em></strong><br>
         Users shown ads multiple times demonstrate significantly higher conversion and retention rates, confirming the positive reinforcement effect.<br><br>
-      <strong><em><span style="color:#ac9055">House Ads underperform severely: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">House Ads underperform severely: </span></em></strong><br>
         High distribution but low conversion/retention due to technical language mismatches. After January 10, mismatches rose sharply while conversions dropped.<br><br>
-      <strong><em><span style="color:#ac9055">Temporal patterns matter: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Temporal patterns matter: </span></em></strong><br>
         Mid-month peaks, particularly January 15–17, strongly correlate with the impact of email campaigns.<br><br>
-      <strong><em><span style="color:#ac9055">A/B Testing confirms Email personalization success: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">A/B Testing confirms Email personalization success: </span></em></strong><br>
         Statistically significant improvement in conversion suggests personalized email content is effective (p-value ≈ 0.65%).<br><br>
-      <strong><em><span style="color:#ac9055">Bias exists in conversion/retention comparisons: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Bias exists in conversion/retention comparisons: </span></em></strong><br>
         uneven exposure, disproportionate language distribution, and small subgroup sizes limit generalizability.
   </p>
   <br><br>
@@ -203,30 +203,30 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;font-size:0.9;'> 
-   <strong><em><span style="color:#ac9055">Fix the language-serving bug immediately: </span></em></strong><br>
+  <p style='text-align: justify;font-size:0.9rem;'> 
+   <strong><em><span style="color:#2ecc71">Fix the language-serving bug immediately: </span></em></strong><br>
         language mismatches directly reduced conversions, especially for Arabic and German users.<br><br>
-      <strong><em><span style="color:#ac9055">To improve reliability and reduce bias in future analyses: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">To improve reliability and reduce bias in future analyses: </span></em></strong><br>
        it is recommended to ensure balanced sample sizes across demographic segments and apply randomization techniques when assigning ad types and exposure levels.<br><br>
-      <strong><em><span style="color:#ac9055">Reallocate budget toward Email, Instagram, and Facebook: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Reallocate budget toward Email, Instagram, and Facebook: </span></em></strong><br>
         where both conversion and retention outcomes are strongest. Reduce reliance on House Ads.<br><br>
-      <strong><em><span style="color:#ac9055">Adopt multi-touch exposure strategy: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Adopt multi-touch exposure strategy: </span></em></strong><br>
         A controlled frequency cap (2–5 exposures) increases conversions without overwhelming users.
   </p>
-<br><br>
-      <strong><em><span style="color:#ac9055">Segment campaigns by language and age: </span></em></strong>
-      <ul>
+<br>
+      <strong><em><span style="color:#2ecc71; font-size:0.9rem;">Segment campaigns by language and age: </span></em></strong>
+      <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
           <li> <strong><em>Younger users →</em></strong> focus on personalized ads and social media channels.</li>
           <li> <strong><em> Older users → </em></strong>use simpler control-style messaging through email.</li>
       </ul>
-        <p style='text-align: justify;font-size:0.9;'> 
-<strong><em><span style="color:#ac9055">Redesign personalization strategy: </span></em></strong><br>
+        <p style='text-align: justify;font-size:0.9rem;'> 
+<strong><em><span style="color:#2ecc71">Redesign personalization strategy: </span></em></strong><br>
         Use personalized content for acquisition but incorporate standard messaging for retention.<br><br>
-      <strong><em><span style="color:#ac9055">Improve tracking infrastructure: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Improve tracking infrastructure: </span></em></strong><br>
         to prevent duplicate conversions and inconsistent logs.<br><br>
-      <strong><em><span style="color:#ac9055">Strengthen experiment design: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Strengthen experiment design: </span></em></strong><br>
         by balancing exposure across language groups and ensuring randomized distribution.<br><br>
-      <strong><em><span style="color:#ac9055">Conduct a second A/B test after system fixes: </span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Conduct a second A/B test after system fixes: </span></em></strong><br>
         to validate personalization impact without data bias.
   </p>    
 </details>
