@@ -60,7 +60,7 @@
   </strong>
   <span style="font-size:.9rem;">
   <ul marker="color: #155799;">
-    <li style="color:#155799;font-size:1rem;">Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
+    <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
     <li>Handling missing values, duplicates, and data restructuring.</li>
   </ul>
   </span>
