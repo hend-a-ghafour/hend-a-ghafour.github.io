@@ -53,8 +53,8 @@
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
-  <strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"><br> Python <em>(.ipynb file for analysis & .py file for automation)</em></span><br><br>
-    <strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span><br><br>
+  <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"><br> Python <em>(.ipynb file for analysis & .py file for automation)</em></span><br><br>
+    <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span><br><br>
   <p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
   <span style="font-size:0.9rem;">
@@ -72,7 +72,7 @@
     <strong>
       <em>
         <span style="color:#155799"> 
-          Challenges Faced 
+          <h3>Challenges Faced </h3>
         </span>
       </em>
     </strong>
@@ -100,7 +100,7 @@
     <strong>
       <em>
         <span style="color:#155799"> 
-          Achievements 
+          <h3>Achievements </h3>
         </span>
       </em>
     </strong>
@@ -170,7 +170,7 @@
     <strong>
       <em>
         <span style="color:#155799"> 
-          Insights 
+          <h3>Insights </h3>
         </span>
       </em>
     </strong>
@@ -198,7 +198,7 @@
     <strong>
       <em>
         <span style="color:#155799"> 
-          Recommendations
+        <h3>Recommendations</h3>
         </span>
       </em>
     </strong>
@@ -243,15 +243,13 @@
 <br><br>
 
 
-<h3>
+<h2>
   <em>
     <strong>
-      <span style="color:#7c7959"> 
         Inventory Analysis
-      </span>
     </strong>
   </em>
-</h3> 
+</h2> 
 <em>
   Aug 2025 
 </em>
@@ -264,7 +262,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#7c7959">
+        <span style="color:#2980b9">
           See More
         </span>
       </strong>
@@ -274,23 +272,23 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
-          Overview 
+        <span style="color:#155799"> 
+          <h3>Overview </h3>
         </span>
       </em>
     </strong>
   </center>
-  <p style='text-align: center;'>
+  <p style='text-align: center;font-size:0.9rem;'>
     A dataset from WarmeHands Inc. was analyzed to explore opportunities for improving inventory management and purchasing strategies. The dataset reflects real-world challenges where not everything is perfect. <br>
     <em>The focus year was 2021, with comparisons against 2020.</em> <br> <br>
-    <strong><em><span style="color:#ac9055">The analysis aimed to deliver actionable insights for the management team by:</span></em></strong>
-    <ul>
+    <strong><em><span style="color:#2ecc71">The analysis aimed to deliver actionable insights for the management team by:</span></em></strong></p>
+    <ul style='text-align: center;font-size:0.9rem;'>
       <li> Identifying purchase options that maximize gains.</li>
       <li> Recommending control policies aligned with company goals.</li>
       <li> Highlighting factors to improve stock management.</li>
     </ul>
-     <strong><em><span style="color:#ac9055">Key Qustions:</span></em></strong>
-    <ol>
+     <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Key Qustions:</span></em></strong>
+    <ol style='text-align: center;font-size:0.9rem;'>
       <li> Which items are best for renewing or increasing inventory?</li>
       <li> How can this be analyzed by category?</li>
       <li> What is the influence of countries?</li>
@@ -299,65 +297,62 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
-          Reporting Results 
+        <span style="color:#155799"> 
+          <h3>Reporting Results </h3>
         </span>
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Relation between COGS, Sales, and Profit:</span></em></strong><br>
-         Measured using COGS-to-Revenue ratios to guide purchasing and logistics decisions.</li>
-      <li><strong><em><span style="color:#ac9055">Second-chance items:</span></em></strong><br>
-        Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.
-        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" width="500" height="300" style="border-radius: 10px;"> </li>
-        <li><strong><em><span style="color:#ac9055">Impact of ABC Analysis:</span></em></strong><br>
-        Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.
-        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" width="500" height="300" style="border-radius: 10px;"> </li>
-  </ul>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#2ecc71">Relation between COGS, Sales, and Profit:</span></em></strong><br>
+         Measured using COGS-to-Revenue ratios to guide purchasing and logistics decisions.<br><br>
+      <strong><em><span style="color:#2ecc71">Second-chance items:</span></em></strong><br>
+        Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.<br>
+        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" width="500" height="300" style="border-radius: 10px;"> <br><br>
+        <strong><em><span style="color:#2ecc71">Impact of ABC Analysis:</span></em></strong><br>
+        Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.<br>
+        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" width="500" height="300" style="border-radius: 10px;"> 
   </p>
+  <br><br>
   <center>
   <strong>
       <em>
-        <span style="color:#243444"> 
-          Tools & Techniques 
+        <span style="color:#155799"> 
+          <h3>Tools & Techniques </h3>
         </span>
       </em>
     </strong>
   </center>
-  <p style='text-align: center;'>
-    <em><strong><span style="color:#ac9055"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
+  <p style='text-align: center;font-size:0.9rem;'>
+    <em><strong><span style="color:#2ecc71"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
   </p> 
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
-          Roles & Responsibilities 
+        <span style="color:#155799"> 
+          <h3>Roles & Responsibilities </h3>
         </span>
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
-         Applied Power Query to ensure accuracy.</li>
-      <li><strong><em><span style="color:#ac9055">Data Manipulation:</span></em></strong><br>
-         Used Power Query & DAX for deriving insights.</li>
-      <li><strong><em><span style="color:#ac9055">Data Visualization:</span></em></strong><br>
-         Designed clear charts to reflect dataset insights.</li>  
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#2ecc71">Data Cleaning:</span></em></strong><br>
+         Applied Power Query to ensure accuracy.<br><br>
+      <strong><em><span style="color:#2ecc71">Data Manipulation:</span></em></strong><br>
+         Used Power Query & DAX for deriving insights.<br><br>
+      <strong><em><span style="color:#2ecc71">Data Visualization:</span></em></strong><br>
+         Designed clear charts to reflect dataset insights.<br>
       <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
-      <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
+      <strong><em><span style="color:#2ecc71">Analysis:</span></em></strong><br>
         Reviewed key influencers on inventory performance.<br>
-      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" width="500" height="300" style="border-radius: 10px;"> <br>
-    </li>
-  </ul>
+      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" width="500" height="300" style="border-radius: 10px;"> 
   </p>
+  <br>
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
-          Challenges Faced 
+        <span style="color:#155799"> 
+          <h3>Challenges Faced </h3>
         </span>
       </em>
     </strong>
@@ -372,8 +367,8 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
-          Initial Investigation 
+        <span style="color:#155799"> 
+          <h3>Initial Investigation</h3> 
         </span>
       </em>
     </strong>
@@ -429,8 +424,8 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
-          Insights 
+        <span style="color:#155799"> 
+          <h3>Insights </h3>
         </span>
       </em>
     </strong>
@@ -452,8 +447,8 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
-          Recommendations 
+        <span style="color:#155799"> 
+         <h3> Recommendations </h3>
         </span>
       </em>
     </strong>
@@ -470,8 +465,8 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
-          Future Applications 
+        <span style="color:#155799"> 
+          <h3>Future Applications </h3>
         </span>
       </em>
     </strong>
