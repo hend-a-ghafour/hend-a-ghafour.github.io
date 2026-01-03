@@ -32,11 +32,6 @@
     </em>
   </strong>
 </p>
-<dialogue><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" width="500" height="300" style="border-radius: 10px;">
-<button>X</button></dialogue><button>Open</button>
-
-
-
 ![Data Analyst](https://hend-a-ghafour.github.io/Media/HR.jpg)
 
 
@@ -64,7 +59,7 @@
     </em>
   </strong>
   <span style="font-size:.9rem;">
-  <ul>
+  <ul style="color:#155799;font-size:1rem;">
     <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
     <li>Handling missing values, duplicates, and data restructuring.</li>
   </ul>
