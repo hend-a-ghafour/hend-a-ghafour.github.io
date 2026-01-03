@@ -1,4 +1,3 @@
-.blue-bullets li::marker {color: #155799;}
 <strong>
   <em>
     <span style="color:#155799;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;"> 
@@ -60,7 +59,7 @@
     </em>
   </strong>
   <span style="font-size:.9rem;">
-  <ul class="blue-bullets">
+  <ul marker="color: #155799;">
     <li style="color:#155799;font-size:1rem;">Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
     <li>Handling missing values, duplicates, and data restructuring.</li>
   </ul>
