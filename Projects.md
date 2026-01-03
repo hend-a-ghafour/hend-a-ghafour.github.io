@@ -53,8 +53,8 @@
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
-  <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"><br> Python <em>(.ipynb file for analysis & .py file for automation)</em></span><br><br>
-    <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span><br><br>
+  <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"><br> Python <em>(.ipynb file for analysis & .py file for automation)</em></span><br><br>
+    <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span><br><br>
   <p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
   <span style="font-size:0.9rem;">
@@ -68,62 +68,62 @@
     </ul>  
   </span>
 </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
         <span style="color:#155799"> 
-          <h3>Challenges Faced </h3>
+          Challenges Faced 
         </span>
       </em>
     </strong>
-  </center>
+  </center></h3>
   
   <p style='text-align: justify;font-size:.9rem;'>
-    <strong><em><span style="color:#2ecc71;">Duplicate and near-duplicate records</span></em></strong> <br>
+    <strong><em><span style="color:#5b2c6f;">Duplicate and near-duplicate records</span></em></strong> <br>
         (37 exact duplicates, multiple near-duplicates) inflated conversions and created conflicting values in age groups and retention indicators.<br><br>
-      <strong><em><span style="color:#2ecc71;">Missing values often appeared in logically connected fields, </span></em></strong> <br>
+      <strong><em><span style="color:#5b2c6f;">Missing values often appeared in logically connected fields, </span></em></strong> <br>
         requiring standardized rules for handling subscription/cancellation inconsistencies.<br><br>
-      <strong><em><span style="color:#2ecc71;">User-level inconsistencies, </span></em></strong> <br>
+      <strong><em><span style="color:#5b2c6f;">User-level inconsistencies, </span></em></strong> <br>
         such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.<br><br>
-      <strong><em><span style="color:#2ecc71;">Language mismatches,</span></em></strong> <br>
+      <strong><em><span style="color:#5b2c6f;">Language mismatches,</span></em></strong> <br>
         97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads. <br> <br>       
           <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="400" height="400" style="border-radius: 10px;"> 
       <br><br>
-      <strong><em><span style="color:#2ecc71;">Uneven distribution of exposures </span></em></strong> <br>
+      <strong><em><span style="color:#5b2c6f;">Uneven distribution of exposures </span></em></strong> <br>
         77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.<br><br>
-     <strong><em><span style="color:#2ecc71;">Technical bug in House Ads </span></em></strong> <br>
+     <strong><em><span style="color:#5b2c6f;">Technical bug in House Ads </span></em></strong> <br>
       caused recurring language mismatches after January 10, heavily distorting conversion rates.<br><br>
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" width="400" height="400" style="border-radius: 10px;">
   </p>
   <br><br>
-  <center>
+   <h3><center>
     <strong>
       <em>
         <span style="color:#155799"> 
-          <h3>Achievements </h3>
+         Achievements 
         </span>
       </em>
     </strong>
-  </center>
+  </center></h3>
 <p style='text-align: justify;font-size:0.9rem;'>
-    <strong><em><span style="color:#2ecc71;">Peak daily exposure:</span></em></strong><br>
+    <strong><em><span style="color:#5b2c6f;">Peak daily exposure:</span></em></strong><br>
         occurred on 15-01-2018 with 784 users.<br><br>
-      <strong><em><span style="color:#2ecc71">Weekly engagement: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Weekly engagement: </span></em></strong><br>
         was highest on Mondays (1,977 users), followed by Wednesdays (1,610) and Tuesdays (1,588).<br><br>
-      <strong><em><span style="color:#2ecc71">Supscription:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Supscription:</span></em></strong><br>
         10.47% of all users converted after seeing an ad.<br><br>
-      <strong><em><span style="color:#2ecc71">Variant:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Variant:</span></em></strong><br>
        Users were almost evenly assigned between the control and personalization groups.<br><br>
-      <strong><em><span style="color:#2ecc71">Language: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Language: </span></em></strong><br>
       97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).<br>
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" width="400" height="400" style="border-radius: 10px;"><br><br> 
-      <strong><em><span style="color:#2ecc71">Age distribution:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Age distribution:</span></em></strong><br>
        heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).<br><br>
-      <strong><em><span style="color:#2ecc71">Channel distribution:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Channel distribution:</span></em></strong><br>
        House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).<br><br>
-      <strong><em><span style="color:#2ecc71">Ad repetition:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Ad repetition:</span></em></strong><br>
        77.07% one-time exposure, 22.93% multi-exposure.<br><br>
-      <strong><em><span style="color:#2ecc71;margin-bottom: 0px">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 20px; margin-top: 0px;">
+      <strong><em><span style="color:#5b2c6f;margin-bottom: 0px">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 20px; margin-top: 0px;">
           <li>Overall Conversion Rate ≈ 13.01% </li>
           <li> Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).</li>
           <li> Personalized ads: 16.80% vs Control: ≈10%</li>
@@ -133,7 +133,7 @@
           <li> The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li>
     </ul>
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" width="400" height="400" style="border-radius: 10px;"><br><br>     
-      <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
         <li> Overall Retention Rate ≈ 65.95%. </li>
         <li> Email 76.47% (Highest), House Ads 58.05 (Lowest).</li>
         <li> Control ads: 67.63% vs Personalized: ≈65.5%</li>
@@ -144,89 +144,89 @@
       </ul>
 </p>
       <br>
-      <p style="font-size:0.9rem;"><strong><em><span style="color:#2ecc71;font-size:0.9rem;">Multi-exposure users:</span></em></strong><br>
+      <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Multi-exposure users:</span></em></strong><br>
        Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.</p><br>
-      <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Demographic Influence:</span></em></strong>
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Demographic Influence:</span></em></strong>
       <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
           <li> Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. </li>
           <li> Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li>
       </ul>
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" width="400" height="400" style="border-radius: 10px;"><br>   
-      <p style="font-size:0.9rem;"><strong><em><span style="color:#2ecc71">Supscription Pattern: </span></em></strong><br>
+      <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Supscription Pattern: </span></em></strong><br>
       Email is the strongest marketing channel across all age groups, especially for users younger than 30.</p><br>
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" width="500" height="500" style="border-radius: 10px;"><br><br>    
-      <p style="font-size:0.9rem;"><strong><em><span style="color:#2ecc71">Variant Pattern:</span></em></strong><br>
+      <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Variant Pattern:</span></em></strong><br>
         Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).</p><br>
-      <p style="font-size:0.9rem;"><strong><em><span style="color:#2ecc71">Language Bug Impact:</span></em></strong><br>
+      <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Language Bug Impact:</span></em></strong><br>
        The Overall Estimated Lost Subscribers via House Ads (with no bug) ≈ 26, Arabic ≈ 12, German ≈ 10, & Spanish ≈ 6.</p><br>
-      <strong><em><span style="color:#2ecc71;font-size:0.9rem;">A/B Testing:</span></em></strong>
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">A/B Testing:</span></em></strong>
       <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
           <li> The Email Personalization Group outperformed Control Group by 38.85%. </li>
           <li> Email Personalized Ads in English & Spanish performed well with an increase by 31.85% & 166.67 % respectively.</li>
           <li> Ages below 30: Email Personalized Ads outperformed Control Ads, showing strong positive lift (121.40% for 0-18, 106.24% for 19-24, & 161.19% for 24-30).</li>
     </ul>
 
-  <center>
+  <h3><center>
     <strong>
       <em>
         <span style="color:#155799"> 
-          <h3>Insights </h3>
+          Insights 
         </span>
       </em>
     </strong>
-  </center>
+  </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'> 
-    <strong><em><span style="color:#2ecc71">Marketing channels strongly influence performance: </span></em></strong><br>
+    <strong><em><span style="color:#5b2c6f">Marketing channels strongly influence performance: </span></em></strong><br>
         Email and Instagram are the most efficient, with Email generating the highest conversion and retention rates despite low distribution.<br><br>
-      <strong><em><span style="color:#2ecc71">Personalization increases conversions but not retention: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Personalization increases conversions but not retention: </span></em></strong><br>
         Personalized ads outperform control in conversions but underperform in long-term retention, especially for users aged 30+.<br><br>
-      <strong><em><span style="color:#2ecc71">Demographic influences are significant: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Demographic influences are significant: </span></em></strong><br>
         Younger users (under 30) convert and retain better; German and Arabic-speaking users show exceptionally high conversion rates across age groups.<br><br>
-      <strong><em><span style="color:#2ecc71">Multi-exposure campaigns are effective: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Multi-exposure campaigns are effective: </span></em></strong><br>
         Users shown ads multiple times demonstrate significantly higher conversion and retention rates, confirming the positive reinforcement effect.<br><br>
-      <strong><em><span style="color:#2ecc71">House Ads underperform severely: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">House Ads underperform severely: </span></em></strong><br>
         High distribution but low conversion/retention due to technical language mismatches. After January 10, mismatches rose sharply while conversions dropped.<br><br>
-      <strong><em><span style="color:#2ecc71">Temporal patterns matter: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Temporal patterns matter: </span></em></strong><br>
         Mid-month peaks, particularly January 15–17, strongly correlate with the impact of email campaigns.<br><br>
-      <strong><em><span style="color:#2ecc71">A/B Testing confirms Email personalization success: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">A/B Testing confirms Email personalization success: </span></em></strong><br>
         Statistically significant improvement in conversion suggests personalized email content is effective (p-value ≈ 0.65%).<br><br>
-      <strong><em><span style="color:#2ecc71">Bias exists in conversion/retention comparisons: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Bias exists in conversion/retention comparisons: </span></em></strong><br>
         Uneven exposure, disproportionate language distribution, and small subgroup sizes limit generalizability.
   </p>
   <br><br>
-  <center>
+  <h3><center>
     <strong>
       <em>
         <span style="color:#155799"> 
-        <h3>Recommendations</h3>
+        Recommendations
         </span>
       </em>
     </strong>
-  </center>
+  </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'> 
-   <strong><em><span style="color:#2ecc71">Fix the language-serving bug immediately: </span></em></strong><br>
+   <strong><em><span style="color:#5b2c6f">Fix the language-serving bug immediately: </span></em></strong><br>
         Language mismatches directly reduced conversions, especially for Arabic and German users.<br><br>
-      <strong><em><span style="color:#2ecc71">To improve reliability and reduce bias in future analyses: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">To improve reliability and reduce bias in future analyses: </span></em></strong><br>
        It is recommended to ensure balanced sample sizes across demographic segments and apply randomization techniques when assigning ad types and exposure levels.<br><br>
-      <strong><em><span style="color:#2ecc71">Reallocate budget toward Email, Instagram, and Facebook: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Reallocate budget toward Email, Instagram, and Facebook: </span></em></strong><br>
         Where, both conversion and retention outcomes are strongest. Reduce reliance on House Ads.<br><br>
-      <strong><em><span style="color:#2ecc71">Adopt multi-touch exposure strategy: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Adopt multi-touch exposure strategy: </span></em></strong><br>
         A controlled frequency cap (2–5 exposures) increases conversions without overwhelming users.
   </p>
 <br>
-      <strong><em><span style="color:#2ecc71; font-size:0.9rem;">Segment campaigns by language and age: </span></em></strong>
+      <strong><em><span style="color:#5b2c6f; font-size:0.9rem;">Segment campaigns by language and age: </span></em></strong>
       <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
           <li> <strong><em>Younger users →</em></strong> Focus on personalized ads and social media channels.</li>
           <li> <strong><em> Older users → </em></strong>Use simpler control-style messaging through email.</li>
       </ul>
         <p style='text-align: justify;font-size:0.9rem;'> 
-<strong><em><span style="color:#2ecc71">Redesign personalization strategy: </span></em></strong><br>
+<strong><em><span style="color:#5b2c6f">Redesign personalization strategy: </span></em></strong><br>
         Use personalized content for acquisition but incorporate standard messaging for retention.<br><br>
-      <strong><em><span style="color:#2ecc71">Improve tracking infrastructure: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Improve tracking infrastructure: </span></em></strong><br>
         To prevent duplicate conversions and inconsistent logs.<br><br>
-      <strong><em><span style="color:#2ecc71">Strengthen experiment design: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Strengthen experiment design: </span></em></strong><br>
         By balancing exposure across language groups and ensuring randomized distribution.<br><br>
-      <strong><em><span style="color:#2ecc71">Conduct a second A/B test after system fixes: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Conduct a second A/B test after system fixes: </span></em></strong><br>
         To validate personalization impact without data bias.
   </p>    
 </details>
@@ -316,7 +316,6 @@
         Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.<br><br>
         <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" width="500" height="300" style="border-radius: 10px;"> 
   </p>
-  <br><br>
   <h3><center>
   <strong>
       <em>
@@ -350,7 +349,6 @@
         Reviewed key influencers on inventory performance.<br><br>
       <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" width="500" height="300" style="border-radius: 10px;"> 
   </p>
-  <br>
   <h3><center>
     <strong>
       <em>
@@ -374,56 +372,59 @@
       </em>
     </strong>
   </center></h3> 
-  <p style='text-align: justify;font-size:0.9rem;'>
-    <h4><strong><em><span style="color:#e67e22">Product Performance:</span></em></strong></h4>
-          <span style="color:#e67e22"> 1-</span> <em>3 products</em> had no sales in 2021.<br><br>
-      	  <span style="color:#e67e22">2-</span> Most items had higher revenue % in <em>2020</em> than in <em>2021</em>, except <em>Set of 6 Soldiers Skittles</em>, which rose from <em>2% to 6%</em>.<br><br>
-          <span style="color:#e67e22">3-</span> <em>ABC Analysis results:</em> 18 products = <em>A</em>, 17 = <em>B</em>, 69 = <em>C</em>.<br><br>
-          <span style="color:#e67e22">4-</span> Some low-value (C) items showed <em>high inventory turnover</em>, suggesting ABC alone may not fully explain performance.<br><br>
-          <span style="color:#e67e22">5-</span> <strong> In 2021:</strong> <br>
-            <em>
-              <span style="color:#e67e22">-</span> Grow a Fly Trap → highest sales revenue.<br>
-              <span style="color:#e67e22">-</span>	Doughnut Lip Gloss → fastest-selling (highest turnover).<br>
-              <span style="color:#e67e22">-</span>	Set of 6 Soldiers Skittles → biggest revenue increase.<br>
-              <span style="color:#e67e22">-</span> All three ranked as A class.<br><br>
+    <h4><strong><em><span style="color:#e67e22;text-align: justify;font-size:0.9rem;">Product Performance:</span></em></strong></h4>
+    <ul style="text-align: justify;font-size:0.9rem;">
+ <li>3 products had no sales in 2021.</li><br>
+      	  <li> Most items had higher revenue % in <em>2020</em> than in <em>2021</em>, except <em>Set of 6 Soldiers Skittles</em>, which rose from <em>2% to 6%</em>.</li><br>
+          <li> <em>ABC Analysis results:</em> 18 products = <em>A</em>, 17 = <em>B</em>, 69 = <em>C</em>.</li><br>
+          <li> Some low-value (C) items showed <em>high inventory turnover</em>, suggesting ABC alone may not fully explain performance.</li><br>
+          <li> <strong> In 2021:</strong> 
+            <em><ol>            
+              <li> Grow a Fly Trap → highest sales revenue.</li>
+              <li>	Doughnut Lip Gloss → fastest-selling (highest turnover).</li>
+              <li>	Set of 6 Soldiers Skittles → biggest revenue increase.</li>
+              <li> All three ranked as A class.</li>
+            </ol>
             </em>
-          <span style="color:#e67e22">6-</span> Woodland Charlotte Bag (A class) had the lowest COGS ratio (45%). <br><br>
-          <span style="color:#e67e22">7-</span> Units sold in 2021: A = 78K, B = 22K, C = 26K.
-      <br>
-      <br>
-      <strong><em><span style="color:#e67e22">Inspecting Categories:</span></em></strong><br>
-        <strong> <span style="color:#e67e22">1-</span> Jewelry:</strong><br>
+          <li> Woodland Charlotte Bag (A class) had the lowest COGS ratio (45%). </li><br>
+          <li> Units sold in 2021: A = 78K, B = 22K, C = 26K.</li>
+    </ul>
+     
+  <h4><strong><em><span style="color:#e67e22;font-size:0.9rem;text-align: justify;">Inspecting Categories:</span></em></strong></h4>
+  <ol style="font-size:0.9rem;text-align: justify;">
+        <li><strong> Jewelry:</strong></li>
         <em>
-          <span style="color:#e67e22">-</span> Profit margin improved (37% → 47%) due to fewer high-COGS products sold.<br>
-      	  <span style="color:#e67e22">-</span> Despite high average COGS ($5.1/unit), Jewelry delivered the lowest profit ($2K in 2021) and lowest revenue ratio (0.07%).<br>
-          <span style="color:#e67e22">-</span>All Jewelry items were ranked C in 2021, with the highest average COGS ratio (61%).<br><br>
+          <ul>
+          <li> Profit margin improved (37% → 47%) due to fewer high-COGS products sold.</li>
+      	  <li> Despite high average COGS ($5.1/unit), Jewelry delivered the lowest profit ($2K in 2021) and lowest revenue ratio (0.07%).</li>
+          <li>All Jewelry items were ranked C in 2021, with the highest average COGS ratio (61%).</li>
+          </ul><br>
         </em>
-        <strong> <span style="color:#e67e22">2-</span> Office & School:</strong><br>
-        <em>
-          <span style="color:#e67e22">-</span> Highest inventory turnover (1.28).<br>
-      	  <span style="color:#e67e22">-</span> Lowest average COGS (33%).<br>
-          <span style="color:#e67e22">-</span> Mostly ranked as C, with only 3 items in B.<br>
-          <span style="color:#e67e22">-</span> Ranked 4th by revenue contribution.<br><br>
-        </em>
-        <strong> <span style="color:#e67e22">3-</span> Control Decisions Within "B" Items:</strong><br>
-        <em>
-          <span style="color:#e67e22">-</span> Victorian Metal Post Card → top revenue ($8.5K), 2764 units sold, turnover = 1.74.<br>
-          <span style="color:#e67e22">-</span> Mainly sold in Europe, especially Denmark (457 units).<br><br>
-        </em>
-        <strong> <span style="color:#e67e22">4-</span> Management Solutions:</strong><br>
-        <em>
-          <span style="color:#e67e22">-</span> <strong>A Class:</strong> 18 items (17% of total) covered nearly 70% of revenue.<br>
-      	  <span style="color:#e67e22">-</span> <strong>B Class:</strong> 17 items contributed about 20% of revenue.<br>
-          <span style="color:#e67e22">-</span> <strong>C Class:</strong> 69 items contributed only 10% of revenue.<br><br>
-        </em>
-<br>       
-</p>
+        <li><strong> Office & School:</strong></li>
+        <em><ul>
+          <li> Highest inventory turnover (1.28).</li>
+      	  <li> Lowest average COGS (33%).</li>
+          <li> Mostly ranked as C, with only 3 items in B.<br>
+          <span style="color:#e67e22">-</span> Ranked 4th by revenue contribution.</li><br>
+        </ul></em>
+        <li><strong> Control Decisions Within "B" Items:</strong></li>
+        <em><ul>
+          <li> Victorian Metal Post Card → top revenue ($8.5K), 2764 units sold, turnover = 1.74.</li>
+          <li> Mainly sold in Europe, especially Denmark (457 units).</li><br>
+        </ul></em>
+        <li><strong> Management Solutions:</strong></li>
+        <em><ul>
+          <li> <strong>A Class:</strong> 18 items (17% of total) covered nearly 70% of revenue.</li>
+      	  <li> <strong>B Class:</strong> 17 items contributed about 20% of revenue.</li>
+          <li> <strong>C Class:</strong> 69 items contributed only 10% of revenue.</li>
+        </ul></em></ol>
+
 
   <h3><center>
     <strong>
       <em>
         <span style="color:#155799"> 
-          Insights </h3>
+          Insights 
         </span>
       </em>
     </strong>
