@@ -281,7 +281,8 @@
   <p style='text-align: justify;font-size:0.9rem;'>
     <center>A dataset from WarmeHands Inc. was analyzed to explore opportunities for improving inventory management and purchasing strategies. The dataset reflects real-world challenges where not everything is perfect. <br>
     <em>The focus year was 2021, with comparisons against 2020.</em></center> <br> <br>
-    <strong><em><span style="color:#2ecc71">The analysis aimed to deliver actionable insights for the management team by:</span></em></strong></p>
+    <strong><em><span style="color:#2ecc71">The analysis aimed to deliver actionable insights for the management team by:</span></em></strong>
+  </p>
     <ul style='text-align: justify;font-size:0.9rem;'>
       <li> Identifying purchase options that maximize gains.</li>
       <li> Recommending control policies aligned with company goals.</li>
