@@ -123,7 +123,7 @@
        House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).<br><br>
       <strong><em><span style="color:#2ecc71">Ad repetition:</span></em></strong><br>
        77.07% one-time exposure, 22.93% multi-exposure.<br><br>
-      <strong><em><span style="color:#2ecc71">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
+      <strong><em><span style="color:#2ecc71;margin-bottom: 0px">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 20px; margin-top: 0px;">
           <li>Overall Conversion Rate ≈ 13.01% </li>
           <li> Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).</li>
           <li> Personalized ads: 16.80% vs Control: ≈10%</li>
