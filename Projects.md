@@ -123,7 +123,7 @@
        House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).<br><br>
       <strong><em><span style="color:#2ecc71">Ad repetition:</span></em></strong><br>
        77.07% one-time exposure, 22.93% multi-exposure.<br><br>
-      <strong><em><span style="color:#2ecc71">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;"">
+      <strong><em><span style="color:#2ecc71">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
           <li>Overall Conversion Rate ≈ 13.01% </li>
           <li> Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).</li>
           <li> Personalized ads: 16.80% vs Control: ≈10%</li>
@@ -133,7 +133,7 @@
           <li> The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li>
     </ul>
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" width="400" height="400" style="border-radius: 10px;"><br><br>     
-      <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;"">
+      <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
         <li> Overall Retention Rate ≈ 65.95%. </li>
         <li> Email 76.47% (Highest), House Ads 58.05 (Lowest).</li>
         <li> Control ads: 67.63% vs Personalized: ≈65.5%</li>
@@ -147,7 +147,7 @@
       <p style="font-size:0.9rem;"><strong><em><span style="color:#2ecc71;font-size:0.9rem;">Multi-exposure users:</span></em></strong><br>
        Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.</p><br>
       <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Demographic Influence:</span></em></strong>
-      <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;"">
+      <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
           <li> Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. </li>
           <li> Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li>
       </ul>
@@ -191,7 +191,7 @@
       <strong><em><span style="color:#2ecc71">A/B Testing confirms Email personalization success: </span></em></strong><br>
         Statistically significant improvement in conversion suggests personalized email content is effective (p-value ≈ 0.65%).<br><br>
       <strong><em><span style="color:#2ecc71">Bias exists in conversion/retention comparisons: </span></em></strong><br>
-        uneven exposure, disproportionate language distribution, and small subgroup sizes limit generalizability.
+        Uneven exposure, disproportionate language distribution, and small subgroup sizes limit generalizability.
   </p>
   <br><br>
   <center>
@@ -205,29 +205,29 @@
   </center>
   <p style='text-align: justify;font-size:0.9rem;'> 
    <strong><em><span style="color:#2ecc71">Fix the language-serving bug immediately: </span></em></strong><br>
-        language mismatches directly reduced conversions, especially for Arabic and German users.<br><br>
+        Language mismatches directly reduced conversions, especially for Arabic and German users.<br><br>
       <strong><em><span style="color:#2ecc71">To improve reliability and reduce bias in future analyses: </span></em></strong><br>
-       it is recommended to ensure balanced sample sizes across demographic segments and apply randomization techniques when assigning ad types and exposure levels.<br><br>
+       It is recommended to ensure balanced sample sizes across demographic segments and apply randomization techniques when assigning ad types and exposure levels.<br><br>
       <strong><em><span style="color:#2ecc71">Reallocate budget toward Email, Instagram, and Facebook: </span></em></strong><br>
-        where both conversion and retention outcomes are strongest. Reduce reliance on House Ads.<br><br>
+        Where, both conversion and retention outcomes are strongest. Reduce reliance on House Ads.<br><br>
       <strong><em><span style="color:#2ecc71">Adopt multi-touch exposure strategy: </span></em></strong><br>
         A controlled frequency cap (2–5 exposures) increases conversions without overwhelming users.
   </p>
 <br>
       <strong><em><span style="color:#2ecc71; font-size:0.9rem;">Segment campaigns by language and age: </span></em></strong>
       <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
-          <li> <strong><em>Younger users →</em></strong> focus on personalized ads and social media channels.</li>
-          <li> <strong><em> Older users → </em></strong>use simpler control-style messaging through email.</li>
+          <li> <strong><em>Younger users →</em></strong> Focus on personalized ads and social media channels.</li>
+          <li> <strong><em> Older users → </em></strong>Use simpler control-style messaging through email.</li>
       </ul>
         <p style='text-align: justify;font-size:0.9rem;'> 
 <strong><em><span style="color:#2ecc71">Redesign personalization strategy: </span></em></strong><br>
         Use personalized content for acquisition but incorporate standard messaging for retention.<br><br>
       <strong><em><span style="color:#2ecc71">Improve tracking infrastructure: </span></em></strong><br>
-        to prevent duplicate conversions and inconsistent logs.<br><br>
+        To prevent duplicate conversions and inconsistent logs.<br><br>
       <strong><em><span style="color:#2ecc71">Strengthen experiment design: </span></em></strong><br>
-        by balancing exposure across language groups and ensuring randomized distribution.<br><br>
+        By balancing exposure across language groups and ensuring randomized distribution.<br><br>
       <strong><em><span style="color:#2ecc71">Conduct a second A/B test after system fixes: </span></em></strong><br>
-        to validate personalization impact without data bias.
+        To validate personalization impact without data bias.
   </p>    
 </details>
 
