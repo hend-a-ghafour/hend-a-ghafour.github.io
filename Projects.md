@@ -22,7 +22,7 @@
 </strong>
 <br><br>
 
-## ***Analyzing Marketing Campaigns***
+## ***<center>Analyzing Marketing Campaigns</center>***
       
 <center>
   <strong>
@@ -47,16 +47,15 @@
       </strong>
     </em>
   </summary>
+  
   <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
  <p style='text-align: center;font-size:.9rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
-  <ul>
-    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"> Python <em>(.ipynb file for analysis & .py file for automation)</em></span></li>
-    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"> A set of different liberaries.</span></li>
-  </ul>
-<p style='text-align: justify;'>
+  <strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"><br> Python <em>(.ipynb file for analysis & .py file for automation)</em></span><br><br>
+    <strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span><br><br>
+  <p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
   <span style="font-size:0.9rem;">
     <ul>
@@ -79,26 +78,24 @@
     </strong>
   </center>
   
-  <p style='text-align: justify;'>
-    <span style="font-size:1rem;">
-    <ul>
-      <li> <strong><em>Duplicate and near-duplicate records</em></strong> <br>
-        <span style="font-size:.9rem;">(37 exact duplicates, multiple near-duplicates) inflated conversions and created conflicting values in age groups and retention indicators.</span></li>
-      <li><strong><em>Missing values often appeared in logically connected fields, </em></strong> <br>
-        <span style="font-size:.9rem;">requiring standardized rules for handling subscription/cancellation inconsistencies.</span></li>
-      <li><strong><em>User-level inconsistencies, </em></strong> <br>
-        <span style="font-size:.9rem;">such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.</span></li>
-      <li><strong><em>Language mismatches,</em></strong> <br>
-        <span style="font-size:.9rem;">97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads.        
-          <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="500" height="300" style="border-radius: 10px;"> </span></li>
-      <li><strong><em>Uneven distribution of exposures: </em></strong> <br>
-        <span style="font-size:.9rem;">77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.</span></li>
-      <li><strong><em>Technical bug in House Ads </em></strong> <br>
-      <span style="font-size:.9rem;">caused recurring language mismatches after January 10, heavily distorting conversion rates.
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" width="500" height="300" style="border-radius: 10px;"></span></li>
-    </ul> 
-    </span>
+  <p style='text-align: justify;font-size:.9rem;'>
+    <strong><em><span style="color:#2ecc71;">Duplicate and near-duplicate records</span></em></strong> <br>
+        (37 exact duplicates, multiple near-duplicates) inflated conversions and created conflicting values in age groups and retention indicators.<br><br>
+      <strong><em><span style="color:#2ecc71;">Missing values often appeared in logically connected fields, </span></em></strong> <br>
+        requiring standardized rules for handling subscription/cancellation inconsistencies.<br><br>
+      <strong><em><span style="color:#2ecc71;">User-level inconsistencies, </span></em></strong> <br>
+        such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.<br><br>
+      <strong><em><span style="color:#2ecc71;">Language mismatches,</span></em></strong> <br>
+        97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads. <br> <br>       
+          <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="400" height="400" style="border-radius: 10px;"> 
+      <br><br>
+      strong><em><span style="color:#2ecc71;">Uneven distribution of exposures </span></em></strong> <br>
+        77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.<br><br>
+     <strong><em><span style="color:#2ecc71;">Technical bug in House Ads </span></em></strong> <br>
+      caused recurring language mismatches after January 10, heavily distorting conversion rates.<br><br>
+      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" width="400" height="400" style="border-radius: 10px;">
   </p>
+  <br><br>
   <center>
     <strong>
       <em>
@@ -108,59 +105,65 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;'>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#2ecc71;">Peak daily exposure:</span></em></strong><br>
+        occurred on 15-01-2018 with 784 users.<br><br>
+      <strong><em><span style="color:#2ecc71">Weekly engagement: </span></em></strong><br>
+        was highest on Mondays (1,977 users), followed by Wednesdays (1,610) and Tuesdays (1,588).<br><br>
+      <strong><em><span style="color:#2ecc71">Supscription:</span></em></strong><br>
+        10.47% of all users converted after seeing an ad.<br><br>
+      <strong><em><span style="color:#2ecc71">Variant:</span></em></strong><br>
+       Users were almost evenly assigned between the control and personalization groups.<br><br>
+      <strong><em><span style="color:#2ecc71">Language: </span></em></strong><br>
+      97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).<br>
+      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" width="400" height="400" style="border-radius: 10px;"><br><br> 
+      <strong><em><span style="color:#2ecc71">Age distribution:</span></em></strong><br>
+       heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).<br><br>
+      <strong><em><span style="color:#2ecc71">Channel distribution::</span></em></strong><br>
+       House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).<br><br>
+      <strong><em><span style="color:#2ecc71">Ad repetition:</span></em></strong><br>
+       77.07% one-time exposure, 22.93% multi-exposure.<br><br>
+      <strong><em><span style="color:#2ecc71">Conversion Rates:</span></em></strong><br>
     <ul>
-      <li><strong><em><span style="color:#ac9055">Peak daily exposure:</span></em></strong><br>
-        occurred on 15-01-2018 with 784 users.</li>
-      <li><strong><em><span style="color:#ac9055">Weekly engagement: </span></em></strong><br>
-        was highest on Mondays (1,977 users), followed by Wednesdays (1,610) and Tuesdays (1,588).</li>
-      <li><strong><em><span style="color:#ac9055">Supscription:</span></em></strong><br>
-        10.47% of all users converted after seeing an ad.</li>
-      <li><strong><em><span style="color:#ac9055">Variant:</span></em></strong><br>
-       Users were almost evenly assigned between the control and personalization groups.</li>
-      <li><strong><em><span style="color:#ac9055">Language: </span></em></strong><br>
-      97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" width="500" height="300" style="border-radius: 10px;"></li>   
-      <li><strong><em><span style="color:#ac9055">Age distribution:</span></em></strong><br>
-       heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).</li>
-      <li><strong><em><span style="color:#ac9055">Channel distribution::</span></em></strong><br>
-       House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).</li>
-      <li><strong><em><span style="color:#ac9055">Ad repetition:</span></em></strong><br>
-       77.07% one-time exposure, 22.93% multi-exposure.</li>
-      <li><strong><em><span style="color:#ac9055">Conversion Rates:</span></em></strong><br>
-          - Overall Conversion Rate ≈ 13.01% <br>
-          - Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).<br>
-          - Personalized ads: 16.80% vs Control: ≈10%<br>
-          - Language match: 13.25%, non-matched: ≈6.70%<br>
-          - German: 72.6%, Arabic: 50%, Spanish: 20%, English: 12.12%<br>
-          - Younger Users (under 30) ≈ 19.29%, Older Users (above 30) ≈ 7.29% <br>
-          - The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" width="500" height="300" style="border-radius: 10px;"></li>     
-      <li><strong><em><span style="color:#ac9055">Retention Rates:</span></em></strong><br>
-          - Overall Retention Rate ≈ 65.95%. <br>
-          - Email 76.47% (Highest), House Ads 58.05 (Lowest).<br>
-          - Control ads: 67.63% vs Personalized: ≈65.5%<br>
-          - German: 66.04%, Arabic: 58.33%, Spanish: 66.67%, English: 66.03%<br>
-          - Matched language (66.33%) is significantly higher than non-matched language (51.85%).<br>
-          - Ages 19-24 & 30-36 form the highest Retention Rates (68.65% & 64.53%, respectively).   <br>
-          - Ages 30-36 & 55+ tend to remain in a moderate Retention Rate despite their lower Conversion Rates.</li>
-      <li><strong><em><span style="color:#ac9055">Multi-exposure users:</span></em></strong><br>
-       Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.</li>
-      <li><strong><em><span style="color:#ac9055">Demographic Influence:</span></em></strong><br>
-          - Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. <br>
-          - Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" width="500" height="300" style="border-radius: 10px;"></li>    
-      <li><strong><em><span style="color:#ac9055">Supscription Pattern: </span></em></strong><br>
-      Email is the strongest marketing channel across all age groups, especially for users younger than 30.
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" width="500" height="300" style="border-radius: 10px;"></li>    
-      <li><strong><em><span style="color:#ac9055">Variant Pattern:</span></em></strong><br>
-        Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).</li>
-      <li><strong><em><span style="color:#ac9055">Language Bug Impact::</span></em></strong><br>
-       The Overall Estimated Lost Subscribers via House Ads (with no bug) ≈ 26, Arabic ≈ 12, German ≈ 10, & Spanish ≈ 6.</li>
-      <li><strong><em><span style="color:#ac9055">A/B Testing:</span></em></strong><br>
-          - The Email Personalization Group outperformed Control Group by 38.85%. <br>
-          - Email Personalized Ads in English & Spanish performed well with an increase by 31.85% & 166.67 % respectively.<br>
-          - Ages below 30: Email Personalized Ads outperformed Control Ads, showing strong positive lift (121.40% for 0-18, 106.24% for 19-24, & 161.19% for 24-30).</li>
+          <li>Overall Conversion Rate ≈ 13.01% </li>
+          <li> Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).</li>
+          <li> Personalized ads: 16.80% vs Control: ≈10%</li>
+          <li> Language match: 13.25%, non-matched: ≈6.70%</li>
+          <li> German: 72.6%, Arabic: 50%, Spanish: 20%, English: 12.12%</li>
+          <li> Younger Users (under 30) ≈ 19.29%, Older Users (above 30) ≈ 7.29% </li>
+          <li> The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li>
+    </ul>
+      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" width="400" height="400" style="border-radius: 10px;"><br><br>     
+      <strong><em><span style="color:#2ecc71">Retention Rates:</span></em></strong><ul>
+        <li> Overall Retention Rate ≈ 65.95%. </li>
+        <li> Email 76.47% (Highest), House Ads 58.05 (Lowest).</li>
+        <li> Control ads: 67.63% vs Personalized: ≈65.5%</li>
+        <li> German: 66.04%, Arabic: 58.33%, Spanish: 66.67%, English: 66.03%</li>
+        <li> Matched language (66.33%) is significantly higher than non-matched language (51.85%).</li>
+          <li> Ages 19-24 & 30-36 form the highest Retention Rates (68.65% & 64.53%, respectively).   </li>
+          <li> Ages 30-36 & 55+ tend to remain in a moderate Retention Rate despite their lower Conversion Rates.</li>
+      </ul>
+      <br>
+      <strong><em><span style="color:#2ecc71">Multi-exposure users:</span></em></strong><br>
+       Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.<br><br>
+      <strong><em><span style="color:#2ecc71">Demographic Influence:</span></em></strong>
+      <ul>
+          <li> Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. </li>
+          <li> Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li>
+      </ul>
+      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" width="400" height="400" style="border-radius: 10px;"><br>   
+      <strong><em><span style="color:#2ecc71">Supscription Pattern: </span></em></strong><br>
+      Email is the strongest marketing channel across all age groups, especially for users younger than 30.<br>
+      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" width="500" height="500" style="border-radius: 10px;"><br><br>    
+      <strong><em><span style="color:#2ecc71">Variant Pattern:</span></em></strong><br>
+        Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).<br><br>
+      <strong><em><span style="color:#2ecc71">Language Bug Impact:</span></em></strong><br>
+       The Overall Estimated Lost Subscribers via House Ads (with no bug) ≈ 26, Arabic ≈ 12, German ≈ 10, & Spanish ≈ 6.<br><br>
+      <strong><em><span style="color:#2ecc71">A/B Testing:</span></em></strong>
+      <ul>
+          <li> The Email Personalization Group outperformed Control Group by 38.85%. </li>
+          <li> Email Personalized Ads in English & Spanish performed well with an increase by 31.85% & 166.67 % respectively.</li>
+          <li> Ages below 30: Email Personalized Ads outperformed Control Ads, showing strong positive lift (121.40% for 0-18, 106.24% for 19-24, & 161.19% for 24-30).</li>
     </ul>
   </p>
   <center>
