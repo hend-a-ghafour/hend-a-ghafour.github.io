@@ -32,7 +32,7 @@
     </em>
   </strong>
 </p>
-<dialogue><p><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" width="500" height="300" style="border-radius: 10px;"></p>
+<dialogue><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" width="500" height="300" style="border-radius: 10px;">
 <button>X</button></dialogue><button>Open</button>
 
 
