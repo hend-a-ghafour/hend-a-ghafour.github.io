@@ -278,22 +278,21 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: center;font-size:0.9rem;'>
-    A dataset from WarmeHands Inc. was analyzed to explore opportunities for improving inventory management and purchasing strategies. The dataset reflects real-world challenges where not everything is perfect. <br>
-    <em>The focus year was 2021, with comparisons against 2020.</em> <br> <br>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <center>A dataset from WarmeHands Inc. was analyzed to explore opportunities for improving inventory management and purchasing strategies. The dataset reflects real-world challenges where not everything is perfect. <br>
+    <em>The focus year was 2021, with comparisons against 2020.</em></center> <br> <br>
     <strong><em><span style="color:#2ecc71">The analysis aimed to deliver actionable insights for the management team by:</span></em></strong></p>
-    <ul style='text-align: center;font-size:0.9rem;'>
+    <ul style='text-align: justify;font-size:0.9rem;'>
       <li> Identifying purchase options that maximize gains.</li>
       <li> Recommending control policies aligned with company goals.</li>
       <li> Highlighting factors to improve stock management.</li>
     </ul>
      <strong><em><span style="color:#2ecc71;font-size:0.9rem;">Key Qustions:</span></em></strong>
-    <ol style='text-align: center;font-size:0.9rem;'>
+    <ol style='text-align: justify;font-size:0.9rem;'>
       <li> Which items are best for renewing or increasing inventory?</li>
       <li> How can this be analyzed by category?</li>
       <li> What is the influence of countries?</li>
     </ol>
-  </p>
   <center>
     <strong>
       <em>
@@ -307,10 +306,10 @@
     <strong><em><span style="color:#2ecc71">Relation between COGS, Sales, and Profit:</span></em></strong><br>
          Measured using COGS-to-Revenue ratios to guide purchasing and logistics decisions.<br><br>
       <strong><em><span style="color:#2ecc71">Second-chance items:</span></em></strong><br>
-        Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.<br>
+        Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.<br><br>
         <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" width="500" height="300" style="border-radius: 10px;"> <br><br>
         <strong><em><span style="color:#2ecc71">Impact of ABC Analysis:</span></em></strong><br>
-        Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.<br>
+        Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.<br><br>
         <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" width="500" height="300" style="border-radius: 10px;"> 
   </p>
   <br><br>
@@ -323,7 +322,7 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: center;font-size:0.9rem;'>
+  <p style='text-align: justify;font-size:0.9rem;'>
     <em><strong><span style="color:#2ecc71"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
   </p> 
   <center>
@@ -341,10 +340,10 @@
       <strong><em><span style="color:#2ecc71">Data Manipulation:</span></em></strong><br>
          Used Power Query & DAX for deriving insights.<br><br>
       <strong><em><span style="color:#2ecc71">Data Visualization:</span></em></strong><br>
-         Designed clear charts to reflect dataset insights.<br>
-      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
+         Designed clear charts to reflect dataset insights.<br><br>
+      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" width="500" height="300" style="border-radius: 10px;"> <br><br>
       <strong><em><span style="color:#2ecc71">Analysis:</span></em></strong><br>
-        Reviewed key influencers on inventory performance.<br>
+        Reviewed key influencers on inventory performance.<br><br>
       <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" width="500" height="300" style="border-radius: 10px;"> 
   </p>
   <br>
@@ -357,14 +356,12 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;'>
-    <ul>
+    <ul style='text-align: justify;font-size:0.9rem;'>
       <li>	Calculated <em>Total Revenue, COGS, and Profit</em> for 2020–2021.</li>
       <li>	Derived <em>Average Inventory Value</em> and <em>Inventory Turnover</em> to measure stock usage.</li>
       <li>	Applied <em>ABC Analysis</em> to prioritize products by revenue contribution.</li>
     </ul>
-  </p>
-  <center>
+    <center>
     <strong>
       <em>
         <span style="color:#155799"> 
@@ -373,53 +370,50 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Product Performance:</span></em></strong><br> <br>
-          <span style="color:#ac9055"> 1-</span> <em>3 products</em> had no sales in 2021.<br><br>
-      	  <span style="color:#ac9055">2-</span> Most items had higher revenue % in <em>2020</em> than in <em>2021</em>, except <em>Set of 6 Soldiers Skittles</em>, which rose from <em>2% to 6%</em>.<br><br>
-          <span style="color:#ac9055">3-</span> <em>ABC Analysis results:</em> 18 products = <em>A</em>, 17 = <em>B</em>, 69 = <em>C</em>.<br><br>
-          <span style="color:#ac9055">4-</span> Some low-value (C) items showed <em>high inventory turnover</em>, suggesting ABC alone may not fully explain performance.<br><br>
-          <span style="color:#ac9055">5-</span> <strong> In 2021:</strong> <br>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <h4><strong><em><span style="color:#2ecc71">Product Performance:</span></em></strong></h4>
+          <span style="color:#2ecc71"> 1-</span> <em>3 products</em> had no sales in 2021.<br><br>
+      	  <span style="color:#2ecc71">2-</span> Most items had higher revenue % in <em>2020</em> than in <em>2021</em>, except <em>Set of 6 Soldiers Skittles</em>, which rose from <em>2% to 6%</em>.<br><br>
+          <span style="color:#2ecc71">3-</span> <em>ABC Analysis results:</em> 18 products = <em>A</em>, 17 = <em>B</em>, 69 = <em>C</em>.<br><br>
+          <span style="color:#2ecc71">4-</span> Some low-value (C) items showed <em>high inventory turnover</em>, suggesting ABC alone may not fully explain performance.<br><br>
+          <span style="color:#2ecc71">5-</span> <strong> In 2021:</strong> <br>
             <em>
-              <span style="color:#ac9055">-</span> Grow a Fly Trap → highest sales revenue.<br>
-              <span style="color:#ac9055">-</span>	Doughnut Lip Gloss → fastest-selling (highest turnover).<br>
-              <span style="color:#ac9055">-</span>	Set of 6 Soldiers Skittles → biggest revenue increase.<br>
-              <span style="color:#ac9055">-</span> All three ranked as A class.<br><br>
+              <span style="color:#2ecc71">-</span> Grow a Fly Trap → highest sales revenue.<br>
+              <span style="color:#2ecc71">-</span>	Doughnut Lip Gloss → fastest-selling (highest turnover).<br>
+              <span style="color:#2ecc71">-</span>	Set of 6 Soldiers Skittles → biggest revenue increase.<br>
+              <span style="color:#2ecc71">-</span> All three ranked as A class.<br><br>
             </em>
-          <span style="color:#ac9055">6-</span> Woodland Charlotte Bag (A class) had the lowest COGS ratio (45%). <br><br>
-          <span style="color:#ac9055">7-</span> Units sold in 2021: A = 78K, B = 22K, C = 26K.
-      </li>
+          <span style="color:#2ecc71">6-</span> Woodland Charlotte Bag (A class) had the lowest COGS ratio (45%). <br><br>
+          <span style="color:#2ecc71">7-</span> Units sold in 2021: A = 78K, B = 22K, C = 26K.
       <br>
-      <li><strong><em><span style="color:#ac9055">Inspecting Categories:</span></em></strong><br>
-        <strong> <span style="color:#ac9055">1-</span> Jewelry:</strong><br>
+      <br>
+      <strong><em><span style="color:#2ecc71">Inspecting Categories:</span></em></strong><br>
+        <strong> <span style="color:#2ecc71">1-</span> Jewelry:</strong><br>
         <em>
-          <span style="color:#ac9055">-</span> Profit margin improved (37% → 47%) due to fewer high-COGS products sold.<br>
-      	  <span style="color:#ac9055">-</span> Despite high average COGS ($5.1/unit), Jewelry delivered the lowest profit ($2K in 2021) and lowest revenue ratio (0.07%).<br>
-          <span style="color:#ac9055">-</span>All Jewelry items were ranked C in 2021, with the highest average COGS ratio (61%).<br><br>
+          <span style="color:#2ecc71">-</span> Profit margin improved (37% → 47%) due to fewer high-COGS products sold.<br>
+      	  <span style="color:#2ecc71">-</span> Despite high average COGS ($5.1/unit), Jewelry delivered the lowest profit ($2K in 2021) and lowest revenue ratio (0.07%).<br>
+          <span style="color:#2ecc71">-</span>All Jewelry items were ranked C in 2021, with the highest average COGS ratio (61%).<br><br>
         </em>
-        <strong> <span style="color:#ac9055">2-</span> Office & School:</strong><br>
+        <strong> <span style="color:#2ecc71">2-</span> Office & School:</strong><br>
         <em>
-          <span style="color:#ac9055">-</span> Highest inventory turnover (1.28).<br>
-      	  <span style="color:#ac9055">-</span> Lowest average COGS (33%).<br>
-          <span style="color:#ac9055">-</span> Mostly ranked as C, with only 3 items in B.<br>
-          <span style="color:#ac9055">-</span> Ranked 4th by revenue contribution.<br><br>
+          <span style="color:#2ecc71">-</span> Highest inventory turnover (1.28).<br>
+      	  <span style="color:#2ecc71">-</span> Lowest average COGS (33%).<br>
+          <span style="color:#2ecc71">-</span> Mostly ranked as C, with only 3 items in B.<br>
+          <span style="color:#2ecc71">-</span> Ranked 4th by revenue contribution.<br><br>
         </em>
-        <strong> <span style="color:#ac9055">3-</span> control Decisions Within "B" Items:</strong><br>
+        <strong> <span style="color:#2ecc71">3-</span> Control Decisions Within "B" Items:</strong><br>
         <em>
-          <span style="color:#ac9055">-</span> Victorian Metal Post Card → top revenue ($8.5K), 2764 units sold, turnover = 1.74.<br>
-          <span style="color:#ac9055">-</span> Mainly sold in Europe, especially Denmark (457 units).<br><br>
+          <span style="color:#2ecc71">-</span> Victorian Metal Post Card → top revenue ($8.5K), 2764 units sold, turnover = 1.74.<br>
+          <span style="color:#2ecc71">-</span> Mainly sold in Europe, especially Denmark (457 units).<br><br>
         </em>
-        <strong> <span style="color:#ac9055">4-</span> Management Solutions:</strong><br>
+        <strong> <span style="color:#2ecc71">4-</span> Management Solutions:</strong><br>
         <em>
-          <span style="color:#ac9055">-</span> <strong>A Class:</strong> 18 items (17% of total) covered nearly 70% of revenue.<br>
-      	  <span style="color:#ac9055">-</span> <strong>B Class:</strong> 17 items contributed about 20% of revenue.<br>
-          <span style="color:#ac9055">-</span> <strong>C Class:</strong> 69 items contributed only 10% of revenue.<br><br>
+          <span style="color:#2ecc71">-</span> <strong>A Class:</strong> 18 items (17% of total) covered nearly 70% of revenue.<br>
+      	  <span style="color:#2ecc71">-</span> <strong>B Class:</strong> 17 items contributed about 20% of revenue.<br>
+          <span style="color:#2ecc71">-</span> <strong>C Class:</strong> 69 items contributed only 10% of revenue.<br><br>
         </em>
 <br>       
-      </li>
-    </ul>   
-  </p>
+</p>
 
   <center>
     <strong>
@@ -430,19 +424,17 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li>	Set of 6 Soldiers Skittles generated $8.78K profit on just 2.3K units sold → highly profitable despite low volume.</li><br>
-      <li>	3 “A” items had similar turnover rates, showing consistent demand.</li><br>
-      <li> All Jewelry items ranked C, highlighting weak profitability → category needs reevaluation.</li><br>
-      <li> Victorian Metal Post Card (B class) had high turnover despite small revenue → demand exists but stock is limited.</li><br>
+  <ul style='text-align: justify; font-size:0.9rem;'>
+      <li>	Set of 6 Soldiers Skittles generated $8.78K profit on just 2.3K units sold → <em>highly profitable despite low volume.</em></li><br>
+      <li>	3 “A” items had similar turnover rates, <em>showing consistent demand.</em></li><br>
+      <li> All Jewelry items ranked C, highlighting weak profitability → <em>category needs reevaluation.</em></li><br>
+      <li> Victorian Metal Post Card (B class) had high turnover despite small revenue → <em>demand exists but stock is limited.</em></li><br>
       <li> A and B classes had a similar number of products, but revenue impact was highly skewed:<br>
         <em>
-           <span style="color:#ac9055">-</span> A = 70% revenue coverage.<br>
-           <span style="color:#ac9055">-</span> B = 20% coverage.<br>
-           <span style="color:#ac9055">-</span> <strong>This indicates A items dominate revenue due to stock scale.</strong></em> </li>
+           <span style="color:#2ecc71">-</span> A = 70% revenue coverage.<br>
+           <span style="color:#2ecc71">-</span> B = 20% coverage.<br>
+           <span style="color:#2ecc71">-</span> <strong>This indicates A items dominate revenue due to stock scale.</strong></em> </li>
     </ul>
-  </p>
   <br>
   <center>
     <strong>
@@ -453,14 +445,12 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;'> 
-    <ul>
+  <ul style='text-align: justify; font-size:0.9rem;'>
       <li> Prioritize A class products with low COGS ratios (e.g., Woodland Charlotte Bag) to maximize profitability.</li><br>
       <li>	Increase inventory of promising B class items, such as Victorian Metal Post Card, to capture unmet demand.</li><br>
       <li>	Reconsider or downscale the Jewelry category, as all products fall into C class with poor returns.</li><br>
       <li>	Combine ABC Analysis with turnover insights, since high-demand items can exist outside A class.</li>
     </ul>
-  </p>
   <br>
   <center>
     <strong>
@@ -472,14 +462,12 @@
     </strong>
   </center>
   
-  <p style='text-align: justify;'> 
-    <ul>
+  <ul style='text-align: justify; font-size:0.9rem;'>
       <li> Apply predictive modeling <em>(<strong>e.g.,</strong> demand forecasting)</em> to better plan stock levels.</li><br>
       <li>	Expand ABC analysis into multi-dimensional frameworks <em>(<strong>e.g.,</strong> considering turnover, profitability, and regional demand)</em>.</li><br>
       <li>	Use Power BI to continuously monitor inventory KPIs like turnover, revenue-to-COGS ratio, and category-level profit margins.</li><br>
       <li>	Implement “second-chance” trials for selected B class products in targeted regions <em>(<strong>e.g.,</strong> Denmark for Victorian Metal Post Card)</em>.</li>
     </ul>
-  </p>
 </details>
 
 <br><br>
