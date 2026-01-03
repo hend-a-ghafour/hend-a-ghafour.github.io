@@ -89,7 +89,7 @@
         97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads. <br> <br>       
           <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="400" height="400" style="border-radius: 10px;"> 
       <br><br>
-      strong><em><span style="color:#2ecc71;">Uneven distribution of exposures </span></em></strong> <br>
+      <strong><em><span style="color:#2ecc71;">Uneven distribution of exposures </span></em></strong> <br>
         77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.<br><br>
      <strong><em><span style="color:#2ecc71;">Technical bug in House Ads </span></em></strong> <br>
       caused recurring language mismatches after January 10, heavily distorting conversion rates.<br><br>
@@ -105,7 +105,7 @@
       </em>
     </strong>
   </center>
-  <p style='text-align: justify;font-size:0.9rem;'>
+<p style='text-align: justify;font-size:0.9rem;'>
     <strong><em><span style="color:#2ecc71;">Peak daily exposure:</span></em></strong><br>
         occurred on 15-01-2018 with 784 users.<br><br>
       <strong><em><span style="color:#2ecc71">Weekly engagement: </span></em></strong><br>
@@ -123,8 +123,8 @@
        House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).<br><br>
       <strong><em><span style="color:#2ecc71">Ad repetition:</span></em></strong><br>
        77.07% one-time exposure, 22.93% multi-exposure.<br><br>
-      <strong><em><span style="color:#2ecc71">Conversion Rates:</span></em></strong><br>
-    <ul>
+      <strong><em><span style="color:#2ecc71">Conversion Rates:</span></em></strong>
+    <ul style="font-size:0.9rem;">
           <li>Overall Conversion Rate ≈ 13.01% </li>
           <li> Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).</li>
           <li> Personalized ads: 16.80% vs Control: ≈10%</li>
@@ -134,7 +134,7 @@
           <li> The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li>
     </ul>
       <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" width="400" height="400" style="border-radius: 10px;"><br><br>     
-      <strong><em><span style="color:#2ecc71">Retention Rates:</span></em></strong><ul>
+      <strong><em><span style="color:#2ecc71">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;">
         <li> Overall Retention Rate ≈ 65.95%. </li>
         <li> Email 76.47% (Highest), House Ads 58.05 (Lowest).</li>
         <li> Control ads: 67.63% vs Personalized: ≈65.5%</li>
@@ -147,7 +147,7 @@
       <strong><em><span style="color:#2ecc71">Multi-exposure users:</span></em></strong><br>
        Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.<br><br>
       <strong><em><span style="color:#2ecc71">Demographic Influence:</span></em></strong>
-      <ul>
+      <ul style="font-size:0.9rem;">
           <li> Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. </li>
           <li> Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li>
       </ul>
@@ -160,12 +160,12 @@
       <strong><em><span style="color:#2ecc71">Language Bug Impact:</span></em></strong><br>
        The Overall Estimated Lost Subscribers via House Ads (with no bug) ≈ 26, Arabic ≈ 12, German ≈ 10, & Spanish ≈ 6.<br><br>
       <strong><em><span style="color:#2ecc71">A/B Testing:</span></em></strong>
-      <ul>
+      <ul style="font-size:0.9rem;">
           <li> The Email Personalization Group outperformed Control Group by 38.85%. </li>
           <li> Email Personalized Ads in English & Spanish performed well with an increase by 31.85% & 166.67 % respectively.</li>
           <li> Ages below 30: Email Personalized Ads outperformed Control Ads, showing strong positive lift (121.40% for 0-18, 106.24% for 19-24, & 161.19% for 24-30).</li>
     </ul>
-  </p>
+</p>
   <center>
     <strong>
       <em>
