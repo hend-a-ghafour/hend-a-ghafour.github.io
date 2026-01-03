@@ -47,27 +47,26 @@
       </strong>
     </em>
   </summary>
-   
   <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
  <p style='text-align: center;font-size:.9rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
   <ul>
-    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;">Python <em>(.ipynb file for analysis & .py file for automation)</em></span></li>
-    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;">A set of different liberaries.</span></li>
+    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"> Python <em>(.ipynb file for analysis & .py file for automation)</em></span></li>
+    <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"> A set of different liberaries.</span></li>
   </ul>
 <p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
-<span style="font-size:1rem;">
-<ul>
+  <span style="font-size:0.9rem;">
+    <ul>
   <li>Identify key drivers of user conversion and retention.</li>
   <li>Measure the impact of repeated ad exposures on conversion outcomes.</li>
   <li>Examine how demographic elements (age, language) influence performance.</li>
   <li>Evaluate channel effectiveness across distribution, conversion, and retention.</li>
   <li>Detect temporal patterns in ad performance and subscription behavior.</li>
   <li>Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.</li>
-  </ul>  
+    </ul>  
   </span>
 </p>
   <center>
@@ -226,6 +225,7 @@
         to validate personalization impact without data bias.</li>
     </ul>
   </p>
+</p>
 </details>
 
 <br><br>
