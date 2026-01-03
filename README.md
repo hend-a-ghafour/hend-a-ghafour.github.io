@@ -32,7 +32,7 @@
     </em>
   </strong>
 </p>
-![Data Analyst](https://hend-a-ghafour.github.io/Media/HR.jpg)
+![DS](https://hend-a-ghafour.github.io/Media/DS.jpg)
 
 
 ## ***<center>Skills</center>***
