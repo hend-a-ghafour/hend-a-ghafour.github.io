@@ -25,28 +25,34 @@
   <strong>
     <em>
       <center>
-        Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br>
-          Over the past four years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, SQL, Tableau, Power BI and Excel. <br> 
-          With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.        
+        Hello, I'm Hend. Working as an accountant and dealing with numbers made me realize my passion for gathering and analyzing data to understand my surroundings and extract insights that satisfy my curiosity. <br><br>
+          Over the past four years, I have developed strong skills in data analysis, strengthening my technical proficiency and fueling my drive to extract understandable, actionable insights that meet high-quality standards using Python, SQL, Tableau, Power BI and Excel. <br> <br>
+          With a detail-oriented, perfection-driven, and analytical mindset—as well as a creative edge—I can deliver visually compelling and efficient insights that align with your quality standards.<br><br>        
       </center>
     </em>
   </strong>
 </p>
+<dialogue><p><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" width="500" height="300" style="border-radius: 10px;"></p>
+<button>X</button></dialogue><button>Open</button>
+
+
 
 ![Data Analyst](https://hend-a-ghafour.github.io/Media/HR.jpg)
 
 
-## ***Skills:***
+## ***<center>Skills</center>***
 ***<span style="color:#155799;font-size:1rem;"> Tools: </span>*** <br><span style="font-size:.9rem;">Python - SQL - Tableau - Power BI - Excel </span> <br>
 
-***<span style="color:#155799;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - SQL Queries - Python Coding - Excel Functions - Interactive Dashboards</span> <br>  
-***<span style="color:#155799;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Attention to Details -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> 
+***<span style="color:#155799;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - SQL Queries - Python Coding - Interactive Dashboards</span> <br>  
+***<span style="color:#155799;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Detail-Oriented -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> 
 <br>
 <p style='text-align: justify;'>
   <h2>
     <strong>
       <em>
-          Services Offered: 
+        <center>
+          Services Offered
+        </center>
       </em>
     </strong>
   </h2>
