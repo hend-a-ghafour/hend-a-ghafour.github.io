@@ -27,7 +27,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-image: linear-gradient(120deg, #155799, #159957);"> 
+      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
         View Project 
       </a>
     </em>
@@ -52,12 +52,12 @@
  <p style='text-align: center;font-size:.9rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
-<p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
   <ul>
     <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;">Python <em>(.ipynb file for analysis & .py file for automation)</em></span></li>
     <li><strong><em><span style="color:#2ecc71;font-size:1rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;">A set of different liberaries.</span></li>
-</ul>
+  </ul>
+<p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
 <span style="font-size:1rem;">
 <ul>
@@ -69,6 +69,7 @@
   <li>Diagnose issues such as data mismatch, technical bugs, and experiment design anomalies.</li>
   </ul>  
   </span>
+</p>
   <center>
     <strong>
       <em>
@@ -78,6 +79,7 @@
       </em>
     </strong>
   </center>
+  
   <p style='text-align: justify;'>
     <span style="font-size:1rem;">
     <ul>
