@@ -29,7 +29,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
+      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;"> 
         View Project 
       </a>
     </em>
@@ -42,7 +42,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#2980b9">
+        <span style="color:#d1d5d8">
           See More
         </span>
       </strong>
@@ -262,7 +262,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#2980b9">
+        <span style="color:#d1d5d8">
           See More
         </span>
       </strong>
@@ -501,7 +501,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#2980b9">
+        <span style="color:#d1d5d8">
           See More
         </span>
       </strong>
@@ -666,7 +666,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
+      <a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;"> 
         View Project 
       </a>
     </em>
@@ -679,7 +679,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#2980b9">
+        <span style="color:#d1d5d8">
           See More
         </span>
       </strong>
@@ -838,7 +838,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
+      <a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;"> 
         View Project 
       </a>
     </em>
@@ -851,7 +851,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#2980b9">
+        <span style="color:#d1d5d8">
           See More
         </span>
       </strong>
@@ -1018,7 +1018,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Northwind/blob/main/Northwind.sql" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
+      <a href="https://github.com/hend-a-ghafour/Northwind/blob/main/Northwind.sql" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;"> 
         View Project 
       </a>
     </em>
@@ -1031,7 +1031,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#2980b9">
+        <span style="color:#d1d5d8">
           See More
         </span>
       </strong>
@@ -1227,7 +1227,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
+      <a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;"> 
         View Project 
       </a>
     </em>
@@ -1242,7 +1242,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#2980b9">
+        <span style="color:#d1d5d8">
           See More
         </span>
       </strong>
