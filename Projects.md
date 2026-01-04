@@ -523,7 +523,7 @@
     </strong>
   </center></h3>
   <p style='text-align: center;font-size:0.9rem;'>
-    <em><strong><span style="color:#1f7f74"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
+    <em><strong><span style="color:#3AAFA9"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
   </p> 
   <h3><center>
     <strong>
@@ -535,10 +535,10 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-    <strong><em><span style="color:#1f7f74">Visualization:</span></em></strong><br>
+    <strong><em><span style="color:#3AAFA9">Visualization:</span></em></strong><br>
          Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.<br><br>
       <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
-      <strong><em><span style="color:#1f7f74">Analysis:</span></em></strong><br>
+      <strong><em><span style="color:#3AAFA9">Analysis:</span></em></strong><br>
         Conducted in-depth reviews to identify key influencers affecting hospital efficiency.<br><br>
         <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" width="500" height="300" style="border-radius: 10px;"> <br>
         <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" width="500" height="300" style="border-radius: 10px;"> <br> 
@@ -553,7 +553,7 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-   <strong><em><span style="color:#1f7f74">Identifying key efficiency drivers: </span></em></strong><br>
+   <strong><em><span style="color:#3AAFA9">Identifying key efficiency drivers: </span></em></strong><br>
       A root cause analysis was conducted to uncover the main factors influencing both LOS and cost, ensuring robust and accurate insights.
   </p>
   <h3><center>
@@ -565,21 +565,20 @@
       </em>
     </strong>
   </center></h3>
-  <h4><strong><em><span style="color:#1f7f74; font-size:0.9rem;">Overview:</span></em></strong></h4>
-    <ul style="font-size:0.9rem;"><em>
+  <h4><strong><em><span style="color:#3AAFA9; font-size:0.9rem;">Overview:</span></em></strong></h4>
+    <ul style="font-size:0.9rem;">
           <li>Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.</li><br>
       	  <li>Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.</li><br>
           <li>Female patients represented 53.67% of total surgeries.</li><br>
-          <li>NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.</li></em>
+          <li>NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.</li>
     </ul>
-     <h4><strong><em><span style="color:#1f7f74;font-size:0.9rem;">Hospital Profile Dashboard:</span></em></strong></h4>
-  <span style="font-size:0.9rem;">Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</span>
-    <ul style="font-size:0.9rem;"><em>
+     <h4><strong><em><span style="color:#3AAFA9;font-size:0.9rem;">Hospital Profile Dashboard:</span></em></strong></h4>
+    <ul style="font-size:0.9rem;">
         <li> Total Discharges &	number of Surgeons.</li><br>
       	 <li>Average LoS and Average Cost Per Discharge.</li><br>
           <li>Discharges by Illness Severity & Mortality Risk.</li><br>
           <li>Total Discharges by Patient Disposition & Dignosis.</li>
-    </em></ul>   
+    ></ul>   
           <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;">
   <h3><center>
     <strong>
@@ -590,16 +589,14 @@
       </em>
     </strong>
   </center></h3>
-<h4><strong><em><span style="color:#1f7f74;font-size:0.9rem;">Length of Stay (LoS):</span></em></strong></h4>
-    <span style="font-size:0.9rem;">Key factors influencing LOS:</span>
+<h4><strong><em><span style="color:#3AAFA9;font-size:0.9rem;">Key factors influencing Length of Stay (LoS):</span></em></strong></h4>
     <ul style="font-size:0.9rem;"><em>
           <li>  Extreme Illness Severity.</li><br>
           <li>	Major or Extreme Mortality Risk.</li><br>
           <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li><br>
-          <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li><br>
+          <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
         </em></ul>
-      <h4><strong><em><span style="color:#1f7f74">Costs:</span></em></strong></h4> 
-      <span style="font-size:0.9rem;">Key factors influencing Cost:</span>
+      <h4><strong><em><span style="color:#3AAFA9">Key factors influencing Cost:</span></em></strong></h4> 
     <ul style="font-size:0.9rem;"><em>
           <li>  Residency in NYC.</li><br>
           <li>	Patient Disposition to Inpatient Rehabilitation Facilities.</li><br>
@@ -616,13 +613,13 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'> 
-    <strong><em><span style="color:#1f7f74">Target Efficiency Improvements:</span></em></strong><br> 
+    <strong><em><span style="color:#3AAFA9">Target Efficiency Improvements:</span></em></strong><br> 
       Hospitals, particularly in NYC, should explore process optimization strategies for patients with extreme illness severity or mortality risk.<br><br>
-      <strong><em><span style="color:#1f7f74">Regional Benchmarking:</span></em></strong><br> 
+      <strong><em><span style="color:#3AAFA9">Regional Benchmarking:</span></em></strong><br> 
       Establish regional benchmarks for cost and LOS, with Long Island requiring closer evaluation due to disproportionately high costs.<br><br>
-      <strong><em><span style="color:#1f7f74">Care Pathway Redesign:</span></em></strong><br>
+      <strong><em><span style="color:#3AAFA9">Care Pathway Redesign:</span></em></strong><br>
       Investigate post-surgery rehabilitation pathways, as inpatient rehabilitation disposition was a significant cost driver.<br><br>
-      <strong><em><span style="color:#1f7f74">Data-Driven Monitoring: </span></em></strong><br> 
+      <strong><em><span style="color:#3AAFA9">Data-Driven Monitoring: </span></em></strong><br> 
       Adopt dashboards for ongoing tracking of hospital efficiency metrics, enabling proactive decision-making.<br><br>
   </p>
   <h3><center>
@@ -635,11 +632,11 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'> 
-    <strong><em><span style="color:#1f7f74">Scalability Across Specialties:</span></em></strong><br> 
+    <strong><em><span style="color:#3AAFA9">Scalability Across Specialties:</span></em></strong><br> 
       Expand analysis to other elective procedures (e.g., knee replacement, cardiac surgery) for broader healthcare efficiency insights.<br><br>
-      <strong><em><span style="color:#1f7f74">Integration with Financial Planning:</span></em></strong><br> 
+      <strong><em><span style="color:#3AAFA9">Integration with Financial Planning:</span></em></strong><br> 
       Use efficiency insights to guide hospital budgeting, workforce planning, and negotiations with insurance providers.<br><br>
-      <strong><em><span style="color:#1f7f74">Public Health Policy:</span></em></strong><br>
+      <strong><em><span style="color:#3AAFA9">Public Health Policy:</span></em></strong><br>
       Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.       
   </p>
 </details>
