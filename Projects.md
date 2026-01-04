@@ -400,23 +400,23 @@
           </ul><br>
         </em>
         <li><strong> Office & School:</strong></li>
-        <em><ul>
-          <li> Highest inventory turnover (1.28).</li>
-      	  <li> Lowest average COGS (33%).</li>
-          <li> Mostly ranked as C, with only 3 items in B.<br>
-          <li> Ranked 4th by revenue contribution.</li><br>
-        </ul></em>
+          <ul><em>
+            <li> Highest inventory turnover (1.28).</li>
+      	    <li> Lowest average COGS (33%).</li>
+            <li> Mostly ranked as C, with only 3 items in B.<br>
+            <li> Ranked 4th by revenue contribution.</li><br>
+          </em></ul>
         <li><strong> Control Decisions Within "B" Items:</strong></li>
-        <em><ul>
-          <li> Victorian Metal Post Card → top revenue ($8.5K), 2764 units sold, turnover = 1.74.</li>
-          <li> Mainly sold in Europe, especially Denmark (457 units).</li><br>
-        </ul></em>
+          <ul><em>
+            <li> Victorian Metal Post Card → top revenue ($8.5K), 2764 units sold, turnover = 1.74.</li>
+            <li> Mainly sold in Europe, especially Denmark (457 units).</li><br>
+          </em></ul>
         <li><strong> Management Solutions:</strong></li>
-        <em><ul>
-          <li> <strong>A Class:</strong> 18 items (17% of total) covered nearly 70% of revenue.</li>
-      	  <li> <strong>B Class:</strong> 17 items contributed about 20% of revenue.</li>
-          <li> <strong>C Class:</strong> 69 items contributed only 10% of revenue.</li>
-        </ul></em></ul>
+          <ul><em>
+            <li> <strong>A Class:</strong> 18 items (17% of total) covered nearly 70% of revenue.</li>
+      	    <li> <strong>B Class:</strong> 17 items contributed about 20% of revenue.</li>
+            <li> <strong>C Class:</strong> 69 items contributed only 10% of revenue.</li>
+        </em></ul></ul>
 
 
   <h3><center>
