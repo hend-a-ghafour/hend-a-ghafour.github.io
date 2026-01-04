@@ -651,15 +651,15 @@
   </strong>
 </center>
 <br>
-<h3>
+<h2>
   <em>
     <strong>
-      <span style="color:#7c7959"> 
+      <span style="color:#155799"> 
         Human Resources Tableau Dashboard
       </span>
     </strong>
   </em>
-</h3> 
+</h2> 
 <em>
   Sep 2024 
 </em>
@@ -690,131 +690,122 @@
  <p style='text-align: center;font-size:.9rem;'>
     Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799">
           Tools & Techniques 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: center;'>
+  </center></h3>
+  <p style='text-align: center;font-size:0.9rem;'>
     <em><strong><span style="color:#ac9055"> Tableau </span></strong></em> for calculations, data visualization and interactive dashboards.
   </p> 
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799">
           Roles & Responsibilities 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
-        Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.</li>
-      <li><strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
-      Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.</li>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem'>
+    <strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
+        Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br><br>
+      <strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
+      Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.</p>
      <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
-      <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
-   Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.</li>
-    </ul>
+  <p style='text-align: justify;font-size:0.9rem'>
+<strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
+   Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799">
           Challenges Faced 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Data Gaps:</span></em></strong><br>
-      Identified missing values in critical fields, requiring strategies for accurate interpretation.</li>
-      <li><strong><em><span style="color:#ac9055">Complex Relationships:</span></em></strong><br>
-      Analyzed complex relationships between hiring, terminations, and department-level trends.</li>
-      <li><strong><em><span style="color:#ac9055">Data Standardization:</span></em></strong><br>
-      Needed to verify data consistency across branches and departments for accurate insights.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;fon-size:0.9rem'>
+    <strong><em><span style="color:#ac9055">Data Gaps:</span></em></strong><br>
+      Identified missing values in critical fields, requiring strategies for accurate interpretation.<br><br>
+      <strong><em><span style="color:#ac9055">Complex Relationships:</span></em></strong><br>
+      Analyzed complex relationships between hiring, terminations, and department-level trends.<br><br>
+      <strong><em><span style="color:#ac9055">Data Standardization:</span></em></strong><br>
+      Needed to verify data consistency across branches and departments for accurate insights.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Achievements 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Employee Analysis:</span></em></strong><br>
-      Total employee count reached 8,950 (7,984 active, 966 terminated).</li>
-      <li><strong><em><span style="color:#ac9055">Hiring Trends:</span></em></strong><br>
-      Noted peak hiring in 2017 with 1,560 new employees, while 2021 experienced the lowest hiring rate with 382 hires.</li>
-      <li><strong><em><span style="color:#ac9055">Termination Analysis:</span></em></strong><br>
-      Found that 2023 had the highest terminations, with 174 employees (18% of total terminations), predominantly in the Operations department.</li>
-     <li><strong><em><span style="color:#ac9055">Departmental Insights:</span></em></strong><br>
-      Operations had the highest activity, with 30% of both active and terminated employees, suggesting high turnover.</li>
-      <li><strong><em><span style="color:#ac9055">Geographical Distribution:</span></em></strong><br>
-      70% of employees were based at HQ in New York, which also had a higher termination rate.</li>
-      <li><strong><em><span style="color:#ac9055">Gender Analysis:</span></em></strong><br>
-      Gender distribution was slightly male-dominated (54%), with a balanced termination rate (11% each for males and females).</li>
-      <li><strong><em><span style="color:#ac9055">Educational Trends:</span></em></strong><br>
-      Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+   <strong><em><span style="color:#ac9055">Employee Analysis:</span></em></strong><br>
+      Total employee count reached 8,950 (7,984 active, 966 terminated).<br><br>
+      <strong><em><span style="color:#ac9055">Hiring Trends:</span></em></strong><br>
+      Noted peak hiring in 2017 with 1,560 new employees, while 2021 experienced the lowest hiring rate with 382 hires.<br><br>
+      <strong><em><span style="color:#ac9055">Termination Analysis:</span></em></strong><br>
+      Found that 2023 had the highest terminations, with 174 employees (18% of total terminations), predominantly in the Operations department.<br><br>
+     <strong><em><span style="color:#ac9055">Departmental Insights:</span></em></strong><br>
+      Operations had the highest activity, with 30% of both active and terminated employees, suggesting high turnover.<br><br>
+      <strong><em><span style="color:#ac9055">Geographical Distribution:</span></em></strong><br>
+      70% of employees were based at HQ in New York, which also had a higher termination rate.<br><br>
+      <strong><em><span style="color:#ac9055">Gender Analysis:</span></em></strong><br>
+      Gender distribution was slightly male-dominated (54%), with a balanced termination rate (11% each for males and females).<br><br>
+      <strong><em><span style="color:#ac9055">Educational Trends:</span></em></strong><br>
+      Identified that bachelor’s degree holders formed the largest employee group (61%) with noticeable termination disparities among educational levels.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Insights 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Hiring & Termination Trends:</span></em></strong><br> 
-     The Operations department’s turnover was high, and New York HQ showed the highest activity, with a considerable termination rate.</li>
-      <li><strong><em><span style="color:#ac9055">Gender & Education Dynamics:</span></em></strong><br> 
-      Gender imbalances were observed in specific educational categories, with a higher termination rate among female high school graduates and male PhD holders.</li>
-      <li><strong><em><span style="color:#ac9055">Performance Ratings:</span></em></strong><br> 
-      Educational level affected performance ratings, with high school graduates more often rated "Needs Improvement," while PhD holders frequently achieved "Excellent" ratings.</li>
-      <li><strong><em><span style="color:#ac9055">Salary Disparities:</span></em></strong><br> 
-      Significant disparities were observed, with males earning more at the bachelor’s level, while females earned more at the PhD level.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#ac9055">Hiring & Termination Trends:</span></em></strong><br> 
+     The Operations department’s turnover was high, and New York HQ showed the highest activity, with a considerable termination rate.<br><br>
+      <strong><em><span style="color:#ac9055">Gender & Education Dynamics:</span></em></strong><br> 
+      Gender imbalances were observed in specific educational categories, with a higher termination rate among female high school graduates and male PhD holders.<br><br>
+      <strong><em><span style="color:#ac9055">Performance Ratings:</span></em></strong><br> 
+      Educational level affected performance ratings, with high school graduates more often rated "Needs Improvement," while PhD holders frequently achieved "Excellent" ratings.<br><br>
+      <strong><em><span style="color:#ac9055">Salary Disparities:</span></em></strong><br> 
+      Significant disparities were observed, with males earning more at the bachelor’s level, while females earned more at the PhD level.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Future Application 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Workforce Planning:</span></em></strong><br> 
-      Explore hiring and termination trends to optimize staffing and reduce turnover in high-activity departments like Operations.</li>
-      <li><strong><em><span style="color:#ac9055">Turnover Analysis:</span></em></strong><br> 
-      Conduct a deeper analysis of the reasons behind turnover patterns, especially in specific positions and departments.</li>
-      <li><strong><em><span style="color:#ac9055">Gender & Education Balance:</span></em></strong><br>
-      Investigate gender disparities in salary and termination rates to promote equity.</li>
-      <li><strong><em><span style="color:#ac9055">Performance-Based Retention:</span></em></strong><br> 
-      Reevaluate performance rating criteria and termination practices to ensure fair and consistent employee assessments.</li>
-      <li><strong><em><span style="color:#ac9055">Compensation Strategy:</span></em></strong><br> 
-      Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'> 
+   <strong><em><span style="color:#ac9055">Workforce Planning:</span></em></strong><br> 
+      Explore hiring and termination trends to optimize staffing and reduce turnover in high-activity departments like Operations.<br><br>
+      <strong><em><span style="color:#ac9055">Turnover Analysis:</span></em></strong><br> 
+      Conduct a deeper analysis of the reasons behind turnover patterns, especially in specific positions and departments.<br><br>
+      <strong><em><span style="color:#ac9055">Gender & Education Balance:</span></em></strong><br>
+      Investigate gender disparities in salary and termination rates to promote equity.<br><br>
+      <strong><em><span style="color:#ac9055">Performance-Based Retention:</span></em></strong><br> 
+      Reevaluate performance rating criteria and termination practices to ensure fair and consistent employee assessments.<br><br>
+      <strong><em><span style="color:#ac9055">Compensation Strategy:</span></em></strong><br> 
+      Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.
   </p>
 </details>
 
-<br><br>
+<br>
 <center>
   <strong>
     <span style="color:#DCDCDC">
@@ -822,11 +813,11 @@
     </span>
   </strong>
 </center>
-<br><br>
+<br>
 <h3>
   <em>
     <strong>
-      <span style="color:#7c7959"> 
+      <span style="color:#155799"> 
         No Show Apointments 
       </span>
     </strong>
@@ -865,7 +856,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Tools & Techniques 
         </span>
       </em>
@@ -886,7 +877,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Roles & Responsibilities 
         </span>
       </em>
@@ -907,7 +898,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Challenges Faced 
         </span>
       </em>
@@ -926,7 +917,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Achievements 
         </span>
       </em>
@@ -945,7 +936,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Insights 
         </span>
       </em>
@@ -972,7 +963,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Future Application 
         </span>
       </em>
@@ -1006,7 +997,7 @@
 <h3>
   <em>
     <strong>
-      <span style="color:#7c7959"> 
+      <span style="color:#155799"> 
         Northwind 
       </span>
     </strong>
@@ -1045,7 +1036,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Tools & Techniques 
         </span>
       </em>
@@ -1064,7 +1055,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Roles & Responsibilities 
         </span>
       </em>
@@ -1083,7 +1074,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Challenges Faced 
         </span>
       </em>
@@ -1102,7 +1093,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Achievements 
         </span>
       </em>
@@ -1124,7 +1115,7 @@
     <center>
       <strong>
         <em>
-          <span style="color:#243444"> 
+  <span style="color:#155799">
             Insights 
           </span>
         </em>
@@ -1172,7 +1163,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Future Application 
         </span>
       </em>
@@ -1218,7 +1209,7 @@
 <h3>
   <em>
     <strong>
-      <span style="color:#7c7959"> 
+      <span style="color:#155799"> 
         Death & Life Expectancy for Mothers & Children 
       </span>
     </strong>
@@ -1257,7 +1248,7 @@
     <center>
       <strong>
         <em>
-          <span style="color:#243444"> 
+  <span style="color:#155799">
             Tools & Techniques 
           </span>
         </em>
@@ -1272,7 +1263,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Roles & Responsibilities 
         </span>
       </em>
@@ -1291,7 +1282,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Challenges Faced 
         </span>
       </em>
@@ -1306,7 +1297,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Achievements 
         </span>
       </em>
@@ -1325,7 +1316,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Insights 
         </span>
       </em>
@@ -1352,7 +1343,7 @@
   <center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+<span style="color:#155799">
           Future Application 
         </span>
       </em>
