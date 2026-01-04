@@ -1372,11 +1372,11 @@
     <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem; background-color:#155799;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Testimonials 
     </a>
+    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+      Education 
+    </a>
     <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Experience 
-    </a>
-    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
-      Certificates 
     </a>
     <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Contact 
@@ -1384,4 +1384,3 @@
   </em>
 </strong>
 </p>
-<br>
