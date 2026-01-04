@@ -42,7 +42,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#d1d5d8">
+        <span style="color:#2c3e50">
           See More
         </span>
       </strong>
@@ -262,7 +262,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#d1d5d8">
+        <span style="color:#2c3e50">
           See More
         </span>
       </strong>
@@ -501,7 +501,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#d1d5d8">
+        <span style="color:#2c3e50">
           See More
         </span>
       </strong>
@@ -679,7 +679,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#d1d5d8">
+        <span style="color:#2c3e50">
           See More
         </span>
       </strong>
@@ -851,7 +851,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#d1d5d8">
+        <span style="color:#2c3e50">
           See More
         </span>
       </strong>
@@ -1031,7 +1031,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#d1d5d8">
+        <span style="color:#2c3e50">
           See More
         </span>
       </strong>
@@ -1242,7 +1242,7 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#d1d5d8">
+        <span style="color:#2c3e50">
           See More
         </span>
       </strong>
