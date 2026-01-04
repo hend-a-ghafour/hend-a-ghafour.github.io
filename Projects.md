@@ -846,12 +846,11 @@
       </strong>
     </em>
   </summary>
-  <br> 
   <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
  <p style='text-align: center;font-size:.9rem;'>
     This project analyzes a dataset of 100,000 medical appointments in Brazil, focusing on the factors that impact patient attendance, such as demographics, health conditions, appointment scheduling gaps, and reminders. Key questions address the effects of gender, age, neighborhood, health conditions, and communication on attendance rates.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -859,20 +858,18 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Tools:</span></em></strong><br>
-        <center><em><span style="color:#ac9055"> Python </span></em> for Data Assessment and Cleaning using <em><span style="color:#ac9055">Pandas</span></em> & <em><span style="color:#ac9055">Numpy</span></em>, and for Data Visualization using <em><span style="color:#ac9055"> Matplotlib</span></em> & <em><span style="color:#ac9055">Seaborn</span></em>.</center></li>    
-      <li><strong><em><span style="color:#ac9055">Data Cleaning:</span></em></strong><br>
-      Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.</li>
-      <li><strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
-      Applied statistical methods, including descriptive statistics, to understand patterns in attendance across demographic and health-related variables.</li>
-      <li><strong><em><span style="color:#ac9055">Visualization: </span></em></strong><br>
-      Created charts and graphs to present findings on attendance patterns across different patient groups and appointment characteristics.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#f9bdc2">Tools:</span></em></strong><br>
+        <em><strong>Python</strong> </em> for Data Assessment and Cleaning using <em>Pandas</em> & <em>Numpy</em>, and for Data Visualization using <em> Matplotlib</em> & <em>Seaborn</em>.<br><br>    
+      <strong><em><span style="color:#f9bdc2">Data Cleaning:</span></em></strong><br>
+      Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.<br><br>
+      <strong><em><span style="color:#f9bdc2">Data Analysis: </span></em></strong><br>
+      Applied statistical methods, including descriptive statistics, to understand patterns in attendance across demographic and health-related variables.<br><br>
+      <li><strong><em><span style="color:#f9bdc2">Visualization: </span></em></strong><br>
+      Created charts and graphs to present findings on attendance patterns across different patient groups and appointment characteristics.
   </p> 
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -880,20 +877,18 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Data Preparation: </span></em></strong><br>
-      Cleaned data and standardized labels to facilitate analysis.</li>
-      <li><strong><em><span style="color:#ac9055">Data Exploration: </span></em></strong><br>
-      Generated insights through descriptive statistics and visualizations.</li>
-      <li><strong><em><span style="color:#ac9055">Analysis of Factors Influencing Attendance:</span></em></strong><br>
-      Assessed relationships between patient demographics, health conditions, appointment scheduling, and attendance.</li>
-      <li><strong><em><span style="color:#ac9055">Recommendation Development: </span></em></strong><br>
-      Suggested approaches to improve appointment attendance, particularly through reminder systems and optimized scheduling.</li>
-    </ul>
-  </p>
-  <center>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+   <strong><em><span style="color:#f9bdc2">Data Preparation: </span></em></strong><br>
+      Cleaned data and standardized labels to facilitate analysis.<br><br>
+      <strong><em><span style="color:#f9bdc2">Data Exploration: </span></em></strong><br>
+      Generated insights through descriptive statistics and visualizations.<br><br>
+      <strong><em><span style="color:#f9bdc2">Analysis of Factors Influencing Attendance:</span></em></strong><br>
+      Assessed relationships between patient demographics, health conditions, appointment scheduling, and attendance.<br><br>
+      <strong><em><span style="color:#f9bdc2">Recommendation Development: </span></em></strong><br>
+      Suggested approaches to improve appointment attendance, particularly through reminder systems and optimized scheduling.
+   </p>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -901,18 +896,16 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Data Complexity:</span></em></strong><br>
-      A large number of variables, including demographic, health, and scheduling information, required careful analysis and categorization to maintain data integrity.</li>
-      <li><strong><em><span style="color:#ac9055">Categorization:</span></em></strong><br>
-     Defining and assigning appropriate categories for age groups and scheduling gaps posed challenges in achieving balanced, meaningful groupings.</li>
-     <li><strong><em><span style="color:#ac9055">Data Completeness: </span></em></strong><br>
-     Sparse neighborhood data limited definitive conclusions regarding neighborhood influence on attendance rates. Additionally, some appointment dates were recorded prior to their scheduled dates, leading to negative appointment gaps.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#f9bdc2">Data Complexity:</span></em></strong><br>
+      A large number of variables, including demographic, health, and scheduling information, required careful analysis and categorization to maintain data integrity.<br><br>
+      <strong><em><span style="color:#f9bdc2">Categorization:</span></em></strong><br>
+     Defining and assigning appropriate categories for age groups and scheduling gaps posed challenges in achieving balanced, meaningful groupings.<br><br>
+     <strong><em><span style="color:#f9bdc2">Data Completeness: </span></em></strong><br>
+     Sparse neighborhood data limited definitive conclusions regarding neighborhood influence on attendance rates. Additionally, some appointment dates were recorded prior to their scheduled dates, leading to negative appointment gaps.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -920,18 +913,16 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Insights into Attendance Patterns:</span></em></strong><br>
-      Identified key factors, such as age, neighborhood, and reminder messages, that impact attendance rates.</li>
-      <li><strong><em><span style="color:#ac9055">Practical Recommendations:</span></em></strong><br>
-      Developed actionable suggestions for healthcare providers to improve attendance, including adjusting scheduling practices and implementing reminder systems.</li>
-      <li><strong><em><span style="color:#ac9055">Categorization Model:</span></em></strong><br>
-      Created a structured model for age and appointment gap categories to facilitate further analysis and comparisons.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#f9bdc2">Insights into Attendance Patterns:</span></em></strong><br>
+      Identified key factors, such as age, neighborhood, and reminder messages, that impact attendance rates.<br><br>
+      <strong><em><span style="color:#f9bdc2">Practical Recommendations:</span></em></strong><br>
+      Developed actionable suggestions for healthcare providers to improve attendance, including adjusting scheduling practices and implementing reminder systems.<br><br>
+     <strong><em><span style="color:#f9bdc2">Categorization Model:</span></em></strong><br>
+      Created a structured model for age and appointment gap categories to facilitate further analysis and comparisons.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -939,26 +930,24 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Gender: </span></em></strong><br> 
-      Women make up the majority of patients, with a high attendance rate across both genders, indicating no significant difference in attendance based on gender.</li>
-     <li> <strong><em><span style="color:#ac9055">Age Groups:</span></em></strong><br> 
-      Middle-aged, elderly, and child groups showed the highest commitment to appointments, suggesting a link between age and regular healthcare engagement.</li>
-      <li><strong><em><span style="color:#ac9055">Appointment Scheduling Gap:</span></em></strong><br> 
-      Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.</li>
-     <li> <strong><em><span style="color:#ac9055">Neighborhood Influence: </span></em></strong><br> 
-      Certain neighborhoods showed significantly higher attendance rates, although the data suggests this may also correlate with lower appointment counts in these areas.</li>
-     <li> <strong><em><span style="color:#ac9055">Scholarship Status:</span></em></strong><br> 
-      Attendance rates were marginally lower for patients with a government scholarship, indicating a potential but small effect.</li>
-    <li><strong><em><span style="color:#ac9055">Health Conditions: </span></em></strong><br> 
-      Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.</li>
-     <li> <strong><em><span style="color:#ac9055">Reminders: </span></em></strong><br> 
-      Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'> 
+    <strong><em><span style="color:#f9bdc2">Gender: </span></em></strong><br> 
+      Women make up the majority of patients, with a high attendance rate across both genders, indicating no significant difference in attendance based on gender.<br><br>
+     <strong><em><span style="color:#f9bdc2">Age Groups:</span></em></strong><br> 
+      Middle-aged, elderly, and child groups showed the highest commitment to appointments, suggesting a link between age and regular healthcare engagement.<br><br>
+      <strong><em><span style="color:#f9bdc2">Appointment Scheduling Gap:</span></em></strong><br> 
+      Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.<br><br>
+    <strong><em><span style="color:#f9bdc2">Neighborhood Influence: </span></em></strong><br> 
+      Certain neighborhoods showed significantly higher attendance rates, although the data suggests this may also correlate with lower appointment counts in these areas.<br><br>
+     <strong><em><span style="color:#f9bdc2">Scholarship Status:</span></em></strong><br> 
+      Attendance rates were marginally lower for patients with a government scholarship, indicating a potential but small effect.<br><br>
+    <strong><em><span style="color:#f9bdc2">Health Conditions: </span></em></strong><br> 
+      Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.<br><br>
+     <strong><em><span style="color:#f9bdc2">Reminders: </span></em></strong><br> 
+      Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -966,20 +955,18 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Enhanced Patient Reminder Systems:</span></em></strong><br> 
-      Implement automated SMS or phone reminders to improve attendance rates, especially for moderate to long-gap appointments.</li>
-      <li><strong><em><span style="color:#ac9055">Optimized Scheduling Strategies: </span></em></strong><br> 
-      Focus on offering same-day or short-gap appointment slots to increase attendance.</li>
-      <li><strong><em><span style="color:#ac9055">Neighborhood Targeting: </span></em></strong><br> 
-      Conduct further studies to understand neighborhood-based attendance patterns, potentially incorporating geographic proximity or access factors.</li>
-      <li><strong><em><span style="color:#ac9055">Scholarship & Attendance Correlation: </span></em></strong><br> 
-      Further statistical testing is recommended to understand the impact of government support on attendance consistency.</li>
-      <li><strong><em><span style="color:#ac9055">Personalized Engagement:</span></em></strong><br> 
-      Apply insights on health conditions and age-related attendance patterns to create targeted communication strategies, potentially increasing engagement with chronic disease patients and elderly individuals.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'> 
+    <strong><em><span style="color:#f9bdc2">Enhanced Patient Reminder Systems:</span></em></strong><br> 
+      Implement automated SMS or phone reminders to improve attendance rates, especially for moderate to long-gap appointments.<br><br>
+      <strong><em><span style="color:#f9bdc2">Optimized Scheduling Strategies: </span></em></strong><br> 
+      Focus on offering same-day or short-gap appointment slots to increase attendance.<br><br>
+      <strong><em><span style="color:#f9bdc2">Neighborhood Targeting: </span></em></strong><br> 
+      Conduct further studies to understand neighborhood-based attendance patterns, potentially incorporating geographic proximity or access factors.<br><br>
+      <strong><em><span style="color:#f9bdc2">Scholarship & Attendance Correlation: </span></em></strong><br> 
+      Further statistical testing is recommended to understand the impact of government support on attendance consistency.<br><br>
+      <strong><em><span style="color:#f9bdc2">Personalized Engagement:</span></em></strong><br> 
+      Apply insights on health conditions and age-related attendance patterns to create targeted communication strategies, potentially increasing engagement with chronic disease patients and elderly individuals.
   </p>
 </details>
 
@@ -1026,12 +1013,11 @@
       </strong>
     </em>
   </summary>
-  <br> 
   <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
  <p style='text-align: center;font-size:.9rem;'>
     The Northwind database is a sample database created by Microsoft, containing the sales data of "Northwind Traders," a fictitious company that imports and exports specialty foods worldwide. It includes details on customers, orders, inventory, purchasing, suppliers, shipping, employees, and single-entry accounting.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1039,18 +1025,16 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">SQL: </span></em></strong><br>
-        Created views and tables; adjusted database diagrams.</li>
-      <li><strong><em><span style="color:#ac9055">Python (Pandas): </span></em></strong><br>
-        Calculated growth rates.</li>
-      <li><strong><em><span style="color:#ac9055">Excel:  </span></em></strong><br>
-        Employed Power Query, Power Pivot, and pivot tables to analyze data, create relationships, and develop interactive dashboards.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#BBC8E2">SQL: </span></em></strong><br>
+        Created views and tables; adjusted database diagrams.<br><br>
+      <strong><em><span style="color:#BBC8E2">Python (Pandas): </span></em></strong><br>
+        Calculated growth rates.<br><br>
+      <strong><em><span style="color:#BBC8E2">Excel:  </span></em></strong><br>
+        Employed Power Query, Power Pivot, and pivot tables to analyze data, create relationships, and develop interactive dashboards.
   </p> 
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1058,14 +1042,13 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Data Cleaning and Standardization: </span></em></strong><br>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#155799">Data Cleaning and Standardization: </span></em></strong><br>
       Ensured data types and missing values were handled, particularly in shipping and ordering dates.</li>
-      <li><strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Data Analysis: </span></em></strong><br>
       Analyzed sales trends, customer demographics, shipping efficiency, and product performance.</li>
-      <li><strong><em><span style="color:#ac9055">Dashboard Creation: </span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Dashboard Creation: </span></em></strong><br>
       Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.</li>
     </ul>
   </p>
@@ -1080,11 +1063,11 @@
   </center>
   <p style='text-align: justify;'>
     <ul>
-      <li><strong><em><span style="color:#ac9055">Incomplete Data: </span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Incomplete Data: </span></em></strong><br>
       Sales records spanned only from July 1996 to May 1998, requiring careful adjustments in year-over-year comparisons.</li>
-      <li><strong><em><span style="color:#ac9055">Data Consistency: </span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Data Consistency: </span></em></strong><br>
       Managed inconsistencies in order quantities and stock levels, and standardized date data types.</li>
-      <li><strong><em><span style="color:#ac9055">Complex Growth Calculations: </span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Complex Growth Calculations: </span></em></strong><br>
       Analyzed growth across inconsistent time periods to derive accurate trends.</li>
     </ul>
   </p>
@@ -1099,13 +1082,13 @@
   </center>
   <p style='text-align: justify;'>
     <ul>
-      <li><strong><em><span style="color:#ac9055">Growth Analysis Adjustments:</span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Growth Analysis Adjustments:</span></em></strong><br>
         Created an "Actual Country Growth Table," yielding more accurate comparisons by aligning half-year periods for better insights.</li>
-      <li><strong><em><span style="color:#ac9055">Order and Customer Insights: </span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Order and Customer Insights: </span></em></strong><br>
         Classified 89 customers into new or repeat based on order activity, facilitating customer tracking and targeted insights.</li>
-      <li><strong><em><span style="color:#ac9055">Comprehensive Inventory Status:</span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Comprehensive Inventory Status:</span></em></strong><br>
         Developed a robust stock status system, classifying products into Safe Stock, Restock Needed, No Restock, and Stopped.</li>
-      <li><strong><em><span style="color:#ac9055">Dashboard:</span></em></strong><br>
+      <li><strong><em><span style="color:#155799">Dashboard:</span></em></strong><br>
         Completed a comprehensive, interactive dashboard with critical sales insights and key metrics.</li>
     </ul>
   </p>
@@ -1120,12 +1103,12 @@
       </strong>
     </center>
     <ul>
-    <li><strong><em><span style="color:#ac9055">Sales and Orders:</span></em></strong></li>
+    <li><strong><em><span style="color:#155799">Sales and Orders:</span></em></strong></li>
       <ul>
         <li><em><span style="color:#3e3c2c">Orders Summary:</span></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li>
         <li><em><span style="color:#3e3c2c">Shipping Efficiency:</span></em> Average shipping time was 8.48 days.</li>
       </ul>
-      <li><strong><em><span style="color:#ac9055">Product Analysis:</span></em></strong></li>
+      <li><strong><em><span style="color:#155799">Product Analysis:</span></em></strong></li>
       <ul>
         <li><em><span style="color:#3e3c2c">Product Categories:</span></em> 8 categories with 77 products.</li>
         <li><em><span style="color:#3e3c2c">Net Sales:</span></em> $1,265,793.18; Net Revenue: $89K.</li>
@@ -1133,24 +1116,24 @@
         <li><em><span style="color:#3e3c2c">Shipping Cost:</span></em> $65K.</li>
         <li><em><span style="color:#3e3c2c">Highest Net Sales by Month:</span></em> Achieved in April 1998, totaling $124K.</li>
       </ul>
-      <li><strong><em><span style="color:#ac9055">Geographical Insights:</span></em></strong></li>
+      <li><strong><em><span style="color:#155799">Geographical Insights:</span></em></strong></li>
       <ul>
         <li><em><span style="color:#3e3c2c">Top Countries by Sales:</span></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li>
         <li><em><span style="color:#3e3c2c">Country with Most Customers: </span></em>  USA, with 13 recorded customers.</li>
         <li><em><span style="color:#3e3c2c">Discount Performance by Country: </span></em> USA had the highest discounts and net sales across all three years.</li>
       </ul>
-      <li><strong><em><span style="color:#ac9055">Customer Insights:</span></em></strong></li>
+      <li><strong><em><span style="color:#155799">Customer Insights:</span></em></strong></li>
       <ul>
         <li><em><span style="color:#3e3c2c">Total Amount Paid by Customers (Including Shipping):</span></em> $1.3M.</li>
         <li><em><span style="color:#3e3c2c">New Customers in 1998:</span> </em> 1 new customer.</li>
         <li><em><span style="color:#3e3c2c">Highest Monthly Sales: </span> </em> April 1998, driven by 51 customers placing orders.</li>
       </ul>
-      <li><strong><em><span style="color:#ac9055">Product Stock and Reorder Analysis:</span></em></strong></li>
+      <li><strong><em><span style="color:#155799">Product Stock and Reorder Analysis:</span></em></strong></li>
       <ul>
         <li><em><span style="color:#3e3c2c">Continued & Discontinued Products:</span></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
         <li><em><span style="color:#3e3c2c">Top Category by Performance:</span></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
       </ul>
-      <li><strong><em><span style="color:#ac9055">Shipping Companies:</span></em></strong></li>
+      <li><strong><em><span style="color:#155799">Shipping Companies:</span></em></strong></li>
       <ul>
         <li><em><span style="color:#3e3c2c">Top Freight Costs by Year:</span></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li>
         <li><em><span style="color:#3e3c2c">Delivery Performance:</span></em> 809 orders were shipped to their destination, with 772 delivered on time.</li>
@@ -1169,11 +1152,11 @@
   </center>
   <p style='text-align: justify;'> 
     <ul>
-      <li><strong><em><span style="color:#ac9055">Improve Inventory Management: </span></em></strong><br> 
+      <li><strong><em><span style="color:#155799">Improve Inventory Management: </span></em></strong><br> 
         Use reorder level and stock status data to streamline restocking processes.</li>
-      <li><strong><em><span style="color:#ac9055">Optimize Shipping Processes:  </span></em></strong><br> 
+      <li><strong><em><span style="color:#155799">Optimize Shipping Processes:  </span></em></strong><br> 
         Increase on-time deliveries by selecting shipping companies based on past performance.</li>
-      <li><strong><em><span style="color:#ac9055">Enhance Customer Targeting:</span></em></strong><br> 
+      <li><strong><em><span style="color:#155799">Enhance Customer Targeting:</span></em></strong><br> 
         Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.</li>
     </ul>
   </p>
@@ -1189,7 +1172,7 @@
     </span>
   </em>
 <br><br>  
-  <iframe src="https://drive.google.com/file/d/1OSp0UhkoBUW5LYYT8IVldVq6gKNxQnZx/preview" width="640" height="480" allow="autoplay">
+  <iframe src="https://drive.google.com/file/d/1OSp0UhkoBUW5LYYT8IVldVq6gKNxQnZx/preview" width="800" height="600" allow="autoplay">
     NorthWind Dashboard Overview
   </iframe>
 </details>
