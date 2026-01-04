@@ -566,7 +566,7 @@
     </strong>
   </center></h3>
   <h4><strong><em><span style="color:#1f7f74; font-size:0.9rem;">Overview:</span></em></strong></h4>
-    <ul><em>
+    <ul style="font-size:0.9rem;"><em>
           <li>Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.</li><br>
       	  <li>Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.</li><br>
           <li>Female patients represented 53.67% of total surgeries.</li><br>
@@ -574,13 +574,13 @@
     </ul>
      <h4><strong><em><span style="color:#1f7f74;font-size:0.9rem;">Hospital Profile Dashboard:</span></em></strong></h4>
   <span style="font-size:0.9rem;">Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</span>
-  <ul><em>
+    <ul style="font-size:0.9rem;"><em>
         <li> Total Discharges &	number of Surgeons.</li><br>
       	 <li>Average LoS and Average Cost Per Discharge.</li><br>
           <li>Discharges by Illness Severity & Mortality Risk.</li><br>
-          <li>Total Discharges by Patient Disposition & Dignosis.</li><br>
+          <li>Total Discharges by Patient Disposition & Dignosis.</li>
+    </em></ul>   
           <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;">
-    </ul>   
   <h3><center>
     <strong>
       <em>
@@ -592,24 +592,24 @@
   </center></h3>
 <h4><strong><em><span style="color:#1f7f74;font-size:0.9rem;">Length of Stay (LoS):</span></em></strong></h4>
     <span style="font-size:0.9rem;">Key factors influencing LOS:</span>
-        <ul><em></em>
+    <ul style="font-size:0.9rem;"><em>
           <li>  Extreme Illness Severity.</li><br>
           <li>	Major or Extreme Mortality Risk.</li><br>
           <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li><br>
           <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li><br>
-        </ul></em>
+        </em></ul>
       <h4><strong><em><span style="color:#1f7f74">Costs:</span></em></strong></h4> 
       <span style="font-size:0.9rem;">Key factors influencing Cost:</span>
-        <ul><em>
+    <ul style="font-size:0.9rem;"><em>
           <li>  Residency in NYC.</li><br>
           <li>	Patient Disposition to Inpatient Rehabilitation Facilities.</li><br>
           <li>	Extreme Mortality Risk.</li><br>
           <li>	Extreme Severity Level.</li>
-        </ul></em>
+    </em></ul>
   <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Recommendations 
         </span>
       </em>
@@ -625,11 +625,10 @@
       <strong><em><span style="color:#1f7f74">Data-Driven Monitoring: </span></em></strong><br> 
       Adopt dashboards for ongoing tracking of hospital efficiency metrics, enabling proactive decision-making.<br><br>
   </p>
-  <br>
   <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Future Applications 
         </span>
       </em>
@@ -643,7 +642,6 @@
       <strong><em><span style="color:#1f7f74">Public Health Policy:</span></em></strong><br>
       Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.       
   </p>
-
 </details>
 
 <br><br>
