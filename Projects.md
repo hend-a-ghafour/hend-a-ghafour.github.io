@@ -254,7 +254,7 @@
   Aug 2025 
 </em>
 <p>
-    <iframe src="https://drive.google.com/file/d/1iHbRhpVJ_M1EidjLsbzPEZfv1y8jIrVq/preview" max-width="100%" allow="autoplay">
+    <iframe src="https://drive.google.com/file/d/1iHbRhpVJ_M1EidjLsbzPEZfv1y8jIrVq/preview" width="1152" height="720" allow="autoplay">
       Inventory Analysis
     </iframe>
   </p>
