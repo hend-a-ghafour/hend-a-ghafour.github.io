@@ -1,4 +1,5 @@
 <strong>
+  <center>
   <em>
     <span style="color:#155799;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;"> 
       About Me 
@@ -18,7 +19,7 @@
     <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
       Contact 
     </a>
-  </em>
+  </em></center>
 </strong>
 <br><br>
 <p style="font-size:1rem;">
@@ -134,6 +135,7 @@
 <br><br>
 
 <strong>
+  <center>
   <em>
     <span style="color:#155799;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;"> 
       About Me 
@@ -153,5 +155,5 @@
     <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
       Contact 
     </a>
-  </em>
+  </em></center>
 </strong>
