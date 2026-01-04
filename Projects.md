@@ -16,7 +16,7 @@
     <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;font-size:1rem;"> 
       Certificates 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
+    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 55px;font-size:1rem;"> 
       Contact 
     </a>
   </em>
