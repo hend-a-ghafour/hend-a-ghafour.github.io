@@ -403,7 +403,7 @@
           <ul><em>
             <li> Highest inventory turnover (1.28).</li>
       	    <li> Lowest average COGS (33%).</li>
-            <li> Mostly ranked as C, with only 3 items in B.<br>
+            <li> Mostly ranked as C, with only 3 items in B.</li><br>
             <li> Ranked 4th by revenue contribution.</li>
           </em></ul><br>
     <li><strong> Control Decisions Within "B" Items:</strong></li>
