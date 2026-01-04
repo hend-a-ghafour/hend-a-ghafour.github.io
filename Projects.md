@@ -730,7 +730,7 @@
       </em>
     </strong>
   </center></h3>
-  <p style='text-align: justify;fon-size:0.9rem'>
+  <p style='text-align: justify;font-size:0.9rem'>
     <strong><em><span style="color:#ac9055">Data Gaps:</span></em></strong><br>
       Identified missing values in critical fields, requiring strategies for accurate interpretation.<br><br>
       <strong><em><span style="color:#ac9055">Complex Relationships:</span></em></strong><br>
