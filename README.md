@@ -1,5 +1,5 @@
+<p style='text-align: center;'>
 <strong>
-  <center>
   <em>
     <span style="color:#155799;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;"> 
       About Me 
@@ -19,8 +19,9 @@
     <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
       Contact 
     </a>
-  </em></center>
+  </em>
 </strong>
+</p>
 <br><br>
 <p style="font-size:1rem;">
   <strong>
@@ -37,11 +38,11 @@
 
 
 ## ***<center><span style="color:#155799;">Skills</span></center>***
-***<span style="color:#159957;font-size:1rem;"> Tools: </span>*** <br>
-<span style="font-size:.9rem;"> Python - SQL - Tableau -  Power BI - Excel </span> <br>
-
-***<span style="color:#159957;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - Query Writing - Coding - Interactive Dashboards</span> <br>  
-***<span style="color:#159957;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Detail-Oriented -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> 
+#### ***<span style="color:#159957;font-size:1rem;"> Tools: </span>*** 
+<span style="font-size:.9rem;"> Python - SQL - Tableau -  Power BI - Excel </span> 
+####***<span style="color:#159957;font-size:1rem;">  Technical Skills: </span>***<span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - Query Writing - Coding - Interactive Dashboards</span>   
+#### ***<span style="color:#159957;font-size:1rem;"> Soft Skills: </span>***
+<span style="font-size:.9rem;">Analystical Thinking - Detail-Oriented -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span>
 <br>
 <p style='text-align: justify;'>
   <h2>
@@ -55,65 +56,65 @@
       </em>
     </strong>
   </h2>
-  <strong>
+  <h4><strong>
     <em>
       <span style="color:#159957;font-size:1rem;"> 
         Data Cleaning & Preparation: 
       </span>
     </em>
-  </strong>
+  </strong></h4>
   <span style="font-size:.9rem;">
   <ul marker="color: #159957;">
     <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li><br>
     <li>Handling missing values, duplicates, and data restructuring.</li><br>
   </ul>
   </span>
-  <strong>
+  <h4><strong>
     <em>
       <span style="color:#159957;font-size:1rem;">
         Data Analysis & Reporting: 
       </span>
     </em>
-  </strong>
+  </strong></h4>
   <span style="font-size:.9rem;">
   <ul>
     <li>In-depth analysis using Python, SQL, BI tools & Excel.</li><br>
     <li>Detailed statistical reports with Python.</li><br>
   </ul>
   </span>
-  <strong>
+  <h4><strong>
     <em>
       <span style="color:#159957;font-size:1rem;">
         Data Visualization: 
       </span>
     </em>
-  </strong>
+  </strong></h4>
   <span style="font-size:.9rem;">
   <ul>
     <li> Creating clear and impactful data visualizations.</li><br>
     <li>Creating Dashboards using Power BI, Tableau & Excel to easily understand data & make informed decisions.</li><br>
   </ul>
   </span>
-  <strong>
+  <h4><strong>
     <em>
       <span style="color:#159957;font-size:1rem;">
         Problem Solving & Strategic Insights: 
       </span>
     </em>
-  </strong>
+  </strong></h4>
   <span style="font-size:.9rem;">
   <ul>
     <li>Identifying and resolving business challenges.</li><br>
     <li>Analyzing data trends to drive growth and efficiency.</li><br>
   </ul>
   </span>
-  <strong>
+  <h4><strong>
     <em>
       <span style="color:#159957;font-size:1rem;">
         Time Management & Project Coordination: 
       </span>
     </em>
-  </strong>
+  </strong></h4>
   <span style="font-size:.9rem;">
   <ul>
     <li>Ensuring timely delivery of high-quality projects.</li><br>
@@ -134,8 +135,8 @@
 </strong>
 <br><br>
 
+<p style='text-align: center;'>
 <strong>
-  <center>
   <em>
     <span style="color:#155799;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;"> 
       About Me 
@@ -155,5 +156,6 @@
     <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
       Contact 
     </a>
-  </em></center>
+  </em>
 </strong>
+</p>
