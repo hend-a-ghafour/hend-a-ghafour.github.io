@@ -48,7 +48,6 @@
       </strong>
     </em>
   </summary>
-  
   <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
  <p style='text-align: center;font-size:.9rem;'>
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
@@ -239,8 +238,6 @@
   </strong>
 </center>
 <br>
-
-
 <h2>
   <em>
     <strong>
@@ -268,7 +265,6 @@
       </strong>
     </em>
   </summary>
-  <br> 
   <h3>
   <center>
     <strong>
@@ -491,9 +487,8 @@
 <em>
   Aug 2025 
 </em>
-
 <p>
-    <iframe src="https://drive.google.com/file/d/1Xk2858K6Ta4qmGKCWZkSrMbuThG-knQy/preview" width="640" height="480" allow="autoplay">
+    <iframe src="https://drive.google.com/file/d/1Xk2858K6Ta4qmGKCWZkSrMbuThG-knQy/preview" width="800" height="600" allow="autoplay">
       HealthStat
     </iframe>
   </p>
@@ -673,8 +668,11 @@
   </strong>
 </center> 
 
-![HR Tableau](https://hend-a-ghafour.github.io/Media/HR.jpg)
-
+<p>
+    <iframe src="https://drive.google.com/file/d/19x1qCv9YD58lQFPadPPtH1D34w4z-sKf/preview" width="800" height="600" allow="autoplay">
+      HealthStat
+    </iframe>
+  </p>
 <details>
   <summary>
     <em>
@@ -685,11 +683,11 @@
       </strong>
     </em>
   </summary>
-  <br> 
   <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
  <p style='text-align: center;font-size:.9rem;'>
     Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.
   </p>
+  <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HR.jpg" alt="HR" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
   <h3><center>
     <strong>
       <em>
