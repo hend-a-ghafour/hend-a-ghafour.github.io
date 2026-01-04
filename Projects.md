@@ -387,8 +387,7 @@
             </em><br>
           <li> Woodland Charlotte Bag (A class) had the lowest COGS ratio (45%). </li><br>
           <li> Units sold in 2021: A = 78K, B = 22K, C = 26K.</li>
-    </ul>
-     
+    </ul>     
   <h4><strong><em><span style="color:#e67e22;font-size:0.9rem;text-align: justify;">Inspecting Categories:</span></em></strong></h4>
   <ul style="font-size:0.9rem;text-align: justify;">
     <li><strong> Jewelry:</strong></li>
@@ -403,7 +402,7 @@
           <ul><em>
             <li> Highest inventory turnover (1.28).</li>
       	    <li> Lowest average COGS (33%).</li>
-            <li> Mostly ranked as C, with only 3 items in B.</li><br>
+            <li> Mostly ranked as C, with only 3 items in B.</li>
             <li> Ranked 4th by revenue contribution.</li>
           </em></ul><br>
     <li><strong> Control Decisions Within "B" Items:</strong></li>
@@ -417,8 +416,6 @@
       	    <li> <strong>B Class:</strong> 17 items contributed about 20% of revenue.</li>
             <li> <strong>C Class:</strong> 69 items contributed only 10% of revenue.</li>
         </em></ul></ul>
-
-
   <h3><center>
     <strong>
       <em>
@@ -427,17 +424,17 @@
         </span>
       </em>
     </strong>
-  </center><h3>
+  </center></h3>
   <ul style='text-align: justify; font-size:0.9rem;'>
       <li>	Set of 6 Soldiers Skittles generated $8.78K profit on just 2.3K units sold → <em>highly profitable despite low volume.</em></li><br>
       <li>	3 “A” items had similar turnover rates, <em>showing consistent demand.</em></li><br>
       <li> All Jewelry items ranked C, highlighting weak profitability → <em>category needs reevaluation.</em></li><br>
       <li> Victorian Metal Post Card (B class) had high turnover despite small revenue → <em>demand exists but stock is limited.</em></li><br>
-      <li> A and B classes had a similar number of products, but revenue impact was highly skewed:<br>
-        <em>
-           <span style="color:#e67e22">-</span> A = 70% revenue coverage.<br>
-           <span style="color:#e67e22">-</span> B = 20% coverage.<br>
-           <span style="color:#e67e22">-</span> <strong>This indicates A items dominate revenue due to stock scale.</strong></em> </li>
+      <li> A and B classes had a similar number of products, but revenue impact was highly skewed:
+        <em><ul>
+           <li> A = 70% revenue coverage.</li>
+           <li> B = 20% coverage.</li>
+           <li> <strong>This indicates A items dominate revenue due to stock scale.</strong></li></ul></em> </li>
     </ul>
   <br>
   <h3><center>
@@ -450,7 +447,7 @@
     </strong>
   </center></h3>
   <ul style='text-align: justify; font-size:0.9rem;'>
-      <li> Prioritize A class products with low COGS ratios (e.g., Woodland Charlotte Bag) to maximize profitability.</li><br>
+      <li> Prioritize A class products with low COGS ratios <em>(<strong>e.g.,</strong> Woodland Charlotte Bag)</em> to maximize profitability.</li><br>
       <li>	Increase inventory of promising B class items, such as Victorian Metal Post Card, to capture unmet demand.</li><br>
       <li>	Reconsider or downscale the Jewelry category, as all products fall into C class with poor returns.</li><br>
       <li>	Combine ABC Analysis with turnover insights, since high-demand items can exist outside A class.</li>
@@ -464,8 +461,7 @@
         </span>
       </em>
     </strong>
-  </center></h3>
-  
+  </center></h3>  
   <ul style='text-align: justify; font-size:0.9rem;'>
       <li> Apply predictive modeling <em>(<strong>e.g.,</strong> demand forecasting)</em> to better plan stock levels.</li><br>
       <li>	Expand ABC analysis into multi-dimensional frameworks <em>(<strong>e.g.,</strong> considering turnover, profitability, and regional demand)</em>.</li><br>
