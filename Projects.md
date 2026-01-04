@@ -436,7 +436,6 @@
            <li> B = 20% coverage.</li>
            <li> <strong>This indicates A items dominate revenue due to stock scale.</strong></li></ul></em> </li>
     </ul>
-  <br>
   <h3><center>
     <strong>
       <em>
@@ -452,7 +451,6 @@
       <li>	Reconsider or downscale the Jewelry category, as all products fall into C class with poor returns.</li><br>
       <li>	Combine ABC Analysis with turnover insights, since high-demand items can exist outside A class.</li>
     </ul>
-  <br>
   <h3><center>
     <strong>
       <em>
@@ -479,19 +477,16 @@
     </span>
   </strong>
 </center>
-<br><br>
 
-<br><br>
-
-<h3>
+<h2>
   <em>
     <strong>
-      <span style="color:#7c7959"> 
+      <span style="color:#155799"> 
         Analyzing Health Care Data
       </span>
     </strong>
   </em>
-</h3> 
+</h2> 
 <em>
   Aug 2025 
 </em>
@@ -505,137 +500,113 @@
   <summary>
     <em>
       <strong>
-        <span style="color:#7c7959">
+        <span style="color:#2980b9">
           See More
         </span>
       </strong>
     </em>
   </summary>
   <br> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Overview 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: center;'>
+  <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
+ <p style='text-align: center;font-size:.9rem;'>
     This project explores a real-world dataset to uncover hospital efficiency insights for HealthStat, a fictional consulting company. The analysis focused on the attributes impacting patient Length of Stay (LOS) and treatment cost, with the goal of identifying factors contributing to hospital performance differences. <br> <br>
-The study concentrated exclusively on Elective Hip Replacement Surgical Inpatient stays in New York State (NYS).
+<em>The study concentrated exclusively on Elective Hip Replacement Surgical Inpatient stays in New York State (NYS).</em>
 
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Tools & Techniques 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: center;'>
-    <em><strong><span style="color:#ac9055"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
+  </center></h3>
+  <p style='text-align: center;font-size:0.9rem;'>
+    <em><strong><span style="color:#1f7f74"> Power BI </span></strong></em> for calculations, data visualization and interactive dashboards.
   </p> 
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Roles & Responsibilities 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
-         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.</li>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#1f7f74">Visualization:</span></em></strong><br>
+         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.<br><br>
       <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" width="500" height="300" style="border-radius: 10px;"> <br>
-      <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
-        Conducted in-depth reviews to identify key influencers affecting hospital efficiency.
+      <strong><em><span style="color:#1f7f74">Analysis:</span></em></strong><br>
+        Conducted in-depth reviews to identify key influencers affecting hospital efficiency.<br><br>
         <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" width="500" height="300" style="border-radius: 10px;"> <br>
-        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" width="500" height="300" style="border-radius: 10px;"> <br>
-    </li>
-  </ul>
+        <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" width="500" height="300" style="border-radius: 10px;"> <br> 
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Challenges Faced 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Identifying key efficiency drivers: </span></em></strong><br>
-      A root cause analysis was conducted to uncover the main factors influencing both LOS and cost, ensuring robust and accurate insights.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+   <strong><em><span style="color:#1f7f74">Identifying key efficiency drivers: </span></em></strong><br>
+      A root cause analysis was conducted to uncover the main factors influencing both LOS and cost, ensuring robust and accurate insights.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Achievements 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Overview:</span></em></strong><br>
-          1- Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.<br>
-      	  2- Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.<br>
-          3- Female patients represented 53.67% of total surgeries.<br>
-          4- NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.
-      </li>
-      <br>
-      <li><strong><em><span style="color:#ac9055">Hospital Profile Dashboard:</span></em></strong><br>
-        <em>Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</em><br>
-          1- Total Discharges &	number of Surgeons.<br>
-      	  2- Average LoS and Average Cost Per Discharge.<br>
-          3- Discharges by Illness Severity & Mortality Risk.<br>
-          4- Total Discharges by Patient Disposition & Dignosis.<br>
+  </center></h3>
+  <h4><strong><em><span style="color:#1f7f74; font-size:0.9rem;">Overview:</span></em></strong></h4>
+    <ul><em>
+          <li>Analyzed 151 hospitals in NYS that collectively performed over 26K hip replacement surgeries conducted by 627 surgeons.</li><br>
+      	  <li>Found that patients aged over 50 constituted the majority, with illness severity ranging from minor to moderate.</li><br>
+          <li>Female patients represented 53.67% of total surgeries.</li><br>
+          <li>NYC recorded the largest number of hospitals (44), with the highest average cost of $25.5K. Surprisingly, Long Island had the second highest average cost ($25.4K) despite ranking third in hospital count.</li></em>
+    </ul>
+     <h4><strong><em><span style="color:#1f7f74;font-size:0.9rem;">Hospital Profile Dashboard:</span></em></strong></h4>
+  <span style="font-size:0.9rem;">Designed a Hospital Profile Dashboard, summarizing key hospital-level metrics:</span>
+  <ul><em>
+        <li> Total Discharges &	number of Surgeons.</li><br>
+      	 <li>Average LoS and Average Cost Per Discharge.</li><br>
+          <li>Discharges by Illness Severity & Mortality Risk.</li><br>
+          <li>Total Discharges by Patient Disposition & Dignosis.</li><br>
           <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" width="500" height="300" style="border-radius: 10px;">
-<br>       
-      </li>
     </ul>   
-  </p>
-
-  <center>
+  <h3><center>
     <strong>
       <em>
-        <span style="color:#243444"> 
+        <span style="color:#155799"> 
           Insights 
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Length of Stay (LoS):</span></em></strong><br> 
-     <em>Key factors influencing LOS:</em>
-        <ol>
-          <li>  Extreme Illness Severity.</li>
-          <li>	Major or Extreme Mortality Risk.</li>
-          <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li>
-          <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
-        </ol>
-      </li>
-      <li><strong><em><span style="color:#ac9055">Costs:</span></em></strong><br> 
-      <em>Key factors influencing Cost:</em>
-        <ol>
-          <li>  Residency in NYC.</li>
-          <li>	Patient Disposition to Inpatient Rehabilitation Facilities.</li>
-          <li>	Extreme Mortality Risk.</li>
+  </center></h3>
+<h4><strong><em><span style="color:#1f7f74;font-size:0.9rem;">Length of Stay (LoS):</span></em></strong></h4>
+    <span style="font-size:0.9rem;">Key factors influencing LOS:</span>
+        <ul><em></em>
+          <li>  Extreme Illness Severity.</li><br>
+          <li>	Major or Extreme Mortality Risk.</li><br>
+          <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li><br>
+          <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li><br>
+        </ul></em>
+      <h4><strong><em><span style="color:#1f7f74">Costs:</span></em></strong></h4> 
+      <span style="font-size:0.9rem;">Key factors influencing Cost:</span>
+        <ul><em>
+          <li>  Residency in NYC.</li><br>
+          <li>	Patient Disposition to Inpatient Rehabilitation Facilities.</li><br>
+          <li>	Extreme Mortality Risk.</li><br>
           <li>	Extreme Severity Level.</li>
-        </ol>
-      </li>
-     </ul>
-  </p>
-  <center>
+        </ul></em>
+  <h3><center>
     <strong>
       <em>
         <span style="color:#243444"> 
@@ -643,21 +614,19 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Target Efficiency Improvements:</span></em></strong><br> 
-      Hospitals, particularly in NYC, should explore process optimization strategies for patients with extreme illness severity or mortality risk.</li>
-      <li><strong><em><span style="color:#ac9055">Regional Benchmarking:</span></em></strong><br> 
-      Establish regional benchmarks for cost and LOS, with Long Island requiring closer evaluation due to disproportionately high costs.</li>
-      <li><strong><em><span style="color:#ac9055">Care Pathway Redesign:</span></em></strong><br>
-      Investigate post-surgery rehabilitation pathways, as inpatient rehabilitation disposition was a significant cost driver.</li>
-      <li><strong><em><span style="color:#ac9055">Data-Driven Monitoring: </span></em></strong><br> 
-      Adopt dashboards for ongoing tracking of hospital efficiency metrics, enabling proactive decision-making.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'> 
+    <strong><em><span style="color:#1f7f74">Target Efficiency Improvements:</span></em></strong><br> 
+      Hospitals, particularly in NYC, should explore process optimization strategies for patients with extreme illness severity or mortality risk.<br><br>
+      <strong><em><span style="color:#1f7f74">Regional Benchmarking:</span></em></strong><br> 
+      Establish regional benchmarks for cost and LOS, with Long Island requiring closer evaluation due to disproportionately high costs.<br><br>
+      <strong><em><span style="color:#1f7f74">Care Pathway Redesign:</span></em></strong><br>
+      Investigate post-surgery rehabilitation pathways, as inpatient rehabilitation disposition was a significant cost driver.<br><br>
+      <strong><em><span style="color:#1f7f74">Data-Driven Monitoring: </span></em></strong><br> 
+      Adopt dashboards for ongoing tracking of hospital efficiency metrics, enabling proactive decision-making.<br><br>
   </p>
   <br>
-  <center>
+  <h3><center>
     <strong>
       <em>
         <span style="color:#243444"> 
@@ -665,16 +634,14 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Scalability Across Specialties:</span></em></strong><br> 
-      Expand analysis to other elective procedures (e.g., knee replacement, cardiac surgery) for broader healthcare efficiency insights.</li>
-      <li><strong><em><span style="color:#ac9055">Integration with Financial Planning:</span></em></strong><br> 
-      Use efficiency insights to guide hospital budgeting, workforce planning, and negotiations with insurance providers.</li>
-      <li><strong><em><span style="color:#ac9055">Public Health Policy:</span></em></strong><br>
-      Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.       </li>
-     </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'> 
+    <strong><em><span style="color:#1f7f74">Scalability Across Specialties:</span></em></strong><br> 
+      Expand analysis to other elective procedures (e.g., knee replacement, cardiac surgery) for broader healthcare efficiency insights.<br><br>
+      <strong><em><span style="color:#1f7f74">Integration with Financial Planning:</span></em></strong><br> 
+      Use efficiency insights to guide hospital budgeting, workforce planning, and negotiations with insurance providers.<br><br>
+      <strong><em><span style="color:#1f7f74">Public Health Policy:</span></em></strong><br>
+      Support state-level healthcare policy decisions by highlighting regions with disproportionately high costs or LOS for targeted interventions.       
   </p>
 
 </details>
@@ -706,7 +673,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
 <center>
   <strong>
     <em>
-      <a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
+      <a href="https://public.tableau.com/app/profile/hend.el.manhawy/viz/HRTableauProject-HendAbdEl-Ghafour/HROverview" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
         View Project 
       </a>
     </em>
@@ -719,23 +686,15 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   <summary>
     <em>
       <strong>
-        <span style="color:#7c7959">
+        <span style="color:#2980b9">
           See More
         </span>
       </strong>
     </em>
   </summary>
   <br> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Overview 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: center;'>
+  <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
+ <p style='text-align: center;font-size:.9rem;'>
     Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.
   </p>
   <center>
@@ -886,7 +845,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
+      <a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
         View Project 
       </a>
     </em>
@@ -899,23 +858,15 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   <summary>
     <em>
       <strong>
-        <span style="color:#7c7959">
+        <span style="color:#2980b9">
           See More
         </span>
       </strong>
     </em>
   </summary>
   <br> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Overview 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: center;'>
+  <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
+ <p style='text-align: center;font-size:.9rem;'>
     This project analyzes a dataset of 100,000 medical appointments in Brazil, focusing on the factors that impact patient attendance, such as demographics, health conditions, appointment scheduling gaps, and reminders. Key questions address the effects of gender, age, neighborhood, health conditions, and communication on attendance rates.
   </p>
   <center>
@@ -1074,7 +1025,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Northwind/blob/main/Northwind.sql" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
+      <a href="https://github.com/hend-a-ghafour/Northwind/blob/main/Northwind.sql" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
         View Project 
       </a>
     </em>
@@ -1087,23 +1038,15 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   <summary>
     <em>
       <strong>
-        <span style="color:#7c7959">
+        <span style="color:#2980b9">
           See More
         </span>
       </strong>
     </em>
   </summary>
   <br> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Overview 
-        </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: center;'>
+  <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
+ <p style='text-align: center;font-size:.9rem;'>
     The Northwind database is a sample database created by Microsoft, containing the sales data of "Northwind Traders," a fictitious company that imports and exports specialty foods worldwide. It includes details on customers, orders, inventory, purchasing, suppliers, shipping, employees, and single-entry accounting.
   </p>
   <center>
@@ -1291,7 +1234,7 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:#7c7959; background-color:#cdccba; text-align:center; text-decoration:none; border-radius:2px;"> 
+      <a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#2980b9;"> 
         View Project 
       </a>
     </em>
@@ -1306,22 +1249,15 @@ The study concentrated exclusively on Elective Hip Replacement Surgical Inpatien
   <summary>
     <em>
       <strong>
-        <span style="color:#7c7959">
+        <span style="color:#2980b9">
           See More
         </span>
       </strong>
     </em>
   </summary>
   <br> 
-  <center>
-    <strong>
-      <em>
-        <span style="color:#243444"> 
-          Overview </span>
-      </em>
-    </strong>
-  </center>
-  <p style='text-align: center;'>
+  <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
+ <p style='text-align: center;font-size:.9rem;'>
   The dataset analyzes seven indicators impacting maternal and child health from 1995 to 2010 across six WHO regions. These indicators include Total Fertility Rate, Percentage of Births Attended by Skilled Health Staff, Child Mortality Rate, Maternal Mortality Rate, Average Life Expectancy, Total Health Spending per Person in USD, and Percentage of Total Health Expenditure in GDP.
   </p>
   <p style='text-align: justify;'>
