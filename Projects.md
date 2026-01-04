@@ -389,9 +389,9 @@
           <li> Units sold in 2021: A = 78K, B = 22K, C = 26K.</li>
     </ul>
      
-  <h4><strong><em><span style="color:#e67e22;font-size:0.9rem;text-align: justify;margin:0rem;">Inspecting Categories:</span></em></strong></h4>
+  <h4><strong><em><span style="color:#e67e22;font-size:0.9rem;text-align: justify;">Inspecting Categories:</span></em></strong></h4>
   <ul style="font-size:0.9rem;text-align: justify;">
-        <li><strong> Jewelry:</strong></li>
+    <li><strong> Jewelry:</strong></li>
         <em>
           <ul>
           <li> Profit margin improved (37% → 47%) due to fewer high-COGS products sold.</li>
@@ -399,19 +399,19 @@
           <li>All Jewelry items were ranked C in 2021, with the highest average COGS ratio (61%).</li>
           </ul><br>
         </em>
-        <li><strong> Office & School:</strong></li>
+    <li><strong> Office & School:</strong></li>
           <ul><em>
             <li> Highest inventory turnover (1.28).</li>
       	    <li> Lowest average COGS (33%).</li>
             <li> Mostly ranked as C, with only 3 items in B.<br>
-            <li> Ranked 4th by revenue contribution.</li><br>
-          </em></ul>
-        <li><strong> Control Decisions Within "B" Items:</strong></li>
+            <li> Ranked 4th by revenue contribution.</li>
+          </em></ul><br>
+    <li><strong> Control Decisions Within "B" Items:</strong></li>
           <ul><em>
             <li> Victorian Metal Post Card → top revenue ($8.5K), 2764 units sold, turnover = 1.74.</li>
-            <li> Mainly sold in Europe, especially Denmark (457 units).</li><br>
-          </em></ul>
-        <li><strong> Management Solutions:</strong></li>
+            <li> Mainly sold in Europe, especially Denmark (457 units).</li>
+          </em></ul><br>
+    <li><strong> Management Solutions:</strong></li>
           <ul><em>
             <li> <strong>A Class:</strong> 18 items (17% of total) covered nearly 70% of revenue.</li>
       	    <li> <strong>B Class:</strong> 17 items contributed about 20% of revenue.</li>
