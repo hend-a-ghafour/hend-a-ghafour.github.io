@@ -35,96 +35,97 @@
 ![DS](https://hend-a-ghafour.github.io/Media/DS.jpg)
 
 
-## ***<center>Skills</center>***
-***<span style="color:#155799;font-size:1rem;"> Tools: </span>*** <br>
+## ***<center><span style="color:#155799;">Skills</span></center>***
+***<span style="color:#159957;font-size:1rem;"> Tools: </span>*** <br>
 <span style="font-size:.9rem;"> Python - SQL - Tableau -  Power BI - Excel </span> <br>
 
-***<span style="color:#155799;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - Query Writing - Coding - Interactive Dashboards</span> <br>  
-***<span style="color:#155799;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Detail-Oriented -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> 
+***<span style="color:#159957;font-size:1rem;">  Technical Skills: </span>***<br>  <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - Query Writing - Coding - Interactive Dashboards</span> <br>  
+***<span style="color:#159957;font-size:1rem;"> Soft Skills: </span>***<br>   <span style="font-size:.9rem;">Analystical Thinking - Detail-Oriented -  Fast Learner - Problem Solving & Communication - Agile Mindset - Project Management</span><br> 
 <br>
 <p style='text-align: justify;'>
   <h2>
     <strong>
       <em>
         <center>
+          <span style="color:#155799;">
           Services Offered
+          </span>
         </center>
       </em>
     </strong>
   </h2>
   <strong>
     <em>
-      <span style="color:#155799;font-size:1rem;"> 
+      <span style="color:#159957;font-size:1rem;"> 
         Data Cleaning & Preparation: 
       </span>
     </em>
   </strong>
   <span style="font-size:.9rem;">
-  <ul marker="color: #155799;">
-    <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li>
-    <li>Handling missing values, duplicates, and data restructuring.</li>
+  <ul marker="color: #159957;">
+    <li>Maintaining data accuracy, consistency, and integrity for reliable analysis.</li><br>
+    <li>Handling missing values, duplicates, and data restructuring.</li><br>
   </ul>
   </span>
   <strong>
     <em>
-      <span style="color:#155799;font-size:1rem;">
+      <span style="color:#159957;font-size:1rem;">
         Data Analysis & Reporting: 
       </span>
     </em>
   </strong>
   <span style="font-size:.9rem;">
   <ul>
-    <li>In-depth analysis using Python, SQL, BI tools & Excel.</li>
-    <li>Detailed statistical reports with Python.</li>
+    <li>In-depth analysis using Python, SQL, BI tools & Excel.</li><br>
+    <li>Detailed statistical reports with Python.</li><br>
   </ul>
   </span>
   <strong>
     <em>
-      <span style="color:#155799;font-size:1rem;">
+      <span style="color:#159957;font-size:1rem;">
         Data Visualization: 
       </span>
     </em>
   </strong>
   <span style="font-size:.9rem;">
   <ul>
-    <li> Creating clear and impactful data visualizations.</li>
-    <li>Creating Dashboards using Power BI, Tableau & Excel to easily understand data & make informed decisions.</li>
+    <li> Creating clear and impactful data visualizations.</li><br>
+    <li>Creating Dashboards using Power BI, Tableau & Excel to easily understand data & make informed decisions.</li><br>
   </ul>
   </span>
   <strong>
     <em>
-      <span style="color:#155799;font-size:1rem;">
+      <span style="color:#159957;font-size:1rem;">
         Problem Solving & Strategic Insights: 
       </span>
     </em>
   </strong>
   <span style="font-size:.9rem;">
   <ul>
-    <li>Identifying and resolving business challenges.</li>
-    <li>Analyzing data trends to drive growth and efficiency.</li>
+    <li>Identifying and resolving business challenges.</li><br>
+    <li>Analyzing data trends to drive growth and efficiency.</li><br>
   </ul>
   </span>
   <strong>
     <em>
-      <span style="color:#155799;font-size:1rem;">
+      <span style="color:#159957;font-size:1rem;">
         Time Management & Project Coordination: 
       </span>
     </em>
   </strong>
   <span style="font-size:.9rem;">
   <ul>
-    <li>Ensuring timely delivery of high-quality projects.</li>
-    <li>Coordinating tasks and meeting all milestones.</li>
+    <li>Ensuring timely delivery of high-quality projects.</li><br>
+    <li>Coordinating tasks and meeting all milestones.</li><br>
   </ul>
   </span>
  </p>
-<br>
 
-# ***<center>Why Me?</center>***
+# ***<center><span style="color:#155799;">Why Me?</span></center>***
 <strong>
   <em>
     <center> 
-      <span style="font-size:.9rem;">
+      <span style="font-size:1rem;">
         By hiring me, you gain a dedicated professional with a strong analytical skill set, a keen eye for detail, and a commitment to delivering actionable insights and efficient solutions tailored to your business needs. 
       </span>
     </center>
@@ -140,16 +141,16 @@
     <a href="https://hend-a-ghafour.github.io/Projects" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;">
       Projects
     </a>
-    <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;background-image: linear-gradient(120deg, #155799,#155799, #159957);width: 145px; height: 60px;font-size:1rem;"> 
+    <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 145px; height: 60px;font-size:1rem;"> 
       Testimonials 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
+    <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
       Experience 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;font-size:1rem;"> 
+    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 140px; height: 60px;font-size:1rem;"> 
       Certificates 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white; background-color:#159957; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
+    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;"> 
       Contact 
     </a>
   </em>
