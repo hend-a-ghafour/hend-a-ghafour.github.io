@@ -56,7 +56,7 @@
   </p>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
   <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"><br> Python <em>(.ipynb file for analysis & .py file for automation)</em></span><br><br>
-    <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span><br><br>
+    <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span><br><
   <p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
   <span style="font-size:0.9rem;">
@@ -88,17 +88,16 @@
       <strong><em><span style="color:#5b2c6f;">User-level inconsistencies, </span></em></strong> <br>
         such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.<br><br>
       <strong><em><span style="color:#5b2c6f;">Language mismatches,</span></em></strong> <br>
-        97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads. <br> <br>       
+        97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads. </p>      
     <div style="display:flex; justify-content:center;">      
         <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="400" height="400" style="border-radius: 10px;margin:0 auto;"> 
     </div>
-      <br><br>
+        <p style='text-align: justify;font-size:.9rem;'>
       <strong><em><span style="color:#5b2c6f;">Uneven distribution of exposures </span></em></strong> <br>
         77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.<br><br>
      <strong><em><span style="color:#5b2c6f;">Technical bug in House Ads </span></em></strong> <br>
-      caused recurring language mismatches after January 10, heavily distorting conversion rates.<br><br>
+      caused recurring language mismatches after January 10, heavily distorting conversion rates.<br></p>
      <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>
-  </p>
   <h3><center>
     <strong>
       <em>
@@ -118,16 +117,17 @@
       <strong><em><span style="color:#5b2c6f">Variant:</span></em></strong><br>
        Users were almost evenly assigned between the control and personalization groups.<br><br>
       <strong><em><span style="color:#5b2c6f">Language: </span></em></strong><br>
-      97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).<br>
+      97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).</p>
    <div style="display:flex; justify-content:center;">   
-  <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br><br> 
+  <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
+  <p style='text-align: justify;font-size:0.9rem;'>
       <strong><em><span style="color:#5b2c6f">Age distribution:</span></em></strong><br>
        heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).<br><br>
       <strong><em><span style="color:#5b2c6f">Channel distribution:</span></em></strong><br>
        House Ads (47.08%), Facebook + Instagram (≈29%), Push (9.96%), Email (5.65%).<br><br>
       <strong><em><span style="color:#5b2c6f">Ad repetition:</span></em></strong><br>
-       77.07% one-time exposure, 22.93% multi-exposure.<br><br>
-      <strong><em><span style="color:#5b2c6f;margin-bottom: 0px">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 20px; margin-top: 0px;">
+       77.07% one-time exposure, 22.93% multi-exposure.</p>
+      <strong><em><span style="color:#5b2c6f;margin-bottom: 0px; fontsize:0.9rem;">Conversion Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 20px; margin-top: 0px;">
           <li>Overall Conversion Rate ≈ 13.01% </li><br>
           <li> Email (33.75%) highest overall - Despite its low distribution (5.65% of total Ads), & House Ads (7.40%) – Despite its extensive ad distribution (47.08%).</li><br>
           <li> Personalized ads: 16.80% vs Control: ≈10%</li><br>
@@ -314,10 +314,11 @@
     <strong><em><span style="color:#e67e22">Relation between COGS, Sales, and Profit:</span></em></strong><br>
          Measured using COGS-to-Revenue ratios to guide purchasing and logistics decisions.<br><br>
       <strong><em><span style="color:#e67e22">Second-chance items:</span></em></strong><br>
-        Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.<br><br>
-        <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
-        <strong><em><span style="color:#e67e22">Impact of ABC Analysis:</span></em></strong><br>
-        Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.<br><br>
+        Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.</p>
+        <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+          <p style='text-align: justify;font-size:.9rem;'>
+        <strong><em><span style="color:#e67e22;font-size:0.9rem;">Impact of ABC Analysis:</span></em></strong><br>
+        Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.</p>
         <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
   </p>
   <h3><center>
@@ -347,10 +348,11 @@
       <strong><em><span style="color:#e67e22">Data Manipulation:</span></em></strong><br>
          Used Power Query & DAX for deriving insights.<br><br>
       <strong><em><span style="color:#e67e22">Data Visualization:</span></em></strong><br>
-         Designed clear charts to reflect dataset insights.<br><br>
-      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div><br><br>
-      <strong><em><span style="color:#e67e22">Analysis:</span></em></strong><br>
-        Reviewed key influencers on inventory performance.<br><br>
+         Designed clear charts to reflect dataset insights.<br>
+      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
+        <p style='text-align: justify;font-size:.9rem;'>
+      <strong><em><span style="color:#e67e22;font-size:0.9rem;">Analysis:</span></em></strong><br>
+        Reviewed key influencers on inventory performance.</p>
      <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
   </p>
   <h3><center>
@@ -541,10 +543,11 @@
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
     <strong><em><span style="color:#3AAFA9">Visualization:</span></em></strong><br>
-         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.<br><br>
-      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div><br>
-      <strong><em><span style="color:#3AAFA9">Analysis:</span></em></strong><br>
-        Conducted in-depth reviews to identify key influencers affecting hospital efficiency.<br><br>
+         Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.</p>
+      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
+        <p style='text-align: justify;font-size:.9rem;'>
+<strong><em><span style="color:#3AAFA9;font-size:0.9rem;">Analysis:</span></em></strong><br>
+        Conducted in-depth reviews to identify key influencers affecting hospital efficiency.
 </p>
   <h3><center>
     <strong>
@@ -581,7 +584,7 @@
       	 <li>Average LoS and Average Cost Per Discharge.</li><br>
           <li>Discharges by Illness Severity & Mortality Risk.</li><br>
           <li>Total Discharges by Patient Disposition & Dignosis.</li>
-    ></ul>   
+    </ul>   
           <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
   <h3><center>
     <strong>
@@ -598,9 +601,9 @@
           <li>	Major or Extreme Mortality Risk.</li><br>
           <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li><br>
           <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
-        </em></ul>
+        </ul>
         <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div><br>
-        <h4><strong><em><span style="color:#3AAFA9">Key factors influencing Cost:</span></em></strong></h4> 
+        <h4><strong><em><span style="color:#3AAFA9;font-size:0.9rem;">Key factors influencing Cost:</span></em></strong></h4> 
     <ul style="font-size:0.9rem;">
           <li>  Residency in NYC.</li><br>
           <li>	Patient Disposition to Inpatient Rehabilitation Facilities.</li><br>
