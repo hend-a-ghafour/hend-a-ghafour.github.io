@@ -35,7 +35,6 @@
     </em>
   </strong>
 </center> 
-<br><br>
 
 ![lang_email](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_lang_email.jpg)
 
@@ -56,7 +55,7 @@
   </p>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
   <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"><br> Python <em>(.ipynb file for analysis & .py file for automation)</em></span><br><br>
-    <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span><br><
+    <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span>
   <p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
   <span style="font-size:0.9rem;">
@@ -136,7 +135,7 @@
           <li> Younger Users (under 30) ≈ 19.29%, Older Users (above 30) ≈ 7.29% </li><br>
           <li> The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li><br>
     </ul>
-      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br><br>     
+      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>  
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
         <li> Overall Retention Rate ≈ 65.95%. </li><br>
         <li> Email 76.47% (Highest), House Ads 58.05 (Lowest).</li><br>
@@ -146,18 +145,17 @@
           <li> Ages 19-24 & 30-36 form the highest Retention Rates (68.65% & 64.53%, respectively).   </li><br>
           <li> Ages 30-36 & 55+ tend to remain in a moderate Retention Rate despite their lower Conversion Rates.</li>
       </ul>
-</p>
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Multi-exposure users:</span></em></strong><br>
-       Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.</p><br>
+       Conversion 17.83%, Retention 70.19%, & One-time exposure: Conversion 11.58%, Retention 64.01%.</p>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Demographic Influence:</span></em></strong>
       <ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
           <li> Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. </li><br>
           <li> Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li><br>
       </ul>
-      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>   
+      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Supscription Pattern: </span></em></strong><br>
       Email is the strongest marketing channel across all age groups, especially for users younger than 30.</p><br>
-     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br><br>    
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>    
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Variant Pattern:</span></em></strong><br>
         Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).</p>
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Language Bug Impact:</span></em></strong><br>
@@ -196,7 +194,6 @@
       <strong><em><span style="color:#5b2c6f">Bias exists in conversion/retention comparisons: </span></em></strong><br>
         Uneven exposure, disproportionate language distribution, and small subgroup sizes limit generalizability.
   </p>
-  <br>
   <h3><center>
     <strong>
       <em>
@@ -233,8 +230,7 @@
   </p>    
 </details>
 
-<br><br>
-
+<br>
 <center>
   <strong>
     <span style="color:#DCDCDC">
@@ -320,7 +316,6 @@
         <strong><em><span style="color:#e67e22;font-size:0.9rem;">Impact of ABC Analysis:</span></em></strong><br>
         Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.</p>
         <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
-  </p>
   <h3><center>
   <strong>
       <em>
@@ -475,8 +470,7 @@
     </ul>
 </details>
 
-<br><br>
-
+<br>
 <center>
   <strong>
     <span style="color:#DCDCDC">
@@ -484,7 +478,7 @@
     </span>
   </strong>
 </center>
-
+<br>
 <h2>
   <em>
     <strong>
@@ -513,7 +507,6 @@
       </strong>
     </em>
   </summary>
-  <br> 
   <h3><strong><em><span style="color:#155799"><center>Overview</center></span></em></strong></h3> 
  <p style='text-align: center;font-size:.9rem;'>
     This project explores a real-world dataset to uncover hospital efficiency insights for HealthStat, a fictional consulting company. The analysis focused on the attributes impacting patient Length of Stay (LOS) and treatment cost, with the goal of identifying factors contributing to hospital performance differences. <br> <br>
@@ -602,7 +595,7 @@
           <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li><br>
           <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
         </ul>
-        <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div><br>
+        <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
         <h4><strong><em><span style="color:#3AAFA9;font-size:0.9rem;">Key factors influencing Cost:</span></em></strong></h4> 
     <ul style="font-size:0.9rem;">
           <li>  Residency in NYC.</li><br>
@@ -610,7 +603,6 @@
           <li>	Extreme Mortality Risk.</li><br>
           <li>	Extreme Severity Level.</li>
     </ul>
-    <br>
     <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
   <h3><center>
     <strong>
@@ -650,8 +642,7 @@
   </p>
 </details>
 
-<br><br>
-
+<br>
 <center>
   <strong>
     <span style="color:#DCDCDC">
@@ -659,9 +650,7 @@
     </span>
   </strong>
 </center>
-<br><br>
-
-
+<br>
 <h3>
   <em>
     <strong>
