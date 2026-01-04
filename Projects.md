@@ -89,13 +89,15 @@
         such as one user converting multiple times or being assigned different age groups, signaled systemic logging errors.<br><br>
       <strong><em><span style="color:#5b2c6f;">Language mismatches,</span></em></strong> <br>
         97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads. <br> <br>       
-          <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="400" height="400" style="border-radius: 10px;margin:0 auto;"> 
+    <div style="display:flex; justify-content:center;">      
+        <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="400" height="400" style="border-radius: 10px;margin:0 auto;"> 
+    </div>
       <br><br>
       <strong><em><span style="color:#5b2c6f;">Uneven distribution of exposures </span></em></strong> <br>
         77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.<br><br>
      <strong><em><span style="color:#5b2c6f;">Technical bug in House Ads </span></em></strong> <br>
       caused recurring language mismatches after January 10, heavily distorting conversion rates.<br><br>
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" max-width="100%" style="border-radius: 10px;margin:0 auto;"><br>
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>
   </p>
   <h3><center>
     <strong>
@@ -117,7 +119,8 @@
        Users were almost evenly assigned between the control and personalization groups.<br><br>
       <strong><em><span style="color:#5b2c6f">Language: </span></em></strong><br>
       97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).<br>
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" max-width="100%" style="border-radius: 10px;margin:0 auto;"><br><br> 
+   <div style="display:flex; justify-content:center;">   
+  <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br><br> 
       <strong><em><span style="color:#5b2c6f">Age distribution:</span></em></strong><br>
        heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).<br><br>
       <strong><em><span style="color:#5b2c6f">Channel distribution:</span></em></strong><br>
@@ -133,7 +136,7 @@
           <li> Younger Users (under 30) ≈ 19.29%, Older Users (above 30) ≈ 7.29% </li><br>
           <li> The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li><br>
     </ul>
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"><br><br>     
+      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br><br>     
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
         <li> Overall Retention Rate ≈ 65.95%. </li><br>
         <li> Email 76.47% (Highest), House Ads 58.05 (Lowest).</li><br>
@@ -151,10 +154,10 @@
           <li> Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. </li><br>
           <li> Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li><br>
       </ul>
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"><br>   
+      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>   
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Supscription Pattern: </span></em></strong><br>
       Email is the strongest marketing channel across all age groups, especially for users younger than 30.</p><br>
-      <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" max-width="100%" style="border-radius: 10px;margin:0 auto;"><br><br>    
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br><br>    
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Variant Pattern:</span></em></strong><br>
         Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).</p>
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Language Bug Impact:</span></em></strong><br>
@@ -312,10 +315,10 @@
          Measured using COGS-to-Revenue ratios to guide purchasing and logistics decisions.<br><br>
       <strong><em><span style="color:#e67e22">Second-chance items:</span></em></strong><br>
         Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.<br><br>
-        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" max-width="100%" style="border-radius: 10px;margin:0 auto;"> <br><br>
+        <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
         <strong><em><span style="color:#e67e22">Impact of ABC Analysis:</span></em></strong><br>
         Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.<br><br>
-        <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" max-width="100%" style="border-radius: 10px;margin:0 auto;"> 
+        <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
   </p>
   <h3><center>
   <strong>
@@ -345,10 +348,10 @@
          Used Power Query & DAX for deriving insights.<br><br>
       <strong><em><span style="color:#e67e22">Data Visualization:</span></em></strong><br>
          Designed clear charts to reflect dataset insights.<br><br>
-      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> <br><br>
+      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div><br><br>
       <strong><em><span style="color:#e67e22">Analysis:</span></em></strong><br>
         Reviewed key influencers on inventory performance.<br><br>
-      <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" max-width="100%" style="border-radius: 10px;margin:0 auto;"> 
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
   </p>
   <h3><center>
     <strong>
@@ -539,7 +542,7 @@
   <p style='text-align: justify;font-size:0.9rem;'>
     <strong><em><span style="color:#3AAFA9">Visualization:</span></em></strong><br>
          Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.<br><br>
-      <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> <br>
+      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div><br>
       <strong><em><span style="color:#3AAFA9">Analysis:</span></em></strong><br>
         Conducted in-depth reviews to identify key influencers affecting hospital efficiency.<br><br>
 </p>
@@ -579,7 +582,7 @@
           <li>Discharges by Illness Severity & Mortality Risk.</li><br>
           <li>Total Discharges by Patient Disposition & Dignosis.</li>
     ></ul>   
-          <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" max-width="100%" style="border-radius: 10px;margin:0 auto;">
+          <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
   <h3><center>
     <strong>
       <em>
@@ -596,7 +599,7 @@
           <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li><br>
           <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
         </em></ul>
-         <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" max-width="100%" style="border-radius: 10px;margin:0 auto;"> <br>
+        <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div><br>
         <h4><strong><em><span style="color:#3AAFA9">Key factors influencing Cost:</span></em></strong></h4> 
     <ul style="font-size:0.9rem;">
           <li>  Residency in NYC.</li><br>
@@ -605,7 +608,7 @@
           <li>	Extreme Severity Level.</li>
     </ul>
     <br>
-    <img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" max-width="100%" style="border-radius: 10px;margin:0 auto;"> <br>
+    <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
   <h3><center>
     <strong>
       <em>
@@ -722,7 +725,7 @@
         Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.</li>
       <li><strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
       Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.</li>
-      <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" max-width="100%" style="border-radius: 10px;margin:0 auto;"> <br>
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <li><strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.</li>
     </ul>
