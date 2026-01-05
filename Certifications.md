@@ -25,28 +25,15 @@
 <br>
 
 <h2>
-  <em>
+  <em><strong>
     <span style="color:#155799">
       Certificates:
-    </span>
+    </span></strong>
   </em>
 </h2>
-<p style='text-align: center;font-size:0.9rem;'>  
-    <em>
-      <strong>
-  <span style="color:#159957;">           Python Programming Basics
-  </span>
-      </strong>
-    </em>
-    <br> 
-    <em>
-<strong> <span style="color:#4f8fc0;">       ITI </span>
-</strong>
-    </em>
-    <br> 
-    July 2025<br>  
-</p>
-  <ul style='text-align: justify;font-size:0.9rem;'>
+<h3><em><strong><center><u><span style="color:#2c3e50;">2025</span></u></center></strong></em></h3>
+<h3><em><strong> Python Programming Basics,ITI</strong></em></h3>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Gained hands-on experience with Python by installing the environment, writing basic programs, and exploring core concepts like syntax, variables, and data types.</li><br>
     <li>Developed skills in control flow, loops, functions, and data structures (tuples, lists, dictionaries) to write efficient and reusable code.</li><br>
   </ul>
