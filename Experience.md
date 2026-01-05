@@ -23,7 +23,7 @@
 </strong>
 </p>
 <br>
-<p style='text-align: center;font-size:0.9rem;padding-top:1rem;'>  
+<p style='text-align: center;font-size:1.2rem;padding-top:1.5rem;'>  
     <strong>
       <em>
         <span style="color:#159957">
@@ -42,19 +42,18 @@
     <li style='padding-bottom:1rem;'>Conducted data analysis on inventory prices using LIFO, examining data from 2007-2017, potentially impacting 40% of product prices.</li>
     <li style='padding-bottom:1rem;'>Analyzed financial data to identify deficiencies, duplications, & areas of extravagance.</li>
   </ul>
-</p>
-<p style='text-align: center;font-size:0.9rem;padding-top:1rem;'>
+<p style='text-align: center;padding-top:1.5rem;'>
   <center>
    <strong>
      <em>
-       <span style="color:#159957;">
+       <span style="color:#159957;font-size:1.5rem;">
          Purchasing Coordinator / Accountant
        </span>
      </em>
    </strong>
     <br>
     <em>
-      <span style="color:#4f8fc0;">
+      <span style="color:#4f8fc0;font-size:1.2rem;">
         Volta Trading, Alexandria, Egypt
       </span>
     </em>
@@ -69,18 +68,18 @@
     <li style='padding-bottom:1rem;'>Prepared purchase orders, achieving an 80% success rate in cost-effective procurement based on data analysis.</li>
   </ul>
   </p>
-  <p style='text-align: center;font-size:0.9rem;padding-top:1rem;'>
+  <p style='text-align: center;padding-top:1.5rem;'>
     <center>
       <strong>
         <em>
-          <span style="color:#159957;">
+          <span style="color:#159957;font-size:1.5rem;">
             Customer Service Administrator
           </span>
         </em>
       </strong>
       <br>
       <em>
-        <span style="color:#4f8fc0;">
+        <span style="color:#4f8fc0;font-size:1.2rem;">
           Horus Training Center, Alexandria, Egypt
         </span>
       </em>
@@ -95,26 +94,23 @@
       <li style='padding-bottom:1rem;'>Handled the center accounting transactions.</li>
     </ul>
 </p>
-<p style='text-align: center;font-size:0.9rem;padding-top:1rem;'>
+<p style='text-align: center;padding-top:1rem;'>
   <center>
     <strong>
       <em>
-        <span style="color:#159957;">
+        <span style="color:#159957;font-size:1.5rem;">
           Crew Coordinator Assistant 
         </span>
       </em>
     </strong>
     <br>
     <em>
-      <span style="color:#4f8fc0;">
+      <span style="color:#4f8fc0;font-size:1.2rem;">
         Wilhelmsen Ships Service, Alexandria, Egypt
       </span>
     </em>
-    <br>
-    <em>
-      Nov, 2010 – May, 2011
-    </em>
-  </center>
+ </center>
+</p>
   <ul style='text-align: justify;font-size:0.9rem;'>
     <li style='padding-bottom:1rem;'>Collected and analyzed data for 50% of the ships handled from 2000-2010, ensuring comprehensive records.</li>
     <li style='padding-bottom:1rem;'>Arranged and analyzed data for hotel accommodations and transportation for crew members.</li>
