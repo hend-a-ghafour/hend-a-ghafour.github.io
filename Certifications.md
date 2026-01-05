@@ -44,8 +44,8 @@
 </strong>
     </em>
   </p>
-<ul style='text-align: justify;font-size:0.9rem;padding:1rem;'>
-    <li>Gained hands-on experience with Python by installing the environment, writing basic programs, and exploring core concepts like syntax, variables, and data types.</li>
+<ul style='text-align: justify;font-size:0.9rem;'>
+    <li style='padding-bottom:1rem;'>Gained hands-on experience with Python by installing the environment, writing basic programs, and exploring core concepts like syntax, variables, and data types.</li>
     <li>Developed skills in control flow, loops, functions, and data structures (tuples, lists, dictionaries) to write efficient and reusable code.</li>
   </ul>
 <p style='text-align: justify;font-size:0.9rem;'>  
