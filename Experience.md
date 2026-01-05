@@ -64,8 +64,7 @@
     <li style='padding-bottom:1rem;'>Conducted detailed analysis of price proposals and financial reports to determine reasonable costs.</li>
     <li style='padding-bottom:1rem;'>Prepared purchase orders, achieving an 80% success rate in cost-effective procurement based on data analysis.</li>
   </ul>
-  </p>
-  <p style='text-align: center;padding-top:1.5rem;'>
+<p style='text-align: center;padding-top:1.5rem;'>
     <center>
       <strong>
         <em>
@@ -82,12 +81,11 @@
       </em>
    </center>
   </p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
       <li style='padding-bottom:1rem;'>Dealt with customers inquiries & gathered data of potential customers.</li>
       <li style='padding-bottom:1rem;'>Worked on marketing monthly courses & achieved the monthly target with a success percentage of 85%.</li>
       <li style='padding-bottom:1rem;'>Handled the center accounting transactions.</li>
-    </ul>
-</p>
+</ul>
 <p style='text-align: center;padding-top:1rem;'>
   <center>
     <strong>
@@ -105,10 +103,10 @@
     </em>
  </center>
 </p>
-  <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li style='padding-bottom:1rem;'>Collected and analyzed data for 50% of the ships handled from 2000-2010, ensuring comprehensive records.</li>
     <li style='padding-bottom:1rem;'>Arranged and analyzed data for hotel accommodations and transportation for crew members.</li>
-  </ul>
+</ul>
 
 <br><br><br>
 
