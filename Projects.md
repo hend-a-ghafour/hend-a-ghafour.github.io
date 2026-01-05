@@ -53,8 +53,7 @@
     This project analyzes a simulated marketing dataset representing ad-driven subscription activity for an online service during January 2018, covering 7,309 users with multi-channel exposures and subscription behaviors.
   </p>
 <h3><strong><em><span style="color:#155799"><center>Tools & Techniques </center></span></em></strong></h3> 
-  <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Programming Language:</span></em></strong><span style="font-size:0.9rem;"><br> Python <em>(.ipynb file for analysis & .py file for automation)</em></span><br><br>
-    <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Data Wrangling:</span></em></strong><span style="font-size:0.9rem;"><br> A set of different liberaries.</span>
+  <span style="font-size:0.9rem;"><strong> <span style="color:#5b2c6f;">Python</span></strong> <em>(.ipynb file for analysis & .py file for automation)</em></span> using a set of different libraries for the purposes of cleaning, exploring & visualizing the data.</span>
   <p style='text-align: justify;'>
 <h3><strong><em><span style="color:#155799"><center> Roles & Responsibilities </center></span></em></strong></h3> 
   <span style="font-size:0.9rem;">
@@ -859,14 +858,7 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-    <strong><em><span style="color:#5b2c6f">Tools:</span></em></strong><br>
-        <em><strong>Python</strong> </em> for Data Assessment and Cleaning using <em>Pandas</em> & <em>Numpy</em>, and for Data Visualization using <em> Matplotlib</em> & <em>Seaborn</em>.<br><br>    
-      <strong><em><span style="color:#5b2c6f">Data Cleaning:</span></em></strong><br>
-      Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.<br><br>
-      <strong><em><span style="color:#5b2c6f">Data Analysis: </span></em></strong><br>
-      Applied statistical methods, including descriptive statistics, to understand patterns in attendance across demographic and health-related variables.<br><br>
-      <strong><em><span style="color:#5b2c6f">Visualization: </span></em></strong><br>
-      Created charts and graphs to present findings on attendance patterns across different patient groups and appointment characteristics.
+        <em><strong><span style="color:#5b2c6f;">Python</span></strong> </em> for Data Assessment and Cleaning using <em>Pandas</em> & <em>Numpy</em>, and for Data Visualization using <em> Matplotlib</em> & <em>Seaborn</em>.  
   </p> 
   <h3><center>
     <strong>
@@ -879,11 +871,13 @@
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
    <strong><em><span style="color:#5b2c6f">Data Preparation: </span></em></strong><br>
-      Cleaned data and standardized labels to facilitate analysis.<br><br>
+      Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.<br><br>
       <strong><em><span style="color:#5b2c6f">Data Exploration: </span></em></strong><br>
-      Generated insights through descriptive statistics and visualizations.<br><br>
+      Applied statistical methods, including descriptive statistics, to understand patterns in attendance across demographic and health-related variables.<br><br>
       <strong><em><span style="color:#5b2c6f">Analysis of Factors Influencing Attendance:</span></em></strong><br>
       Assessed relationships between patient demographics, health conditions, appointment scheduling, and attendance.<br><br>
+    <strong><em><span style="color:#5b2c6f">Visualization: </span></em></strong><br>
+      Created charts and graphs to present findings on attendance patterns across different patient groups and appointment characteristics.<br><br>
       <strong><em><span style="color:#5b2c6f">Recommendation Development: </span></em></strong><br>
       Suggested approaches to improve appointment attendance, particularly through reminder systems and optimized scheduling.
    </p>
@@ -1220,8 +1214,7 @@
  <p style='text-align: center;font-size:.9rem;'>
   The dataset analyzes seven indicators impacting maternal and child health from 1995 to 2010 across six WHO regions. These indicators include Total Fertility Rate, Percentage of Births Attended by Skilled Health Staff, Child Mortality Rate, Maternal Mortality Rate, Average Life Expectancy, Total Health Spending per Person in USD, and Percentage of Total Health Expenditure in GDP.
   </p>
-  <p style='text-align: justify;'>
-    <center>
+    <h3><center>
       <strong>
         <em>
   <span style="color:#155799">
@@ -1229,14 +1222,11 @@
           </span>
         </em>
       </strong>
-    </center>
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Programming Language:</span></em></strong> Python </li>
-      <li><strong><em><span style="color:#ac9055">Data Wrangling:</span></em></strong> Pandas - Numpy</li>
-      <li><strong><em><span style="color:#ac9055">Visualization: </span></em></strong> Matplotlib - Seaborn </li>
-    </ul>
+    </center></h3>
+      <p style='text-align: justify;font-size:0.9rem;'>
+<em><strong><span style="color:#159957;">Python</span></strong> </em> for Data Assessment and Cleaning using <em>Pandas</em> & <em>Numpy</em>, and for Data Visualization using <em> Matplotlib</em> & <em>Seaborn</em>.  
   </p> 
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1244,18 +1234,18 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li> <strong><em><span style="color:#ac9055">Data Analysis: </span></em></strong><br>
-        Evaluated health indicators for each region over the specified period.</li>
-      <li> <strong><em><span style="color:#ac9055">Comparative Analysis:  </span></em></strong><br>
-        Compared indicators across regions and years to identify trends and patterns.</li>
-      <li><strong><em><span style="color:#ac9055">Additional Research:</span></em></strong><br>
-        Investigated improvements, inconsistencies, and relationships between indicators.</li>
-    </ul>
-  </p>
-  <center>
+  </center></h3>
+<p style='text-align: justify;font-size:0.9rem;'>
+     <strong><em><span style="color:#159957">Data Analysis: </span></em></strong><br>
+        Evaluated health indicators for each region over the specified period.<br></p>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/cmr.jpg" alt="CMR" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+      <p style="text-align:justify;font-size:0.9rem;">
+     <strong><em><span style="color:#159957">Comparative Analysis:  </span></em></strong><br>
+        Compared indicators across regions and years to identify trends and patterns.<br><br>
+        <strong><em><span style="color:#159957">Additional Research:</span></em></strong><br>
+        Investigated improvements, inconsistencies, and relationships between indicators.
+</p>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1263,14 +1253,12 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li>Addressed data quality issues such as null values and unpivoting columns.</li>
+  </center></h3>
+    <ul style='text-align: justify;font-size:0.9rem;'> 
+      <li>Addressed data quality issues such as null values and unpivoting columns.</li><br><br>
       <li>Managed large datasets by segmenting countries into regions for effective analysis.</li>
     </ul>
-  </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1278,18 +1266,16 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li> <strong><em><span style="color:#ac9055">Trend Identification:</span></em></strong><br>
-        Noted trends such as decreasing Total Fertility Rates, Child Mortality Rates, and Maternal Mortality Rates across all regions.</li>
-      <li><strong><em><span style="color:#ac9055">Regional Insights:</span></em></strong><br>
-        Identified which regions had the highest and lowest values for each indicator.</li>
-      <li><strong><em><span style="color:#ac9055">Correlation Analysis:</span></em></strong><br>
-        Found relationships between health expenditure indicators and various health outcomes.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+      <strong><em><span style="color:#159957">Trend Identification:</span></em></strong><br>
+        Noted trends such as decreasing Total Fertility Rates, Child Mortality Rates, and Maternal Mortality Rates across all regions.<br><br>
+      <strong><em><span style="color:#159957">Regional Insights:</span></em></strong><br>
+        Identified which regions had the highest and lowest values for each indicator.<br><br>
+      <strong><em><span style="color:#159957">Correlation Analysis:</span></em></strong><br>
+        Found relationships between health expenditure indicators and various health outcomes.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1297,26 +1283,27 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li><strong><em><span style="color:#ac9055">Total Fertility Rate:</span></em></strong><br> 
-        Decreased overall, with AFR showing the highest rates and EUR the lowest.</li>
-      <li><strong><em><span style="color:#ac9055">Births Attended by Skilled Health Staff: </span></em></strong><br> 
-        Highest in EUR and lowest in AFR. Inconsistencies in data affected the ability to determine relationships with other indicators.</li>
-      <li><strong><em><span style="color:#ac9055">Child Mortality Rate:</span></em></strong><br> 
-        Decreased globally, with AFR having the highest and EUR the lowest rates.</li>
-      <li><strong><em><span style="color:#ac9055">Maternal Mortality Rate:</span></em></strong><br> 
-        Showed a global decrease, with AFR experiencing the highest rates and EUR the lowest.</li>
-      <li><strong><em><span style="color:#ac9055">Average Life Expectancy: </span></em></strong><br> 
-        Increased across regions, with EUR having the highest and AFR the lowest.</li>
-      <li> <strong><em><span style="color:#ac9055">Total Health Spending per Person:  </span></em></strong><br> 
-        Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.</li>
-      <li> <strong><em><span style="color:#ac9055">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
-        Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'> 
+    <strong><em><span style="color:#159957">Total Fertility Rate:</span></em></strong><br> 
+        Decreased overall, with AFR showing the highest rates and EUR the lowest.<br><br>
+      <strong><em><span style="color:#159957">Births Attended by Skilled Health Staff: </span></em></strong><br> 
+        Highest in EUR and lowest in AFR. Inconsistencies in data affected the ability to determine relationships with other indicators.<br><br>
+      <strong><em><span style="color:#159957">Child Mortality Rate:</span></em></strong><br> 
+        Decreased globally, with AFR having the highest and EUR the lowest rates.<br><br>
+      <strong><em><span style="color:#159957">Maternal Mortality Rate:</span></em></strong><br> 
+        Showed a global decrease, with AFR experiencing the highest rates and EUR the lowest.<br><br>
+      <strong><em><span style="color:#159957">Average Life Expectancy: </span></em></strong><br> 
+        Increased across regions, with EUR having the highest and AFR the lowest.<br></p><div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/ale.jpg" alt="ALE" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+<p style="font-size:0.9rem;text-align:justify;">       
+  <strong><em><span style="color:#159957">Total Health Spending per Person:  </span></em></strong><br> 
+        Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.</p>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/cmr.jpg" alt="CMR" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+      <p style="text-align:justify;font-size:0.9rem;">
+       <strong><em><span style="color:#159957">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
+        Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1324,14 +1311,12 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li> Compare findings with global health indicators from the same period.</li>
-      <li> Investigate regional improvements and inconsistencies in health metrics.</li>
+  </center></h3>
+    <ul style='text-align: justify;font-size:0.9rem;'>
+      <li> Compare findings with global health indicators from the same period.</li><br>
+      <li> Investigate regional improvements and inconsistencies in health metrics.</li><br>
       <li> Explore reasons behind the decline in health expenditure and its impact on other indicators, especially in the SEAR region and in 2009.</li>
     </ul>
-  </p>
 </details>
 
 <br><br><br><br>
