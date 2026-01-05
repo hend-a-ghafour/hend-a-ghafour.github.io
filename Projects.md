@@ -860,13 +860,13 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-    <strong><em><span style="color:#f9bdc2">Tools:</span></em></strong><br>
+    <strong><em><span style="color:#5b2c6f">Tools:</span></em></strong><br>
         <em><strong>Python</strong> </em> for Data Assessment and Cleaning using <em>Pandas</em> & <em>Numpy</em>, and for Data Visualization using <em> Matplotlib</em> & <em>Seaborn</em>.<br><br>    
-      <strong><em><span style="color:#f9bdc2">Data Cleaning:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Data Cleaning:</span></em></strong><br>
       Used to standardize column labels, add calculated columns, and categorize patient age groups and appointment scheduling gaps.<br><br>
-      <strong><em><span style="color:#f9bdc2">Data Analysis: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Data Analysis: </span></em></strong><br>
       Applied statistical methods, including descriptive statistics, to understand patterns in attendance across demographic and health-related variables.<br><br>
-      <li><strong><em><span style="color:#f9bdc2">Visualization: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Visualization: </span></em></strong><br>
       Created charts and graphs to present findings on attendance patterns across different patient groups and appointment characteristics.
   </p> 
   <h3><center>
@@ -879,13 +879,13 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-   <strong><em><span style="color:#f9bdc2">Data Preparation: </span></em></strong><br>
+   <strong><em><span style="color:#5b2c6f">Data Preparation: </span></em></strong><br>
       Cleaned data and standardized labels to facilitate analysis.<br><br>
-      <strong><em><span style="color:#f9bdc2">Data Exploration: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Data Exploration: </span></em></strong><br>
       Generated insights through descriptive statistics and visualizations.<br><br>
-      <strong><em><span style="color:#f9bdc2">Analysis of Factors Influencing Attendance:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Analysis of Factors Influencing Attendance:</span></em></strong><br>
       Assessed relationships between patient demographics, health conditions, appointment scheduling, and attendance.<br><br>
-      <strong><em><span style="color:#f9bdc2">Recommendation Development: </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Recommendation Development: </span></em></strong><br>
       Suggested approaches to improve appointment attendance, particularly through reminder systems and optimized scheduling.
    </p>
   <h3><center>
@@ -898,11 +898,11 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-    <strong><em><span style="color:#f9bdc2">Data Complexity:</span></em></strong><br>
+    <strong><em><span style="color:#5b2c6f">Data Complexity:</span></em></strong><br>
       A large number of variables, including demographic, health, and scheduling information, required careful analysis and categorization to maintain data integrity.<br><br>
-      <strong><em><span style="color:#f9bdc2">Categorization:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Categorization:</span></em></strong><br>
      Defining and assigning appropriate categories for age groups and scheduling gaps posed challenges in achieving balanced, meaningful groupings.<br><br>
-     <strong><em><span style="color:#f9bdc2">Data Completeness: </span></em></strong><br>
+     <strong><em><span style="color:#5b2c6f">Data Completeness: </span></em></strong><br>
      Sparse neighborhood data limited definitive conclusions regarding neighborhood influence on attendance rates. Additionally, some appointment dates were recorded prior to their scheduled dates, leading to negative appointment gaps.
   </p>
   <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_loc.jpg" alt="Locations" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
@@ -916,11 +916,11 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-    <strong><em><span style="color:#f9bdc2">Insights into Attendance Patterns:</span></em></strong><br>
+    <strong><em><span style="color:#5b2c6f">Insights into Attendance Patterns:</span></em></strong><br>
       Identified key factors, such as age, neighborhood, and reminder messages, that impact attendance rates.<br><br>
-      <strong><em><span style="color:#f9bdc2">Practical Recommendations:</span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Practical Recommendations:</span></em></strong><br>
       Developed actionable suggestions for healthcare providers to improve attendance, including adjusting scheduling practices and implementing reminder systems.<br><br>
-     <strong><em><span style="color:#f9bdc2">Categorization Model:</span></em></strong><br>
+     <strong><em><span style="color:#5b2c6f">Categorization Model:</span></em></strong><br>
       Created a structured model for age and appointment gap categories to facilitate further analysis and comparisons.
   </p>
   <h3><center>
@@ -933,24 +933,27 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'> 
-    <strong><em><span style="color:#f9bdc2">Gender: </span></em></strong><br> 
+    <strong><em><span style="color:#5b2c6f">Gender: </span></em></strong><br> 
       Women make up the majority of patients, with a high attendance rate across both genders, indicating no significant difference in attendance based on gender.<br><br>
-     <strong><em><span style="color:#f9bdc2">Age Groups:</span></em></strong><br> 
+     <strong><em><span style="color:#5b2c6f">Age Groups:</span></em></strong><br> 
       Middle-aged, elderly, and child groups showed the highest commitment to appointments, suggesting a link between age and regular healthcare engagement.<br><br>
-      <strong><em><span style="color:#f9bdc2">Appointment Scheduling Gap:</span></em></strong><br> 
-      Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.<br>
+      <strong><em><span style="color:#5b2c6f">Appointment Scheduling Gap:</span></em></strong><br> 
+      Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.</p>
     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_gap.jpg" alt="sched_Gap" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
-    <strong><em><span style="color:#f9bdc2">Neighborhood Influence: </span></em></strong><br> 
-      Certain neighborhoods showed significantly higher attendance rates, although the data suggests this may also correlate with lower appointment counts in these areas.<br><br>
-     <strong><em><span style="color:#f9bdc2">Scholarship Status:</span></em></strong><br> 
+      <p style='text-align: justify;font-size:0.9rem;'> 
+<strong><em><span style="color:#5b2c6f">Neighborhood Influence: </span></em></strong><br> 
+      Certain neighborhoods showed significantly higher attendance rates, although the data suggests this may also correlate with lower appointment counts in these areas.</p>
+   <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Noshow.jpg" alt="Patients" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
+       <p style='text-align: justify;font-size:0.9rem;'> 
+<strong><em><span style="color:#5b2c6f">Scholarship Status:</span></em></strong><br> 
       Attendance rates were marginally lower for patients with a government scholarship, indicating a potential but small effect.<br><br>
-    <strong><em><span style="color:#f9bdc2">Health Conditions: </span></em></strong><br> 
-      Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.<br>
+    <strong><em><span style="color:#5b2c6f">Health Conditions: </span></em></strong><br> 
+      Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.</p>
   <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_dm.jpg" alt="DM" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
-     <strong><em><span style="color:#f9bdc2">Reminders: </span></em></strong><br> 
-      Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.
+       <p style='text-align: justify;font-size:0.9rem;'> 
+<strong><em><span style="color:#5b2c6f">Reminders: </span></em></strong><br> 
+      Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.</p>
   <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_sms.jpg" alt="sched_SMS" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
-  </p>
   <h3><center>
     <strong>
       <em>
@@ -961,15 +964,15 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'> 
-    <strong><em><span style="color:#f9bdc2">Enhanced Patient Reminder Systems:</span></em></strong><br> 
+    <strong><em><span style="color:#5b2c6f">Enhanced Patient Reminder Systems:</span></em></strong><br> 
       Implement automated SMS or phone reminders to improve attendance rates, especially for moderate to long-gap appointments.<br><br>
-      <strong><em><span style="color:#f9bdc2">Optimized Scheduling Strategies: </span></em></strong><br> 
+      <strong><em><span style="color:#5b2c6f">Optimized Scheduling Strategies: </span></em></strong><br> 
       Focus on offering same-day or short-gap appointment slots to increase attendance.<br><br>
-      <strong><em><span style="color:#f9bdc2">Neighborhood Targeting: </span></em></strong><br> 
+      <strong><em><span style="color:#5b2c6f">Neighborhood Targeting: </span></em></strong><br> 
       Conduct further studies to understand neighborhood-based attendance patterns, potentially incorporating geographic proximity or access factors.<br><br>
-      <strong><em><span style="color:#f9bdc2">Scholarship & Attendance Correlation: </span></em></strong><br> 
+      <strong><em><span style="color:#5b2c6f">Scholarship & Attendance Correlation: </span></em></strong><br> 
       Further statistical testing is recommended to understand the impact of government support on attendance consistency.<br><br>
-      <strong><em><span style="color:#f9bdc2">Personalized Engagement:</span></em></strong><br> 
+      <strong><em><span style="color:#5b2c6f">Personalized Engagement:</span></em></strong><br> 
       Apply insights on health conditions and age-related attendance patterns to create targeted communication strategies, potentially increasing engagement with chronic disease patients and elderly individuals.
   </p>
 </details>
@@ -1031,11 +1034,11 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-    <strong><em><span style="color:#BBC8E2">SQL: </span></em></strong><br>
+    <strong><em><span style="color:#5b2c6f">SQL: </span></em></strong><br>
         Created views and tables; adjusted database diagrams.<br><br>
-      <strong><em><span style="color:#BBC8E2">Python (Pandas): </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Python (Pandas): </span></em></strong><br>
         Calculated growth rates.<br><br>
-      <strong><em><span style="color:#BBC8E2">Excel:  </span></em></strong><br>
+      <strong><em><span style="color:#5b2c6f">Excel:  </span></em></strong><br>
         Employed Power Query, Power Pivot, and pivot tables to analyze data, create relationships, and develop interactive dashboards.
   </p> 
   <h3><center>
