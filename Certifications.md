@@ -298,10 +298,10 @@
 
 <br>
 <h2>
-  <em>
+  <em><strong>
     <span style="color:#155799;">
       Education:
-    </span>
+    </span></strong>
   </em>
 </h2>
 <p style='text-align: justify;font-size:0.9rem;padding-top:1rem;'>  
