@@ -802,7 +802,6 @@
       Research if salary differences are consistent over time and explore whether performance and experience are accurately reflected in the company’s pay structure.
   </p>
 </details>
-
 <br>
 <center>
   <strong>
@@ -939,17 +938,17 @@
       Middle-aged, elderly, and child groups showed the highest commitment to appointments, suggesting a link between age and regular healthcare engagement.<br><br>
       <strong><em><span style="color:#5b2c6f">Appointment Scheduling Gap:</span></em></strong><br> 
       Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.</p>
-    <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_gap.jpg" alt="sched_Gap" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
+    <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_gap.jpg" alt="sched_Gap" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
       <p style='text-align: justify;font-size:0.9rem;'> 
 <strong><em><span style="color:#5b2c6f">Neighborhood Influence: </span></em></strong><br> 
       Certain neighborhoods showed significantly higher attendance rates, although the data suggests this may also correlate with lower appointment counts in these areas.</p>
-   <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Noshow.jpg" alt="Patients" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
+   <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Noshow.jpg" alt="Patients" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
        <p style='text-align: justify;font-size:0.9rem;'> 
 <strong><em><span style="color:#5b2c6f">Scholarship Status:</span></em></strong><br> 
       Attendance rates were marginally lower for patients with a government scholarship, indicating a potential but small effect.<br><br>
     <strong><em><span style="color:#5b2c6f">Health Conditions: </span></em></strong><br> 
       Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.</p>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_dm.jpg" alt="DM" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_dm.jpg" alt="DM" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
        <p style='text-align: justify;font-size:0.9rem;'> 
 <strong><em><span style="color:#5b2c6f">Reminders: </span></em></strong><br> 
       Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.</p>
@@ -976,8 +975,7 @@
       Apply insights on health conditions and age-related attendance patterns to create targeted communication strategies, potentially increasing engagement with chronic disease patients and elderly individuals.
   </p>
 </details>
-
-<br><br>
+<br>
 <center>
   <strong>
     <span style="color:#DCDCDC">
@@ -985,8 +983,8 @@
     </span>
   </strong>
 </center>
-<br><br>
-<h3>
+<br>
+<h2>
   <em>
     <strong>
       <span style="color:#155799"> 
@@ -994,7 +992,7 @@
       </span>
     </strong>
   </em>
-</h3> 
+</h2> 
 <em>
   Aug 2024:Sep 2024 
 </em>
@@ -1051,15 +1049,14 @@
     </strong>
   </center></h3>
   <p style='text-align: justify;font-size:0.9rem;'>
-    <strong><em><span style="color:#155799">Data Cleaning and Standardization: </span></em></strong><br>
-      Ensured data types and missing values were handled, particularly in shipping and ordering dates.</li>
-      <li><strong><em><span style="color:#155799">Data Analysis: </span></em></strong><br>
-      Analyzed sales trends, customer demographics, shipping efficiency, and product performance.</li>
-      <li><strong><em><span style="color:#155799">Dashboard Creation: </span></em></strong><br>
-      Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.</li>
-    </ul>
+    <strong><em><span style="color:#5b2c6f">Data Cleaning and Standardization: </span></em></strong><br>
+      Ensured data types and missing values were handled, particularly in shipping and ordering dates.<br><br>
+      <strong><em><span style="color:#5b2c6f">Data Analysis: </span></em></strong><br>
+      Analyzed sales trends, customer demographics, shipping efficiency, and product performance.<br><br>
+      <strong><em><span style="color:#5b2c6f">Dashboard Creation: </span></em></strong><br>
+      Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1067,18 +1064,16 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#155799">Incomplete Data: </span></em></strong><br>
-      Sales records spanned only from July 1996 to May 1998, requiring careful adjustments in year-over-year comparisons.</li>
-      <li><strong><em><span style="color:#155799">Data Consistency: </span></em></strong><br>
-      Managed inconsistencies in order quantities and stock levels, and standardized date data types.</li>
-      <li><strong><em><span style="color:#155799">Complex Growth Calculations: </span></em></strong><br>
-      Analyzed growth across inconsistent time periods to derive accurate trends.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#5b2c6f">Incomplete Data: </span></em></strong><br>
+      Sales records spanned only from July 1996 to May 1998, requiring careful adjustments in year-over-year comparisons.<br><br>
+      <strong><em><span style="color:#5b2c6f">Data Consistency: </span></em></strong><br>
+      Managed inconsistencies in order quantities and stock levels, and standardized date data types.<br><br>
+      <strong><em><span style="color:#5b2c6f">Complex Growth Calculations: </span></em></strong><br>
+      Analyzed growth across inconsistent time periods to derive accurate trends.
   </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1086,21 +1081,18 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'>
-    <ul>
-      <li><strong><em><span style="color:#155799">Growth Analysis Adjustments:</span></em></strong><br>
-        Created an "Actual Country Growth Table," yielding more accurate comparisons by aligning half-year periods for better insights.</li>
-      <li><strong><em><span style="color:#155799">Order and Customer Insights: </span></em></strong><br>
-        Classified 89 customers into new or repeat based on order activity, facilitating customer tracking and targeted insights.</li>
-      <li><strong><em><span style="color:#155799">Comprehensive Inventory Status:</span></em></strong><br>
-        Developed a robust stock status system, classifying products into Safe Stock, Restock Needed, No Restock, and Stopped.</li>
-      <li><strong><em><span style="color:#155799">Dashboard:</span></em></strong><br>
-        Completed a comprehensive, interactive dashboard with critical sales insights and key metrics.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'>
+    <strong><em><span style="color:#5b2c6f">Growth Analysis Adjustments:</span></em></strong><br>
+        Created an "Actual Country Growth Table," yielding more accurate comparisons by aligning half-year periods for better insights.<br><br>
+      <strong><em><span style="color:#5b2c6f">Order and Customer Insights: </span></em></strong><br>
+        Classified 89 customers into new or repeat based on order activity, facilitating customer tracking and targeted insights.<br><br>
+      <strong><em><span style="color:#5b2c6f">Comprehensive Inventory Status:</span></em></strong><br>
+        Developed a robust stock status system, classifying products into Safe Stock, Restock Needed, No Restock, and Stopped.<br><br>
+      <strong><em><span style="color:#5b2c6f">Dashboard:</span></em></strong><br>
+        Completed a comprehensive, interactive dashboard with critical sales insights and key metrics.
   </p>
-  <p style='text-align: justify;'>
-    <center>
+    <h3><center>
       <strong>
         <em>
   <span style="color:#155799">
@@ -1108,47 +1100,44 @@
           </span>
         </em>
       </strong>
-    </center>
-    <ul>
-    <li><strong><em><span style="color:#155799">Sales and Orders:</span></em></strong></li>
-      <ul>
-        <li><em><span style="color:#3e3c2c">Orders Summary:</span></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li>
-        <li><em><span style="color:#3e3c2c">Shipping Efficiency:</span></em> Average shipping time was 8.48 days.</li>
+    </center></h3>
+    <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Sales and Orders:</span></em></strong>
+      <ul style="font-size:0.9rem;">
+        <li><em><strong>Orders Summary:</strong></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li>
+        <li><em><strong>Shipping Efficiency:</strong</em> Average shipping time was 8.48 days.</li>
       </ul>
-      <li><strong><em><span style="color:#155799">Product Analysis:</span></em></strong></li>
-      <ul>
-        <li><em><span style="color:#3e3c2c">Product Categories:</span></em> 8 categories with 77 products.</li>
-        <li><em><span style="color:#3e3c2c">Net Sales:</span></em> $1,265,793.18; Net Revenue: $89K.</li>
-        <li><em><span style="color:#3e3c2c">Discounts:</span></em> Totaled $89K across all products</li>
-        <li><em><span style="color:#3e3c2c">Shipping Cost:</span></em> $65K.</li>
-        <li><em><span style="color:#3e3c2c">Highest Net Sales by Month:</span></em> Achieved in April 1998, totaling $124K.</li>
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Analysis:</span></em></strong>
+      <ul style="font-size:0.9rem;">
+        <li><em><strong>Product Categories:</strong></em> 8 categories with 77 products.</li>
+        <li><em><strong>Net Sales:</strong></em> $1,265,793.18; Net Revenue: $89K.</li>
+        <li><em><strong>Discounts:</strong></em> Totaled $89K across all products</li>
+        <li><em><strong>Shipping Cost:</strong></em> $65K.</li>
+        <li><em><strong>Highest Net Sales by Month:</strong></em> Achieved in April 1998, totaling $124K.</li>
       </ul>
-      <li><strong><em><span style="color:#155799">Geographical Insights:</span></em></strong></li>
-      <ul>
-        <li><em><span style="color:#3e3c2c">Top Countries by Sales:</span></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li>
-        <li><em><span style="color:#3e3c2c">Country with Most Customers: </span></em>  USA, with 13 recorded customers.</li>
-        <li><em><span style="color:#3e3c2c">Discount Performance by Country: </span></em> USA had the highest discounts and net sales across all three years.</li>
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Geographical Insights:</span></em></strong>
+      <ul style="font-size:0.9rem;">
+        <li><em><strong>Top Countries by Sales:</strong></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li>
+        <li><em><strong>Country with Most Customers: </strong></em>  USA, with 13 recorded customers.</li>
+        <li><em><strong>Discount Performance by Country: </strong></em> USA had the highest discounts and net sales across all three years.</li>
       </ul>
-      <li><strong><em><span style="color:#155799">Customer Insights:</span></em></strong></li>
-      <ul>
-        <li><em><span style="color:#3e3c2c">Total Amount Paid by Customers (Including Shipping):</span></em> $1.3M.</li>
-        <li><em><span style="color:#3e3c2c">New Customers in 1998:</span> </em> 1 new customer.</li>
-        <li><em><span style="color:#3e3c2c">Highest Monthly Sales: </span> </em> April 1998, driven by 51 customers placing orders.</li>
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Customer Insights:</span></em></strong>
+      <ul style="font-size:0.9rem;">
+        <li><em><strong>Total Amount Paid by Customers (Including Shipping):</strong></em> $1.3M.</li>
+        <li><em><strong>New Customers in 1998:</strong> </em> 1 new customer.</li>
+        <li><em><strong>Highest Monthly Sales: </strong> </em> April 1998, driven by 51 customers placing orders.</li>
       </ul>
-      <li><strong><em><span style="color:#155799">Product Stock and Reorder Analysis:</span></em></strong></li>
-      <ul>
-        <li><em><span style="color:#3e3c2c">Continued & Discontinued Products:</span></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
-        <li><em><span style="color:#3e3c2c">Top Category by Performance:</span></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Stock and Reorder Analysis:</span></em></strong></li>
+      <ul style="font-size:0.9rem;">
+        <li><em><strong>Continued & Discontinued Products:</strong></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
+        <li><em><strong>Top Category by Performance:</strong></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
       </ul>
-      <li><strong><em><span style="color:#155799">Shipping Companies:</span></em></strong></li>
-      <ul>
-        <li><em><span style="color:#3e3c2c">Top Freight Costs by Year:</span></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li>
-        <li><em><span style="color:#3e3c2c">Delivery Performance:</span></em> 809 orders were shipped to their destination, with 772 delivered on time.</li>
-        <li><em><span style="color:#3e3c2c">Highest On-Time Deliveries:</span></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.</li>
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Shipping Companies:</span></em></strong>
+      <ul style="font-size:0.9rem;">
+        <li><em><strong>Top Freight Costs by Year:</strong></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li>
+        <li><em><strong>Delivery Performance:</strong></em> 809 orders were shipped to their destination, with 772 delivered on time.</li>
+        <li><em><strong>Highest On-Time Deliveries:</strong></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.</li>
       </ul>
-    </ul>
-  </p>
-  <center>
+  <h3><center>
     <strong>
       <em>
 <span style="color:#155799">
@@ -1156,25 +1145,23 @@
         </span>
       </em>
     </strong>
-  </center>
-  <p style='text-align: justify;'> 
-    <ul>
-      <li><strong><em><span style="color:#155799">Improve Inventory Management: </span></em></strong><br> 
-        Use reorder level and stock status data to streamline restocking processes.</li>
-      <li><strong><em><span style="color:#155799">Optimize Shipping Processes:  </span></em></strong><br> 
-        Increase on-time deliveries by selecting shipping companies based on past performance.</li>
-      <li><strong><em><span style="color:#155799">Enhance Customer Targeting:</span></em></strong><br> 
-        Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.</li>
-    </ul>
+  </center></h3>
+  <p style='text-align: justify;font-size:0.9rem;'> 
+    <strong><em><span style="color:#5b2c6f">Improve Inventory Management: </span></em></strong><br> 
+        Use reorder level and stock status data to streamline restocking processes.<br><br>
+      <strong><em><span style="color:#5b2c6f">Optimize Shipping Processes:  </span></em></strong><br> 
+        Increase on-time deliveries by selecting shipping companies based on past performance.<br><br>
+      <li><strong><em><span style="color:#5b2c6f">Enhance Customer Targeting:</span></em></strong><br> 
+        Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.
   </p>
   <em>
     <strong>
-      <span style="color:#7c7959">
+      <span style="color:#5b2c6f;font-size:0.8rem;">
         Note
       </span>
     </strong>
     <br>
-    <span style="color:#7c7959">
+    <span style="color:#5b2c6f">
       The values presented (in USD) are rounded to the nearest thousand or million.
     </span>
   </em>
@@ -1183,9 +1170,7 @@
     NorthWind Dashboard Overview
   </iframe>
 </details>
-
-
-<br><br>
+<br>
 <center>
   <strong>
     <span style="color:#DCDCDC">
@@ -1193,7 +1178,7 @@
     </span>
   </strong>
 </center>
-<br><br>
+<br>
 <h3>
   <em>
     <strong>
