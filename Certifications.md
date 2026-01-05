@@ -35,7 +35,7 @@
   <center>
     <em>
       <strong>
-        <span style="color:#15997;">           Python Programming Basics
+        <span style="color:#159957;">           Python Programming Basics
         </span>
       </strong>
     </em>
@@ -56,7 +56,7 @@
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           Associate Data Analyst
+        <span style="color:#159957;">           Associate Data Analyst
         </span>
       </strong>
     </em>
@@ -68,15 +68,15 @@
     <br> 
     May 2025<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li><br>
     <li>Applied Statistics and Exploratory Data Analysis to solve business problems.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           SQL Associate, DataCamp
+        <span style="color:#159957;">           SQL Associate, DataCamp
         </span>
       </strong>
     </em>
@@ -88,15 +88,15 @@
     <br> 
     May 2025<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Focused on SQL Queries, Data Manipulation, and Window Functions.</li><br>
     <li>Strengthened knowledge in PostgreSQL and Relational Database Design.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           MCIT Certificate Programs – Data Analytics
+        <span style="color:#159957;">           MCIT Certificate Programs – Data Analytics
         </span>
       </strong>
     </em>
@@ -108,15 +108,15 @@
     <br> 
     May 2025<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Gained practical experience in Statistics, Data Collection, Preparation, and Visualization.</li><br>
     <li>Developed Data Interpretation Skills for Business Usability and Decision-Making.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           Database Fundamentals
+        <span style="color:#159957;">           Database Fundamentals
         </span>
       </strong>
     </em>
@@ -128,15 +128,15 @@
     <br> 
     June 2025<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Explored core Database Concepts, SQL Commands, and Normalization.</li><br>
     <li>Learned to design and Structure Relational Databases effectively.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           Atlassian Agile Project Management Professional Certificate
+        <span style="color:#159957;">           Atlassian Agile Project Management Professional Certificate
         </span>
       </strong>
     </em>
@@ -148,15 +148,15 @@
     <br> 
     June 2025 <br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Mastered Agile and Scrum Methodologies using Jira Cloud.</li><br>
     <li>Identified key challenges and mistakes in Agile Project Management.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           Project Management Foundation
+        <span style="color:#159957;">           Project Management Foundation
         </span>
       </strong>
     </em>
@@ -168,15 +168,15 @@
     <br> 
     May, 2025<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Applied Project Initiation, Planning, Scheduling, and Control Techniques.</li><br>
     <li>Gained insight into Agile, Waterfall, PMBOK® Processes, and Communication Tools.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           Agile Explorer
+        <span style="color:#159957;">           Agile Explorer
         </span>
       </strong>
     </em>
@@ -188,15 +188,15 @@
     <br> 
     April, 2025<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Covered Agile Values, Principles, and Operational Frameworks.</li><br>
     <li>Learned fundamentals of Agile Team Dynamics and Delivery Cycles.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           Big Data 101
+        <span style="color:#159957;">           Big Data 101
         </span>
       </strong>
     </em>
@@ -208,15 +208,15 @@
     <br> 
     Jan, 2025<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Introduced to Big Data Concepts, the 5 Vs, and Hadoop Ecosystem.</li><br>
     <li>Analyzed Big Data use cases and processing strategies.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           Artificial Intelligence Fundamentals
+        <span style="color:#159957;">           Artificial Intelligence Fundamentals
         </span>
       </strong>
     </em>
@@ -228,15 +228,15 @@
     <br> 
     Dec, 2024 – Jan, 2025<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Studied AI, NLP, & Machine Learning Concepts, and Ethics in AI systems.</li><br>
     <li>Applied Watson Studio to run and evaluate AI models.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           Data Fundamentals
+        <span style="color:#159957;">           Data Fundamentals
         </span>
       </strong>
     </em>
@@ -248,15 +248,15 @@
     <br> 
     Nov, 2024 – Dec, 2024<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Covered Data Science Lifecycle, Tools, and Methodologies.</li><br>
     <li>Explored key IBM Technologies for Data Exploration.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           DEPI - Data analysis Specialist
+        <span style="color:#159957;">           DEPI - Data analysis Specialist
         </span>
       </strong>
     </em>
@@ -268,15 +268,15 @@
     <br> 
     Apr, 2024 – Oct, 2024<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Built skills in Advanced Excel, Python, SQL, R, Power BI, and Tableau.</li><br>
     <li>Applied Statistical Methods to real-world datasets.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#15997">           FWD Initiative - Data Analysis Nanodegree
+        <span style="color:#159957;">           FWD Initiative - Data Analysis Nanodegree
         </span>
       </strong>
     </em>
@@ -288,15 +288,15 @@
     <br> 
     Dec ,2022 – Jan, 2023<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Practiced Python for Data Wrangling, Visualization, and Storytelling.</li><br>
     <li>Learned Agile Foundations and Project Freelancing Basics.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#243444">
+        <span style="color:#159957;">
           FWD Initiative - Web Development Challenger
         </span>
       </strong>
@@ -309,14 +309,14 @@
     <br> 
     Jun, 2022 – Jul, 2022<br>
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Designed basic web pages using HTML and CSS.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#243444">
+        <span style="color:#159957;">
           FWD Initiative - Data Analysis Challenger
         </span>
       </strong>
@@ -329,10 +329,10 @@
     <br> 
     Dec, 2021 – Feb, 2022<br> 
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Applied Excel Modeling, Data Manipulation, and Visualization.</li><br>
     <li>Strengthened Statistical Analysis and Reporting Skills.</li><br>
-  </ul>
+</ul>
 
 <br>
 <center>
@@ -343,18 +343,18 @@
   </strong>
 </center>
 <br>
-<h1>
+<h2>
   <em>
-    <span style="color:#7c7959">
+    <span style="color:#155799;">
       Education:
     </span>
   </em>
-</h1>
+</h2>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#243444">
+        <span style="color:#159957;">
           Managerial Accounting & Cost Dipl.
         </span>
       </strong>
@@ -367,15 +367,15 @@
     <br> 
     Oct, 2012 – Jul, 2013<br> 
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Covered Financial and Cost Accounting Principles, Project Management, and Advanced Accounting Systems.</li><br>
     <li>Emphasized managerial reporting and strategic cost control.</li><br>
-  </ul>
+</ul>
 <p style='text-align: justify;font-style:0.9rem;'>
   <center>
     <em>
       <strong>
-        <span style="color:#243444">
+        <span style="color:#159957;">
           Bsc. Commerce (English)
         </span>
       </strong>
@@ -388,10 +388,10 @@
     <br> 
     Sep, 2006 – Jul,2010<br> 
   </center></p>
-    <ul style='text-align: justify;font-size:0.9rem;'>
+<ul style='text-align: justify;font-size:0.9rem;'>
     <li>Studied core business disciplines: Accounting, Economics, Statistics, and Financial Analysis.</li><br>
     <li>Gained a strong foundation in Tax, Auditing, Commercial Law, and Financial Management. </li><br>
-  </ul>
+</ul>
 
 <br><br>
 
