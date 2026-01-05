@@ -1298,7 +1298,7 @@
 <p style="font-size:0.9rem;text-align:justify;">       
   <strong><em><span style="color:#159957">Total Health Spending per Person:  </span></em></strong><br> 
         Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.</p>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/cmr.jpg" alt="CMR" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/health-spending-person.jpg" alt="Health Sending per Person" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <p style="text-align:justify;font-size:0.9rem;">
        <strong><em><span style="color:#159957">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
         Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.
