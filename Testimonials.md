@@ -26,29 +26,29 @@
 <p>
   <center>
     <em>  
-      <span style="font-size:1.2rem;color:#159957;"><strong><em>﴾</em></strong></span> It was a pleasure to go through your code. I'll also suggest using the documentation you created to showcase this work since it is a great project you achieved here. Perhaps you could even try to blog about what you've learned. Keep up the good work! 🙂👍 <span style="font-size:1.2rem;color:#159957;"><strong><em>﴿</em></strong></span>
+      <span style="font-size:1.5rem;color:#155799;"><strong><em>﴾</em></strong></span> It was a pleasure to go through your code. I'll also suggest using the documentation you created to showcase this work since it is a great project you achieved here. Perhaps you could even try to blog about what you've learned. Keep up the good work! 🙂👍 <span style="font-size:1.5rem;color:#155799;"><strong><em>﴿</em></strong></span>
       <strong>
-        <div align="right"><span style="color:#ac9055">
+        <div align="right"><span style="color:#159957">
           Udacity Team
         </span>
         </div>
       </strong>
       <br><br><br>
-      So proud of you and your captivating analysis. I hope you enjoyed the journey as much I enjoyed reviewing your project. 👏
+       <span style="font-size:1.5rem;color:#155799;"><strong><em>﴾</em></strong></span>So proud of you and your captivating analysis. I hope you enjoyed the journey as much I enjoyed reviewing your project. 👏
 The visualizations are neat, you followed the correct steps in documenting the cleaning process and draw an accurate conclusion. Keep the great work.
-I wanted to express my utmost gratitude for all the consistency you have done so far, and your analytical skills will drive you to move forward to the right direction. 😊
+I wanted to express my utmost gratitude for all the consistency you have done so far, and your analytical skills will drive you to move forward to the right direction. 😊 <span style="font-size:1.5rem;color:#155799;"><strong><em>﴿</em></strong></span>
       <strong>
         <div align="right">
-          <span style="color:#ac9055">
+          <span style="color:#159957">
             Udacity Team
           </span>
         </div>
       </strong>
       <br><br><br>
-      Hend has demonstrated commendable dedication and enthusiasm for the course. Her consistent performance, active engagement, and eagerness to learn make her a standout student. I look forward to seeing her continue to excel in future endeavors.
+      <span style="font-size:1.5rem;color:#155799;"><strong><em>﴾</em></strong></span> Hend has demonstrated commendable dedication and enthusiasm for the course. Her consistent performance, active engagement, and eagerness to learn make her a standout student. I look forward to seeing her continue to excel in future endeavors. <span style="font-size:1.5rem;color:#155799;"><strong><em>﴿</em></strong></span>
       <strong>
         <div align="right">
-          <span style="color:#ac9055">
+          <span style="color:#159957">
             Mayar Ayman - DEPI
           </span>
         </div>
