@@ -31,8 +31,19 @@
     </span></strong>
   </em>
 </h2>
-<h3><em><strong><center><u>2025</u></center></strong></em></h3>
-<h4><em><strong> <span style="color:#4f8fc0;"> Python Programming Basics,ITI</span></strong></em></h4>
+<p style='text-align: center;font-size:0.9rem;'>  
+    <em>
+      <strong>
+        <span style="color:#159957;">           Associate Data Analyst
+        </span>
+      </strong>
+    </em>
+    <br> 
+    <em>
+<strong> <span style="color:#4f8fc0;">       DataCamp</span>
+</strong>
+    </em>
+  </p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Gained hands-on experience with Python by installing the environment, writing basic programs, and exploring core concepts like syntax, variables, and data types.</li><br>
     <li>Developed skills in control flow, loops, functions, and data structures (tuples, lists, dictionaries) to write efficient and reusable code.</li><br>
@@ -49,8 +60,6 @@
 <strong> <span style="color:#4f8fc0;">       DataCamp</span>
 </strong>
     </em>
-    <br> 
-    May 2025<br>
   </p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Built strong SQL and PostgreSQL skills for data querying and analysis.</li><br>
@@ -68,8 +77,6 @@
 <strong>       <span style="color:#4f8fc0;"> DataCamp</span>
       </strong>
     </em>
-    <br> 
-    May 2025<br>
   </p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Focused on SQL Queries, Data Manipulation, and Window Functions.</li><br>
@@ -87,8 +94,6 @@
 <strong>    <span style="color:#4f8fc0;">    IBM</span>
       </strong>
     </em>
-    <br> 
-    May 2025<br>
   </p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Gained practical experience in Statistics, Data Collection, Preparation, and Visualization.</li><br>
@@ -106,9 +111,7 @@
 <strong>      <span style="color:#4f8fc0;">  Mahara-Tech, ITI</span>
       </strong>
     </em>
-    <br> 
-    June 2025<br>
-  </p>
+   </p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Explored core Database Concepts, SQL Commands, and Normalization.</li><br>
     <li>Learned to design and Structure Relational Databases effectively.</li><br>
@@ -125,8 +128,6 @@
 <strong>      <span style="color:#4f8fc0;">  Atlassian </span>
      </strong>
     </em>
-    <br> 
-    June 2025 <br>
   </p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Mastered Agile and Scrum Methodologies using Jira Cloud.</li><br>
@@ -144,9 +145,7 @@
 <strong>   <span style="color:#4f8fc0;">     PMI® & NASBA</span>
       </strong>
     </em>
-    <br> 
-    May, 2025<br>
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Applied Project Initiation, Planning, Scheduling, and Control Techniques.</li><br>
     <li>Gained insight into Agile, Waterfall, PMBOK® Processes, and Communication Tools.</li><br>
@@ -163,9 +162,7 @@
 <strong>    <span style="color:#4f8fc0;">    IBM</span>
       </strong>
     </em>
-    <br> 
-    April, 2025<br>
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Covered Agile Values, Principles, and Operational Frameworks.</li><br>
     <li>Learned fundamentals of Agile Team Dynamics and Delivery Cycles.</li><br>
@@ -182,9 +179,7 @@
 <strong>   <span style="color:#4f8fc0;">     IBM</span>
       </strong>
     </em>
-    <br> 
-    Jan, 2025<br>
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Introduced to Big Data Concepts, the 5 Vs, and Hadoop Ecosystem.</li><br>
     <li>Analyzed Big Data use cases and processing strategies.</li><br>
@@ -201,9 +196,7 @@
 <strong>    <span style="color:#4f8fc0;">    IBM</span>
       </strong>
     </em>
-    <br> 
-    Dec, 2024 – Jan, 2025<br>
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Studied AI, NLP, & Machine Learning Concepts, and Ethics in AI systems.</li><br>
     <li>Applied Watson Studio to run and evaluate AI models.</li><br>
@@ -220,9 +213,7 @@
 <strong>   <span style="color:#4f8fc0;">     IBM</span>
      </strong>
     </em>
-    <br> 
-    Nov, 2024 – Dec, 2024<br>
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Covered Data Science Lifecycle, Tools, and Methodologies.</li><br>
     <li>Explored key IBM Technologies for Data Exploration.</li><br>
@@ -239,9 +230,7 @@
 <strong>   <span style="color:#4f8fc0;">     MCIT</span>
      </strong>
     </em>
-    <br> 
-    Apr, 2024 – Oct, 2024<br>
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Built skills in Advanced Excel, Python, SQL, R, Power BI, and Tableau.</li><br>
     <li>Applied Statistical Methods to real-world datasets.</li><br>
@@ -258,9 +247,7 @@
 <strong>      <span style="color:#4f8fc0;">  Udacity & MCIT</span>
       </strong>
     </em>
-    <br> 
-    Dec ,2022 – Jan, 2023<br>
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Practiced Python for Data Wrangling, Visualization, and Storytelling.</li><br>
     <li>Learned Agile Foundations and Project Freelancing Basics.</li><br>
@@ -278,9 +265,7 @@
 <strong>    <span style="color:#4f8fc0;">    Udacity & MCIT</span>
       </strong>
     </em>
-    <br> 
-    Jun, 2022 – Jul, 2022<br>
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Designed basic web pages using HTML and CSS.</li><br>
 </ul>
@@ -297,9 +282,7 @@
 <strong>    <span style="color:#4f8fc0;">    Udacity & MCIT</span>
       </strong>
     </em>
-    <br> 
-    Dec, 2021 – Feb, 2022<br> 
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Applied Excel Modeling, Data Manipulation, and Visualization.</li><br>
     <li>Strengthened Statistical Analysis and Reporting Skills.</li><br>
@@ -334,9 +317,7 @@
 <strong>   <span style="color:#4f8fc0;">     Alexandria University</span>
       </strong>
     </em>
-    <br> 
-    Oct, 2012 – Jul, 2013<br> 
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Covered Financial and Cost Accounting Principles, Project Management, and Advanced Accounting Systems.</li><br>
     <li>Emphasized managerial reporting and strategic cost control.</li><br>
@@ -354,9 +335,7 @@
 <strong>    <span style="color:#4f8fc0;">    Alexandria University</span>
       </strong>
     </em>
-    <br> 
-    Sep, 2006 – Jul,2010<br> 
-  </p>
+</p>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Studied core business disciplines: Accounting, Economics, Statistics, and Financial Analysis.</li><br>
     <li>Gained a strong foundation in Tax, Auditing, Commercial Law, and Financial Management. </li><br>
