@@ -34,7 +34,7 @@
         </div>
       </strong>
       <br><br><br>
-       <span style="font-size:1.5rem;color:#155799;"><strong><em>﴾</em></strong></span>So proud of you and your captivating analysis. I hope you enjoyed the journey as much I enjoyed reviewing your project. 👏
+       <span style="font-size:1.5rem;color:#155799;"><strong><em>﴾</em></strong></span> So proud of you and your captivating analysis. I hope you enjoyed the journey as much I enjoyed reviewing your project. 👏
 The visualizations are neat, you followed the correct steps in documenting the cleaning process and draw an accurate conclusion. Keep the great work.
 I wanted to express my utmost gratitude for all the consistency you have done so far, and your analytical skills will drive you to move forward to the right direction. 😊 <span style="font-size:1.5rem;color:#155799;"><strong><em>﴿</em></strong></span>
       <strong>
