@@ -1145,9 +1145,9 @@
           <ul>
             <li><em>1996</em> → Federal Shipping - $4K </li>
               <li><em>1997 & 1998</em> → United Package Company - $12K each year.</li></ul><br>
-        <li><em><strong>Delivery Performance:</strong></em> 809 orders were shipped to their destination, with 772 delivered on time.</li><br>
+        <li><em><strong>Delivery Performance:</strong></em><br> 809 orders were shipped to their destination, with 772 delivered on time.</li><br>
         <li><em><strong>Highest On-Time Deliveries:</strong></em> </li>
-          <ul><li><em>1996</em> → Federal Shipping - 55 on-time deliveries
+          <ul><li><em>1996</em> → Federal Shipping - 55 on-time deliveries</li>
             <li><em>1997 & 1998</em> → United Package Company with 142 and 103 on-time deliveries, respectively.</li></ul>
       </ul>
   <h3><center>
