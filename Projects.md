@@ -1106,43 +1106,43 @@
     </center></h3>
     <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Sales and Orders:</span></em></strong>
       <ul style="font-size:0.9rem;">
-        <li><em><strong>Orders Summary:</strong></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li>
+        <li><em><strong>Orders Summary:</strong></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li><br
         <li><em><strong>Shipping Efficiency:</strong></em> Average shipping time was 8.48 days.</li>
-      </ul>
-      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Analysis:</span></em></strong>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Category-Performance.jpg" alt="Category" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+      </ul><br>
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Analysis:</span></em></strong><br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Category-Performance.jpg" alt="Category" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
-        <li><em><strong>Product Categories:</strong></em> 8 categories with 77 products.</li>
-        <li><em><strong>Net Sales:</strong></em> $1,265,793.18; Net Revenue: $89K.</li>
-        <li><em><strong>Discounts:</strong></em> Totaled $89K across all products</li>
-        <li><em><strong>Shipping Cost:</strong></em> $65K.</li>
+        <li><em><strong>Product Categories:</strong></em> 8 categories with 77 products.</li><br>
+        <li><em><strong>Net Sales:</strong></em> $1,265,793.18; Net Revenue: $89K.</li><br>
+        <li><em><strong>Discounts:</strong></em> Totaled $89K across all products</li><br>
+        <li><em><strong>Shipping Cost:</strong></em> $65K.</li><br>
         <li><em><strong>Highest Net Sales by Month:</strong></em> Achieved in April 1998, totaling $124K.</li>
       </ul>
-  <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Stock and Reorder Analysis:</span></em></strong>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Products.jpg" alt="Products" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+  <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Stock and Reorder Analysis:</span></em></strong><br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Products.jpg" alt="Products" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
-        <li><em><strong>Continued & Discontinued Products:</strong></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
+        <li><em><strong>Continued & Discontinued Products:</strong></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li><br>
         <li><em><strong>Top Category by Performance:</strong></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
       </ul>
-      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Geographical Insights:</span></em></strong>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Financial-Summary.jpg" alt="Financial_summary" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Geographical Insights:</span></em></strong><br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Financial-Summary.jpg" alt="Financial_summary" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
-        <li><em><strong>Top Countries by Sales:</strong></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li>
-        <li><em><strong>Country with Most Customers: </strong></em>  USA, with 13 recorded customers.</li>
+        <li><em><strong>Top Countries by Sales:</strong></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li><br>
+        <li><em><strong>Country with Most Customers: </strong></em>  USA, with 13 recorded customers.</li><br>
         <li><em><strong>Discount Performance by Country: </strong></em> USA had the highest discounts and net sales across all three years.</li>
       </ul>
-      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Customer Insights:</span></em></strong>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Customers.jpg" alt="Customers" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Customer Insights:</span></em></strong><br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Customers.jpg" alt="Customers" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
-        <li><em><strong>Total Amount Paid by Customers (Including Shipping):</strong></em> $1.3M.</li>
-        <li><em><strong>New Customers in 1998:</strong> </em> 1 new customer.</li>
+        <li><em><strong>Total Amount Paid by Customers (Including Shipping):</strong></em> $1.3M.</li><br>
+        <li><em><strong>New Customers in 1998:</strong> </em> 1 new customer.</li><br>
         <li><em><strong>Highest Monthly Sales: </strong> </em> April 1998, driven by 51 customers placing orders.</li>
       </ul>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Shipping Companies:</span></em></strong>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Shipping.jpg" alt="Shipping" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Shipping-Companies.jpg" alt="Shipping" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
       <ul style="font-size:0.9rem;">
-        <li><em><strong>Top Freight Costs by Year:</strong></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li>
-        <li><em><strong>Delivery Performance:</strong></em> 809 orders were shipped to their destination, with 772 delivered on time.</li>
+        <li><em><strong>Top Freight Costs by Year:</strong></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li><br>
+        <li><em><strong>Delivery Performance:</strong></em> 809 orders were shipped to their destination, with 772 delivered on time.</li><br>
         <li><em><strong>Highest On-Time Deliveries:</strong></em> 1996: Federal Shipping - 55 on-time deliveries, 1997 & 1998: United Package Company with 142 and 103 on-time deliveries, respectively.</li>
       </ul>
   <h3><center>
@@ -1169,7 +1169,7 @@
       </span>
     </strong>
     <br>
-    <span style="color:#5b2c6f">
+    <span style="color:#5b2c6f;font-size:0.8rem;">
       The values presented (in USD) are rounded to the nearest thousand or million.
     </span>
   </em>
