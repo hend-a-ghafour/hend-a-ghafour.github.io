@@ -905,6 +905,7 @@
      <strong><em><span style="color:#f9bdc2">Data Completeness: </span></em></strong><br>
      Sparse neighborhood data limited definitive conclusions regarding neighborhood influence on attendance rates. Additionally, some appointment dates were recorded prior to their scheduled dates, leading to negative appointment gaps.
   </p>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_loc.jpg" alt="Locations" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
   <h3><center>
     <strong>
       <em>
@@ -937,15 +938,18 @@
      <strong><em><span style="color:#f9bdc2">Age Groups:</span></em></strong><br> 
       Middle-aged, elderly, and child groups showed the highest commitment to appointments, suggesting a link between age and regular healthcare engagement.<br><br>
       <strong><em><span style="color:#f9bdc2">Appointment Scheduling Gap:</span></em></strong><br> 
-      Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.<br><br>
+      Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.<br>
+    <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_gap.jpg" alt="sched_Gap" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
     <strong><em><span style="color:#f9bdc2">Neighborhood Influence: </span></em></strong><br> 
       Certain neighborhoods showed significantly higher attendance rates, although the data suggests this may also correlate with lower appointment counts in these areas.<br><br>
      <strong><em><span style="color:#f9bdc2">Scholarship Status:</span></em></strong><br> 
       Attendance rates were marginally lower for patients with a government scholarship, indicating a potential but small effect.<br><br>
     <strong><em><span style="color:#f9bdc2">Health Conditions: </span></em></strong><br> 
-      Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.<br><br>
+      Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.<br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_dm.jpg" alt="DM" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br><br>
      <strong><em><span style="color:#f9bdc2">Reminders: </span></em></strong><br> 
       Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_sms.jpg" alt="sched_SMS" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
   </p>
   <h3><center>
     <strong>
