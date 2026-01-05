@@ -1006,8 +1006,10 @@
   </strong>
 </center> 
 
-![Northwind](https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg)
-
+ <iframe src="https://drive.google.com/file/d/1OSp0UhkoBUW5LYYT8IVldVq6gKNxQnZx/preview" width="800" height="600" allow="autoplay">
+    NorthWind Dashboard Overview
+  </iframe>
+  
 <details>
   <summary>
     <em>
@@ -1056,6 +1058,7 @@
       <strong><em><span style="color:#5b2c6f">Dashboard Creation: </span></em></strong><br>
       Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.
   </p>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
   <h3><center>
     <strong>
       <em>
@@ -1104,9 +1107,10 @@
     <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Sales and Orders:</span></em></strong>
       <ul style="font-size:0.9rem;">
         <li><em><strong>Orders Summary:</strong></em> 830 orders processed for 89 customers, with 51,317 total quantities sold.</li>
-        <li><em><strong>Shipping Efficiency:</strong</em> Average shipping time was 8.48 days.</li>
+        <li><em><strong>Shipping Efficiency:</strong></em> Average shipping time was 8.48 days.</li>
       </ul>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Analysis:</span></em></strong>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Category-Performance.jpg" alt="Category" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
       <ul style="font-size:0.9rem;">
         <li><em><strong>Product Categories:</strong></em> 8 categories with 77 products.</li>
         <li><em><strong>Net Sales:</strong></em> $1,265,793.18; Net Revenue: $89K.</li>
@@ -1114,24 +1118,28 @@
         <li><em><strong>Shipping Cost:</strong></em> $65K.</li>
         <li><em><strong>Highest Net Sales by Month:</strong></em> Achieved in April 1998, totaling $124K.</li>
       </ul>
+  <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Stock and Reorder Analysis:</span></em></strong>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Products.jpg" alt="Products" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+      <ul style="font-size:0.9rem;">
+        <li><em><strong>Continued & Discontinued Products:</strong></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
+        <li><em><strong>Top Category by Performance:</strong></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
+      </ul>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Geographical Insights:</span></em></strong>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Financial-Summary.jpg" alt="Financial_summary" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
       <ul style="font-size:0.9rem;">
         <li><em><strong>Top Countries by Sales:</strong></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li>
         <li><em><strong>Country with Most Customers: </strong></em>  USA, with 13 recorded customers.</li>
         <li><em><strong>Discount Performance by Country: </strong></em> USA had the highest discounts and net sales across all three years.</li>
       </ul>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Customer Insights:</span></em></strong>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Customers.jpg" alt="Customers" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
       <ul style="font-size:0.9rem;">
         <li><em><strong>Total Amount Paid by Customers (Including Shipping):</strong></em> $1.3M.</li>
         <li><em><strong>New Customers in 1998:</strong> </em> 1 new customer.</li>
         <li><em><strong>Highest Monthly Sales: </strong> </em> April 1998, driven by 51 customers placing orders.</li>
       </ul>
-      <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Stock and Reorder Analysis:</span></em></strong></li>
-      <ul style="font-size:0.9rem;">
-        <li><em><strong>Continued & Discontinued Products:</strong></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li>
-        <li><em><strong>Top Category by Performance:</strong></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
-      </ul>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Shipping Companies:</span></em></strong>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Shipping.jpg" alt="Shipping" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
       <ul style="font-size:0.9rem;">
         <li><em><strong>Top Freight Costs by Year:</strong></em> 1996: Federal Shipping - $4K, 1997 & 1998: United Package Company - $12K each year.</li>
         <li><em><strong>Delivery Performance:</strong></em> 809 orders were shipped to their destination, with 772 delivered on time.</li>
@@ -1151,7 +1159,7 @@
         Use reorder level and stock status data to streamline restocking processes.<br><br>
       <strong><em><span style="color:#5b2c6f">Optimize Shipping Processes:  </span></em></strong><br> 
         Increase on-time deliveries by selecting shipping companies based on past performance.<br><br>
-      <li><strong><em><span style="color:#5b2c6f">Enhance Customer Targeting:</span></em></strong><br> 
+      <strong><em><span style="color:#5b2c6f">Enhance Customer Targeting:</span></em></strong><br> 
         Focus on high-growth markets, like the USA, and monitor purchasing trends for customer retention and acquisition strategies.
   </p>
   <em>
@@ -1166,9 +1174,6 @@
     </span>
   </em>
 <br><br>  
-  <iframe src="https://drive.google.com/file/d/1OSp0UhkoBUW5LYYT8IVldVq6gKNxQnZx/preview" width="800" height="600" allow="autoplay">
-    NorthWind Dashboard Overview
-  </iframe>
 </details>
 <br>
 <center>
