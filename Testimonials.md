@@ -26,7 +26,7 @@
 <p>
   <center>
     <em>  
-      <span style="font-size:1.2rem;color:#159957;">⚜️</span>  It was a pleasure to go through your code. I'll also suggest using the documentation you created to showcase this work since it is a great project you achieved here. Perhaps you could even try to blog about what you've learned. Keep up the good work! 🙂👍  <span style="font-size:1.2rem;color:#159957;">⚜️</span>
+      <span style="font-size:1.2rem;color:#159957;"><strong><em>﴾</em></strong></span> It was a pleasure to go through your code. I'll also suggest using the documentation you created to showcase this work since it is a great project you achieved here. Perhaps you could even try to blog about what you've learned. Keep up the good work! 🙂👍 <span style="font-size:1.2rem;color:#159957;"><strong><em>﴿</em></strong></span>
       <strong>
         <div align="right"><span style="color:#ac9055">
           Udacity Team
