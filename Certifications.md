@@ -31,8 +31,8 @@
     </span></strong>
   </em>
 </h2>
-<h3><em><strong><center><u><span style="color:#2c3e50;">2025</span></u></center></strong></em></h3>
-<h3><em><strong> Python Programming Basics,ITI</strong></em></h3>
+<h3><em><strong><center><u>2025</u></center></strong></em></h3>
+<h4><em><strong> <span style="color:#4f8fc0;"> Python Programming Basics,ITI</span></strong></em></h4>
 <ul style='text-align: justify;font-size:0.9rem;'>
     <li>Gained hands-on experience with Python by installing the environment, writing basic programs, and exploring core concepts like syntax, variables, and data types.</li><br>
     <li>Developed skills in control flow, loops, functions, and data structures (tuples, lists, dictionaries) to write efficient and reusable code.</li><br>
