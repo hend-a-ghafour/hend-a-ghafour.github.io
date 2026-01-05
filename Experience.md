@@ -23,17 +23,17 @@
 </strong>
 </p>
 <br>
-<p style='text-align: center;font-size:1.2rem;padding-top:1.5rem;'>  
+<p style='text-align: center;padding-top:1.5rem;'>  
     <strong>
       <em>
-        <span style="color:#159957">
+        <span style="color:#159957;font-size:1.2rem;">
           Accountant
         </span>
       </em>
     </strong>
     <br>
     <em>
-      <span style="color:#4f8fc0">
+      <span style="color:#4f8fc0;font-size:1rem;">
         Megalectric for Import, Alexandria, Egypt
       </span>
     </em>
@@ -46,22 +46,19 @@
   <center>
    <strong>
      <em>
-       <span style="color:#159957;font-size:1.5rem;">
+       <span style="color:#159957;font-size:1.2rem;">
          Purchasing Coordinator / Accountant
        </span>
      </em>
    </strong>
     <br>
     <em>
-      <span style="color:#4f8fc0;font-size:1.2rem;">
+      <span style="color:#4f8fc0;font-size:1rem;">
         Volta Trading, Alexandria, Egypt
       </span>
     </em>
-    <br>
-    <em>
-      April, 2014 –July, 2014
-    </em>
-  </center>
+   </center>
+</p>
   <ul style='text-align: justify;font-size:0.9rem;'>
     <li style='padding-bottom:1rem;'>Analyzed and negotiated supplier data to establish purchase agreements and gather pricing information.</li>
     <li style='padding-bottom:1rem;'>Conducted detailed analysis of price proposals and financial reports to determine reasonable costs.</li>
@@ -72,22 +69,19 @@
     <center>
       <strong>
         <em>
-          <span style="color:#159957;font-size:1.5rem;">
+          <span style="color:#159957;font-size:1.2rem;">
             Customer Service Administrator
           </span>
         </em>
       </strong>
       <br>
       <em>
-        <span style="color:#4f8fc0;font-size:1.2rem;">
+        <span style="color:#4f8fc0;font-size:1rem;">
           Horus Training Center, Alexandria, Egypt
         </span>
       </em>
-      <br>
-      <em>
-        Apr, 2012 - Aug, 2012
-      </em>
-    </center>
+   </center>
+  </p>
     <ul style='text-align: justify;font-size:0.9rem;'>
       <li style='padding-bottom:1rem;'>Dealt with customers inquiries & gathered data of potential customers.</li>
       <li style='padding-bottom:1rem;'>Worked on marketing monthly courses & achieved the monthly target with a success percentage of 85%.</li>
@@ -98,14 +92,14 @@
   <center>
     <strong>
       <em>
-        <span style="color:#159957;font-size:1.5rem;">
+        <span style="color:#159957;font-size:1.2rem;">
           Crew Coordinator Assistant 
         </span>
       </em>
     </strong>
     <br>
     <em>
-      <span style="color:#4f8fc0;font-size:1.2rem;">
+      <span style="color:#4f8fc0;font-size:1rem;">
         Wilhelmsen Ships Service, Alexandria, Egypt
       </span>
     </em>
