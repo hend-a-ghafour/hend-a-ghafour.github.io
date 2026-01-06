@@ -238,6 +238,7 @@
 </center>
 <br>
 <h2>
+  <center>
   <em>
     <strong>
       <span style="color:#155799;text-align: center;">
@@ -245,6 +246,7 @@
       </span>
     </strong>
   </em>
+    </center>
 </h2> 
 <p>
     <iframe src="https://drive.google.com/file/d/1iHbRhpVJ_M1EidjLsbzPEZfv1y8jIrVq/preview" width="800" height="600" allow="autoplay">
@@ -472,6 +474,7 @@
 </center>
 <br>
 <h2>
+  <center>
   <em>
     <strong>
       <span style="color:#155799;text-align: center;"> 
@@ -479,6 +482,7 @@
       </span>
     </strong>
   </em>
+    </center>
 </h2> 
 <p>
     <iframe src="https://drive.google.com/file/d/1Xk2858K6Ta4qmGKCWZkSrMbuThG-knQy/preview" width="800" height="600" allow="autoplay">
@@ -640,6 +644,7 @@
 </center>
 <br>
 <h2>
+  <center>
   <em>
     <strong>
       <span style="color:#155799;text-align: center;"> 
@@ -647,6 +652,7 @@
       </span>
     </strong>
   </em>
+  </center>
 </h2> 
 <center>
   <strong>
@@ -802,6 +808,7 @@
 </center>
 <br>
 <h3>
+    <center>
   <em>
     <strong>
       <span style="color:#155799;text-align: center;"> 
@@ -809,6 +816,7 @@
       </span>
     </strong>
   </em>
+    </center>
 </h3> 
 <center>
   <strong>
@@ -967,13 +975,15 @@
 </center>
 <br>
 <h2>
-  <em>
+    <center>
+<em>
     <strong>
       <span style="color:#155799;text-align: center;"> 
         Northwind 
       </span>
     </strong>
   </em>
+    </center>
 </h2> 
 <center>
   <strong>
@@ -1162,13 +1172,15 @@
 </center>
 <br>
 <h3>
-  <em>
+    <center>
+<em>
     <strong>
       <span style="color:#155799;text-align: center;"> 
         Death & Life Expectancy for Mothers & Children 
       </span>
     </strong>
   </em>
+    </center>
 </h3> 
 <center>
   <strong>
