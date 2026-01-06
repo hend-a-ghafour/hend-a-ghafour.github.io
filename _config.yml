@@ -4,6 +4,6 @@ show_downloads: true
 theme: jekyll-theme-cayman
 github:
   zip_url: github.zip_url
-  another_url: files/Hend_Abdelghafour_Resume.pdf
+  another_url: https://github.com/hend-a-ghafour/hend-a-ghafour.github.io/blob/main/files/Hend_Abdelghafour_Resume.pdf
 
 
