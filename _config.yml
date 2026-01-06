@@ -4,6 +4,4 @@ show_downloads: true
 theme: jekyll-theme-cayman
 github:
   zip_url: github.zip_url
-  another_url: https://drive.google.com/file/d/1xUyTtIILk3J_hld7wWpgDHSRVs6Er9ew/view?usp=sharing
-
-
+  another_url: <a href="https://drive.google.com/file/d/1xUyTtIILk3J_hld7wWpgDHSRVs6Er9ew/view?usp=sharing" class="btn">Download Resume</a>
