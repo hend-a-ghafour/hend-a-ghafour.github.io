@@ -24,7 +24,7 @@
 </p>
 <br>
 
-## ***<span style="color:#155799;">Analyzing Marketing Campaigns</span>***
+## ***<span style="color:#155799;"><center>Analyzing Marketing Campaigns</center></span>***
       
 <center>
   <strong>
@@ -240,15 +240,12 @@
 <h2>
   <em>
     <strong>
-      <span style="color:#155799;">
+      <span style="color:#155799;text-align: center;">
         Inventory Analysis
       </span>
     </strong>
   </em>
 </h2> 
-<em>
-  Aug 2025 
-</em>
 <p>
     <iframe src="https://drive.google.com/file/d/1iHbRhpVJ_M1EidjLsbzPEZfv1y8jIrVq/preview" width="800" height="600" allow="autoplay">
       Inventory Analysis
@@ -477,15 +474,12 @@
 <h2>
   <em>
     <strong>
-      <span style="color:#155799"> 
+      <span style="color:#155799;text-align: center;"> 
         Analyzing Health Care Data
       </span>
     </strong>
   </em>
 </h2> 
-<em>
-  Aug 2025 
-</em>
 <p>
     <iframe src="https://drive.google.com/file/d/1Xk2858K6Ta4qmGKCWZkSrMbuThG-knQy/preview" width="800" height="600" allow="autoplay">
       HealthStat
@@ -648,15 +642,12 @@
 <h2>
   <em>
     <strong>
-      <span style="color:#155799"> 
+      <span style="color:#155799;text-align: center;"> 
         Human Resources Tableau Dashboard
       </span>
     </strong>
   </em>
 </h2> 
-<em>
-  Sep 2024 
-</em>
 <center>
   <strong>
     <em>
@@ -813,15 +804,12 @@
 <h3>
   <em>
     <strong>
-      <span style="color:#155799"> 
+      <span style="color:#155799;text-align: center;"> 
         No Show Apointments 
       </span>
     </strong>
   </em>
 </h3> 
-<em>
-  Sep 2024 
-</em>
 <center>
   <strong>
     <em>
@@ -981,15 +969,12 @@
 <h2>
   <em>
     <strong>
-      <span style="color:#155799"> 
+      <span style="color:#155799;text-align: center;"> 
         Northwind 
       </span>
     </strong>
   </em>
 </h2> 
-<em>
-  Aug 2024:Sep 2024 
-</em>
 <center>
   <strong>
     <em>
@@ -1179,7 +1164,7 @@
 <h3>
   <em>
     <strong>
-      <span style="color:#155799"> 
+      <span style="color:#155799;text-align: center;"> 
         Death & Life Expectancy for Mothers & Children 
       </span>
     </strong>
