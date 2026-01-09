@@ -1,5 +1,4 @@
 title: <p style="font-size:30px;font-style:italic;">Turning Data into Actionable, Understadable, & Cheerful Insights</p>
 description: <p style="font-size:25px;">Hend Abd El-Ghafour</p> <p style="font-size:20px;font-style:italic;">Data Analyst </p>
-github.is_project_page: true
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
