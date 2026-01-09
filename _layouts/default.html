@@ -18,18 +18,19 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="https://github.com/hend-a-ghafour"><img src="https://hend-a-ghafour.github.io/Media/github-mark-white.svg" alt="github" height="30" width="30"></a>
+      <a href="https://www.linkedin.com/in/hend-a-ghafour/"><img src="https://hend-a-ghafour.github.io/Media/linked-new.png" alt="linkedin" height="30" width="30"></a>
+      <a href="https://www.linkedin.com/in/hend-a-ghafour/details/featured/" class="btn"><img src="https://hend-a-ghafour.github.io/Media/gallery-icon-3.jpg" alt="gallery" height="30" width="30"></a>
+
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="https://raw.githubusercontent.com/hend-a-ghafour/hend-a-ghafour.github.io/main/files/Hend_Abdelghafour_Resume.pdf" class="btn"><img src="https://hend-a-ghafour.github.io/Media/download-sign.jpg" alt="download" height="30" width="30">Resume</a>
+        <a href="https://raw.githubusercontent.com/hend-a-ghafour/hend-a-ghafour.github.io/main/files/Hend_Abdelghafour_Resume.pdf" class="btn"><img src="https://hend-a-ghafour.github.io/Media/down.png" alt="download" height="30" width="30">Resume</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
       {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="btn"><img src="https://hend-a-ghafour.github.io/Media/github-mark-white.svg" alt="github" height="30" width="30"> <small>Follow me on</small> GitHub</a>
-      <br>
-      <a href="https://www.linkedin.com/in/hend-a-ghafour/" class="btn"><img src="https://hend-a-ghafour.github.io/Media/linkedin-logo-white.png" alt="linkedin" height="30" width="30"></a>
-      <a href="https://www.linkedin.com/in/hend-a-ghafour/details/featured/" class="btn"><img src="https://hend-a-ghafour.github.io/Media/gallery-icon-white.jpg" alt="gallery" height="30" width="30"></a>
       {% endif %}
     </header>
 
