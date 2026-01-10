@@ -29,7 +29,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;"target="_blank" rel="noopener noreferrer"> 
+      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
         View Project 
       </a>
     </em>
