@@ -30,10 +30,10 @@
 
 
 ***<span style="color:#2980b9">Get in touch with me:</span>***<br><br>
+
  <div style="display:inline-flex; align-items:center; gap: 6px;">
 <img src="https://hend-a-ghafour.github.io/Media/whatsapp-icon.png" alt="whatsapp" height="30" width="30" padding="16"> <em><strong>+201120977013</strong></em>
  </div>
- <br>
   <div style="display:inline-flex; align-items:center; gap: 6px;">
 <img src="https://hend-a-ghafour.github.io/Media/icon-email.png" alt="email" height="30" width="30"> <em><strong>hendm.abdelghafour@gmail.com</strong></em>
   </div>
