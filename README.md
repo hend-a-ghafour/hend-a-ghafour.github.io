@@ -38,7 +38,7 @@
 
 ## ***<center><span style="color:#155799;">Skills</span></center>***
 #### ***<span style="color:#159957;font-size:1rem;"> Tools: </span>*** 
-<span style="font-size:.9rem;"> Python - SQL - Tableau -  Power BI - Excel </span> 
+<div><ul style="font-size:.9rem;"> <li>Python</li> <li>SQL</li> <li>Tableau</li> <li>Power BI</li> <li>Excel</li> </ul> </div>
 #### ***<span style="color:#159957;font-size:1rem;">  Technical Skills: </span>***
 <span style="font-size:.9rem;">EDA - DAX - Data Modeling - Statistical Analysis - Query Writing - Coding - Interactive Dashboards</span>   
 #### ***<span style="color:#159957;font-size:1rem;"> Soft Skills: </span>***
