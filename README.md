@@ -38,9 +38,9 @@
 
 ## ***<center><span style="color:#155799;">Skills</span></center>***
 <em><strong><span style="color:#159957;font-size:1rem;"> Tools:</span></strong></em>
-<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;"> <li>Python</li> <li>SQL</li> <li>Tableau</li> <li>Power BI</li> <li style="text-align:center;">Excel</li> </ul> 
+<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;"> <li>Python</li> <li>SQL</li> <li>Tableau</li> <li>Power BI</li> <li>Excel</li> </ul> 
 <em><strong><span style="color:#159957;font-size:1rem;">  Technical Skills: </span></strong></em>
-<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;"><li>EDA</li> <li>DAX</li> <li>Data Modeling</li> <li>Statistical Analysis</li> <li>Query Writing</li> <li>Coding</li> <li style="text-align:center;">Interactive Dashboards</li></ul>   
+<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;"><li>EDA</li> <li>DAX</li> <li>Data Modeling</li> <li>Statistical Analysis</li> <li>Query Writing</li> <li>Coding</li> <li>Interactive Dashboards</li></ul>   
 <em><strong><span style="color:#159957;font-size:1rem;"> Soft Skills: </span></strong></em>
 <ul style="column-count: 2;column-gap: 40px;font-size:.9rem;"><li>Analystical Thinking</li> <li>Detail-Oriented</li> <li>Fast Learner</li> <li>Problem Solving & Communication</li> <li>Agile Mindset</li> <li>Project Management</li></ul>
 <br>
