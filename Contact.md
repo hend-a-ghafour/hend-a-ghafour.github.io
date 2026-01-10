@@ -31,14 +31,17 @@
 
 ***<span style="color:#2980b9">Get in touch with me:</span>***<br><br>
  <div style="display:inline-flex; align-items:center; gap: 6px;">
-<img src="https://hend-a-ghafour.github.io/Media/whatsapp-icon.png" alt="whatsapp" height="30" width="30" padding="16"> 201120977013 
+<img src="https://hend-a-ghafour.github.io/Media/whatsapp-icon.png" alt="whatsapp" height="30" width="30" padding="16"> <em><strong>+201120977013</strong></em>201120977013 
  </div>
+ <br>
   <div style="display:inline-flex; align-items:center; gap: 6px;">
-<img src="https://hend-a-ghafour.github.io/Media/icon-email.png" alt="email" height="30" width="30"> _hendm.abdelghafour@gmail.com_ 
+<img src="https://hend-a-ghafour.github.io/Media/icon-email.png" alt="email" height="30" width="30"> <em><strong>hendm.abdelghafour@gmail.com</strong></em>
   </div>
+  <br>
  <div style="display:inline-flex; align-items:center; gap: 6px;">
 <img src="https://hend-a-ghafour.github.io/Media/linkedin-logo.png" alt="linkedin" height="30" width="30"> <a href="https://www.linkedin.com/in/hend-a-ghafour/" target="_blank" rel="noopener noreferrer"> <em><strong> linkedin.com/in/hend-a-ghafour/</strong></em> </a>
  </div>
+ <br>
  <div style="display:inline-flex; align-items:center; gap: 6px;">
 <img src="https://hend-a-ghafour.github.io/Media/github-mark.svg" alt="github" height="30" width="30"> <a href="https://github.com/hend-a-ghafour" target="_blank" rel="noopener noreferrer"> <em><strong> github.com/hend-a-ghafour</strong></em>  </a>
  </div>
