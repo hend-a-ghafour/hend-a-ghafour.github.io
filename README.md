@@ -38,11 +38,32 @@
 
 ## ***<center><span style="color:#155799;">Skills</span></center>***
 <h4><em><strong><span style="color:#159957;font-size:1rem;"> Tools:</span></strong></em></h4>
-<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;padding-bottom:1rem;"> <li>Python</li> <li>SQL</li> <li>Tableau</li> <li>Power BI</li> <li>Excel</li> </ul> 
+<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;"> 
+  <li style='padding-bottom:1rem;'>Python</li> 
+  <li style='padding-bottom:1rem;'>SQL</li> 
+  <li style='padding-bottom:1rem;'>Tableau</li> 
+  <li style='padding-bottom:1rem;'>Power BI</li> 
+  <li style='padding-bottom:1rem;'>Excel</li> 
+</ul> 
 <h4><em><strong><span style="color:#159957;font-size:1rem;">  Technical Skills: </span></strong></em></h4>
-<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;"><li>EDA</li> <li>DAX</li> <li>Data Modeling</li> <li>Statistical Analysis</li> <li>Query Writing</li> <li>Coding</li> <li>Interactive Dashboards</li></ul>   
+<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;">
+  <li style='padding-bottom:1rem;'>EDA</li> 
+  <li style='padding-bottom:1rem;'>DAX</li> 
+  <li style='padding-bottom:1rem;'>Data Modeling</li> 
+  <li style='padding-bottom:1rem;'>Statistical Analysis</li> 
+  <li style='padding-bottom:1rem;'>Query Writing</li> 
+  <li style='padding-bottom:1rem;'>Coding</li> 
+  <li style='padding-bottom:1rem;'>Interactive Dashboards</li>
+</ul>   
 <h4><em><strong><span style="color:#159957;font-size:1rem;"> Soft Skills: </span></strong></em></h4>
-<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;"><li>Analystical Thinking</li> <li>Detail-Oriented</li> <li>Fast Learner</li> <li>Problem Solving & Communication</li> <li>Agile Mindset</li> <li>Project Management</li></ul>
+<ul style="column-count: 2;column-gap: 40px;font-size:.9rem;">
+  <li style='padding-bottom:1rem;'>Analystical Thinking</li> 
+  <li style='padding-bottom:1rem;'>Detail-Oriented</li> 
+  <li style='padding-bottom:1rem;'>Fast Learner</li> 
+  <li style='padding-bottom:1rem;'>Problem Solving & Communication</li> 
+  <li style='padding-bottom:1rem;'>Agile Mindset</li> 
+  <li style='padding-bottom:1rem;'>Project Management</li>
+</ul>
 <br>
 <p style='text-align: justify;'>
   <h2>
