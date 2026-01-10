@@ -38,11 +38,11 @@
   <div style="display:inline-flex; align-items:center; gap: 6px;">
 <img src="https://hend-a-ghafour.github.io/Media/icon-email.png" alt="email" height="30" width="30"> <em><strong>hendm.abdelghafour@gmail.com</strong></em>
   </div>
-  <br>
+ <p></p>
  <div style="display:inline-flex; align-items:center; gap: 6px;">
 <img src="https://hend-a-ghafour.github.io/Media/linkedin-logo.png" alt="linkedin" height="30" width="30"> <a href="https://www.linkedin.com/in/hend-a-ghafour/" target="_blank" rel="noopener noreferrer"> <em><strong> linkedin.com/in/hend-a-ghafour/</strong></em> </a>
  </div>
- <br>
+ <p></p>
  <div style="display:inline-flex; align-items:center; gap: 6px;">
 <img src="https://hend-a-ghafour.github.io/Media/github-mark.svg" alt="github" height="30" width="30"> <a href="https://github.com/hend-a-ghafour" target="_blank" rel="noopener noreferrer"> <em><strong> github.com/hend-a-ghafour</strong></em>  </a>
  </div>
