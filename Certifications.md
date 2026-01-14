@@ -34,13 +34,13 @@
 <p style='text-align: justify;font-size:0.9rem;padding-top:1rem;'>  
     <em>
       <strong>
-        <span style="color:#159957;">           Associate Data Analyst
+        <span style="color:#159957;">           Python Basics
         </span>
       </strong>
     </em>
     <br> 
     <em>
-<strong> <span style="color:#4f8fc0;">       DataCamp</span>
+<strong> <span style="color:#4f8fc0;">       ITI</span>
 </strong>
     </em>
   </p>
