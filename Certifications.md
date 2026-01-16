@@ -26,9 +26,9 @@
 
 <h2>
   <em><strong>
-    <span style="color:#155799">
+    <span style="color:#155799"><u>
       Certificates:
-    </span></strong>
+    </u></span></strong>
   </em>
 </h2>
 <p style='text-align: justify;font-size:0.9rem;padding-top:1rem;'>  
@@ -300,7 +300,7 @@
 <h2>
   <em><strong>
     <span style="color:#155799;">
-      Education:
+      <u>Education:</u>
     </span></strong>
   </em>
 </h2>
