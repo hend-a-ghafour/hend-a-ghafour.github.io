@@ -81,28 +81,27 @@ a {
   }
 
   + .btn {
-    margin-left: 1rem;
+    margin-right: 1rem;
   }
 
   @include large {
-    padding: 0rem 0rem;
+    padding: .6rem .6rem;
   }
 
   @include medium {
-    padding: 0rem 0rem;
+    padding: .5rem .5rem;
     font-size: 0.9rem;
   }
 
   @include small {
     display: block;
-    width: 130px;
-    height:60px;
+    width: 100%;
     padding: 0.75rem;
     font-size: 0.9rem;
 
     + .btn {
       margin-top: 0rem;
-      margin-left: 0px;
+      margin-left: 1rem;
     }
   }
 }
