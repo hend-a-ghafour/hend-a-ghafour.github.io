@@ -68,7 +68,7 @@
 <p style='text-align: justify;font-size:0.9rem;padding-top:1rem;'>  
     <em>
       <strong>
-        <span style="color:#159957;">           SQL Associate, DataCamp
+        <span style="color:#159957;">           SQL Associate
         </span>
       </strong>
     </em>
