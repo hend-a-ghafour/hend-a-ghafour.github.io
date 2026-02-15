@@ -33,7 +33,7 @@
 
  
   <div style="display:inline-flex; align-items:center; gap: 6px;">
-<img src="https://hend-a-ghafour.github.io/Media/icon-email.png" alt="email" height="30" width="30"> <em><strong>hendm.abdelghafour@gmail.com</strong></em>
+<img src="https://hend-a-ghafour.github.io/Media/icon-email.png" alt="email" height="30" width="30"> <em><strong>hend.mohamed.da@gmail.com</strong></em>
   </div>
  <p></p>
  <div style="display:inline-flex; align-items:center; gap: 6px;">
